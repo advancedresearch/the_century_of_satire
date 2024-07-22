@@ -7,7 +7,7 @@ The central essay is [In Saeculum Satyrarum - The Century of Satire](https://git
 
 ### Main Hypothesis
 
-In Path Semantics, the language bias hypothesis of Seshatism vs Platonism plays a significant important role
+In Path Semantics, the language bias hypothesis of [Seshatism vs Platonism](https://advancedresearch.github.io/avatar-extensions/summary.html#seshatism-vs-platonism) plays a significant important role
 to understand the relationship between Infinite-Valued Logic (which has a model in [PSQ](https://advancedresearch.github.io/quality/summary.html#psq---path-semantical-quantum-propositional-logic)) and human biases.
 
 The overall hypothesis of Seshatism is that human cultures are changing dynamically over time in language bias,
