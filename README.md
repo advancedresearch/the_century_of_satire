@@ -90,7 +90,7 @@ There seems to be competing sects that advocate different family members of Jesu
 - Sophia  (Jesus' sister)
 
 "Zoe" means "life" and "Sophia" means "wisdom".
-This practice of giving Greek philosophical names to character reflects a tradition in Simonianism:
+This practice of giving Greek philosophical names to characters reflects a tradition in Simonianism:
 
 - "Neus" for Simon Magus
 - "Ennoia" for Helen of Tyre
