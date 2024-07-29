@@ -92,7 +92,7 @@ There seems to be competing sects that advocate different family members of Jesu
 "Zoe" means "life" and "Sophia" means "wisdom".
 This practice of giving Greek philosophical names to characters reflects a tradition in Simonianism:
 
-- "Neus" for Simon Magus, which means "intellect" or "mind"
+- "Nous" for Simon Magus, which means "intellect" or "mind"
 - "Ennoia" for Helen of Tyre, which means "thought"
 
 Jesus also gets a such Greek philosophical name, which is "Logos" that means "reason".
