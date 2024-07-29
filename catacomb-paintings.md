@@ -23,6 +23,8 @@ Their cultural identities are evolving from a broader religious practice called 
 
 ![Jesus with wand 4](https://github.com/user-attachments/assets/3ed2f561-75cd-408f-b69d-d9c838568020)
 
+![Jesus with wand 5](https://github.com/user-attachments/assets/13dfa05b-ac14-4c53-9b92-ea695d4eb74f)
+
 
 ### Jesus - The good shepherd
 
