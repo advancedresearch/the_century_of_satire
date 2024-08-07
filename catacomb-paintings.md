@@ -1,7 +1,7 @@
 # Catacomb Paintings
 
 To reconstruct 2nd century cultural literature context of Roman satire in Early Christian texts,
-it is useful to study catacomb paintings.
+it is useful to study catacomb paintings. You can find more information under [Sources](#sources).
 
 Catacomb paintings were part of a general ritual practice that started in the 2nd century.
 There was a Roman ban on burial within city walls as a response to overcrowding and shortage of land.
@@ -37,8 +37,11 @@ This ritual was common, regardless religion.
 
 ![Jesus turning water into wine](https://github.com/user-attachments/assets/6b3d77db-741f-4eeb-9828-d2051294cd11)
 
-
-
 ### Jesus - The good shepherd
 
 ![Jesus the good shepherd](https://github.com/user-attachments/assets/623b3abb-a9f2-4c2f-9849-7b4eb9a98d52)
+
+### Sources
+
+[In The Catacombs](https://www.pbs.org/wgbh/pages/frontline/shows/religion/first/catacombs.html)
+John Dominic Crossan - Professor Emeritus of Religious Studies DePaul University
