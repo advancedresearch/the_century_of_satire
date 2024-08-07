@@ -7,6 +7,8 @@ Catacomb paintings were part of a general ritual practice that started in the 2n
 There was a Roman ban on burial within city walls as a response to overcrowding and shortage of land.
 All burial sites, including catacombs, where located outside the walls of the city.
 
+The number of catacomb burials up until the 7th century are estimated to be > 6 500 000.
+
 The Christian catacombs contain the majority of examples of art from the period 100 - 400 AD.
 They are not just important to study Christian art, but also Jewish art from the same period.
 
