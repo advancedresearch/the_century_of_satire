@@ -18,7 +18,8 @@ They are not just important to study Christian art, but also Jewish art from the
 Christianity and Judaism co-evolved alongside each other in the 2nd century.
 Their cultural identities are evolving from a broader religious practice called "Yahwism" by modern scholars.
 
-The common ritual performed in catacombs were a family as part of their regular activity holding meals for the dead.
+The common ritual performed in catacombs was a family as part of their regular activity holding meals for the dead.
+This ritual was common, regardless religion.
 
 ### Jesus raising Lazarus from the dead
 
