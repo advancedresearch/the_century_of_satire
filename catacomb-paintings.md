@@ -18,6 +18,8 @@ They are not just important to study Christian art, but also Jewish art from the
 Christianity and Judaism co-evolved alongside each other in the 2nd century.
 Their cultural identities are evolving from a broader religious practice called "Yahwism" by modern scholars.
 
+The common ritual performed in catacombs were a family as part of their regular activity holding meals for the dead.
+
 ### Jesus raising Lazarus from the dead
 
 ![Jesus with wand](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.metaphysicaltimes.com%2Fjesus-raising-the-dead-with-a-wand-roman-catacomb-3rd-century.jpg&f=1&nofb=1&ipt=228e4a9fd39406207a49f5aeb4d69a83d415939a19890bb1d28bca25c9ba0fea&ipo=images)
