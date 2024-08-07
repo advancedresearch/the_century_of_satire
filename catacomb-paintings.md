@@ -43,5 +43,5 @@ This ritual was common, regardless religion.
 
 ### Sources
 
-[In The Catacombs](https://www.pbs.org/wgbh/pages/frontline/shows/religion/first/catacombs.html)
+[In The Catacombs](https://www.pbs.org/wgbh/pages/frontline/shows/religion/first/catacombs.html)  
 John Dominic Crossan - Professor Emeritus of Religious Studies DePaul University
