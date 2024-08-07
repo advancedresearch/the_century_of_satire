@@ -9,6 +9,9 @@ All burial sites, including catacombs, where located outside the walls of the ci
 
 The number of catacomb burials up until the 7th century are estimated to be > 6 500 000.
 
+Geology: Catacombs were dug from soft vulcanic rock covered by dirt or earth,
+that hardens when it hits air, making it very stable to dig into.
+
 The Christian catacombs contain the majority of examples of art from the period 100 - 400 AD.
 They are not just important to study Christian art, but also Jewish art from the same period.
 
