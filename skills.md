@@ -38,4 +38,19 @@ A sundial device only works during the day when there is sunlight.
 
 ![image](https://github.com/user-attachments/assets/1a859025-b5a7-48fe-aefb-0eec97fe0aa1)
 
+### Finding Venus in the sky before dawn
 
+Venus appears in the Eastern morning sky approximately an hour before the sun rises.
+
+![image](https://github.com/user-attachments/assets/5795ee88-80e6-4730-a8db-6d85ba41fdee)
+
+### Finding Venus in the sky after sunset
+
+Venus appears in the Western evening sky approximately an hour after the sunset.
+
+![image](https://github.com/user-attachments/assets/7b624774-4cab-4079-9985-6a5817c35488)
+
+### Sources
+
+[Venus Just After Sunset](https://apod.nasa.gov/apod/ap101020.html)  
+Tunç Tezel - NASA
