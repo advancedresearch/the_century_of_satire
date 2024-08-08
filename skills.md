@@ -28,3 +28,11 @@ were performed by people in the 2nd century on a daily basis and required for su
 ### Cooking
 
 ![image](https://github.com/user-attachments/assets/a382c015-4d72-42e1-b25d-2adb75a9f633)
+
+### Reading a sundial
+
+Romans used various sundial devices to tell the time.
+A sundial device only works during the day when there is sunlight.
+
+![image](https://github.com/user-attachments/assets/90f56825-6b34-43e5-bb28-25c3f3813676)
+
