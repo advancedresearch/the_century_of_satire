@@ -36,3 +36,6 @@ A sundial device only works during the day when there is sunlight.
 
 ![image](https://github.com/user-attachments/assets/90f56825-6b34-43e5-bb28-25c3f3813676)
 
+![image](https://github.com/user-attachments/assets/1a859025-b5a7-48fe-aefb-0eec97fe0aa1)
+
+
