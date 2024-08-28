@@ -28,7 +28,7 @@ it is difficult to come up with fixed formal rules that give reliable reconstruc
 This does not mean that it is impossible or unpractical to make an attempt to do so.
 There are other areas of science that took long time to achieve, such as meteorology, but was applied successfully.
 
-There is an intuition that people have when reading a text, using their of experience of interpreting emotions and spiritual reasoning
+There is an intuition that people have when reading a text, using their experience of interpreting emotions and spiritual reasoning
 of other people. A combination of using this intuition with formalization, e.g. using logic,
 can provide better understanding of how people were thinking in the 2nd century.
 
