@@ -210,4 +210,4 @@ For example, two major important features of Early Christian texts that are conf
 2. There is no well defined definition of miracles in Early Christian texts
 
 Therefore, what Early Christian texts claim about Aeons or angels is suspicious.
-It should be treated as a superstitious belief, unless he author emphasizes it as a metaphor.
+It should be treated as a superstitious belief, unless the author emphasizes it as a metaphor.
