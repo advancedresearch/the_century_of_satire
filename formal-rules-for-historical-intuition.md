@@ -198,7 +198,9 @@ Therefore, it is necessary to make formal rules that approximate predictions of 
 
 Yet, when people disagree about which formal rules to use, one should investigate whether the disagreement
 can be solved using The Standard Model of Physics as a benchmark of scientific reliability.
-There has been no confirmed evidence until this day about events that conflicts with predictions of this theory.
+There has been no confirmed evidence until this day about events that conflict with predictions of this theory.
+Some scientists claim that The Standard Model of Physics needs to be modified to explain more natural phenomena
+that we know exists, but for which we have no reliable data or simpler testable theories.
 
 As a thumb rule, anything that people claim that conflicts with The Standard Model of Physics, is likely false.
 
