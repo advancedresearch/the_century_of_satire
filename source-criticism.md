@@ -32,10 +32,10 @@ This argument might be hard to follow, but basically it suggests that 1st centur
 
 ### 2. There is no reliable external reference to Christianity from the 1st century
 
-The only text that mentions Christianity from the 1st century is Josephus.
+The only text written by a non-Christian that mentions Christianity from the 1st century is written by Josephus.
 All the other external references are written in the 2nd century after the death of Josephus.
 
-However, Josephus do not talk or mentions Christians in general.
+However, Josephus does not talk or mentions Christians in general.
 
 The only 1st century references to Christianity in Josephus are in Antiquities of the Jews, written around AD 93–94.
 It contain two references to Jesus of Nazareth and one reference to John the Baptist.
