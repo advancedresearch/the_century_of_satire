@@ -12,14 +12,14 @@ If we do not have the name of a single ordinary, poor Early Christian in the 2nd
 then why should we believe that we know the historicity of any poor Early Christian in the 1st century?
 
 The problem is that the story of Jesus' life is not like a story about an ordinary person,
-but an extra-ordinary supernatural person who perform miracles.
+but an extra-ordinary supernatural person who performs miracles.
 
 If this story was based on some historical figure who is poor and ordinary, then this is a claim, not based on any texts,
-that people would name poor and ordinary folks in their texts in the 1st century and remember them.
+that people would name poor and ordinary folks in their texts or oral tradition in the 1st century and remember them.
 
 However, in principle it would be OK with stories about extra-ordinary people as long as it names poor and ordinary people in them,
 as long those poor and ordinary people could be verified using external sources.
-If a such tradition existed, then why does not this tradition continue in the 2nd century?
+If a such tradition existed in the 1st century, then why does not this tradition continue in the 2nd century?
 We do not even have the names of any poor and ordinary people verified by external sources in 2nd century stories about extra-ordinary people.
 
 The fact that we do not know the name of a single ordinary, poor Early Christian in the 2nd century,
@@ -29,6 +29,7 @@ Hence, to claim a such tradition in the 1st century, both lacks evidence in the 
 is negated on its own by the fact that the stories that are claimed to be from 1st century are about extra-ordinary people.
 
 This argument might be hard to follow, but basically it suggests that 1st century stories in Early Christianity are myths.
+Yet, that the 1st century stories are myths, is not conclusive without considering other evidence.
 
 ### 2. There is no reliable external reference to Christianity from the 1st century
 
