@@ -75,3 +75,7 @@ All claims that people make about Jesus are just claims, unless they can present
 The idea of tracing back authenticity of the historical Jesus to Paul is an idea leftover from the time when
 people were persecuted for believing in Jesus and performing similar rituals,
 but did not believe in the authentic origin of their religion through Paul.
+
+However, when doing science, one has to ask what is the cultural literature context of Early Christian texts.
+We hundreds of such texts and they contradict each other.
+Paul's letters in this context is mostly irrelevant, because they only contain a fraction of the claims.
