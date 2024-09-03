@@ -1,7 +1,7 @@
 # The Holy Socrates
 
 To reconstruct 2nd century cultural literature context of Roman satire in Early Christian texts,
-it is useful to learn why Paul's letters do not give a good indication of what that cultural literature context is.
+it is useful to learn why Paul's letters do not give a good indication of what the cultural literature context is in Early Christianity.
 
 To illustrate the problem of Jesus' historicity,
 try imagine that 100 years before Plato,
