@@ -37,8 +37,8 @@ carefully deconstructing the myths according to naturalism,
 they firmly agree that the person, once knowing a family member of Socrates and saw him in a vision, lived 100 years before Plato.
 
 Now, there is a guy who got interested in this stuff and thinks
-"hmm... that person only saw Socrates in a vision.
-perhaps he thought of Socrates as an angel which did not existed historically?"
+"Hmm... that person only saw Socrates in a vision.
+Perhaps he thought of Socrates as an angel which did not existed historically?"
 
 The school that spent 200 years studying this goes bananas.
 
@@ -54,9 +54,9 @@ The school that spent 200 years studying this goes bananas.
 
 Next thing that happens is another guy, but this time a credible scholar,
 who shows that Plato might have been writing about a Socrates without having good sources
-going back to the person who once knew a family member of Socrates, but claims to have seen him in a vision.
+going back to the person who once knew a family member of Socrates and claims to have seen Socrates in a vision.
 
-A lot more people notice the controversy and gets drawn into the debate. They say
+A lot more people notice the controversy and gets drawn into the debate. They say:
 
 "OK, calm down. Can't we just all agree that these stories about Socrates having superpowers might come from somewhere else?"
 
