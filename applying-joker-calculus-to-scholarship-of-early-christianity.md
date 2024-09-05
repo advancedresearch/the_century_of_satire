@@ -9,7 +9,7 @@ they often have perspectives that correspond to some higher duality in [Joker Ca
 Instead of arguing why a particular scholar is right or wrong,
 it is more useful to first enumerate terms in Joker Calculus and classify scholarship by tendency.
 This way, one can better understand the language bias a scholar has.
-However, this does not mean that the scholar commits to a particular bias, or do not write books from other perspectives.
+However, this does not mean that the scholar commits to a particular bias, or does not write books from other perspectives.
 
 There are two basis perspectives in scholarship of Early Christianity: History and Myth.
 One can use Joker Calculus to construct higher dualities from these two perspectives.
