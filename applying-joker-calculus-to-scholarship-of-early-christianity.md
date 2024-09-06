@@ -21,16 +21,16 @@ Each expression in Joker Calculus can be written as a code, e.g. Historical Myth
 
 ### Overview
 
-1. History (Christian Apologetics)
-2. Myth (Robert M. Price)
-3. Mythical History (Markus Vinzent)
-4. Historical Myth (Carl A. P. Ruck)
-5. Joker History (Miracles surrounding martyrs)
-6. Joker Myth (Forgeries of Pauline epistles)
-7. Historical Joker History (Bart D. Ehrman)
-8. Mythical Joker Myth (Richard Carrier)
-9. Mythical Joker History (Jennifer G. Bird)
-10. Historical Joker Myth (Elaine Pagels)
+1. `1` = History (e.g. Christian Apologetics)
+2. `0` = Myth (e.g. Robert M. Price)
+3. `0 1` = Mythical History (e.g. Markus Vinzent)
+4. `1 0` = Historical Myth (e.g. Carl A. P. Ruck)
+5. `?1` = Joker History (e.g. miracles surrounding martyrs)
+6. `?0` = Joker Myth (e.g. forgeries of Pauline epistles)
+7. `1 ?1` = Historical Joker History (e.g. Bart D. Ehrman)
+8. `0 ?0` = Mythical Joker Myth (e.g. Richard Carrier)
+9. `0 ?1` = Mythical Joker History (e.g. Jennifer G. Bird)
+10. `1 ?0` = Historical Joker Myth (e.g. Elaine Pagels)
 
 ### 1. History
 
@@ -163,6 +163,8 @@ but want to engage in the mythical perspective as a social activity.
 Code `1 ?0`
 
 Example: [Elaine Pagels](https://en.wikipedia.org/wiki/Elaine_Pagels)
+
+This is an embracing bias toward History.
 
 Elaine Pagels argues that Gnosticism is a made-up category that was indistinguishable from Early Christianity.
 Her view is that Early Christianity is mostly myth, some aspects of it was history or presented as history,
