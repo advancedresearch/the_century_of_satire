@@ -14,6 +14,11 @@ However, this does not mean that the scholar commits to a particular bias, or do
 There are two basis perspectives in scholarship of Early Christianity: History and Myth.
 One can use Joker Calculus to construct higher dualities from these two perspectives.
 
+Each expression in Joker Calculus can be written as a code, e.g. Historical Myth = `1 0`:
+
+- History is assigned `1`, due to be being Seshatic biased
+- Myth is assigned `0`, due to being Platonic biased
+
 ### Overview
 
 1. History (Christian Apologetics)
@@ -28,6 +33,8 @@ One can use Joker Calculus to construct higher dualities from these two perspect
 10. Historical Joker Myth (Elaine Pagels)
 
 ### 1. History
+
+Code: `1`
 
 Local example: [Christian Apologetics](https://en.wikipedia.org/wiki/Christian_apologetics)
 
@@ -44,11 +51,13 @@ but this includes all claims, including those who became considered as heretical
 
 To refute History bias, scholars often appeal to the following arguments:
 
-1.1. Contradicting assumptions of naturalism  
+1.1. Contradicting assumptions of Naturalism  
 1.2. Contradicting claims from Early Christian texts  
 1.3. Contradicting claims about authentic doctrine  
 
 ### 2. Myth
+
+Code: `0`
 
 Example: [Robert M. Price](https://en.wikipedia.org/wiki/Robert_M._Price)
 
@@ -60,6 +69,8 @@ He presents a nuanced view, but the Myth bias is his fallback position to any cl
 
 ### 3. Mythical History
 
+Code: `0 1`
+
 Example: [Markus Vinzent](https://en.wikipedia.org/wiki/Markus_Vinzent)
 
 Markus Vinzent's view of Early Christianity is that there are historical and political events that contribute
@@ -69,6 +80,8 @@ significantly to the mythical development:
 3.2. Marcion of Sinope's canon  
 
 ### 4. Historical Myth
+
+Code: `1 0`
 
 Example: [Carl A. P. Ruck](https://en.wikipedia.org/wiki/Carl_A._P._Ruck)
 
@@ -80,6 +93,8 @@ Underneith this layer of Jewish esoteric aesthetics, he claims that Early Christ
 4.2. "Christ" as the Greek version "the annointed one" instead of using the Hebrew word "Messiah"  
 
 ### 5. Joker History
+
+Code: `?1`
 
 Example: Miracles surrounding martyrs in Early Christianity
 
@@ -95,6 +110,8 @@ since it occurs in many aspects in how Early Christianity gets developed.
 
 ### 6. Joker Myth
 
+Code: `?0`
+
 Example: Forgeries of Pauline epistles
 
 `Joker Myth = (Myth <depth>, History <surface>)`
@@ -109,12 +126,16 @@ since it occurs in many aspects in how Early Christianity gets developed.
 
 ### 7. Historical Joker History
 
+Code: `1 ?1`
+
 Example: [Bart D. Ehrman](https://en.wikipedia.org/wiki/Bart_D._Ehrman)
 
 Bart D. Ehrman argues that Early Christianity was history, presented as myth,
 but that the correct way of interpreting this bias is from the perspective of history.
 
 ### 8. Mythical Joker Myth
+
+Code: `0 ?0`
 
 Example: [Richard Carrier](https://en.wikipedia.org/wiki/Richard_Carrier)
 
@@ -126,6 +147,8 @@ which each other than with other scholars that hold different positions.
 
 ### 9. Mythical Joker History
 
+Code: `0 ?1`
+
 Example: [Jennifer G. Bird](https://www.jennifergracebird.com/bio)
 
 This is an embracing bias toward Myth.
@@ -136,6 +159,8 @@ Her view is that Early Christianity has value for ex-Christians that accepts Jes
 but want to engage in the mythical perspective as a social activity.
 
 ### 10. Historical Joker Myth
+
+Code `1 ?0`
 
 Example: [Elaine Pagels](https://en.wikipedia.org/wiki/Elaine_Pagels)
 
