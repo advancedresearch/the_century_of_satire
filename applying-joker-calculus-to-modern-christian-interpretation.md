@@ -84,7 +84,7 @@ This is very close the embracing bias `0 ?1`, but there is some nuance there tha
 
 [*] In Joker Calculus, `0 (?1, 0)` means `(?1, 0)` seen from the perspective of `0`.
 
-[**] This difference can be thought of as Kirkegaard's repetition in sense of Deleuze's "Difference and Repetition".
+[**] This difference can be thought of as Kierkegaard's repetition in sense of Deleuze's "Difference and Repetition".
 
 Now, you might think that this `0 (?1, 0)` bias is a simplification, because it only treats the interpretation
 along the basic dualities of natural vs supernatural.
