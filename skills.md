@@ -11,7 +11,7 @@ The skill often determines the context of how knowledge is used.
 A functioning member of society in 2nd century had to develop skills themselves and know about skillset of other people.
 This was part of their intrinsic mental world that was shared when people talked or wrote texts.
 
-When Roman people write in the 2nd century, they assume that the reader have skills similar, or know about common skills that people have.
+When Roman people write in the 2nd century, they assume that the reader have similar skills, or know about common skills that people have.
 People wrote texts to people in their environment that shared a common intrinsic mental model of what skills were useful.
 
 Some skills that many people know today, but do not perform on a regular basis,
