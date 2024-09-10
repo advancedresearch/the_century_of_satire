@@ -36,7 +36,8 @@ Location: Alexandria
 - Evidence 1.1: Use of "Logos" in the texts of Sybillyne oracles
 - Evidence 1.2: Possible ritual singing hymns to the planet Venus before dawn, reported by Pliny the Younger in 110 AD
 - Evidence 1.3: Early Christian texts in Greek, Latin and Syriac that requires a scribal community
-- Evidence 1.4: Use of Horus in "heretical doctrines", reported by Irenaeus in Against Heresies, Book 1
+- Evidence 1.4: Use of Horus in "heretical doctrines", reported by Irenaeus in "Against Heresies", Book 1
+- Evidence 1.5: Celcus mentions Sibyllists as a Christian sect in "The True Word"
 
 From [wikipedia](https://en.wikipedia.org/wiki/Sibylline_Oracles):
 
