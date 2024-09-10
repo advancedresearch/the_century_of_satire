@@ -33,7 +33,7 @@ for interpreting the texts (there are thousands of Early Christian writings) thr
 One of the things recently discovered is that some Early Christians write in the contemporary cultural genre of Roman satire.
 This violates the expectations of Late Christianity that people wrote these texts with the intention of being serious.
 Instead, one might view the texts as means to climb the social ladder, fit in with contemporary cultural movements
-and to mimick signs of prestige in elite literacy.
+and to mimic signs of prestige in elite literacy.
 
 ### Simon bar Kokhba
 
