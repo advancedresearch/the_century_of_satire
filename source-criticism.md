@@ -39,7 +39,7 @@ All the other external references are written in the 2nd century after the death
 However, Josephus does not talk or mentions Christians in general.
 
 The only 1st century references to Christianity in Josephus are in Antiquities of the Jews, written around AD 93–94.
-It contain two references to Jesus of Nazareth and one reference to John the Baptist.
+It contains two references to Jesus of Nazareth and one reference to John the Baptist.
 
 John the Baptist was executed in the last year of Pilate's prefecture over Judea.
 This means, Jesus could not have been executed by Pilate 3 years after the death of John the Baptist.
