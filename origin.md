@@ -138,7 +138,7 @@ Period: 140 AD - 400 AD
 - Evidence 6.2: Marcionism establishing Pauline Christology as canon
 
 The theology of Early Christianity might have originally been focused on philosophical debates about the creation of the universe,
-grounded in Sybillyne oracles that uses "Logos", a Greek philosophical concept attributed to Jesus.
+grounded in Sibylline oracles that uses "Logos", a Greek philosophical concept attributed to Jesus.
 
 In the mid 2nd century, Theodotion translates the old Hebrew bible into Greek and this translation becomes popular among Early Christians.
 At the same time, Marcion of Sinope published a canon where Paul claims apostolic authority using arguments from the old Hebrew bible.
