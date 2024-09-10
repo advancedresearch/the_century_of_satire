@@ -119,12 +119,12 @@ Josephus was considered the historical authority at the time,
 so it makes sense for Early Christians to refer to Josephus.
 
 The criticism against Early Christians is part of criticism against mystery cults in general,
-since Romans regard Christianity as a mystery cult and make similar accusations e.g. of cannibalism due to belief in transfiguration.
+since Romans regarded Christianity as a mystery cult and make similar accusations e.g. of cannibalism due to belief in transfiguration.
 
 One savior figure originating historically as a disciple of John the Baptist is possible,
 but two savior figures originating historically with the same master shows an attempt to historicize savior figures.
 This is not conclusive evidence that one or both of Simon and Jesus are origin myths,
-but it is evidence that Early Christians intend to present the origin as myths, since they are savior figures,
+but it is evidence that Early Christians intend to present the origin as myths, since these are savior figures,
 claiming historicity through use of sources that are considered authorative at the time.
 
 The motivation of using John the Baptist is to both disprove claims of the savior figure as myth,
