@@ -18,7 +18,7 @@ Whether Christianity originated with a historical Jesus is less important,
 since Simonians, considered a Christian sect by Celcus, did not regard Jesus as their savior figure.
 Simon might have been important in use of Roman satire that can help explain why both Simon and Jesus are critical toward Jewish law.
 
-1. Pre-Christianity: Sybillyne oracles
+1. Pre-Christianity: Sibylline oracles
 2. Mystery cults: Baptism, the secret mystery and savior figure
 3. Savior narrative: Roman satire is used to create dramas of the savior figures
 4. Advertisement: Schools use the savior figures as brands
@@ -27,7 +27,7 @@ Simon might have been important in use of Roman satire that can help explain why
 7. Competition: Sects competing with each other producing texts claiming apostolic authority
 8. Politics: Christianity is adopted by the Roman elite
 
-### 1. Pre-Christianity: Sybillyne oracles
+### 1. Pre-Christianity: Sibylline oracles
 
 Period: 150 BCE - 200 AD
 
