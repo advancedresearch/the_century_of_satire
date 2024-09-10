@@ -90,7 +90,7 @@ Now, you might think that this `0 (?1, 0)` bias is a simplification, because it 
 along the basic dualities of natural vs supernatural.
 However, the trick is that Joker Calculus is based on Seshatism vs Platonism originally.
 
-The reason I assigned 0 to the supernatural, is because the supernatural is Platonic biased
+The reason I assigned `0` to the supernatural, is because the supernatural is Platonic biased
 and the standard encoding of Platonism in Joker Calculus is `0`.
 So, when you replicate these steps, you can reach the same conclusion about the bias.
 
