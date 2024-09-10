@@ -30,8 +30,8 @@ because Joker Calculus might be thought about as a formal language for unified l
 
 A little demonstration of Joker Calculus:
 
-There is over 1 billion Christians in the world
-Christians are obsessed over the books in the New Testament
+There is over 1 billion Christians in the world.
+Christians are obsessed over the books in the New Testament.
 How can we use Joker Calculus to describe how most Christians are reading these texts?
 
 My answer is `0 (?1, 0)`.
