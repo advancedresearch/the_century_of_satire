@@ -75,8 +75,11 @@ Period: 50 AD - 100 AD
 - Evidence 3.6: Simonians believed Helen of Tyre was a reincarnated goddess who previously lived as Helen of Troy
 - Evidence 3.7: Tyre and Magdala are located at western geographical local extremes
 - Evidence 3.8: Thecla in Acts of Paul is brought nude into an arena
-- Evidence 3.9: Milk spills from Paul's head after beheading in Acts of Paul
+- Evidence 3.9: Milk spills from Paul's head after beheading in "Acts of Paul"
 - Evidence 3.10: Judas' head grows extremely large in story by Papias of Hierapolis
+- Evidence 3.11: A boy sneaks into women's bath in "Acts of Andrew"
+- Evidence 3.12: An incesteous mother in "Acts of Andrew"
+- Evidence 3.13: Andrew speaks from the cross in "Acts of Andrew"
 
 The secrety mystery of mystery cults is fashion driven.
 Nobody can agree on what the secret mystery is, simply because the priests and priestesses keeps changing them.
