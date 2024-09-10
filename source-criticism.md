@@ -5,6 +5,7 @@ it is useful to reason carefully about the sources of Early Christianity.
 
 1. There is no recorded name of any ordinary, poor Early Christian in the 2nd century
 2. There is no reliable external reference to Christianity from the 1st century
+3. There is no reliable method to distinguish reliable oral traditions from unreliable sources
 
 ### 1. There is no recorded name of any ordinary, poor Early Christian in the 2nd century
 
@@ -48,3 +49,30 @@ So, there is no reliable evidence that Jesus of Nazareth in Josephus was execute
 in a way that can be confirmed with a realistic chronology of the 1st century using external sources.
 This in itself is not a big deal, but it is important for the bigger picture:
 It undermines the only written external reference to Christianity, overall, in the 1st century.
+
+### 3. There is no reliable method to distinguish reliable oral traditions from unreliable sources
+
+A common argument used to give credence to Early Christian writings is to appeal to some reliable oral tradition.
+
+While such reliable oral traditions might have existed, the actual problem is distinguishing them from other unreliable sources:
+
+1. Identification of Jesus' actions and quotes with other mythical figures
+2. Sayings by oracles
+3. Claimed direct spiritual revelation
+4. Texts that are written in names of the disciples of Jesus
+
+It is easy to forget that without biblical scholarship,
+people today would still claim reliable transmission
+from texts that scholars know to be forgeries.
+
+In principle, before biblical scholarship started doing research,
+all the texts being passed down could have been forgeries.
+It is just sheer luck that some of the texts might not been forgeries,
+after eliminating those who were not original texts.
+
+It does not help to know that some reliable oral tradition is possible,
+if you can not distinguish such transmission from other less reliable transmissions.
+
+The arguments that some texts are forgeries, are based on internal evidence of other texts.
+However, such arguments can not prove authenticity of original texts,
+only demonstrate why some texts are likely forgeries, relative to other texts that might be original.
