@@ -61,7 +61,7 @@ Period: 600 BCE - 500 AD
 - Evidence 2.6: Jesus is compared to Dionysus
 - Evidence 2.7: Jesus' words to Paul in Acts of the Apostles are from a story about Dionysus
 
-Mystery cults is the spiritual tradition that most closely reflect the rituals and doctrine of Early Christianity.
+Mystery cults is the spiritual tradition that most closely reflects the rituals and doctrine of Early Christianity.
 
 ### 3. Savior narrative: Roman satire is used to create dramas of the savior figures
 
