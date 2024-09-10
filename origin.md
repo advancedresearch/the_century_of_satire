@@ -165,8 +165,9 @@ There is no recorded historical realistic and consistent bishop chronology that 
 Early Christians write texts in the 2nd century which claims authorship of disciples of Jesus.
 In these texts, they warn the readers against deception, implying they were writing against other competing sects.
 
-In the Sybilline oracles, "Logos" is regarded as a cross-cultural, mystical and secret, higher deity.
-This means, different religious views were not regarded as herecy, but explained as cultural manifestation of a "true" underlying religion.
+In the Sibylline oracles, "Logos" is regarded as a cross-cultural, mystical and secret, higher deity.
+This means, different religious views were not regarded as herecy,
+but explained as cultural manifestation of a "true" underlying religion.
 The problem was that mystery cults disagreed about what this "true" underlying religion was.
 
 When the competition between Early Christian sects increases,
@@ -190,7 +191,7 @@ theological dispute among the Christian clergy of Alexandria concerning the natu
 his origin, and relation to God the Father.
 
 The issue of Christology reflects disagreements about the interpretation of Jesus' nature from a philosophical perspective,
-in line with the tradition of such debates surrounding the texts of Sybillyne oracles.
+in line with the tradition of such debates surrounding the texts of Sibylline oracles.
 
 In the beginning of Constantine I's reign, there was no persecution of pagan religions.
 At first, Constantine encouraged the construction of new temples and tolerated traditional sacrifices.
