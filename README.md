@@ -48,7 +48,7 @@ get associated with "Simon bar Kokhba":
 - Simon => Peter
 - Simon => Saul => Paul
 
-It is possible that both Peter and Paul refers to the same original character (Simon Magus), but the new name differs between competing sects.
+It is possible that both Peter and Paul refer to the same original character (Simon Magus), but the new name differs between competing sects.
 The evidence is that Marcion of Sinope joins the school of Cerdo in Rome, which is a Simonian.
 
 Marcion of Sinope is the first person who claims to have letters by Paul.
