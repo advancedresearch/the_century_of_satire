@@ -59,7 +59,7 @@ While such reliable oral traditions might have existed, the actual problem is di
 1. Identification of Jesus' actions and quotes with other mythical figures
 2. Sayings by oracles
 3. Claimed direct spiritual revelation
-4. Texts that are written in names of the disciples of Jesus
+4. Texts that are written in names of the apostles or disciples of Jesus
 
 It is easy to forget that without biblical scholarship,
 people today would still claim reliable transmission
