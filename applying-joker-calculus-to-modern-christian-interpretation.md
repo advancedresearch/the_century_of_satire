@@ -75,7 +75,7 @@ but when this gets too weird, Christians go deeper and realize it is a metaphor.
 They are trained in this way of thinking from young age.
 
 However, when the New Testament claims something supernatural, most Christians think of it as a possibility
-that when there is no evidence that does not directly contradict that there it might be supernatural,
+that when there is no evidence that does not directly contradict that it might be supernatural,
 the text is allowed to be interpreted as about the supernatural.
 
 So, `(?1, 0)` is not sufficient, because it does not tell you to interpret the text as supernatural by default.
