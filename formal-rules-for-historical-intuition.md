@@ -85,7 +85,7 @@ if b {println(link {"ERROR: Year interval is wrong\nHere: "str(a[why(b)])})}
 
 A such toy model is useful because it illustrates how making formal rules can assist in reconstruction.
 If there was an error, then it might be due to human error when inputting the data.
-Or, it could be that the sources of the data is wrong or inconsistent.
+Or, it could be that the sources of the data are wrong or inconsistent.
 
 ### Formal rules are useful even when they are not regarded as universally true
 
