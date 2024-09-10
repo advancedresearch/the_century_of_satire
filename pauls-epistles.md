@@ -6,16 +6,15 @@ it is useful to critically examine the earliest source about Christianity.
 [Paul's Epistles](https://en.wikipedia.org/wiki/Pauline_epistles) consists of 7 letters written by one person:
 
 1. Galatians (c. 48 AD)
-2. First Thessalonians (c. 49–51)
-3. First Corinthians (c. 53–54)
-4. Second Corinthians (c. 55–56)
-5. Romans (c. 55–57)
-6. Philippians (c. 57–59 or c. 62)
-7. Philemon (c. 57–59 or c. 62)
+2. First Thessalonians (c. 49–51 AD)
+3. First Corinthians (c. 53–54 AD)
+4. Second Corinthians (c. 55–56 AD)
+5. Romans (c. 55–57 AD)
+6. Philippians (c. 57–59 AD or c. 62 AD)
+7. Philemon (c. 57–59 AD or c. 62 AD)
 
-These 7 letters were first published by Marcion of Sinope around 140 AD, plus 3 other letters claimed to have been written by Paul.
-
-Marcion of Sinope publishes his canon around 140 - 144 AD.
+These 7 letters were first published by Marcion of Sinope around 140 - 144 AD,
+plus 3 other letters claimed to have been written by Paul.
 
 ### Pre-Marcion Early Christianity
 
