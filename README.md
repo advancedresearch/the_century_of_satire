@@ -56,7 +56,8 @@ The letters of Paul might not have been original or have been rewritten to refle
 Another sign is that Paul's letters refer to events that seem to be from Acts of Paul (fighting beasts in an arena) and Acts of Andrew (an incesteous mother).
 These texts are clearly written as Roman satire and this casts doubts on the historicity of these letters.
 
-In Acts of The Apostles, the authors responds to Marcion of Sinope, includes Simon Magus, a deity in a competing sect,
+In Acts of The Apostles, the authors respond to Marcion of Sinope,
+includes Simon Magus, a deity in a competing sect,
 and uses events from Josephus extensively.
 This casts doubts on the historicity of Peter.
 The original name of Peter as Simon could mean that this character was originally the same character, Simon Magus,
