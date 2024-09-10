@@ -15,7 +15,7 @@ but also to relate to how Early Christians wrote their texts.
 
 I also use things we know about Early Christianity from research:
 
-- Sibyllene oracles
+- Sibylline oracles
 - Logos from Platonism
 - The Gospel of Mark written for some audience in Rome [*]
 
@@ -129,15 +129,15 @@ The spiritual tradition that looks most like Early Christianity, are mystery cul
 This means, Mark might have been read out loud to advertise and supplemented with other texts that were only available to the initiated.
 I think it is possible to reconstruct this philosophy.
 
-In the texts of Sibyllene oracles gathered in Alexandria, "Logos" is used in relation to the divine.
+In the texts of Sibylline oracles gathered in Alexandria, "Logos" is used in relation to the divine.
 This is the earliest reference we have of a such explicit connection,
 but one can also argue that it goes back to Platonism, pre-dating Early Christianity by centuries.
 
-It is natural to assume that Paul writes to people living in places that are familiar with Sibyllene oracles
+It is natural to assume that Paul writes to people living in places that are familiar with Sibylline oracles
 and his theology is a variant to explain an older philosophical and spiritual tradition.
 This made it easier for people to convert, by convincing them it was prophetized.
 
-The Sibyllene oracles had been around for a long time and this means that mystery cults in general
+The Sibylline oracles had been around for a long time and this means that mystery cults in general
 were familiar with the terms of connecting "Logos" to the divine.
 This is also why The Gospel of John starts talking about Logos, to establish credibility using familiar terms.
 
