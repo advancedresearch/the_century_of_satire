@@ -3,7 +3,7 @@
 To reconstruct 2nd century cultural literature context of Roman satire in Early Christian texts,
 it is useful to critically examine the earliest source about Christianity.
 
-[Paul's Epistles](https://en.wikipedia.org/wiki/Pauline_epistles) contains of 7 letters written by one person:
+[Paul's Epistles](https://en.wikipedia.org/wiki/Pauline_epistles) consists of 7 letters written by one person:
 
 1. Galatians (c. 48 AD)
 2. First Thessalonians (c. 49–51)
@@ -74,6 +74,12 @@ The probability of Jesus' historicity `JH` argued through Paul's epistles `PE` i
 `P(JH | PE) = 1 - P(1) * P(2 | 1)`
 
 For example, by assigning 50% to both 1) and 2), one gets only 25%.
+
+If you are completely uncertain about Jesus' historicity,
+then you give some confidence to either that Paul existed historically
+or that Paul knew somebody who met a historical Jesus.
+This is a common assumption made by most people,
+but it also shows that it is not a strong argument in favor of Jesus' historicity.
 
 Without any evidence for low probability of 1) and 2), Mythicism becomes reasonable by default.
 
