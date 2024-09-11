@@ -68,9 +68,11 @@ Among some of the possibilities of Mythicism positions are:
 
 The position 1) implies 2), but not vice versa.
 
+Notice that the positions are inverted, so they are assigned probabilities `P(1)` and `P(2 | !1)`.
+
 The probability of Jesus' historicity `JH` argued through Paul's epistles `PE` is calculated using the following:
 
-`P(JH | PE) = 1 - P(1) * P(2 | 1)`
+`P(JH | PE) = (1 - P(1)) * (1 - P(2 | !1))`
 
 For example, by assigning 50% to both 1) and 2), one gets only 25%.
 
