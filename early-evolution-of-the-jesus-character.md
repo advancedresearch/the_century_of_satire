@@ -67,7 +67,7 @@ This opens up for the later interpretation of Messiah in Christianity
 as an avatar of Logos.
 Despite Jesus not being intended as a Messiah figure,
 he became over time associated with Messiah,
-by starting to regard Messiah as the son of Yahweh (the angle Lucifer, the morning star).
+by starting to regard Messiah as the son of Yahweh (the angel Lucifer, the morning star).
 
 The Early Mark text loops the end back to the beginning,
 but this is only taught to initiated to blow their mind.
