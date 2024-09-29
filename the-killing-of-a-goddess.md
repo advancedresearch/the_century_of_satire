@@ -71,7 +71,7 @@ Mary of Magdala as known in Late Christianity and Virgin Mary.
 As a compensation, Virgin Mary was said to have been born without sin.
 There is no reference to any Mary in Paul's letters, so he could have written to people who already knew about her.
 This suggests that Mary of Magdala, or Zoe in the more general context,
-was established where Paul traveled as a goddess prior to Jesus.
+was established where Paul traveled, as a goddess being worshiped prior to Jesus.
 
 Jesus as a son of Yahweh and Asherah/Mary/Holy Spirit is adopted into an earthly family,
 which earthly mother became Virgin Mary to give James', Jesus brother, appearance of evidence for historicity.
