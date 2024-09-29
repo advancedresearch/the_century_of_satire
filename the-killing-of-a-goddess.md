@@ -143,8 +143,8 @@ since they could give birth to new heirs and used by political opponents.
 Constantine was not theologically or personally spiritually motivated at all,
 but used religion to control and oppress people.
 
-4.1. Christianity was made the official religion in the Roman empire
-4.2. Polytheistic temples and shrines were pillaged for riches by the emperor
-4.3. It became unlawful to criticize the official Christian doctrine
-4.4. Other religions than Christianity became outlawed
-4.5. No more room for dynamic family relationships in Christianity to produce new heirs
+4.1. Christianity was made the official religion in the Roman empire  
+4.2. Polytheistic temples and shrines were pillaged for riches by the emperor  
+4.3. It became unlawful to criticize the official Christian doctrine  
+4.4. Other religions than Christianity became outlawed  
+4.5. No more room for dynamic family relationships in Christianity to produce new heirs  
