@@ -58,7 +58,7 @@ Another name for Mary of Magdala in Early Christianity is the Greek philosophica
 Life in the ancient world was intimately related in language to fertility.
 In The Gospel of John, Zoe is mentioned besides Logos, but is translated with a lower capital "life" in most bibles.
 The most important woman and who meets Jesus first after resurrection in The Gospel of John, is Mary of Magdala.
-Jesus also meets an anonymeous woman by the well, which at the time was a tradition to find a wife,
+Jesus also meets an anonymous woman by the well, which at the time was a tradition to find a wife,
 since only women went to the well on a regular basis and men only went there looking for a mate.
 This would be a proper introduction to Mary of Magdala in this gospel.
 
