@@ -34,7 +34,7 @@ For example, in the Osiris myth, Horus is reborn from Osiris' dead body, which w
 Semen was thought of as the seed for a whole person and the woman's womb was just a place for the seed to grow.
 This is also why ancient people thought about tombs as wombs:
 Tombs were just a place people were buried for rebirth, just like with crops.
-The semen of Horus impregnates Isis, the consort of Osiris and Horus gets born.
+The semen of Osiris which contains the whole of Horus, impregnates Isis, the consort of Osiris and Horus gets born.
 Since Horus is seen as a rebirth of Osiris, some sects marry him to Isis, his own mother.
 
 It is possible that Mary of Magdala was a goddess that came from the tradition of Asherah worship.
