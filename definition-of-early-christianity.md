@@ -27,7 +27,7 @@ Consequently, one can use the broad definition to refer to strict Early Christia
 6. Elaborate theology opinionating the bodily nature of the top deity
 7. Profession of a promise of a coming kingdom or new era that universalises the top deity
 8. Share of scriptures or oral stories that narrates events of the top deity used for moral guidance or hope of healing from illness
-9. Initiation ritual, ususally baptizement
+9. Initiation ritual, usually baptizement
 10. Abstaining or obligating members from specific acts, specific foods or specific habits
 
 The points 2), 4), 5), 8), 9) and 10) are common among mainstream religious practices in the 2nd century.
