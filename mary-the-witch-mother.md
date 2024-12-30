@@ -66,6 +66,9 @@ One of the myths that grew in popularity was the Osiris myth,
 a story about the death of Osiris and his consort Isis who resurrects him with magic to give birth to Horus.
 The body parts of Osiris represents the different regions of Egypt that were united as one nation.
 
+While the Osiris myths originates in Egypt and its symbolic representation is Egyptian nationalism,
+the Isis cults spread to other nations and there were temples around in cities built for Isis, including in Rome.
+
 Horus and Isis became associated with the planet Venus, just like his father Osiris.
 The identity of Horus with Osiris is a representation of cyclical nature, death and rebirth, night and day.
 Unlike other planets, Venus has a more visibly strange path in the sky that can be observed with the naked eye.
