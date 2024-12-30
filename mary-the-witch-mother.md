@@ -169,6 +169,14 @@ Otherwise, people can not easily make comparisons and judge who's religion is th
 
 ### 5. Hints of Mary's role as the magic teacher of Jesus
 
+In some stories, Jesus travels to Egypt.
+This is a parallel to stories about Simon Magus, a competing deity for a similar mystery religion.
+Simon Magus goes to Egypt to be taught magic, because Egypt is considered at the time the place where many religions or forms of magic have their origin.
+With Jesus there is a more complex situation because his mother functions as a mediator between the magic teachings and Jesus' abilities to perform miracles.
+This dynamics is based on a similar parallel between Isis and Horus,
+to make Jesus more appealing than Simon Magus as a savior figure,
+by establishing Jesus as the authentic heir to the religions of Ancient Egypt.
+
 Isis teaches Horus magic.
 This is an important part of how the Osiris myth functions as explaining the cycle of birth and death.
 Women were responsible for raising children until they could start training skills such as horse riding,
