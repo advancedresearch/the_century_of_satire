@@ -40,9 +40,12 @@ Pragmatically, whether Ancient Greek or Ancient Hebrew was the original language
 is of less importance than the insight of Early Christians as drawing on parallels and stories in the Hellenized world.
 Here, this is a research question about Early Christianity as a mystery religion that responds to other established mystery religions.
 
-Hillman claims that mystery religions start with Medea, which was belived in myths to be grandaughter of the sun god Helios.
+Hillman claims that mystery religions start with Medea, which was belived in myths to be granddaughter of the sun god Helios.
 Medea comes from a dynasty that ruled the Black Sea with piracy and performed medical experiments on people washed ashore,
 as part of their religious human sacrificial ritual.
+Unlike her aunt Circe, who develops high skills of medicine from this experimentation, Medea seeks to help the people who were washed ashore.
+Medea disguises herself as a old woman and enters a city with medicine bringing people into euphoric mental states.
+This forms the mythical beginning of mystery religions.
 
 Medea might have been a character that later became what people associated with a "witch": A female sorcerer and healer.
 Due to this origin of mystery religion, a "savior figure" is a mortal being descending from divinity with magical powers (medicine).
