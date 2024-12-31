@@ -21,7 +21,7 @@ that could give context to the deeper spiritual meaning of the two trees in the 
 ### 1. Platonic bias vs Seshatic bias
 
 Platonic language bias tends to make people vulnerable to a peculiar class of errors when interpreting ancient texts.
-People who are Platonic biased, put more emphasis on cognitive or mental sources to ground spiritual language.
+People who are Platonic biased put more emphasis on cognitive or mental sources to ground spiritual language.
 
 We know from the mythology in Ancient Egypt that a deity's symbol could have materialistic meaning,
 where the connection between the symbol and the authority of the deity is by causal relationships.
@@ -50,9 +50,9 @@ The explanation of Seshat's symbol is much simpler than most people would have g
 
 This way of thinking about knowledge, by crediting knowledge by causality,
 is the mathematical dual language bias to the Platonic language bias of crediting knowledge by abstraction.
-In Path Semantics, a field studying mathematical language design,
+In [Path Semantics](https://github.com/advancedresearch/path_semantics), a field studying mathematical language design,
 this duality between the two language biases is so important that Seshatic bias got its own name: Seshatism.
-Seshatism vs Platonism is the most important dualities in Joker Calculus that is used to construct higher dualities from the two bases.
+Seshatism vs Platonism is the most important dualities in [Joker Calculus](https://github.com/advancedresearch/joker_calculus) that is used to construct higher dualities from the two bases.
 
 ### 2. Wine production in Ancient Syria
 
