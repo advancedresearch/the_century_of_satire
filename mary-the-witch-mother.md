@@ -253,7 +253,7 @@ It is a sublime message, used to pass through the psychological defenses of rich
 that give up their money (their power), to the new religion that promises salvation through the sacrifice of giving,
 while at the same time denying that salvation can be bought for money.
 So, it is like a scam that denies that there is any scam going on.
-Without the complex subline message, the scam does not work.
+Without the complex sublime message, the scam does not work.
 Therefore, Mary has to in some sense the potential to be powerful, but also at the same time give it up for Jesus.
 
 To normal people, it might seem like a bad idea of doing this,
