@@ -143,7 +143,7 @@ Mystery religions were an offer given to the masses to give them some feeling of
 while any actual serious education required a master-apprentice relationship, which was much more expensive.
 The education for masses ran a profit scheme and these profit schemes evolved into cults over time that demanded more and more of their members.
 Where a master-apprentice relationship is passing down knowledge from one generation to another,
-the form of passing down knowledge in mysery religions is predatory in nature that feeds on the surplus energy in the economy.
+the form of passing down knowledge in mystery religions is predatory in nature that feeds on the surplus energy in the economy.
 
 A female character is important in mystery religions because it appeals to the demographics with lowest education: Women.
 
