@@ -270,16 +270,16 @@ Coupled with the impression of receiving education through various mystery relig
 which are actually masked ways to give people something to bond about later on
 and keep the demand for mystery religions high,
 this blocks the mental world of followers from doubting themselves as critical thinkers.
-They get high on themselves and this is evident is basically all Early Christian texts.
+They get high on themselves and this is evident in basically all Early Christian texts.
 Almost all texts claim spiritual authority through revelation, above all other sources.
 Later, spiritual authority was demanded by passing down the line of bishops,
 which forged historicity of fake historical events at an incredible scale.
 
 Over time, Medea, the stereotypical character of the witch, became a model of the enemy of Late Christianity.
 This is not because Medea is powerful, but because she refuses to submit her power to the male deity heir.
-Therefore, Medea, or the witch, is burned at the stake, to demonstrate that the deity does not grant her powers as a first born.
+Therefore, Medea, or the witch, is burned at the stake, to demonstrate that the deity does not grant her divine powers as a first born.
 It is a reflection of the human sacrifice ritual of first born babies, which Jesus symbolizes,
-but for Medea, a merely punishment for disobeying the church and having intercourse with demons,
+but for Medea, a mere punishment for disobeying the church and having intercourse with demons,
 like Mary who became pregnant when receiving the "good news" from the angel Gabriel.
 
 Mary, Jesus' mother is a witch mother, like Medea, however the difference is that Mary is no longer a witch.
@@ -290,7 +290,7 @@ Thus, Early Christianity symbolizes itself using Mary as a self-reference to the
 Early Christianity does not try to distance itself from mystery religions in general,
 but try to out-compete and transcend them and becomes over time, in Late Christianity, the most predatory of all mystery religions, by far.
 It originates well within the tradition of mystery religions and uses deliberate symbolic language to signify its own right to belong there.
-Of course, this is being insistently denied by those who want to continue scamming people today.
+Of course, this is insistently denied by those who want to continue scamming people today.
 The problem is that this type of scam does not work without hiding Mary as a secret Medea in plain sight,
 otherwise the scam does not work.
 If it was not a scam, then there is no reason to perform a such delicate and precise psychological hack.
