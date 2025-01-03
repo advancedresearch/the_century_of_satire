@@ -299,7 +299,7 @@ If there are fewer people around, then it gets boring.
 If there are more people around, the human brain can not keep up.
 
 Some people are born with reduced capacity to respond to negative stimuli.
-This means, they do not learn to fit in properly socially and receive lessons from people around them
+This means, they do not learn to fit in properly socially and fail to receive lessons from people around them
 to internalize the social dynamics that help most people to survive and stay healthy.
 When in addition these people experience cognitive overload,
 they can develop social insecurity and act in aggression or malevolence toward others.
