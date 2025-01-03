@@ -429,7 +429,7 @@ because if this role fails the whole society is at stake.
 In the process, B has to submit to C's authority and judgement,
 because the alternative is to die of thirst.
 
-When C lack information, he has to go to the women by the well, which might disturb their work.
+When C lacks information, he has to go to the women by the well, which might disturb their work.
 So, the women appoints an advisor for C.
 Officially, C is the nonofficial authority besides the king,
 but unofficially, the official authority is the advisor for C.
