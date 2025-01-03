@@ -57,7 +57,7 @@ is in a straight line upwards, using a bucket as light as possible.
 To minimize the work required to lift the bucket, it is cheaper for the person to stand at the surface applying forces,
 while using a rope attached to the bucket over the edge, or using a device, often made of wood, to minimize friction against the rope.
 
-Any extra labor applied to bring water to the surface beyond a minimum smooth vertical movement, was a waste of energy.
+Any extra labor applied to bringing water to the surface, beyond a minimum smooth vertical movement, was a waste of energy.
 This extra energy meant that one had to work harder to grow more food, which again required more water.
 So, wasted energy carried rents: The waste propagated as metaphorical waves of negative consequences into the future.
 
