@@ -354,7 +354,7 @@ There is none or little interest in celebrating the common man or woman or to re
 What the priest or priestess struggle for, is designing stories that they can use to get a little more,
 to fill in the empty hole after feeling not properly belonging in society.
 They commit fraud because... they feel being not worthy as individuals.
-Which is why the religions they make always people tend to feel less worthy, just like themselves.
+Which is why in the religions they make, people tend to feel less worthy, just like themselves.
 
 This is why the priest or priestess needs a king.
 A king can carry out the commands of their desires, covered as spiritual revelation or prophecy,
