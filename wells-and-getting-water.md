@@ -77,7 +77,7 @@ This required equipment and collaboration.
 For smaller fixes one might use hooks attached to ropes to fish out the bucket and rope.
 
 Sometimes, a person or animal might fall into the well.
-An enemy might e.g. drop a lamb into the well that would drown and poison the water with its corpse.
+An enemy might e.g. drop a lamb into the well that would drown and poisen the water with its corpse.
 Blood from a person or animal could also threaten the water supply.
 
 The point is that in the base case scenario, the community had to supply enough energy to bring the water to the surface,
