@@ -81,8 +81,8 @@ An enemy might e.g. drop a lamb into the well that would drown and poisen the wa
 Blood from a person or animal could also threaten the water supply.
 
 The point is that in the base case scenario, the community had to supply enough energy to bring the water to the surface,
-but in every other possible scenario the default was something much, much horrible.
-Futhermore, many of these possible scenarios could happen with much less energy than bringing the water to the surface.
+but in every other possible scenario the default was something much, much more horrible.
+Furthermore, many of these possible scenarios could happen with much less energy than bringing the water to the surface.
 This was why the well above all other literature genres represented tragedy.
 
 ### 2. Pottery as a means to transport water
