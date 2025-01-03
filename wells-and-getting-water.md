@@ -33,7 +33,7 @@ With easy access to water there would be no reason to build a well.
 Every aspect about wells invoked memories of hard labor and pain,
 which added to any psychological trauma related to conflicts around wells.
 
-However, the real reason the well is closely associated with tradegy in ancient literature,
+However, the real reason the well is closely associated with tragedy in ancient literature,
 is because as much it represents hardship, it is a symbol of "this is as good as it is ever going to get".
 A well changes the meaning of the surrounding empty landscape from potentially bountiful and fertility of nature,
 to barren and dry, or even worse when there are no people: Death or a wasteland hostile to human life.
