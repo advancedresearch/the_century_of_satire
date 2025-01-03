@@ -402,7 +402,7 @@ The spy comes back and reports that person B gave water to person A.
 
 All hell breaks loose.
 
-If person B continues to give water to person B,
+If person B continues to give water to person A,
 then the authority of the women by the well is undermined,
 yet they can not afford to piss off B too much,
 since B might bump into anyone that brings water,
