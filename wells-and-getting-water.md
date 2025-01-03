@@ -179,7 +179,7 @@ No matter how much work is put into bringing water helps, if society just wastes
 So, somebody had to be in control of water usage such that those who wasted it were punished and those who saved it were rewarded.
 
 Imagine that you want to build a building.
-For example, you could be a priest that want the community to extend the temple with a pleasant apartment for your personal enjoyment,
+For example, you could be a priest that wants the community to extend the temple with a pleasant apartment for your personal enjoyment,
 since the new story you invented partially based on another deity in the neighbor village,
 made people you command under yourself more than usual obedient and easily fooled.
 
