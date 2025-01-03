@@ -163,7 +163,7 @@ No, the priests never receive the actual money from you, it just seem to vanish 
 This is why the priests always need more money.
 
 It is pretty clever, is it not? Pottery in this sense is not just a container of usefulness or wealth,
-but a symbol that negates the very autonomy of the person that carries on its head with great posture and attractiveness.
+but a symbol that negates the very autonomy of the person that carries pottery on the head with great posture and attractiveness.
 
 "Pottery, keep bringing that water for me. I'll turn it into wine for you."
 
