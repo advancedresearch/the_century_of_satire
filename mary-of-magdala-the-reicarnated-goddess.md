@@ -290,7 +290,7 @@ This might be his way of appealing to both Simonians and other sects that used J
 To convince his followers, Marcion presents letters by Paul, which never before have been presented to anyone or found someplace else.
 We know that these letters were heavily redacted, added to and even forged new letters in Paul's name.
 While some Early Christians later claimed the authenticity of these letters,
-we have no source from any person that knew Paul, nor from any of Jesus' disciples,
+we have no source from any person that knew Paul, nor from any of Jesus' disciples or anyone that knew them,
 so the historicity of these letters might be taken with a grain of salt.
 
 Now, with Paul's letters in mind, it is easy to explain Acts of The Apostles as a later text that responds to Marcion of Sinope.
