@@ -277,7 +277,7 @@ is by having large amount of kids guarded by a few women nearby the well, taking
 This means they do not have to walk far from the well to the place where the kids are and back.
 Yet, the kids can not be too close to the track where people are walking with water pots on their heads.
 Women had to keep track of the kids and be prepared to step in when they got into fights,
-while also trying to spend as little energy worrying about stuff,
+while also trying to spend as little energy as possible worrying about stuff,
 yet they had to worry above the base minimum to keep the water usage functioning in a modest way.
 
 To make this work, you had to get rid of all distractions, which means: Get rid of all other people.
