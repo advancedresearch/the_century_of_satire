@@ -235,7 +235,7 @@ Zoe in this sense could mean Eve, the mother of life, that could have been a god
 We now know that the version of Septuagint that Early Christians used were Theodotion's translation from mid 2nd century,
 so the first Early Christians might not have used Genesis the way they did in Late Christianity.
 It is also unclear whether the earlier Septuagint was the original text that was translated into Hebrew
-and this was backtranslated into Greek or a possible combination of the two that influenced later developments in theology.
+and this was backtranslated into Greek or a possibly combination of the two that influenced later developments in theology.
 Eve in the earlier Septuagint is related to a chant to worship Dionysus,
 so it is possible that from the very start, from the time the library of Alexandria was built and forward,
 Zoe was connected to Eve in a way that is compatible with the idea of the reincarnated goddess in Early Christianity.
