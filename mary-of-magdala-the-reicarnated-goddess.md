@@ -206,7 +206,7 @@ However, they do not have a continued presence in the story, which makes them le
 The three wise men appear solely in the Gospel of Matthew and were interpreted as Magi, like in Simon Magus.
 With this element in the story, the author of Matthew can downplay Mary of Magdala's role and refer to her as a Jewish woman.
 The reason the author of Matthew does not say the three Magi came from India, is again that it would be unbelievable,
-but East is vague enough to also include India and this satisfied the people who considered getting initiated.
+but East is vague enough to also include India and this satisfied the people who considered getting themselves initiated.
 
 Mary of Magdala were associated with prostitution, like Helen of Tyre, possibly because the parallels between the two characters.
 Yet, unlike Helen of Tyre, Mary of Magdala is not explicitly associated with it,
