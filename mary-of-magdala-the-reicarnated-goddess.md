@@ -208,7 +208,7 @@ With this element in the story, the author of Matthew can downplay Mary of Magda
 The reason the author of Matthew does not say the three Magi came from India, is again that it would be unbelievable,
 but East is vague enough to also include India and this satisfied the people who considered getting themselves initiated.
 
-Mary of Magdala were associated with prostitution, like Helen of Tyre, possibly because the parallels between the two characters.
+Mary of Magdala were associated with prostitution, like Helen of Tyre, possibly because of the parallels between the two characters.
 Yet, unlike Helen of Tyre, Mary of Magdala is not explicitly associated with it,
 which makes it possible to interpret as coming from a higher class in society.
 Mary of Magdala is also mentioned alongside Joanna, the wife of Chuza,
