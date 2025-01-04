@@ -312,13 +312,13 @@ which also in the historical context is very controversial for this very reason:
 
 Now, keeping this in mind, the warning that Paul gives to Drusilla and Felix in Acts, gives a special ominous interpretation.
 
-This means that Early Christianity texts could have evolved as a literary genre out of Roman satire,
+This means that text in Early Christianity could have evolved as a literary genre out of Roman satire,
 where a historical event was brought to the attention of some Roman poets, of a controversial marriage with catastrophic ending.
 The entire root of Simonianism and other sects, including Simon Magus and Jesus,
 could have been people reading these stories written by poets and thinking they were actual historical events,
 following by their own effort to bring something new into these stories in the competition between mystery religions.
 
-It is not uncommon that people at the time write stories before some important historical event,
+It is not uncommon that people at the time write stories in the time before some important historical event,
 to make it seem as if the prophecies become true.
 Jesus in this role serves as a holy man, a Magi, that is crucified, bringing a tragic ending.
 In protest, Yahweh leaves the temple of Jerusalem,
@@ -345,4 +345,4 @@ This development puts Mary of Magdala even more on the edge as a character,
 because as somebody who is meeting Jesus for the first time and potentially from some place else,
 where is she from? Where does she belong?
 So, in classical Christian style, Mary of Magdala is swept under the rug and the historical traces back to Simonianism is covered up.
-All we find today is bread crumbs of what these texts might have originally been.
+All we find today are bread crumbs of what these texts might have originally been.
