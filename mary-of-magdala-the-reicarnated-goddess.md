@@ -340,7 +340,7 @@ While Mary, Jesus' mother, has a more clear role as the superior female characte
 because this character goes back to the tradition of Medea and Isis cults,
 the role of Mary of Magdala is more ambiguous, because she represents the visitor from East, or the person to be initiated.
 This character is more troublesome for later Christians, that do not know where to put her in the social hierarchy.
-After a while, Christianity is made the official religion of the Roman empire, so it becomes rarer that people a new to these beliefs.
+After a while, Christianity is made the official religion of the Roman empire, so it becomes rarer that people are new to these beliefs.
 This development puts Mary of Magdala even more on the edge as a character,
 because as somebody who is meeting Jesus for the first time and potentially from some place else,
 where is she from? Where does she belong?
