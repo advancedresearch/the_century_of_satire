@@ -164,11 +164,15 @@ This mental gymnastics is so impressive that there is some sort of tolerance bui
 that does not explicitly condemn a particular way of living that can seem exotic or make people interested,
 but also not approve of that way of living. It is not sin, but it is also a kind of moderate sin-but-not-sin?
 
-Now, the problem is that you can not explicitly say "an Indian woman" because this is so rare at the time that people at the would not believe it.
+Now, the problem is that you can not explicitly say "an Indian woman" because this is so rare at the time that people would simply not believe it.
 Instead, people use a character that is from "somewhere else", but not too far to be unbelievable, combined with a reincarnated goddess to link to Eastern religions.
 
 - In Simonianism, people link this role to prostitution as the tolerated but not accepted way of living and Tyre as the somewhere-else-but-not-too-far place.
 - In Christianity, people link this role to demon possession as the tolerated but not accepted way of living and Magdala as the somewhere-else-but-not-too-far place.
+
+Surely, if an actual Indian woman learned that they were compared with demon possessed prostitutes,
+they would be offended, but since Early Christianity did not have these people as customers yet
+the priority was to satisfy their main audience, which expected something like this, without giving it much thought.
 
 ### 3. Simonianism and Helen of Tyre - parallels to Jesus and Mary of Magdala
 
