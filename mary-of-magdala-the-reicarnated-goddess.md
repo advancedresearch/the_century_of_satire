@@ -171,8 +171,8 @@ Instead, people use a character that is from "somewhere else", but not too far t
 - In Christianity, people link this role to demon possession as the tolerated but not accepted way of living and Magdala as the somewhere-else-but-not-too-far place.
 
 Surely, if an actual Indian woman learned that they were compared with demon possessed prostitutes,
-they would be offended, but since Early Christianity did not have these people as customers yet
-the priority was to satisfy their main audience, which expected something like this, without giving it much thought.
+they would be offended, but since Early Christianity did not have these people as customers yet,
+the priority was to satisfy their main audience, which expected something like this, without giving it too much thought.
 
 ### 3. Simonianism and Helen of Tyre - parallels to Jesus and Mary of Magdala
 
