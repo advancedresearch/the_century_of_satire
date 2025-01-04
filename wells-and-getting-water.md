@@ -247,7 +247,7 @@ just added to the burden instead of releaving it.
 There simply was no magic way out, not when the highest intellects at the time are still are playing around with primes and epicycles.
 It would take over another thousand years before people thought of turned minimizing pain and maximizing pleasure into a discipline: Science.
 
-What? Did you thought science was just an oppressive scheme to rob people of their political freedom?
+What? Did you think science was just an oppressive scheme to rob people of their political freedom?
 Maybe you should spend some more time thinking about what science was in the beginning and how it got started.
 
 Just like people are complete idiots that waste energy today (wink, wink),
