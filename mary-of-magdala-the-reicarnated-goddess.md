@@ -20,7 +20,7 @@ this reincarnated goddess achieves salvation by (as you might guess) the savior 
 
 ### 1. Do Early Christians even care about identity metaphysics - yes, no - yes!
 
-Identity metaphysics is an unsolved philosophical problem of how to create a theory about identity over time.
+Identity metaphysics is a hard philosophical problem of how to create a theory about identity over time.
 The problem has baffled philosophers for over two millenia and is still pretty much unsolved, even today.
 
 The ship of Theseus, the mythical king of Athens who rescued the children of Athens from King Minos,
@@ -29,8 +29,8 @@ In order to keep this tradition, people had to repair the ship by replacing one 
 As the years go by, ancient philosophers asked the simple question: Is this ship still the same ship that Theseus escaped on?
 
 Perhaps this question was asked to distract from talking about the actual history of Theseus vs Minos,
-which is about the collapse of the Minoan civilization (the Keftiu people living on Crete and other island)
-resulting in centuries of slave trade, severe hunger resulting in cannibalism and people hiding in the fog-covered mountains.
+which is about the collapse of the Minoan civilization (the Keftiu people living on Crete and other islands)
+resulting in centuries of slave trade, severe hunger where people engaged in cannibalism and hiding in the fog-covered mountains.
 
 Anyway, the answer to whether a ship is still the same ship after replacing every part, might be answered yes or no, depending on perspective.
 In one sense it is the same ship by its form, which resembles the original ship.
