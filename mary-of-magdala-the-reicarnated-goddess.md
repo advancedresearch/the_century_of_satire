@@ -287,7 +287,7 @@ This might explain why Marcion of Sinope could join a Simonian school and yet cl
 
 Marcion claims to be a follower of Paul, but he also puts Paul beneath Jesus as a savior.
 This might be his way of appealing to both Simonians and other sects that used Jesus instead.
-To convince his followers, Marcion presents letters by Paul, which never before has been presented to anyone or found someplace else.
+To convince his followers, Marcion presents letters by Paul, which never before have been presented to anyone or found someplace else.
 We know that these letters were heavily redacted, added to and even forged new letters in Paul's name.
 While some Early Christians later claimed the authenticity of these letters,
 we have no source from any person that knew Paul, nor from any of Jesus' disciples,
@@ -295,9 +295,9 @@ so the historicity of these letters might be taken with a grain of salt.
 
 Now, with Paul's letters in mind, it is easy to explain Acts of The Apostles as a later text that responds to Marcion of Sinope.
 In Acts we get a revision of history that splits Simon Magus and Paul into two different characters.
-Also, Acts is a sequel of The Gospel of Luke, in which Peter is a disciple by Jesus that previous was named Simon.
-Acts uses Josephus heavily and refers to the marriage between Drusilla and Felix using Paul visiting them in person.
-This links the reference in Josephus to the whole interraction between different Early Christian sects,
+Also, Acts is a sequel of The Gospel of Luke, in which Peter is a disciple by Jesus that previously was named Simon.
+Acts uses Josephus heavily and refers to the marriage between Drusilla and Felix, using Paul visiting them in person.
+This links the reference in Josephus to the whole interaction between different Early Christian sects,
 which makes Josephus a more likely origin.
 
 Josephus was a Jew, so Greek might not have been his native language.
