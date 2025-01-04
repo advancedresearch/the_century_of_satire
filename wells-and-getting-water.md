@@ -322,7 +322,7 @@ Over time, the surplus energy generated in this period allows more ambitions and
 This usually builds up to a climax where some disruptive event again brings society back to the hands of women.
 
 On a large scale, people are used to think about the cycles of complexity in whole civilizations.
-However, the same thing happens in individual villages over the ancient world in over time in shorter cycles.
+However, the same thing happens in individual villages over the ancient world over time in shorter cycles.
 Over time, religious texts are altered to include more and more abusive language toward women,
 because abusive behavior is the character trait that is typical for the people that ascend to power in times of surplus energy.
 They continue being more abusive until they sabotage the basic physical constraints to keep society functioning,
