@@ -316,7 +316,7 @@ This means that text in Early Christianity could have evolved as a literary genr
 where a historical event was brought to the attention of some Roman poets, of a controversial marriage with catastrophic ending.
 The entire root of Simonianism and other sects, including Simon Magus and Jesus,
 could have been people reading these stories written by poets and thinking they were actual historical events,
-following by their own effort to bring something new into these stories in the competition between mystery religions.
+followed by their own effort to bring something new into these stories in the competition between mystery religions.
 
 It is not uncommon that people at the time write stories in the time before some important historical event,
 to make it seem as if the prophecies become true.
