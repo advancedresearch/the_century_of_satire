@@ -151,7 +151,7 @@ thinking about the same way, sharing this moment of greatness and awesomeness in
 First, you have to be a useful member of society, which means to bring in money to the priests.
 Second, the money you bring in to the priests can never guarantee salvation,
 because salvation can only be achieved by transcending usefulness,
-that is both a promise to the person seeking salvation and demand of at the same time.
+that is both a promise to the person seeking salvation and demand at the same time.
 The purpose is to keep people in a state of confusion where the interpretation depends on the mood of the person,
 so they can be easily controlled and steered in the direction where the priest wants them to be socially and politically.
 
