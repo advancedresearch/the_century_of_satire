@@ -192,7 +192,8 @@ It seems he has been too much inside reading and she could easily beat him in a 
 7. Jesus, seeing the joke was not well received, tries a follow up: "People who drink this water gets thirsty again,
 but the water I give, will become a well of life that last forever, longer than a century, even"
 8. The woman eye-rolls, says "OK, give me this water so I don't have to go here anymore"
-(they are both just acting out roles of a satirical play for children that everyone learned when growing up in this Early Christian mystery cult)
+(they are both just acting out roles of a satirical play for children that everyone learned when growing up in this Early Christian mystery cult,
+so this joke exchange might be something most people were already familiar with)
 9. Jesus realizes this is not working, gives up and says "I want to speak to your boss. Where is your husband?"
 10. The woman says "I'm in charge here. I don't have a husband"
 (If you are unlucky, then you meet the wise woman who is the highest authority on water usage and the strictest of them all.
