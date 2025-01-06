@@ -423,10 +423,10 @@ watching out for this exact opportunity.
 This is why the women by the well need a powerful man that is not the king.
 What they do, is making this man, the person C, a judge.
 
-When B goes to C, there is a trial and they put forth evidence and witnesses.
+When A goes to C, there is a trial and they put forth evidence and witnesses.
 The interest of C is getting to the bottom of the truth,
 because if this role fails the whole society is at stake.
-In the process, B has to submit to C's authority and judgement,
+In the process, A has to submit to C's authority and judgement,
 because the alternative is to die of thirst.
 
 When C lacks information, he has to go to the women by the well, which might disturb their work.
