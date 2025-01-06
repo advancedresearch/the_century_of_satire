@@ -225,7 +225,8 @@ However, right before that point, the woman tells she believes Messiah is coming
 
 John 4:24
 ```
-The woman said to Him, “I know that Messiah is coming” (who is called Christ). “When He comes, He will tell us all things.”
+The woman said to Him, “I know that Messiah is coming” (who is called Christ).
+“When He comes, He will tell us all things.”
 
 λέγει αὐτῷ ἡ γυνή Οἶδα ὅτι Μεσσίας ἔρχεται, ὁ λεγόμενος Χριστός: ὅταν ἔλθῃ ἐκεῖνος, ἀναγγελεῖ ἡμῖν ἅπαντα.
 [says] [to him/her] [or] [woman] [Oída, I saw it] [that] [Messiah] [is coming],
