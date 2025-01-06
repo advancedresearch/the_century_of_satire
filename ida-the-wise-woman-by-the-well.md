@@ -310,3 +310,35 @@ However, in this process, this section becomes boring and the story loses its mo
 It is expected that there is increased mysogyny in Late Christianity and therefore the original text should have more life and punch to it,
 such that it can appeal to the Early Christians, that had a different mindset about what to expect in the texts.
 They probably had a broader historical context, to Greek, Roman and Egyptian mythology, using Socratic dialogue and Roman satire as familiar genres.
+
+Particularly, the relationship between the priestly class and common people might be much more open and informal
+where people at the bottom of society uses more humor and cynic philosophy to survive their harsh conditions.
+They might not see the priestly class as the glorified image that appears in Late Christianity,
+but as people that are mostly useless to the everyday function of society.
+By common people being more confronting with the priestly class,
+might explain why authors of Early Christians are not keen to mention ordinary and poor Early Christians during the 2nd century.
+They might be laughed at if they try attacking some, or they might be scared of being accused of favoritism.
+
+Just because the authors of Early Christianity refrain from mentioning names of ordinary poor people,
+does not mean that they hold grudges or despise ordinary poor people.
+The dynamics could be that authors are more priveleged than common people,
+but the major issue is common people being stuck in the ancient energy infrastructure.
+There are women who can read and write in Early Christianity, so there is little motivation by authors to treat specific women badly.
+Is it difficult to come up with good models how people built invisible walls in society at the.
+Surely, the invisible walls were there, but the world people lived in was very complex.
+From the perspective of ordinary poor people, trash talking the priestly class seem not uncommon.
+So, it is in this sense, when Jesus meets a women by a well in her own controlled space,
+that this woman acts strangely dull and submissive in the Gospel of John.
+
+For example, compare this behavior to when Jesus visits Martha and Mary.
+The Martha we see in her home, is not afraid of speaking out to Jesus to help her maintain her control over the environment.
+While Jesus might seem dismissive toward Martha, he does not do it to attack her,
+but because he also respects the control Mary has over her own autonomy, at home in her house.
+While society can have strict roles and hierarchy, what matters is in which space the activity of the text is going on.
+The area around the well is for women more private than public space, not as private as a home, but collectively controlled by women.
+
+This opens up the possibility that there is a story that originated in Roman satire in the dialogue between Jesus and the woman by the well.
+The dialogue fits better as a battle of wits and it brings more life to the story.
+Also, if there was a such text, then it is also understandable why it was censored at some later point.
+Jesus and Ida the wise woman throwing dick jokes at each other is not something you want on Sundays in church.
+
