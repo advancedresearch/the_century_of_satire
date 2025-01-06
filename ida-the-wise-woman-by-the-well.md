@@ -205,7 +205,7 @@ the man you have now is not enough man for you" winks at the woman
 12. The woman relaxes by this joke and starts liking Jesus. She says "Yup, that's a prophet right there.
 Btw, my name is Ida" (It means that Jesus won the battle of wits.
 Ida here in Greek: "Οἶδα" means "I saw it" that could be a play on Mount Ida in Homer's epic about the Troy war versus battle of wits.
-The mythical mount Ida (Greek: "Ἴδη") is the place where Paris, the one that kidnaps Helen, grows up as an orphan)
+The mythical mount Ida (Greek: "Ἴδη") is the place where Paris, the man that kidnaps Helen and causes the war, grows up as an orphan)
 13. The woman says "I'm gonna leave this equipment unattended for a moment while you do your business.
 In the meantime, I'll go to the city causing a distraction.
 If they hear I've given water to a Jew without getting something in return, they will never let me live this down.
