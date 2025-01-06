@@ -74,99 +74,99 @@ but in addition one requires body language and perhaps some scene props to provi
 
 Here is a very rough word-for-word translation of Jesus meeting the woman by the well in the Gospel of John:
 
-ἔρχεται οὖν εἰς πόλιν τῆς Σαμαρίας λεγομένην Συχὰρ πλησίον τοῦ χωρίου ὃ ἔδωκεν Ἰακὼβ τῷ Ἰωσὴφ τῷ υἱῷ αὐτοῦ:
+ἔρχεται οὖν εἰς πόλιν τῆς Σαμαρίας λεγομένην Συχὰρ πλησίον τοῦ χωρίου ὃ ἔδωκεν Ἰακὼβ τῷ Ἰωσὴφ τῷ υἱῷ αὐτοῦ:  
 [is coming] [therefore] [in] [city] [of] [Samarías, Samaria] [so-called] [Sychár, Sychar]
 [near] [of] [choríou, village, of the village] [the] [gave] [Iakóv, Jacob] [at] [Iosíf, Joseph] [at] [son] [his]:
 
-ἦν δὲ ἐκεῖ πηγὴ τοῦ Ἰακώβ. ὁ οὖν Ἰησοῦς κεκοπιακὼς ἐκ τῆς ὁδοιπορίας ἐκαθέζετο οὕτως ἐπὶ τῇ πηγῇ: ὥρα ἦν ὡς ἕκτη.
+ἦν δὲ ἐκεῖ πηγὴ τοῦ Ἰακώβ. ὁ οὖν Ἰησοῦς κεκοπιακὼς ἐκ τῆς ὁδοιπορίας ἐκαθέζετο οὕτως ἐπὶ τῇ πηγῇ: ὥρα ἦν ὡς ἕκτη.  
 [was] [it] [there] [pigí, source, well] [of] [Iakóv, Jacob]. [the] [therefore] [Iisoús, Jesus] [here I am]
 [from] [of] [hiking] [was sitting] [thus] [on] [of] [go]: [time] [was] [as] [sixth].
 
-ἔρχεται γυνὴ ἐκ τῆς Σαμαρίας ἀντλῆσαι ὕδωρ.
+ἔρχεται γυνὴ ἐκ τῆς Σαμαρίας ἀντλῆσαι ὕδωρ.  
 [is coming] [gyní, woman] [from] [of] [Samarías, Samaria] [to pump] [ýdor, water].
 
-λέγει αὐτῇ ὁ Ἰησοῦς Δός μοι πεῖν: οἱ γὰρ μαθηταὶ αὐτοῦ ἀπεληλύθεισαν εἰς τὴν πόλιν, ἵνα τροφὰς ἀγοράσωσιν.
+λέγει αὐτῇ ὁ Ἰησοῦς Δός μοι πεῖν: οἱ γὰρ μαθηταὶ αὐτοῦ ἀπεληλύθεισαν εἰς τὴν πόλιν, ἵνα τροφὰς ἀγοράσωσιν.  
 [says] [her] [the] [Iisoús, Jesus] [Show] [me] [drink]: [the] [because] [students] [his]
 [they liberated] [in] [the] [city], [so that, in order to] [food] [purchase].
 
-λέγει οὖν αὐτῷ ἡ γυνὴ ἡ Σαμαρεῖτις Πῶς σὺ Ἰουδαῖος ὢν παρ᾽ ἐμοῦ πεῖν αἰτεῖς γυναικὸς Σαμαρείτιδος οὔσης; (οὐ γὰρ συνχρῶνται Ἰουδαῖοι Σαμαρείταις.)
+λέγει οὖν αὐτῷ ἡ γυνὴ ἡ Σαμαρεῖτις Πῶς σὺ Ἰουδαῖος ὢν παρ᾽ ἐμοῦ πεῖν αἰτεῖς γυναικὸς Σαμαρείτιδος οὔσης; (οὐ γὰρ συνχρῶνται Ἰουδαῖοι Σαμαρείταις.)  
 [says] [therefore] [to him/her] [or] [gyní, woman] [or] [Samareítis, Samaritan] [How] [you] [Ioudaíos, Jew] [If] [by] [me] [drink] [you ask] [female]
 [Samareítidos, Samaritan woman] [now]; ([no] [because] [they go together] [Ioudaíoi, Jews] [Samareítais, Samaritan].)
 
-ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτῇ Εἰ ᾔδεις τὴν δωρεὰν τοῦ θεοῦ καὶ τίς ἐστιν ὁ λέγων σοι Δός μοι πεῖν, σὺ ἂν ᾔτησας αὐτὸν καὶ ἔδωκεν ἄν σοι ὕδωρ ζῶν.
+ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτῇ Εἰ ᾔδεις τὴν δωρεὰν τοῦ θεοῦ καὶ τίς ἐστιν ὁ λέγων σοι Δός μοι πεῖν, σὺ ἂν ᾔτησας αὐτὸν καὶ ἔδωκεν ἄν σοι ὕδωρ ζῶν.  
 [responded] [Iisoús, Jesus] [and] [he said] [her] [Yes] [you see, you are here] [the] [free] [of] [of God] [and] [which] [is] [the] [saying] [you, family, informal?]
 [Show] [me] [drink], [you] [if] [You heard, obey?] [him] [and] [gave] [whether, if] [you, family, informal?] [ýdor, water] [live, living, alive, of life].
 
-λέγει αὐτῷ Κύριε, οὔτε ἄντλημα ἔχεις καὶ τὸ φρέαρ ἐστὶν βαθύ: πόθεν οὖν ἔχεις τὸ ὕδωρ τὸ ζῶν;
+λέγει αὐτῷ Κύριε, οὔτε ἄντλημα ἔχεις καὶ τὸ φρέαρ ἐστὶν βαθύ: πόθεν οὖν ἔχεις τὸ ὕδωρ τὸ ζῶν;  
 [says] [to him/her] [Sir], [nor] [pump] [you have] [and] [the] [fréar, well] [is] [deep]:
 [from where] [therefore] [you have] [the] [ýdor, water] [the] [live, living, alive, of life];
 
-μὴ σὺ μείζων εἶ τοῦ πατρὸς ἡμῶν Ἰακώβ, ὃς ἔδωκεν ἡμῖν τὸ φρέαρ καὶ αὐτὸς ἐξ αὐτοῦ ἔπιεν καὶ οἱ υἱοὶ αὐτοῦ καὶ τὰ θρέμματα αὐτοῦ;
+μὴ σὺ μείζων εἶ τοῦ πατρὸς ἡμῶν Ἰακώβ, ὃς ἔδωκεν ἡμῖν τὸ φρέαρ καὶ αὐτὸς ἐξ αὐτοῦ ἔπιεν καὶ οἱ υἱοὶ αὐτοῦ καὶ τὰ θρέμματα αὐτοῦ;  
 [non] [you] [major] [yes] [of] [father] [our] [Iakóv, Jacob], [who] [gave] [us] [the] [fréar, well] [and] [he] [from] [his]
 [drank] [and] [the] [sons] [his] [and] [the] [food] [his];
 
-ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτῇ Πᾶς ὁ πίνων ἐκ τοῦ ὕδατος τούτου διψήσει πάλιν:
+ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτῇ Πᾶς ὁ πίνων ἐκ τοῦ ὕδατος τούτου διψήσει πάλιν:  
 [responded] [Iisoús, Jesus] [and] [he said] [her] [Everyone] [the] [drinker] [from] [of] [ýdatos, water] [thereof] [thirsty] [again]:
 
-ὃς δ᾽ ἂν πίῃ ἐκ τοῦ ὕδατος οὗ ἐγὼ δώσω αὐτῷ, οὐ μὴ διψήσει εἰς τὸν αἰῶνα, ἀλλὰ τὸ ὕδωρ ὃ δώσω αὐτῷ γενήσεται ἐν αὐτῷ πηγὴ ὕδατος ἁλλομένου εἰς ζωὴν αἰώνιον.
+ὃς δ᾽ ἂν πίῃ ἐκ τοῦ ὕδατος οὗ ἐγὼ δώσω αὐτῷ, οὐ μὴ διψήσει εἰς τὸν αἰῶνα, ἀλλὰ τὸ ὕδωρ ὃ δώσω αὐτῷ γενήσεται ἐν αὐτῷ πηγὴ ὕδατος ἁλλομένου εἰς ζωὴν αἰώνιον.  
 [who] [d'] [if] [drink] [from] [of] [ýdatos, water] [oh] [egó, I] [give] [to him/her], [no] [non] [thirsty] [in] [the] [century, aeons], [but] [the] [ýdor, water]
 [the] [give] [to him/her] [is born] [in] [to him/her] [pigí, source, well] [ýdatos, water] [other person] [in] [zoín, life, Zoe] [eternal].
 
-λέγει πρὸς αὐτὸν ἡ γυνή Κύριε, δός μοι τοῦτο τὸ ὕδωρ, ἵνα μὴ διψῶ μηδὲ διέρχωμαι ἐνθάδε ἀντλεῖν.
+λέγει πρὸς αὐτὸν ἡ γυνή Κύριε, δός μοι τοῦτο τὸ ὕδωρ, ἵνα μὴ διψῶ μηδὲ διέρχωμαι ἐνθάδε ἀντλεῖν.  
 [says] [to] [him] [or] [woman] [Sir], [give] [me] [this] [the] [ýdor, water],
 [so that, in order to] [non] [thirst] [nor] [to pass through] [then] [to pump].
 
-λέγει αὐτῇ Ὕπαγε φώνησόν σου τὸν ἄνδρα καὶ ἐλθὲ ἐνθάδε.
+λέγει αὐτῇ Ὕπαγε φώνησόν σου τὸν ἄνδρα καὶ ἐλθὲ ἐνθάδε.  
 [says] [her] [Come on] [call out] [your] [the] [man] [and] [came] [then].
 
-ἀπεκρίθη ἡ γυνὴ καὶ εἶπεν αὐτῷ Οὐκ ἔχω ἄνδρα. λέγει αὐτῇ ὁ Ἰησοῦς Καλῶς εἶπες ὅτι Ἄνδρα οὐκ ἔχω:
+ἀπεκρίθη ἡ γυνὴ καὶ εἶπεν αὐτῷ Οὐκ ἔχω ἄνδρα. λέγει αὐτῇ ὁ Ἰησοῦς Καλῶς εἶπες ὅτι Ἄνδρα οὐκ ἔχω:  
 [responded] [or] [gyní, woman] [and] [he said] [to him/her] [No] [have] [man].
 [says] [her] [the] [Iisoús, Jesus] [Well] [you said] [that] [Man] [no] [have]:
 
-πέντε γὰρ ἄνδρας ἔσχες, καὶ νῦν ὃν ἔχεις οὐκ ἔστιν σου ἀνήρ: τοῦτο ἀληθὲς εἴρηκας.
+πέντε γὰρ ἄνδρας ἔσχες, καὶ νῦν ὃν ἔχεις οὐκ ἔστιν σου ἀνήρ: τοῦτο ἀληθὲς εἴρηκας.  
 [five] [because] [man] [you have], [and] [now] [whom] [you have] [no] [is] [your] [man]: [this] [truths] [rebel, heresy].
 
-λέγει αὐτῷ ἡ γυνή Κύριε, θεωρῶ ὅτι προφήτης εἶ σύ.
+λέγει αὐτῷ ἡ γυνή Κύριε, θεωρῶ ὅτι προφήτης εἶ σύ.  
 [says] [to him/her] [or] [woman] [Sir], [consider] [that] [prophet] [yes] [you].
 
-οἱ πατέρες ἡμῶν ἐν τῷ ὄρει τούτῳ προσεκύνησαν: καὶ ὑμεῖς λέγετε ὅτι ἐν Ἰεροσολύμοις ἐστὶν ὁ τόπος ὅπου προσκυνεῖν δεῖ.
+οἱ πατέρες ἡμῶν ἐν τῷ ὄρει τούτῳ προσεκύνησαν: καὶ ὑμεῖς λέγετε ὅτι ἐν Ἰεροσολύμοις ἐστὶν ὁ τόπος ὅπου προσκυνεῖν δεῖ.  
 [the] [fathers] [our] [in] [at] [mountain] [this] [they bowed down]:
 [and] [ye, you guys] [you say] [that] [in] [Ierosolýmois, Jerusalem] [is] [the] [locus, place] [where] [to worship] [see].
 
-λέγει αὐτῇ ὁ Ἰησοῦς Πίστευέ μοι, γύναι, ὅτι ἔρχεται ὥρα ὅτε οὔτε ἐν τῷ ὄρει τούτῳ οὔτε ἐν Ἰεροσολύμοις προσκυνήσετε τῷ πατρί.
+λέγει αὐτῇ ὁ Ἰησοῦς Πίστευέ μοι, γύναι, ὅτι ἔρχεται ὥρα ὅτε οὔτε ἐν τῷ ὄρει τούτῳ οὔτε ἐν Ἰεροσολύμοις προσκυνήσετε τῷ πατρί.  
 [says] [her] [the] [Iisoús, Jesus] [Believe me] [me], [woman], [that] [is coming] [time] [when] [nor] [in] [at] [mountain]
 [this] [nor] [in] [Ierosolýmois, Jerusalem] [bow down] [at] [homeland, country].
 
-ὑμεῖς προσκυνεῖτε ὃ οὐκ οἴδατε, ἡμεῖς προσκυνοῦμεν ὃ οἴδαμεν, ὅτι ἡ σωτηρία ἐκ τῶν Ἰουδαίων ἐστίν:
+ὑμεῖς προσκυνεῖτε ὃ οὐκ οἴδατε, ἡμεῖς προσκυνοῦμεν ὃ οἴδαμεν, ὅτι ἡ σωτηρία ἐκ τῶν Ἰουδαίων ἐστίν:  
 [ye, you guys] [worship] [the] [no] [did you know], [us] [we worship] [the] [we knew],
 [that] [or] [salvation] [from] [of] [Ioudaíon, Jews] [it is]:
 
 ἀλλὰ ἔρχεται ὥρα καὶ νῦν ἐστίν, ὅτε οἱ ἀληθινοὶ προσκυνηταὶ προσκυνήσουσιν τῷ πατρὶ
-ἐν πνεύματι καὶ ἀληθείᾳ, καὶ γὰρ ὁ πατὴρ τοιούτους ζητεῖ τοὺς προσκυνοῦντας αὐτόν:
+ἐν πνεύματι καὶ ἀληθείᾳ, καὶ γὰρ ὁ πατὴρ τοιούτους ζητεῖ τοὺς προσκυνοῦντας αὐτόν:  
 [but] [is coming] [time] [and] [now] [it is], [when] [the] [true] [pilgrims] [worship, bow down, prostrate themselves] [at] [father]
 [in] [spirit] [and] [truth], [and] [because] [the] [father] [such] [asks] [their] [worshipping, bowing down, prostrating] [him]:
 
-πνεῦμα ὁ θεός, καὶ τοὺς προσκυνοῦντας αὐτὸν ἐν πνεύματι καὶ ἀληθείᾳ δεῖ προσκυνεῖν.
+πνεῦμα ὁ θεός, καὶ τοὺς προσκυνοῦντας αὐτὸν ἐν πνεύματι καὶ ἀληθείᾳ δεῖ προσκυνεῖν.  
 [pnevma, spirit] [the] [god], [and] [their] [worshipping, bowing down, prostrating] [him] [in] [spirit] [and] [truth] [see] [to worship].
 
-λέγει αὐτῷ ἡ γυνή Οἶδα ὅτι Μεσσίας ἔρχεται, ὁ λεγόμενος Χριστός: ὅταν ἔλθῃ ἐκεῖνος, ἀναγγελεῖ ἡμῖν ἅπαντα.
+λέγει αὐτῷ ἡ γυνή Οἶδα ὅτι Μεσσίας ἔρχεται, ὁ λεγόμενος Χριστός: ὅταν ἔλθῃ ἐκεῖνος, ἀναγγελεῖ ἡμῖν ἅπαντα.  
 [says] [to him/her] [or] [woman] [Oída, I saw it] [that] [Messiah] [is coming],
 [the] [so-called] [Christ]: [when] [come] [that], [announces] [us] [everything].
 
-λέγει αὐτῇ ὁ Ἰησοῦς Ἐγώ εἰμι, ὁ λαλῶν σοι.
+λέγει αὐτῇ ὁ Ἰησοῦς Ἐγώ εἰμι, ὁ λαλῶν σοι.  
 [says] [her] [the] [Iisoús, Jesus] [Egó, I] [I am], [the] [of speech] [you, family, informal?].
 
-Καὶ ἐπὶ τούτῳ ἦλθαν οἱ μαθηταὶ αὐτοῦ, καὶ ἐθαύμαζον ὅτι μετὰ γυναικὸς ἐλάλει: οὐδεὶς μέντοι εἶπεν Τί ζητεῖς; ἤ Τί λαλεῖς μετ᾽ αὐτῆς;
+Καὶ ἐπὶ τούτῳ ἦλθαν οἱ μαθηταὶ αὐτοῦ, καὶ ἐθαύμαζον ὅτι μετὰ γυναικὸς ἐλάλει: οὐδεὶς μέντοι εἶπεν Τί ζητεῖς; ἤ Τί λαλεῖς μετ᾽ αὐτῆς;  
 [And] [on] [this] [they came] [the] [students] [his], [and] [amazed] [that] [after] [female] [he/she/it speaks]:
 [no] [indeed] [he said] [What] [you ask]; [or] [What] [you speak] [after] [her/his];
 
-ἀφῆκεν οὖν τὴν ὑδρίαν αὐτῆς ἡ γυνὴ καὶ ἀπῆλθεν εἰς τὴν πόλιν καὶ λέγει τοῖς ἀνθρώποις
+ἀφῆκεν οὖν τὴν ὑδρίαν αὐτῆς ἡ γυνὴ καὶ ἀπῆλθεν εἰς τὴν πόλιν καὶ λέγει τοῖς ἀνθρώποις  
 [left] [therefore] [the] [ydrían, water] [her/his] [or] [gyní, woman] [and] [he left] [in] [the] [city] [and] [says] [to them] [people]
 
-Δεῦτε ἴδετε ἄνθρωπον ὃς εἶπέ μοι πάντα ἃ ἐποίησα: μήτι οὗτός ἐστιν ὁ χριστός;
+Δεῦτε ἴδετε ἄνθρωπον ὃς εἶπέ μοι πάντα ἃ ἐποίησα: μήτι οὗτός ἐστιν ὁ χριστός;  
 [Come here] [you see] [man] [who] [I said] [me] [everything] [a] [I did]: [míti, mother] [this] [is] [the] [christós, Christ];
 
-ἐξῆλθον ἐκ τῆς πόλεως καὶ ἤρχοντο πρὸς αὐτόν.
+ἐξῆλθον ἐκ τῆς πόλεως καὶ ἤρχοντο πρὸς αὐτόν.  
 [they came out] [from] [of] [city] [and] [they were coming] [to] [him].
 
 ### 3. Reconstructed play with possible body language of actors and cultural references
