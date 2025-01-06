@@ -28,7 +28,7 @@ You can watch his interview with Jacob Berman [here](https://www.youtube.com/wat
 
 A common problem with satire is that people can read the texts, without realizing that it is satire.
 Many people have taken PhDs using some text as a thesis and passed review,
-before people discovered later that the text was originally satre.
+before people discovered later that the text was originally satire.
 
 This project (The Century of Satire) is not aiming at interpreting specific texts in the New Testament as satire,
 but to reconstruct some the historical literature context, such that people might be able to reason about why some Early Christians
