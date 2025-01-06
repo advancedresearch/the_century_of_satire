@@ -19,7 +19,7 @@ where Jesus' role as Messiah is spread as a rumor in the city as a distraction, 
 2. Greek text with word-for-word translation for reference
 3. Reconstructed play with possible body language of actors and cultural references
 4. Ida - in Greek "Οἶδα" - as a possible name of the wise woman
-5. Mysogynistic interpretation in Late Christianity
+5. Misogynistic interpretation in Late Christianity
 
 ### 1. Roman satire in mystery religions: Dirty jokes for children in the ancient world
 
@@ -265,7 +265,7 @@ As strange as this sounds, this would not be unusual.
 The gospels are full of ambiguities that allow multiple interpretations,
 possibly as a way to gain more followers by letting them use their own imagination.
 
-### 5. Mysogynistic interpretation in Late Christianity
+### 5. Misogynistic interpretation in Late Christianity
 
 As Early Christianity evolves, the texts are redacted or reinterpreted with increasinly mysogynistic views.
 This might have contributed to some female characters missing their names over time.
