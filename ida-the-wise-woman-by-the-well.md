@@ -64,7 +64,7 @@ Neither does it help that the cannon that is found in most versions of the bible
 This means, the taboo against sexual language is a cultural phenomena of Late Christians not handling criticism very well.
 After all, they were engaged in bloody wars against all religions they saw as competitors to their own.
 
-Early Christians use the Socratic dialogue is in texts to establish arguments, in the same way Plato wrote.
+Early Christians use the Socratic dialogue in texts to establish arguments, similar to the way Plato wrote.
 However, in Roman satire, the analogue of the Socratic dialogue might take the form of a battle of wits.
 It is a style that makes fun of the Socratic dialogue and often used to bring the audience closer to the characters.
 This can be combined with a play-act where you do not see the entire play in terms of the dialogue only,
