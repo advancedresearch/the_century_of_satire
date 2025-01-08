@@ -203,6 +203,18 @@ This is often called "Emmanuel":
 
 ![Emmanuel](https://github.com/user-attachments/assets/eecc04ec-1670-4b0f-8a43-f825849dcd14)
 
+In the Gospel of John, when Jesus says "woman, her is your son" to Mary, Jesus' mother,
+the word used for "son" is "μαθητῇ", which means "student".
+Futhermore, the word is repeated in a different spelling "μαθητὴς", which means "student" or "pupil":
+
+    εἶτα λέγει τῷ μαθητῇ Ἴδε ἡ μήτηρ σου. καὶ ἀπ᾽ ἐκείνης τῆς ὥρας ἔλαβεν ὁ μαθητὴς αὐτὴν εἰς τὰ ἴδια.  
+    [look] [says] [at] [student] [Here] [or] [mítir, mother] [your].
+    [and] [from] [hers] [of] [hour] [received] [the] [pupil] [her] [in] [the] [same].
+
+This means, the new relationship between Mary, Jesus' mother, and the student that Jesus loved,
+is a relationship between a teacher and a student and not necessarily a direct family relationship.
+It is a hint of the abilities of Mary to teach something that Jesus was teaching the student.
+
 The parallels between Mary and Isis hints at some kind of teaching of magic.
 In addition, Jesus being called "The Christ" also refers to Medea's role as a sorcerer.
 Teaching children about medicine was part of the mother role,
