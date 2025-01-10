@@ -328,7 +328,7 @@ or perhaps as a self-explorative story.
 
 The complex connections between Sybillist oracles, Simonianism and early influential Christians,
 suggests that this story might have been written by a Simonian that breaks away to teach about Jesus,
-which is a character heavily based on sayings by oracles and possibly sections from Josephus historical works.
+which is a character heavily based on sayings by oracles and possibly sections from Josephus' historical works.
 Perhaps somebody were caught doing something and need to start over,
 since they are no longer accepted in the Simonian community.
 It is kind of like when losing a license to teach, which was how these people made a living.
