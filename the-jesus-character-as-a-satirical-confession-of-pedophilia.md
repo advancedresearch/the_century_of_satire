@@ -14,7 +14,7 @@ This involves the use of entheogens mixed with wine in eucharist rituals and ext
 Obviously, this brings a lot of controversy to the scholarly debate about Early Christianity.
 
 However, there is a disconnect between what these hypotheses bring to the table and the motivation for actually writing these texts.
-How can we explain that people would even write something like this?
+How can we explain that people would even write something like this, given that these hypotheses are true?
 
 The idea is that our concept of a savior figure in modern times is in contradiction with the actual concept of a savior figure in the ancient world.
 Before Christianity became associated with authority in the Roman empire, the savior figure acted as a literary tool for psychological self-discovery,
