@@ -222,7 +222,7 @@ Otherwise, who would even think about eternal torture?
 
 ### 5. Crucifixion as symbolizing self-hate and redemption
 
-All the guilt that Jesus carries reaches a climax where he gets judged, wipped and crucified for his crimes.
+All the guilt that Jesus carries reaches a climax where he gets judged, whipped and crucified for his crimes.
 This represents the self-destructive tendency that people desire when they feel guilt, but without daring to take the initiative themselves.
 They are waiting for society to figure out the truth.
 
