@@ -270,7 +270,8 @@ Death is perceived as the end for Jesus, but he did not take into account his di
 The divine powers resurrects Jesus from the dead.
 At this point, Jesus gives up and his intense love for people that trigger his abusive behavior,
 is moving emotionally behind a wall, where the divine heritage is finally accepted by Jesus.
-Jesus do not even want a woman to touch him, because he is not yet to ascend toward heaven.
+Jesus does not even want a woman to touch him, because he is not yet to ascend toward heaven.
+While accepting his destiny as a divine heir, Jesus is still not trusting himself around others.
 
 This is a metaphor for despite all the flaws that human have, we are magnificent creatures.
 Like Jesus or Medea are from divine origin,
