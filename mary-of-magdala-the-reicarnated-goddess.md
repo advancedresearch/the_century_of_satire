@@ -265,7 +265,7 @@ Jesus as a savior figure more or less evolves out of Simonianism, that worships 
 However, when thinking about the parallels between Mary of Magdala with Helen of Tyre, this relationship makes more sense.
 If this reincarnated goddess appeared in both these sects, then it means there is more reason to believe that the role of this character
 is tied to new attempts to update mystery religions to become more relevant for a new age.
-Whether one belives that Jesus was copied from Simon Magus or not, is less relevant,
+Whether one believes that Jesus was copied from Simon Magus or not, is less relevant,
 because it is the side characters that really tell what kind of literature context these stories were used.
 
 In some sense, understanding Mary of Magdala as a literary device might help to unlock the historical context of Early Christian texts.
