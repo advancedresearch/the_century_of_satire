@@ -21,6 +21,7 @@ Before Christianity became associated with authority in the Roman empire, the sa
 where the goal is to initiate the person, the one to be saved, into adulthood and the moral complexity of the adult mental world.
 With other words, "to be saved" in this context takes on the meaning of being saved from mental castration and brain washing by cult personalities.
 This means, the savior figure might not necessarily be a model role character, but a tragic anti-hero to bring about moral reflection.
+Jesus evolves as a character in the cultural background that uses initiation in mystery cults with help from a tragic anti-hero.
 
 1. The tragic anti-hero as savior figure - from the danger of mental castration
 2. Jesus as a magic healer - yet being an child abuser - reflecting the complex role of priests in mystery cults
