@@ -264,7 +264,7 @@ Women, taking responsibility for raising children, were the most likely people t
 
 Jesus despite his divine powers has human flaws and carries an immense amount of guilt,
 because he can not control himself from abusing other people.
-He struggles sleeping (having no place to rest his head) and take walks in the dark, due to being afraid to getting caught.
+He struggles sleeping (having no place to rest his head) and takes walks in the dark, due to being afraid to getting caught.
 Death is perceived as the end for Jesus, but he did not take into account his divine heritage.
 
 The divine powers resurrects Jesus from the dead.
