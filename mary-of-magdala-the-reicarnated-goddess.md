@@ -344,5 +344,5 @@ After a while, Christianity is made the official religion of the Roman empire, s
 This development puts Mary of Magdala even more on the edge as a character,
 because as somebody who is meeting Jesus for the first time and potentially from some place else,
 where is she from? Where does she belong?
-So, in classical Christian style, Mary of Magdala is swept under the rug and the historical traces back to Simonianism is covered up.
+So, in classical Christian style, Mary of Magdala is swept under the rug and the historical traces back to Simonianism are covered up.
 All we find today are bread crumbs of what these texts might have originally been.
