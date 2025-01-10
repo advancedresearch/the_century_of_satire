@@ -131,7 +131,7 @@ Love is not a simple thing that is one-sided positive for other people.
 An abuser is often somebody that loves others and at the same time is afraid of giving the loved ones more control,
 because the abuser is afraid of being left alone.
 Once abuse has happened in a relationship, there is no way back for the abuser.
-The are only three options for the abuser: To ask for forgiveness, ignore it and hope it goes over, or to become even more abusive.
+There are only three options for the abuser: To ask for forgiveness, ignore it and hope it goes over, or to become even more abusive.
 
 In some cases, the abuser kills the person they love the most, to avoid rest of society figure out about the abuse.
 
