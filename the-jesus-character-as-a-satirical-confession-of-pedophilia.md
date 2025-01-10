@@ -54,7 +54,7 @@ Yet she is fully a mortal human being,
 that after helping her husband to power, was betrayed and became known for killing her own children in revenge.
 
 Medea helped people understand how they are born into this world, vulnerable and naked,
-receiving everything they have from the society around them, symbolized by her divine ancestry from Helios and occupation as a priestess for Helios.
+receiving everything they have from the society around them, symbolized by her divine ancestry from Helios and occupation as a priestess for Hecate.
 
 Despite receiving valuable gifts and riches due to our inheritance,
 humans often choose to spend their resources in a selfish and corruptive way.
