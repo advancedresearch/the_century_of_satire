@@ -307,7 +307,7 @@ The technical details of how to make this drug is described by Galen, the physic
 It is called a "viper" because people get thirsty from it, like when they get bitten by snakes.
 Jesus dies on the cross after receiving the antidote shortly before and is taken down and buried.
 Normally, crucifixion takes several days where people die from over-exhaustion of the difficulty of breathing.
-However, since it is the Passover, Jesus' body is taken down the same day, believing he is dead, due to he drug.
+However, since it is the Passover, Jesus' body is taken down the same day, believing he is dead, due to the drug.
 
 The poison brings people to the edge of death and they need an antidote to be brought back.
 Since Jesus receives the antidote too late, it is unsure whether he survives or not.
