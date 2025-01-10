@@ -185,7 +185,7 @@ by establishing Jesus as the authentic heir to the religions of Ancient Egypt.
 
 Isis teaches Horus magic.
 This is an important part of how the Osiris myth functions as explaining the cycle of birth and death.
-Women were responsible for raising children until they could start training skills such as horse riding,
+Women were responsible for raising boys until they could start training skills such as horse riding,
 fighting with sword and shield and following orders in an army hierarchy.
 The mother is most influential in early childhood by nurturing,
 from bringing the child from a pre-language stage to a moral and thinking being.
