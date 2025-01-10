@@ -25,7 +25,7 @@ Jesus evolves as a character in the cultural background that uses initiation in 
 
 1. The tragic anti-hero as savior figure - from the danger of mental castration
 2. Jesus as a magic healer - yet being an child abuser - reflecting the complex role of priests in mystery cults
-3. Writing about love as both something both beautiful and dangerous
+3. Writing about love as something both beautiful and dangerous
 4. Jesus' jealousy of the poor - the abuser's mental world
 5. Crucifixion as symbolizing self-hate and redemption
 6. Resurrection as symbolizing the magnificent nature of human beings despite all flaws
@@ -125,7 +125,7 @@ which is how we get many of the texts in Early Christianity.
 
 The Jesus character might have been invented as part of a text that a pedophile priest writes to reflect over his sins.
 
-### 3. Writing about love as both something both beautiful and dangerous
+### 3. Writing about love as something both beautiful and dangerous
 
 Love is not a simple thing that is one-sided positive for other people.
 An abuser is often somebody that loves others and at the same time is afraid of giving the loved ones more control,
