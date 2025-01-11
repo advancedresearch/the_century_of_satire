@@ -177,7 +177,7 @@ Since the Keftiu people lived on Crete and other islands, they could not have a 
 They traded the purple color segment with other people and this was how they built their civilization.
 
 However, there was a disasterous eruption of an vulcano on one of the islands, killing thousands, that caused a tsunami hitting Crete.
-Perhaps many boats were destroyed and threatened they supply of food.
+Perhaps many boats were destroyed and threatened their supply of food.
 This people, who did not have garrisons of soldiers because they lived in prosperity and peace,
 started to fight among themselves due to hunger.
 Soon, somebody starts a new mystery religion with a boy god as the main deity,
