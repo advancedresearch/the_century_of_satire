@@ -69,7 +69,7 @@ This Wizard religion, or Magi, that people in the city developed, was in the anc
 People learned medicine alongside religion and other topics such as math and history.
 
 It is believed that Galen, the emperor's physician (and the highest Magi of them all), wrote around 600 books.
-Only 1/3 of these books survived, but they still dwarf all the other religious texts, , who were written by multiple authors, combined.
+Only 1/3 of these books survived, but they still dwarf all the other religious texts, who were written by multiple authors, combined.
 His works are in total around 3 million words.
 In comparison, the New International Version of the bible has 727 969 words.
 
