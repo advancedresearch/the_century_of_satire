@@ -181,7 +181,7 @@ Perhaps many boats were destroyed and threatened their supply of food.
 This people, who did not have garrisons of soldiers because they lived in prosperity and peace,
 started to fight among themselves due to hunger.
 Soon, somebody starts a new mystery religion with a boy god as the main deity,
-which causes a such anger from other people, who worship a goddess, that they burn this boy's temple down.
+which causes such anger from other people, who worship a goddess, that they burn this boy's temple down.
 
 Perhaps some of these people, being persecuted in their homeland,
 escapes to Greece and other places such as the Black Sea,
