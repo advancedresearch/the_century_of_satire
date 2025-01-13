@@ -40,6 +40,7 @@ Some images are included to give people a historical experience.
 - 34 or 2 BC to 54 CE: [Gaius Julius Azizus](#gaius-julius-azizus)
 - 5 to 10 CE (born, no date of death): [Antonius Felix](#antonius-felix)
 - 37 to 100 CE: [Josephus](#josephus)
+- 100 to 120 CE: [Saturninus of Antioch teaches about Jesus](#saturninus-of-antioch)
 - 38 to 24 August 79 CE (might have died in eruption of Mount Vesuvius): [Drusilla of Judea](#drusilla-of-judea)
 - 72 to 73 CE: [Siege of Masada](#siege-of-masada)
 - 27 February c. 272 to 22 May 337 CE: [Constantine the Great](#constantine-the-great)
@@ -250,6 +251,12 @@ These are online sources for people to learn more about specific events or histo
 
 - Historia Militum (English): https://www.youtube.com/watch?v=lFFDqhR-T7c
 - History & World (Italian): https://www.youtube.com/watch?v=akBIiu8EmCU
+
+### Saturninus of Antioch
+
+- Birth place unknown
+- Aged unknown (neither birth or death year is known)
+- Wikipedia: https://en.wikipedia.org/wiki/Saturninus_of_Antioch
 
 ### Constantine the Great
 
