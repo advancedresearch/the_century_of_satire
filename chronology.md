@@ -149,6 +149,10 @@ These are online sources for people to learn more about specific events or histo
 
 ### Cleopatra VII Thea Philopator
 
+![Cleopatra](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Cleopatra_VII%2C_dalla_via_appia_tra_ariccia_e_genzano%2C_40-30_ac_ca._01.JPG/1280px-Cleopatra_VII%2C_dalla_via_appia_tra_ariccia_e_genzano%2C_40-30_ac_ca._01.JPG)
+
+*Bust of Cleopatra VII Thea Philopator, marble.*
+
 - Birth place Alexandria (OpenStreetMap): https://www.openstreetmap.org/search?query=alexandria#map=11/31.1996/29.8952
 - Wikipedia: https://en.wikipedia.org/wiki/Cleopatra
 
