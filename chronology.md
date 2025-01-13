@@ -52,6 +52,8 @@ Some images are included to give people a historical experience.
 - c. 110 CE: [Pliny the Younger writes a letter to Trajan about Christians](#pliny-the-younger-on-christians)
 - c. 150 CE: [Gospel of Marcion is published](#gospel-of-marcion)
 - 31 August 161 to 31 December 192 CE: [Commodus](#commodus)
+- 192 CE: [Commodus](#commodus) is killed by [Marcia](#marcia) with help from [Narcissus](#narcissus-the-wrestler)
+- 193 CE: [Marcia](#marcia) is killed, and [Narcissus](#narcissus-the-wrestler) is killed around this time in civil wars
 - 27 February c. 272 to 22 May 337 CE: [Constantine the Great](#constantine-the-great)
 - 380 CE: [Edict of Thessalonica](#edict-of-thessalonica)
 - 2021 CE: [Joker Calculus is created](#joker-calculus)
@@ -370,6 +372,25 @@ These are online sources for people to learn more about specific events or histo
 - Birth place Lanuvium (OpenStreetMap): https://www.openstreetmap.org/search?query=lanuvio#map=13/41.64137/12.69253
 - Aged 31
 - Wikipedia: https://en.wikipedia.org/wiki/Commodus
+
+### Marcia
+
+![Marcia](https://upload.wikimedia.org/wikipedia/commons/9/9b/Marcia_Aurelia_Ceionia_%28cropped%29.png)
+
+*Engraved amethyst (18 x 14 mm), sometimes identified as Marcia.*
+
+- Aged unknown (only death year is known)
+- Mistress of [Commodus](#commodus)
+- Begged [Commodus](#commodus) release Christian prisoners
+- Killed [Commodus](#commodus) with help from [Narcissus](#narcissus-the-wrestler)
+- Gets killed in 193 CE
+- Wikipedia: https://en.wikipedia.org/wiki/Marcia_(mistress_of_Commodus)
+
+### Narcissus the Wrestler
+
+- Aged unknown (only c. death year is known)
+- Was executed during the series of civil wars after Commodus's death, c. 192-193 CE
+- Wikipedia: https://en.wikipedia.org/wiki/Narcissus_(wrestler)
 
 ### Constantine the Great
 
