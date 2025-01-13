@@ -221,6 +221,10 @@ These are online sources for people to learn more about specific events or histo
 
 ### Simon Magus
 
+![Simon Magus](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Basilica_Saint-Sernin_-_Simon_Magus_%28cropped%29.jpg/800px-Basilica_Saint-Sernin_-_Simon_Magus_%28cropped%29.jpg)
+
+*Relief on the Miègeville's gate of the basilica Saint-Sernin in Toulouse. The relief shows Simon magus, demons, and birth of the wine.*
+
 - Birth place Samaria (OpenStreetMap): https://www.openstreetmap.org/search?query=32.275%C2%B0N%2035.190%C2%B0E#map=17/32.275000/35.190000
 - Aged unknow (neither birth or death is known)
 - Wikipedia: https://en.wikipedia.org/wiki/Simon_Magus
