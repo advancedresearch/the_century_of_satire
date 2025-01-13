@@ -7,7 +7,7 @@ At the bottom of this page, you will find links to sources.
 
 ## Timeline
 
-- 428/427 or 424/423 to 348: [Plato](#plato)
+- 428/427 or 424/423 to 348 BC: [Plato](#plato)
 - 384 to 322 BC: [Aristotle](#aristotle)
 - 323 to 323 or 283 to 246 BC: [Establishment of the Library of Alexandria](#library-of-alexandria)
 - 72 to 73 CE: [Siege of Masada](#siege-of-masada)
