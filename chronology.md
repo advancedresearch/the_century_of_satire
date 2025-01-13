@@ -43,6 +43,7 @@ Some images are included to give people a historical experience.
 - 34 or 2 BC to 54 CE: [Gaius Julius Azizus](#gaius-julius-azizus)
 - 5 to 10 CE (born, no date of death): [Antonius Felix](#antonius-felix)
 - 37 to 100 CE: [Josephus](#josephus)
+- 85 to 160 CE: [Marcion of Sinope](#marcion-of-sinope)
 - 100 to 120 CE: [Saturninus of Antioch teaches about Jesus](#saturninus-of-antioch)
 - 38 to 24 August 79 CE (might have died in eruption of Mount Vesuvius): [Drusilla of Judea](#drusilla-of-judea)
 - 72 to 73 CE: [Siege of Masada](#siege-of-masada)
@@ -299,6 +300,16 @@ These are online sources for people to learn more about specific events or histo
 
 - Historia Militum (English): https://www.youtube.com/watch?v=lFFDqhR-T7c
 - History & World (Italian): https://www.youtube.com/watch?v=akBIiu8EmCU
+
+### Marcion of Sinope
+
+![Marcion of Sinope](https://upload.wikimedia.org/wikipedia/commons/7/7d/Apostle_John_and_Marcion_of_Sinope%2C_from_JPM_LIbrary_MS_748%2C_11th_c.jpg)
+
+*Apostle John (left) and (according to Eisler) Marcion of Sinope (right), from Morgan Library MS 748, 11th century.*
+
+- Birth place Sinope (OpenStreetMap): https://www.openstreetmap.org/search?query=sinope#map=9/41.756/34.905
+- Aged 75
+- Wikipedia: https://en.wikipedia.org/wiki/Marcion_of_Sinope
 
 ### Saturninus of Antioch
 
