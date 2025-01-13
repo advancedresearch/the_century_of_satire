@@ -28,6 +28,8 @@ These are online sources for people to learn more about specific events or histo
 
 ### Plato
 
+![Plato](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Plato_Silanion_Musei_Capitolini_MC1377.jpg/1024px-Plato_Silanion_Musei_Capitolini_MC1377.jpg)
+
 - Birth place Athens (OpenStreetMap): https://www.openstreetmap.org/search?query=athens#map=11/37.9757/23.7348
 - Wikipedia: https://en.wikipedia.org/wiki/Plato
 
