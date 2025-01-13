@@ -189,6 +189,10 @@ These are online sources for people to learn more about specific events or histo
 
 ### Emesene dynasty
 
+![Geographic region of the Emesene dynasty](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/KingdomOfEmesa.png/1280px-KingdomOfEmesa.png)
+
+*Geographic region of the Emesene dynasty.*
+
 - Wikipedia: https://en.wikipedia.org/wiki/Emesene_dynasty
 
 ### Gaius Julius Azizus
