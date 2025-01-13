@@ -35,14 +35,29 @@ These are online sources for people to learn more about specific events or histo
 
 ### Aristotle
 
+![Aristotle](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/1280px-Aristotle_Altemps_Inv8575.jpg)
+
 - Birth place Athens (OpenStreetMap): https://www.openstreetmap.org/search?query=athens#map=11/37.9757/23.7348
 - Wikipedia: https://en.wikipedia.org/wiki/Aristotle
 
 ### Hellenistic period
 
+![Hellenistic period](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Nike_of_Samothrake_Louvre_Ma2369_n4.jpg/1024px-Nike_of_Samothrake_Louvre_Ma2369_n4.jpg)
+
 - Wikipedia: https://en.wikipedia.org/wiki/Hellenistic_period
 
+### Mouseion
+
+![Muse](https://upload.wikimedia.org/wikipedia/commons/5/5e/Greek_-_Leaning_Muse%2C_Probably_Polyhymnia_-_Walters_2390.jpg)
+
+- Institution that included [Library of Alexandria](#library-of-alexandria)
+- Wikipedia: https://en.wikipedia.org/wiki/Mouseion
+
 ### Library of Alexandria
+
+![Library of Alexandria](https://www.realmofhistory.com/wp-content/uploads/2023/07/alexandria-1.jpg)
+
+*Screenshot of ancient Alexandria (reconstruction) from Assassins Creed: Origins by Ubisoft Studios*
 
 - Wikipedia: https://en.wikipedia.org/wiki/Library_of_Alexandria
 
