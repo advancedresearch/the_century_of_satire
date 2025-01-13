@@ -7,7 +7,12 @@ At the bottom of this page, you will find links to sources.
 
 ### Timeline
 
-- 72 to 73 AD: [Siege of Masada](#siege-of-masada)
+- 323 to 283 BC [Establishment of the Library of Alexandria](#library-of-alexandria)
+- 72 to 73 CE: [Siege of Masada](#siege-of-masada)
+
+### Library of Alexandria
+
+- Wikipedia https://en.wikipedia.org/wiki/Library_of_Alexandria
 
 ### Siege of Masada
 
