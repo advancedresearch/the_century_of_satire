@@ -49,6 +49,7 @@ Some images are included to give people a historical experience.
 - 72 to 73 CE: [Siege of Masada](#siege-of-masada)
 - 85 to 160 CE: [Marcion of Sinope](#marcion-of-sinope)
 - 100 to 120 CE: [Saturninus of Antioch teaches about Jesus](#saturninus-of-antioch)
+- c. 110 CE: [Pliny the Younger writes a letter to Trajan about Christians](#pliny-the-younger-on-christians)
 - c. 150 CE: [Gospel of Marcion is published](#gospel-of-marcion)
 - 27 February c. 272 to 22 May 337 CE: [Constantine the Great](#constantine-the-great)
 - 380 CE: [Edict of Thessalonica](#edict-of-thessalonica)
@@ -310,7 +311,16 @@ These are online sources for people to learn more about specific events or histo
 
 - Birth place Novum Comum (OpenStreetMap): https://www.openstreetmap.org/search?query=como%20italy#map=10/45.9403/9.1674
 - Aged 52
+- Wrote a letter to [Trajan](#trajan) [about Christians](#pliny-the-younger-on-christians)
 - Wikipedia: https://en.wikipedia.org/wiki/Pliny_the_Younger
+
+### Pliny the Younger on Christians
+
+![Fragment bearing the inscription Pliny](https://upload.wikimedia.org/wikipedia/commons/4/4d/0012_-_Milano_-_Sant%27Ambrogio_-_Atrio_-_Frammento_lapide_C._Plinio_-_Foto_Giovanni_Dall%27Orto_25-Apr-2007.jpg)
+
+*Fragment of an inscription bearing the name Pliny, Basilica of Sant'Ambrogio, Milan*
+
+- Wikipedia: https://en.wikipedia.org/wiki/Pliny_the_Younger_on_Christians
 
 ### Siege of Masada
 
