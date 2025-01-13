@@ -139,6 +139,10 @@ These are online sources for people to learn more about specific events or histo
 
 ### Eratosthenes
 
+![Erastosthenes](https://upload.wikimedia.org/wikipedia/commons/f/fa/Eratosthenes_profile.png)
+
+*Greek scholar Eratosthenes*
+
 - Birth place Cyrene (OpenStreetMap): https://www.openstreetmap.org/search?query=cyrene#map=16/32.82080/21.85641
 - Aged around 82
 - Wikipedia: https://en.wikipedia.org/wiki/Eratosthenes
