@@ -17,6 +17,7 @@ At the bottom of this page, you will find links to sources.
 - 12 July 100 to 15 March 44 BC: [Julius Caesar](#julius-caesar)
 - 5 to 10 CE (born, no date of death): [Antonius Felix](#antonius-felix)
 - 37 to 100 CE: [Josephus](#josephus)
+- 38 to 24 August 79 CE (might have died in eruption of Mount Vesuvius): [Drusilla of Judea](#drusilla-of-judea)
 - 72 to 73 CE: [Siege of Masada](#siege-of-masada)
 
 ## Sources
@@ -74,6 +75,12 @@ These are online sources for people to learn more about specific events or histo
 - Birth place Jerusalem (OpenStreetMap): https://www.openstreetmap.org/search?query=jerusalem#map=12/31.7962/35.1751
 - Aged 62-63
 - Wikipedia: https://en.wikipedia.org/wiki/Josephus
+
+### Drusilla of Judea
+
+- Birth place is possibly Emesa (since she was married to Gaius Julius Azizus, king of Emesa) (OpenStreetMap): https://www.openstreetmap.org/search?query=emesa#map=12/34.7258/36.7118
+- Aged 41, if she died in eruption of Mount Vesuvius
+- Wikipedia: https://en.wikipedia.org/wiki/Drusilla_(daughter_of_Herod_Agrippa)
 
 ### Siege of Masada
 
