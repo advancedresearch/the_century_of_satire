@@ -179,6 +179,10 @@ These are online sources for people to learn more about specific events or histo
 
 ### Josephus
 
+![Josephus](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Joseph%2C_son_of_Gorian%2C_called_Flavius_Josephus_%28NYPL_Hades-255854-430875%29_%28cropped%29.tiff/lossy-page1-1024px-Joseph%2C_son_of_Gorian%2C_called_Flavius_Josephus_%28NYPL_Hades-255854-430875%29_%28cropped%29.tiff.jpg)
+
+*Imaginary portrait for Josephus, illustrated by Thomas Addis Emmet, 1880.*
+
 - Birth place Jerusalem (OpenStreetMap): https://www.openstreetmap.org/search?query=jerusalem#map=12/31.7962/35.1751
 - Aged 62-63
 - Wikipedia: https://en.wikipedia.org/wiki/Josephus
