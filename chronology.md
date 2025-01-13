@@ -13,17 +13,18 @@ At the bottom of this page, you will find links to sources.
 
 ### Aristotle
 
+- Birth place: Athens (OpenStreetMap https://www.openstreetmap.org/search?query=athens#map=11/37.9757/23.7348)
 - Wikipedia https://en.wikipedia.org/wiki/Aristotle
 
 ### Library of Alexandria
 
-- Wikipedia https://en.wikipedia.org/wiki/Library_of_Alexandria
+- Wikipedia: https://en.wikipedia.org/wiki/Library_of_Alexandria
 
 ### Siege of Masada
 
-- Wikipedia https://en.wikipedia.org/wiki/Siege_of_Masada
+- Wikipedia: https://en.wikipedia.org/wiki/Siege_of_Masada
 
 ### Legio X Fretensis
 
-- Historia Militum (English) https://www.youtube.com/watch?v=lFFDqhR-T7c
-- History & World (Italian) https://www.youtube.com/watch?v=akBIiu8EmCU
+- Historia Militum (English): https://www.youtube.com/watch?v=lFFDqhR-T7c
+- History & World (Italian): https://www.youtube.com/watch?v=akBIiu8EmCU
