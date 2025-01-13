@@ -64,7 +64,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Seshat carved on the back of the throne of the seated statue of Ramesses II in the Amun temple at Luxor. It dates from around 1250 BC.*
 
-- Inspiration for Seshatism, one modern version of dual-Platonism that forms one basic duls in [Joker Calculus](#joker-calculus)
+- Inspiration for Seshatism, one modern version of dual-Platonism that forms one basic duals in [Joker Calculus](#joker-calculus)
 - Wikipedia: https://en.wikipedia.org/wiki/Seshat
 
 ### Thoth
