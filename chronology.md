@@ -15,6 +15,7 @@ At the bottom of this page, you will find links to sources.
 - 276 to 194 BC: [Eratosthenes](#eratosthenes)
 - Early 69 BC or late 70 to 10 August 30 BC: [Cleopatra VII Thea Philopator](#cleopatra-vii-thea-philopator)
 - 12 July 100 to 15 March 44 BC: [Julius Caesar](#julius-caesar)
+- 37 to 100 CE: [Josephus](#josephus)
 - 72 to 73 CE: [Siege of Masada](#siege-of-masada)
 
 ## Sources
@@ -60,6 +61,12 @@ These are online sources for people to learn more about specific events or histo
 - Birth place Suburra (OpenStreetMap): https://www.openstreetmap.org/search?query=suburra#map=19/41.895099/12.490825
 - Aged 55
 - Wikipedia: https://en.wikipedia.org/wiki/Julius_Caesar
+
+### Josephus
+
+- Birth place Jerusalem (OpenStreetMap): https://www.openstreetmap.org/search?query=jerusalem#map=12/31.7962/35.1751
+- Aged 62-63
+- Wikipedia: https://en.wikipedia.org/wiki/Josephus
 
 ### Siege of Masada
 
