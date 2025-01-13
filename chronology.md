@@ -297,6 +297,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Head of Trajan (reign 98–117 CE), from an oversized statue (around 2.70 m height).*
 
+- Birth place Italica (OpenStreetMap): https://www.openstreetmap.org/search?query=37%C2%B026%E2%80%B238%E2%80%B3N%206%C2%B002%E2%80%B248%E2%80%B3W#map=14/37.44382/-6.04669
 - Aged 63
 - Reign 28 January 98 – 9 August 117 CE
 - Wikipedia: https://en.wikipedia.org/wiki/Trajan
