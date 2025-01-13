@@ -15,6 +15,7 @@ At the bottom of this page, you will find links to sources.
 - 276 to 194 BC: [Eratosthenes](#eratosthenes)
 - Early 69 BC or late 70 to 10 August 30 BC: [Cleopatra VII Thea Philopator](#cleopatra-vii-thea-philopator)
 - 12 July 100 to 15 March 44 BC: [Julius Caesar](#julius-caesar)
+- 5 to 10 CE (born, no date of death): [Antonius Felix](#antonius-felix)
 - 37 to 100 CE: [Josephus](#josephus)
 - 72 to 73 CE: [Siege of Masada](#siege-of-masada)
 
@@ -61,6 +62,12 @@ These are online sources for people to learn more about specific events or histo
 - Birth place Suburra (OpenStreetMap): https://www.openstreetmap.org/search?query=suburra#map=19/41.895099/12.490825
 - Aged 55
 - Wikipedia: https://en.wikipedia.org/wiki/Julius_Caesar
+
+### Antonius Felix
+
+- Also known as Felix of Ceasarea
+- Birth place Caesarea Maritima (OpenStreetMap): https://www.openstreetmap.org/search?query=Caesarea%20Maritima#map=19/32.501839/34.892447
+- Wikipedia: https://en.wikipedia.org/wiki/Antonius_Felix
 
 ### Josephus
 
