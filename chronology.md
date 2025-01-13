@@ -43,10 +43,11 @@ Some images are included to give people a historical experience.
 - 34 or 2 BC to 54 CE: [Gaius Julius Azizus](#gaius-julius-azizus)
 - 5 to 10 CE (born, no date of death): [Antonius Felix](#antonius-felix)
 - 37 to 100 CE: [Josephus](#josephus)
-- 85 to 160 CE: [Marcion of Sinope](#marcion-of-sinope)
-- 100 to 120 CE: [Saturninus of Antioch teaches about Jesus](#saturninus-of-antioch)
 - 38 to 24 August 79 CE (might have died in eruption of Mount Vesuvius): [Drusilla of Judea](#drusilla-of-judea)
 - 72 to 73 CE: [Siege of Masada](#siege-of-masada)
+- 85 to 160 CE: [Marcion of Sinope](#marcion-of-sinope)
+- 100 to 120 CE: [Saturninus of Antioch teaches about Jesus](#saturninus-of-antioch)
+- c. 150 CE: [Gospel of Marcion is published](#gospel-of-marcion)
 - 27 February c. 272 to 22 May 337 CE: [Constantine the Great](#constantine-the-great)
 - 380 CE: [Edict of Thessalonica](#edict-of-thessalonica)
 - 2021 CE: [Joker Calculus is created](#joker-calculus)
@@ -310,6 +311,15 @@ These are online sources for people to learn more about specific events or histo
 - Birth place Sinope (OpenStreetMap): https://www.openstreetmap.org/search?query=sinope#map=9/41.756/34.905
 - Aged 75
 - Wikipedia: https://en.wikipedia.org/wiki/Marcion_of_Sinope
+
+### Gospel of Marcion
+
+![Maybe a fragment of Gospel of Marcion](https://upload.wikimedia.org/wikipedia/commons/9/9f/POxy.v0024.n2383.recto.jpg)
+
+*Claire Clivaz has argued that Papyrus 69 is "a witness to a Marcionite edition of Luke's Gospel".*
+
+- Wikipedia: https://en.wikipedia.org/wiki/Gospel_of_Marcion
+- Papyrus 69, Wikipedia: https://en.wikipedia.org/wiki/Papyrus_69
 
 ### Saturninus of Antioch
 
