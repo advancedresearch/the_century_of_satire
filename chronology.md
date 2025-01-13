@@ -42,6 +42,7 @@ Some images are included to give people a historical experience.
 - 37 to 100 CE: [Josephus](#josephus)
 - 38 to 24 August 79 CE (might have died in eruption of Mount Vesuvius): [Drusilla of Judea](#drusilla-of-judea)
 - 72 to 73 CE: [Siege of Masada](#siege-of-masada)
+- 27 February c. 272 to 22 May 337 CE: [Constantine the Great](#constantine-the-great)
 - 380 CE: [Edict of Thessalonica](#edict-of-thessalonica)
 - 2021 CE: [Joker Calculus is created](#joker-calculus)
 
@@ -236,6 +237,14 @@ These are online sources for people to learn more about specific events or histo
 
 - Historia Militum (English): https://www.youtube.com/watch?v=lFFDqhR-T7c
 - History & World (Italian): https://www.youtube.com/watch?v=akBIiu8EmCU
+
+### Constantine the Great
+
+![Constantine the Great](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Statua_di_Costantino_ai_musei_capitolini.jpg/1024px-Statua_di_Costantino_ai_musei_capitolini.jpg)
+
+*Head of the Colossus of Constantine, Capitoline Museums.*
+
+- Wikipedia: https://en.wikipedia.org/wiki/Constantine_the_Great
 
 ### Edict of Thessalonica
 
