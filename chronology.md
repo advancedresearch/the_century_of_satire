@@ -35,6 +35,7 @@ Some images are included to give people a historical experience.
 - 323 to 283 or 283 to 246 BC: [Establishment of the Library of Alexandria](#library-of-alexandria)
 - 3rd to 2nd century BC: [Composition of Septuagint](#septuagint)
 - 276 to 194 BC: [Eratosthenes](#eratosthenes)
+- 76 BC: [Roman senate attempts to recollect texts of Sibylline oracles](#sibylline-oracles)
 - Early 69 BC or late 70 to 10 August 30 BC: [Cleopatra VII Thea Philopator](#cleopatra-vii-thea-philopator)
 - 12 July 100 to 15 March 44 BC: [Julius Caesar](#julius-caesar)
 - 46 to 72 or 78/79 BC: [Emesene dynasty](#emesene-dynasty)
@@ -179,6 +180,14 @@ These are online sources for people to learn more about specific events or histo
 - Birth place Cyrene (OpenStreetMap): https://www.openstreetmap.org/search?query=cyrene#map=16/32.82080/21.85641
 - Aged around 82
 - Wikipedia: https://en.wikipedia.org/wiki/Eratosthenes
+
+### Sibylline Oracles
+
+![Sibylline Oracle](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1a8088a-8cc8-43dc-9a42-4712726ebf84_1398x1198.png)
+
+*The Cumaean Sibyl by Elihu Vedder (1836 to 1923 CE).*
+
+- Wikipedia: https://en.wikipedia.org/wiki/Sibylline_Oracles
 
 ### Cleopatra VII Thea Philopator
 
