@@ -226,6 +226,10 @@ These are online sources for people to learn more about specific events or histo
 
 ### Siege of Masada
 
+![Masada](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Israel-2013-Aerial_21-Masada.jpg/1280px-Israel-2013-Aerial_21-Masada.jpg)
+
+*Aerial view of Masada (Hebrew מצדה), in the Judaean Desert (Hebrew: מִדְבַּר יְהוּדָה‎, Arabic: صحراء يهودا), with the Dead Sea in the distance.*
+
 - Wikipedia: https://en.wikipedia.org/wiki/Siege_of_Masada
 
 ### Legio X Fretensis
