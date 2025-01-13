@@ -35,6 +35,7 @@ Some images are included to give people a historical experience.
 - 323 to 283 or 283 to 246 BC: [Establishment of the Library of Alexandria](#library-of-alexandria)
 - 3rd to 2nd century BC: [Composition of Septuagint](#septuagint)
 - 276 to 194 BC: [Eratosthenes](#eratosthenes)
+- 83 BC: [Sibylline books were accidentally destroyed in a fire](#sibylline-books)
 - 76 BC: [Roman senate attempts to recollect texts of Sibylline oracles](#sibylline-oracles)
 - Early 69 BC or late 70 to 10 August 30 BC: [Cleopatra VII Thea Philopator](#cleopatra-vii-thea-philopator)
 - 12 July 100 to 15 March 44 BC: [Julius Caesar](#julius-caesar)
@@ -180,6 +181,14 @@ These are online sources for people to learn more about specific events or histo
 - Birth place Cyrene (OpenStreetMap): https://www.openstreetmap.org/search?query=cyrene#map=16/32.82080/21.85641
 - Aged around 82
 - Wikipedia: https://en.wikipedia.org/wiki/Eratosthenes
+
+### Sibylline Books
+
+![Erythraean Sibyl](https://upload.wikimedia.org/wikipedia/en/a/ad/Erythraeansibylbymichelangelo.jpg)
+
+*Michelangelo's rendering of the Erythraean Sibyl.*
+
+- Wikipedia: https://en.wikipedia.org/wiki/Sibylline_Books
 
 ### Sibylline Oracles
 
