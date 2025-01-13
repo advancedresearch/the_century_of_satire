@@ -204,6 +204,10 @@ These are online sources for people to learn more about specific events or histo
 
 ### Drusilla of Judea
 
+![Drusilla of Judea](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Drusilla_medal.svg/1920px-Drusilla_medal.svg.png)
+
+*Drusilla medallion from Promptuarium Iconum Insigniorum (1553).*
+
 - Birth place is possibly Emesa (since she was married to Gaius Julius Azizus, king of Emesa) (OpenStreetMap): https://www.openstreetmap.org/search?query=emesa#map=12/34.7258/36.7118
 - Aged 41, if she died in eruption of Mount Vesuvius
 - Wikipedia: https://en.wikipedia.org/wiki/Drusilla_(daughter_of_Herod_Agrippa)
