@@ -15,6 +15,7 @@ At the bottom of this page, you will find links to sources.
 - 276 to 194 BC: [Eratosthenes](#eratosthenes)
 - Early 69 BC or late 70 to 10 August 30 BC: [Cleopatra VII Thea Philopator](#cleopatra-vii-thea-philopator)
 - 12 July 100 to 15 March 44 BC: [Julius Caesar](#julius-caesar)
+- 34 or 2 BC to 54 CE: [Gaius Julius Azizus](#gaius-julius-azizus)
 - 5 to 10 CE (born, no date of death): [Antonius Felix](#antonius-felix)
 - 37 to 100 CE: [Josephus](#josephus)
 - 38 to 24 August 79 CE (might have died in eruption of Mount Vesuvius): [Drusilla of Judea](#drusilla-of-judea)
@@ -75,6 +76,12 @@ These are online sources for people to learn more about specific events or histo
 - Birth place Jerusalem (OpenStreetMap): https://www.openstreetmap.org/search?query=jerusalem#map=12/31.7962/35.1751
 - Aged 62-63
 - Wikipedia: https://en.wikipedia.org/wiki/Josephus
+
+### Gaius Julius Azizus
+
+- Birth place Emesa (OpenStreetMap): https://www.openstreetmap.org/search?query=emesa#map=8/34.726/36.712
+- Aged 65-97, highly depending on year of birth
+- Gini: https://www.geni.com/people/Azisus-Priest-King-of-Emesa/6000000000803852764
 
 ### Drusilla of Judea
 
