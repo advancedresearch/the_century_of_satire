@@ -70,6 +70,7 @@ These are online sources for people to learn more about specific events or histo
 
 - Also known as Felix of Ceasarea
 - Birth place Caesarea Maritima (OpenStreetMap): https://www.openstreetmap.org/search?query=Caesarea%20Maritima#map=19/32.501839/34.892447
+- Hired [Atomus](#atomus) to convince [Drusilla of Judea](#drusilla-of-judea) to divorce [Gaius Julius Azizus](#gaius-julius-azizus) to marry him instead
 - Wikipedia: https://en.wikipedia.org/wiki/Antonius_Felix
 
 ### Josephus
@@ -94,6 +95,12 @@ These are online sources for people to learn more about specific events or histo
 - Birth place is possibly Emesa (since she was married to Gaius Julius Azizus, king of Emesa) (OpenStreetMap): https://www.openstreetmap.org/search?query=emesa#map=12/34.7258/36.7118
 - Aged 41, if she died in eruption of Mount Vesuvius
 - Wikipedia: https://en.wikipedia.org/wiki/Drusilla_(daughter_of_Herod_Agrippa)
+
+### Atomus
+
+- Birth place Cyprus (OpenStreetMap): https://www.openstreetmap.org/search?query=cyprus#map=9/35.179/33.439
+- Aged (unknown, neither birth or death is known)
+- Wikipedia: https://en.wikipedia.org/wiki/Atomus
 
 ### Siege of Masada
 
