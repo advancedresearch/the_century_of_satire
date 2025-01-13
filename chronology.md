@@ -7,7 +7,7 @@ At the bottom of this page, you will find links to sources.
 
 ### Timeline
 
-- 384 to 322 BC [Aristotle]
+- 384 to 322 BC [Aristotle](#aristotle)
 - 323 to 283 BC [Establishment of the Library of Alexandria](#library-of-alexandria)
 - 72 to 73 CE: [Siege of Masada](#siege-of-masada)
 
