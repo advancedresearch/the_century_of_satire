@@ -44,6 +44,7 @@ Some images are included to give people a historical experience.
 - 5 to 10 CE (born, no date of death): [Antonius Felix](#antonius-felix)
 - 37 to 100 CE: [Josephus](#josephus)
 - 38 to 24 August 79 CE (might have died in eruption of Mount Vesuvius): [Drusilla of Judea](#drusilla-of-judea)
+- 18 September 53 to c. 9 August 117 CE: [Trajan](#trajan)
 - 61 to 113 CE: [Pliny the Younger](#pliny-the-younger)
 - 72 to 73 CE: [Siege of Masada](#siege-of-masada)
 - 85 to 160 CE: [Marcion of Sinope](#marcion-of-sinope)
@@ -289,6 +290,16 @@ These are online sources for people to learn more about specific events or histo
 - Reincarnated since the beginning of creation
 - Reincarnated as [Helen of Troy](#helen-of-troy)
 - Married to [Simon Magus](#simon-magus)
+
+### Trajan
+
+![Trajan](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Traianus_Glyptothek_Munich_336.jpg/1280px-Traianus_Glyptothek_Munich_336.jpg)
+
+*Head of Trajan (reign 98–117 CE), from an oversized statue (around 2.70 m height).*
+
+- Aged 63
+- Reign 28 January 98 – 9 August 117 CE
+- Wikipedia: https://en.wikipedia.org/wiki/Trajan
 
 ### Pliny the Younger
 
