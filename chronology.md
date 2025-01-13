@@ -264,6 +264,8 @@ These are online sources for people to learn more about specific events or histo
 
 *Head of the Colossus of Constantine, Capitoline Museums.*
 
+- Birth place Naissus (OpenStreetMap): https://www.openstreetmap.org/search?query=nish#map=11/43.3459/21.9422
+- Aged 65
 - Wikipedia: https://en.wikipedia.org/wiki/Constantine_the_Great
 
 ### Edict of Thessalonica
