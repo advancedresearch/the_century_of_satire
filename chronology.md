@@ -3,10 +3,31 @@
 To reconstruct 2nd century cultural literature context of Roman satire in Early Christian texts,
 it is useful to create a chronology of important events and when people lived.
 
+In many ways, Early Christianity in the 2nd century is a catalyst for change that turns the world history on its head.
+To demonstrate how these changes flow and build upon each other,
+there will be a red line that is focused on this part of history that goes through the entire timeline.
+
+The red line might be represented as the continuous propagation of an error made by [Plato](#plato)
+in his writings, when forgetting to include [Seshat](#seshat) as the female divine reflection of the male divine [Thoth](#thoth).
+Seshat and Thoth are two halves belonging together tied in a balance, guarded by the divine principle [Ma'at](#ma-at).
+
+This event caused a cataclysm, releasing some form of "Pharaoh's curse", that possibly doomed humanity.
+In order to make amends for this mistake, The Century of Satire project is meant to help people understand and experience historically what happened.
+
+The timeline starts with Seshat being carved on the back of the throne of Ramesses II in around 1250 BC,
+and ends with the discovery of [Joker Calculus](#joker-calculus) in 2021 by by Daniel Fischer, William Alexander Morris and Sven Nilsen.
+This forms a Seshatic-Platonic language bias cycle of 3270 years (notice that 0 CE = 1 BC).
+The middle of this cycle gives year 386 CE, only 6 years later than [Edict of Thessalonica](#edict-of-thessalonica).
+In 380 CE, the Roman empire codifies Christianity as orthodoxy and opens up the way for persecuting believers of other religions.
+Therefore, the first half of the Seshatic-Platonic cycle there is a trend of reducing Seshatic language bias in philosophy and culture,
+while the second half there is a trend of increasing Platonic language bias.
+
 At the bottom of this page, you will find links to sources.
+Some images are included to give people a historical experience.
 
 ## Timeline
 
+- 1250 BC: [Seshat is carved on back of the throne of Ramesses II in the Amun temple at Luxor](#seshat)
 - 428/427 or 424/423 to 348 BC: [Plato](#plato)
 - 384 to 322 BC: [Aristotle](#aristotle)
 - 323 to 30 BC: [Hellenistic period](#hellenistic-period)
@@ -21,16 +42,47 @@ At the bottom of this page, you will find links to sources.
 - 37 to 100 CE: [Josephus](#josephus)
 - 38 to 24 August 79 CE (might have died in eruption of Mount Vesuvius): [Drusilla of Judea](#drusilla-of-judea)
 - 72 to 73 CE: [Siege of Masada](#siege-of-masada)
+- 380 CE: [Edict of Thessalonica](#edict-of-thessalonica)
+- 2021 CE: [Joker Calculus is created](#joker-calculus)
 
 ## Sources
 
 These are online sources for people to learn more about specific events or historical characters.
 
+### Ma'at
+
+![Ma'at](https://upload.wikimedia.org/wikipedia/commons/c/c0/Maat.jpg)
+
+*Maat wearing the feather of truth*
+
+- Represented the normal and basic values that formed the backdrop for the application of justice that had to be carried out in the spirit of truth and fairness
+- Wikipedia: https://en.wikipedia.org/wiki/Maat
+
+### Seshat
+
+![Seshat](https://upload.wikimedia.org/wikipedia/commons/4/44/Luxor_temple_16.jpg)
+
+*Seshat carved on the back of the throne of the seated statue of Ramesses II in the Amun temple at Luxor. It dates from around 1250 BC.*
+
+- Inspiration for Seshatism, one modern version of dual-Platonism that forms one basic duls in [Joker Calculus](#joker-calculus)
+- Wikipedia: https://en.wikipedia.org/wiki/Seshat
+
+### Thoth
+
+![Thoth](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Abydos_Tempelrelief_Sethos_I._19.JPG/2560px-Abydos_Tempelrelief_Sethos_I._19.JPG)
+
+*Relief in the Temple of Seti I (Abydos) of Thoth giving the ankh to pharaoh Seti I.*
+
+- Wikipedia: https://en.wikipedia.org/wiki/Thoth
+
 ### Plato
 
 ![Plato](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Plato_Silanion_Musei_Capitolini_MC1377.jpg/1024px-Plato_Silanion_Musei_Capitolini_MC1377.jpg)
 
+*Plato, copy of the portrait made by Silanion ca. 370 BC for the Academia in Athens*
+
 - Birth place Athens (OpenStreetMap): https://www.openstreetmap.org/search?query=athens#map=11/37.9757/23.7348
+- The founder of Platonism, a philosophy of forms and abstraction and one of the basic duals in [Joker Calculus](#joker-calculus)
 - Wikipedia: https://en.wikipedia.org/wiki/Plato
 
 ### Zoology
@@ -148,3 +200,19 @@ These are online sources for people to learn more about specific events or histo
 
 - Historia Militum (English): https://www.youtube.com/watch?v=lFFDqhR-T7c
 - History & World (Italian): https://www.youtube.com/watch?v=akBIiu8EmCU
+
+### Edict of Thessalonica
+
+- The first known secular law which includes in its preamble a clear definition of what a Christian Roman ruler considers as religious orthodoxy, opening the way of repression against dissidents qualified as "heretics"
+- Wikipedia: https://en.wikipedia.org/wiki/Edict_of_Thessalonica
+
+### Joker Calculus
+
+![Reduction rules of Joker Calculus](https://github.com/user-attachments/assets/29270a84-4068-4ef7-ae5b-e73f6bbbeffb)
+
+*The reduction rules of Joker Calculus of two variants, where OJC is Open variant and CJC is Closed variant. CJC is stricter than OJC and is marked in bold.*
+
+- A calculus for language bias based on [Platonism](#plato) and [Seshatism](#seshat)
+- Created by Daniel Fischer, William Alexander Morris and Sven Nilsen (2021)
+- Used to analyze language bias in mathematical language design, art and history
+- AdvancedResearch: https://github.com/advancedresearch/joker_calculus
