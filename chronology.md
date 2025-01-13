@@ -149,7 +149,7 @@ These are online sources for people to learn more about specific events or histo
 
 ### Cleopatra VII Thea Philopator
 
-![Cleopatra](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Cleopatra_VII%2C_dalla_via_appia_tra_ariccia_e_genzano%2C_40-30_ac_ca._01.JPG/1280px-Cleopatra_VII%2C_dalla_via_appia_tra_ariccia_e_genzano%2C_40-30_ac_ca._01.JPG)
+![Cleopatra VII Thea Philopator](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Cleopatra_VII%2C_dalla_via_appia_tra_ariccia_e_genzano%2C_40-30_ac_ca._01.JPG/1280px-Cleopatra_VII%2C_dalla_via_appia_tra_ariccia_e_genzano%2C_40-30_ac_ca._01.JPG)
 
 *Bust of Cleopatra VII Thea Philopator, marble.*
 
@@ -157,6 +157,10 @@ These are online sources for people to learn more about specific events or histo
 - Wikipedia: https://en.wikipedia.org/wiki/Cleopatra
 
 ### Julius Caesar
+
+![Julius Caesar](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/1024px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg)
+
+*Bust of Julius Caesar*
 
 - Birth place Suburra (OpenStreetMap): https://www.openstreetmap.org/search?query=suburra#map=19/41.895099/12.490825
 - Aged 55
