@@ -33,22 +33,37 @@ These are online sources for people to learn more about specific events or histo
 - Birth place Athens (OpenStreetMap): https://www.openstreetmap.org/search?query=athens#map=11/37.9757/23.7348
 - Wikipedia: https://en.wikipedia.org/wiki/Plato
 
+### Zoology
+
+![Conrad Gessner](https://upload.wikimedia.org/wikipedia/commons/e/e0/Gessner_Conrad_1516-1565.jpg)
+
+*Conrad Gessner (1516–1565). His Historiae animalium is considered the beginning of modern zoology.*
+
+- Wikipedia: https://en.wikipedia.org/wiki/Zoology
+
 ### Aristotle
 
 ![Aristotle](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/1280px-Aristotle_Altemps_Inv8575.jpg)
 
+*Bust of Aristotle. Marble, Roman copy after a Greek bronze original by Lysippos from 330 BC; the alabaster mantle is a modern addition.*
+
 - Birth place Athens (OpenStreetMap): https://www.openstreetmap.org/search?query=athens#map=11/37.9757/23.7348
+- The world's first [Zoologist](#zoology)
 - Wikipedia: https://en.wikipedia.org/wiki/Aristotle
 
 ### Hellenistic period
 
 ![Hellenistic period](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Nike_of_Samothrake_Louvre_Ma2369_n4.jpg/1024px-Nike_of_Samothrake_Louvre_Ma2369_n4.jpg)
 
+*The Winged Victory of Samothrace (The Winged Nike) is considered one of the greatest masterpieces of Hellenistic art.*
+
 - Wikipedia: https://en.wikipedia.org/wiki/Hellenistic_period
 
 ### Mouseion
 
 ![Muse](https://upload.wikimedia.org/wikipedia/commons/5/5e/Greek_-_Leaning_Muse%2C_Probably_Polyhymnia_-_Walters_2390.jpg)
+
+*Muse statue, a common scholarly motif in the Hellenistic age.*
 
 - Institution that included [Library of Alexandria](#library-of-alexandria)
 - Wikipedia: https://en.wikipedia.org/wiki/Mouseion
