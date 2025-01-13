@@ -76,6 +76,15 @@ These are online sources for people to learn more about specific events or histo
 
 - Wikipedia: https://en.wikipedia.org/wiki/Thoth
 
+### Ramesses II
+
+![Ramesses II](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ramses_II_British_Museum.jpg/1024px-Ramses_II_British_Museum.jpg)
+
+*The Younger Memnon (c. 1250 BC), a statue depicting Ramesses II, from the Ramesseum in Thebes. Currently on display at the British Museum in London.*
+
+- Reign 1279 to 1213 BC
+- Wikipedia: https://en.wikipedia.org/wiki/Ramesses_II
+
 ### Plato
 
 ![Plato](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Plato_Silanion_Musei_Capitolini_MC1377.jpg/1024px-Plato_Silanion_Musei_Capitolini_MC1377.jpg)
