@@ -168,6 +168,10 @@ These are online sources for people to learn more about specific events or histo
 
 ### Antonius Felix
 
+![Antonius Felix](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Antonius_Felix_medal.svg/1920px-Antonius_Felix_medal.svg.png)
+
+*Antonius Felix medallion from Promptuarium Iconum Insigniorum.*
+
 - Also known as Felix of Ceasarea
 - Birth place Caesarea Maritima (OpenStreetMap): https://www.openstreetmap.org/search?query=Caesarea%20Maritima#map=19/32.501839/34.892447
 - Hired [Atomus](#atomus) to convince [Drusilla of Judea](#drusilla-of-judea) to divorce [Gaius Julius Azizus](#gaius-julius-azizus) to marry him instead
@@ -226,7 +230,7 @@ These are online sources for people to learn more about specific events or histo
 
 ![Reduction rules of Joker Calculus](https://github.com/user-attachments/assets/29270a84-4068-4ef7-ae5b-e73f6bbbeffb)
 
-*The reduction rules of Joker Calculus of two variants, where OJC is Open variant and CJC is Closed variant. CJC is stricter than OJC and is marked in bold.*
+*The reduction rules of Joker Calculus of two variants, where OJC is Open variant and CJC is Closed variant. CJC is stricter than OJC and is marked in bold. The "'" symbol marks an expression that has been pre-evaluated with current variant.*
 
 - A calculus for language bias based on [Platonism](#plato) and [Seshatism](#seshat)
 - Created by Daniel Fischer, William Alexander Morris and Sven Nilsen (2021)
