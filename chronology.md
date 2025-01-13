@@ -99,8 +99,14 @@ These are online sources for people to learn more about specific events or histo
 ### Atomus
 
 - Birth place Cyprus (OpenStreetMap): https://www.openstreetmap.org/search?query=cyprus#map=9/35.179/33.439
-- Aged (unknown, neither birth or death is known)
+- Aged unknown (neither birth or death is known)
 - Wikipedia: https://en.wikipedia.org/wiki/Atomus
+
+### Simon Magus
+
+- Birth place Samaria (OpenStreetMap): https://www.openstreetmap.org/search?query=32.275%C2%B0N%2035.190%C2%B0E#map=17/32.275000/35.190000
+- Aged unknow (neither birth or death is known)
+- Wikipedia: https://en.wikipedia.org/wiki/Simon_Magus
 
 ### Siege of Masada
 
