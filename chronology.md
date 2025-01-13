@@ -15,5 +15,5 @@ At the bottom of this page, you will find links to sources.
 
 ### Legio X Fretensis
 
+- Historia Militum (English) https://www.youtube.com/watch?v=lFFDqhR-T7c
 - History & World (Italian) https://www.youtube.com/watch?v=akBIiu8EmCU
-
