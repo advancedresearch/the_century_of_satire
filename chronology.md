@@ -5,16 +5,26 @@ it is useful to create a chronology of important events and when people lived.
 
 At the bottom of this page, you will find links to sources.
 
-### Timeline
+## Timeline
 
+- 428/427 or 424/423 to 348: [Plato](#plato)
 - 384 to 322 BC: [Aristotle](#aristotle)
 - 323 to 323 or 283 to 246 BC: [Establishment of the Library of Alexandria](#library-of-alexandria)
 - 72 to 73 CE: [Siege of Masada](#siege-of-masada)
 
+## Sources
+
+These are online sources for people to learn more about specific events or historical characters.
+
+### Plato
+
+- Birth place Athens (OpenStreetMap): https://www.openstreetmap.org/search?query=athens#map=11/37.9757/23.7348
+- Wikipedia: https://en.wikipedia.org/wiki/Plato
+
 ### Aristotle
 
-- Birth place: Athens (OpenStreetMap https://www.openstreetmap.org/search?query=athens#map=11/37.9757/23.7348)
-- Wikipedia https://en.wikipedia.org/wiki/Aristotle
+- Birth place Athens (OpenStreetMap): https://www.openstreetmap.org/search?query=athens#map=11/37.9757/23.7348
+- Wikipedia: https://en.wikipedia.org/wiki/Aristotle
 
 ### Library of Alexandria
 
