@@ -130,6 +130,10 @@ These are online sources for people to learn more about specific events or histo
 
 ### Septuagint
 
+![Fragment of Septuagint](https://upload.wikimedia.org/wikipedia/commons/f/f5/Codex_Vaticanus_%281_Esdras_1-55_to_2-5%29_%28The_S.S._Teacher%27s_Edition-The_Holy_Bible%29.jpg)
+
+*A portion of the Greek Uncial MS. Codex Vaticanus, from the Vatican Library. This image shows a passage from the New Testament and includes 1 Esdras 1:55-2:5.*
+
 - Language: Koine Greek, a dialect of Ancient Greek common in the Hellenistic period
 - Wikipedia: https://en.wikipedia.org/wiki/Septuagint
 
