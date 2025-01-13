@@ -44,6 +44,7 @@ Some images are included to give people a historical experience.
 - 5 to 10 CE (born, no date of death): [Antonius Felix](#antonius-felix)
 - 37 to 100 CE: [Josephus](#josephus)
 - 38 to 24 August 79 CE (might have died in eruption of Mount Vesuvius): [Drusilla of Judea](#drusilla-of-judea)
+- 61 to 113 CE: [Pliny the Younger](#pliny-the-younger)
 - 72 to 73 CE: [Siege of Masada](#siege-of-masada)
 - 85 to 160 CE: [Marcion of Sinope](#marcion-of-sinope)
 - 100 to 120 CE: [Saturninus of Antioch teaches about Jesus](#saturninus-of-antioch)
@@ -288,6 +289,16 @@ These are online sources for people to learn more about specific events or histo
 - Reincarnated since the beginning of creation
 - Reincarnated as [Helen of Troy](#helen-of-troy)
 - Married to [Simon Magus](#simon-magus)
+
+### Pliny the Younger
+
+![Pliny the Younger](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pline_le_Jeune%2C_Caius_Plinius_Caecilius_Secundus_%2861-114%29_CIPB1135_%28cropped%29.jpg/1280px-Pline_le_Jeune%2C_Caius_Plinius_Caecilius_Secundus_%2861-114%29_CIPB1135_%28cropped%29.jpg)
+
+*Engraving of Pliny the Younger.*
+
+- Birth place Novum Comum (OpenStreetMap): https://www.openstreetmap.org/search?query=como%20italy#map=10/45.9403/9.1674
+- Aged 52
+- Wikipedia: https://en.wikipedia.org/wiki/Pliny_the_Younger
 
 ### Siege of Masada
 
