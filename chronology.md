@@ -9,6 +9,7 @@ At the bottom of this page, you will find links to sources.
 
 - 428/427 or 424/423 to 348 BC: [Plato](#plato)
 - 384 to 322 BC: [Aristotle](#aristotle)
+- 323 to 30 BC: [Hellenistic period](#hellenistic-period)
 - 323 to 283 or 283 to 246 BC: [Establishment of the Library of Alexandria](#library-of-alexandria)
 - 3rd to 2nd century BC: [Composition of Septuagint](#septuagint)
 - 276 to 194 BC: [Eratosthenes](#eratosthenes)
@@ -28,6 +29,10 @@ These are online sources for people to learn more about specific events or histo
 
 - Birth place Athens (OpenStreetMap): https://www.openstreetmap.org/search?query=athens#map=11/37.9757/23.7348
 - Wikipedia: https://en.wikipedia.org/wiki/Aristotle
+
+### Hellenistic period
+
+- Wikipedia: https://en.wikipedia.org/wiki/Hellenistic_period
 
 ### Library of Alexandria
 
