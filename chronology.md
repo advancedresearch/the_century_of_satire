@@ -28,6 +28,7 @@ Some images are included to give people a historical experience.
 ## Timeline
 
 - 1250 BC: [Seshat is carved on back of the throne of Ramesses II in the Amun temple at Luxor](#seshat)
+- c. 8th century BC: [Homer](#homer)
 - 428/427 or 424/423 to 348 BC: [Plato](#plato)
 - 384 to 322 BC: [Aristotle](#aristotle)
 - 323 to 30 BC: [Hellenistic period](#hellenistic-period)
@@ -85,6 +86,27 @@ These are online sources for people to learn more about specific events or histo
 
 - Reign 1279 to 1213 BC
 - Wikipedia: https://en.wikipedia.org/wiki/Ramesses_II
+
+### Homer
+
+![Homer](https://upload.wikimedia.org/wikipedia/commons/1/1c/Homer_British_Museum.jpg)
+
+*Marble terminal bust of Homer. Roman copy of a lost Hellenistic original of the 2nd c. BCE.*
+
+- Resides at Chios (OpenStreetMap): https://www.openstreetmap.org/search?query=chios%20greece#map=10/38.3652/25.7259
+- Aged unknown (neither birth or death year is known)
+- Wikipedia: https://en.wikipedia.org/wiki/Homer
+
+### Helen of Troy
+
+![Helen of Troy](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Helen_of_Sparta_boards_a_ship_for_Troy_fresco_from_the_House_of_the_Tragic_Poet_in_Pompeii.jpg/800px-Helen_of_Sparta_boards_a_ship_for_Troy_fresco_from_the_House_of_the_Tragic_Poet_in_Pompeii.jpg)
+
+*Helen of Sparta boards a ship for Troy fresco from the House of the Tragic Poet in Pompeii.*
+
+- Birth place Sparta (OpenStreetMap): https://www.openstreetmap.org/search?query=sparta%20greece#map=16/37.08149/22.42854
+- Aged uknown (neither birth or death is known)
+- Important character in Homer's epic about the war on Troy
+- Wikipedia: https://en.wikipedia.org/wiki/Helen_of_Troy
 
 ### Plato
 
@@ -237,7 +259,15 @@ These are online sources for people to learn more about specific events or histo
 
 - Birth place Samaria (OpenStreetMap): https://www.openstreetmap.org/search?query=32.275%C2%B0N%2035.190%C2%B0E#map=17/32.275000/35.190000
 - Aged unknow (neither birth or death is known)
+- Married to [Helen of Tyre](#helen-of-tyre)
 - Wikipedia: https://en.wikipedia.org/wiki/Simon_Magus
+
+### Helen of Tyre
+
+- Goddess in Simonianism
+- Reincarnated since the beginning of creation
+- Reincarnated as [Helen of Troy](#helen-of-troy)
+- Married to [Simon Magus](#simon-magus)
 
 ### Siege of Masada
 
