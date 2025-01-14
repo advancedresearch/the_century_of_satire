@@ -94,7 +94,7 @@ one not just for art and poetry and specific sciences such as astronomy, but for
 She becomes married to Logos and these two words together becomes Zoology, the study of life and animals in particular.
 
 This is why Aristotle not only works on understanding animals, but also what makes people different from animals in nature.
-It was understood at the time that what enlightened a person was education,
+It was understood at the time that what enlightened a person, was education,
 but nature in the sense of animals would become for Aristotle a meaning of limits to potential.
 This view of limited potential influenced how Aristotle regarded women, as having less potential in education than men in this sense.
 
