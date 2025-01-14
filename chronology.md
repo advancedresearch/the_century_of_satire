@@ -86,8 +86,10 @@ These are online sources for people to learn more about specific events or histo
 
 - Ancient Egyptian goddess of writing, wisdom, and knowledge
 - Daughter of [Ma'at](#maat)
+- Consort of [Thoth](#thoth) in some myths
+- Daughter of [Thoth](#thoth) in some myths
 - Credited with inventing writing
-- Inspiration for Seshatism, one modern version of dual-Platonism that forms one basic duals in [Joker Calculus](#joker-calculus)
+- Inspiration for Seshatism, one modern version of dual-Platonism that forms one of the basic duals in [Joker Calculus](#joker-calculus)
 - Wikipedia: https://en.wikipedia.org/wiki/Seshat
 
 ### Thoth
