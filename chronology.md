@@ -383,7 +383,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Muse statue, a common scholarly motif in the Hellenistic age.*
 
-- Founded by [Ptolemy I Soter](#ptolemy-i-soter) and his son [Ptolemy II Philadelphus)(#ptolemy-ii-philadelphus)
+- Founded by [Ptolemy I Soter](#ptolemy-i-soter) and his son [Ptolemy II Philadelphus](#ptolemy-ii-philadelphus)
 - Institution that included [Library of Alexandria](#library-of-alexandria)
 - The name comes from [Muses](#muses), inspirational goddesses of literature, science and the arts
 - Wikipedia: https://en.wikipedia.org/wiki/Mouseion
