@@ -350,6 +350,10 @@ These are online sources for people to learn more about specific events or histo
 
 - Birth place Cyrene (OpenStreetMap): https://www.openstreetmap.org/search?query=cyrene#map=16/32.82080/21.85641
 - Aged around 82
+- Famous for developing an efficient algorithm for finding all primes (a prime sieve)
+- Believed the Earth was a sphere
+- Calculated the circumference of the sphere with 2% error
+- Founder of the discipline geography and coined the term
 - Wikipedia: https://en.wikipedia.org/wiki/Eratosthenes
 
 ### Sibylline Books
