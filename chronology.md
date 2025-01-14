@@ -280,6 +280,7 @@ These are online sources for people to learn more about specific events or histo
 *Historia animalium et al., Constantinople, 12th century (Biblioteca Medicea Laurenziana, pluteo 87.4).*
 
 - Written by [Aristotle](#aristotle)
+- One of the major texts on [zoology](#zoology)
 - Wikipedia: https://en.wikipedia.org/wiki/History_of_Animals
 
 ### Metaphysics
