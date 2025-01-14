@@ -179,6 +179,10 @@ These are online sources for people to learn more about specific events or histo
 
 ### Metaphysics
 
+![Metaphysics](https://upload.wikimedia.org/wikipedia/commons/a/a0/Meta-moerbeke_jpeg031-part.jpg)
+
+*Book 7 of the Metaphysics: From a manuscript of William of Moerbeke's translation.*
+
 - Written by [Aristotle](#aristotle)
 - Wikipedia: https://en.wikipedia.org/wiki/Metaphysics_(Aristotle)
 
