@@ -9,12 +9,12 @@ there will be a red line that is focused on this part of history that goes throu
 
 The red line might be represented as the continuous propagation of an error made by [Plato](#plato)
 in his writings, when forgetting to include [Seshat](#seshat) as the female divine reflection of the male divine [Thoth](#thoth).
-Seshat and Thoth are two halves belonging together tied in a balance, guarded by the divine principle [Ma'at](#ma-at).
+Seshat and Thoth are two halves belonging together tied in a balance, guarded by the divine principle [Ma'at](#maat).
 
 This event caused a cataclysm, releasing some form of "Pharaoh's curse", that possibly doomed humanity.
 In order to make amends for this mistake, The Century of Satire project is meant to help people understand and experience historically what happened.
 
-The timeline starts with Seshat being carved on the back of the throne of Ramesses II in around 1250 BC,
+The timeline starts with Seshat being carved on the back of the throne of a statue of Ramesses II in around 1250 BC,
 and ends with the discovery of [Joker Calculus](#joker-calculus) in 2021 by by Daniel Fischer, William Alexander Morris and Sven Nilsen.
 This forms a Seshatic-Platonic language bias cycle of 3270 years (notice that 0 CE = 1 BC).
 The middle of this cycle gives year 386 CE, only 6 years later than [Edict of Thessalonica](#edict-of-thessalonica).
@@ -27,7 +27,7 @@ Some images are included to give people a historical experience.
 
 ## Timeline
 
-- 1250 BC: [Seshat is carved on back of the throne of Ramesses II in the Amun temple at Luxor](#seshat)
+- 1250 BC: [Seshat is carved on back of the throne of a statue of Ramesses II in the Amun temple at Luxor](#seshat)
 - c. 8th century BC: [Homer](#homer)
 - 428/427 or 424/423 to 348 BC: [Plato](#plato)
 - 384 to 322 BC: [Aristotle](#aristotle)
@@ -85,7 +85,7 @@ These are online sources for people to learn more about specific events or histo
 *Seshat carved on the back of the throne of the seated statue of Ramesses II in the Amun temple at Luxor. It dates from around 1250 BC.*
 
 - Ancient Egyptian goddess of writing, wisdom, and knowledge
-- Daughter of [Ma'at](#ma-at)
+- Daughter of [Ma'at](#maat)
 - Credited with inventing writing
 - Inspiration for Seshatism, one modern version of dual-Platonism that forms one basic duals in [Joker Calculus](#joker-calculus)
 - Wikipedia: https://en.wikipedia.org/wiki/Seshat
@@ -97,7 +97,7 @@ These are online sources for people to learn more about specific events or histo
 *Relief in the Temple of Seti I (Abydos) of Thoth giving the ankh to pharaoh Seti I.*
 
 - Ancient Egyptian god of the Moon, wisdom, knowledge, writing, hieroglyphs, science, magic, art and judgment
-- Consort of [Ma'at](#ma-at)
+- Consort of [Ma'at](#maat) in some myths
 - Consort of [Seshat](#seshat) in some myths
 - Father of [Seshat](#seshat) in some myths
 - Wikipedia: https://en.wikipedia.org/wiki/Thoth
