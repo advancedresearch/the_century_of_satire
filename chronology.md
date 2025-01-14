@@ -138,6 +138,7 @@ These are online sources for people to learn more about specific events or histo
 - Resides at Chios (OpenStreetMap): https://www.openstreetmap.org/search?query=chios%20greece#map=10/38.3652/25.7259
 - Aged unknown (neither birth or death year is known)
 - Wrote [Odyssey](#odyssey)
+- Referred to by [Irenaeus](#irenaeus) in [Against Heresies](#against-heresies) to argue about theology
 - Wikipedia: https://en.wikipedia.org/wiki/Homer
 
 ### Odyssey
