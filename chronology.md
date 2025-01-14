@@ -29,6 +29,7 @@ Some images are included to give people a historical experience.
 
 - 1250 BC: [Seshat](#seshat) is carved on back of the throne of a statue of [Ramesses II](#ramesses-ii) in the Amun temple at Luxor
 - c. 8th century BC: [Homer](#homer)
+- 4th to 5th centiry BC: [The period of Classical Greece](#classical-greece)
 - 428/427 or 424/423 to 348 BC: [Plato](#plato)
 - 384 to 322 BC: [Aristotle](#aristotle)
 - c. 370 BC: [Plato's Phaedrus](#phaedrus) is composed
@@ -136,6 +137,10 @@ These are online sources for people to learn more about specific events or histo
 - Aged uknown (neither birth or death is known)
 - Important character in Homer's epic about the war on Troy
 - Wikipedia: https://en.wikipedia.org/wiki/Helen_of_Troy
+
+### Classical Greece
+
+- Wikipedia: https://en.wikipedia.org/wiki/Classical_Greece
 
 ### Plato
 
