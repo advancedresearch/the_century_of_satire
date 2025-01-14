@@ -194,7 +194,7 @@ These are online sources for people to learn more about specific events or histo
 - Birth place Sparta (OpenStreetMap): https://www.openstreetmap.org/search?query=sparta%20greece#map=16/37.08149/22.42854
 - Aged uknown (neither birth or death is known)
 - Important character in Homer's epic [Odyssey](#odyssey) about the war on Troy
-- [Simonians](#simonianism) believed [Helen of Tyre](#helen-of-tyre) had reincarnated as [Helen of Troy](#helen-of-troy)
+- [Simonians](#simonianism) believed [Helen of Tyre](#helen-of-tyre) had reincarnated as Helen of Troy
 - Wikipedia: https://en.wikipedia.org/wiki/Helen_of_Troy
 
 ### Classical Greece
@@ -500,6 +500,7 @@ These are online sources for people to learn more about specific events or histo
 
 - Highest god: [Simon Magus](#simon-magus)
 - Highest goddess: [Helen of Tyre](#helen-of-tyre)
+- Believed that [Helen of Tyre](#helen-of-tyre) was reincarnated as [Helen of Troy](#helen-of-troy)
 - Wikipedia: https://en.wikipedia.org/wiki/Simonians
 
 ### Trajan
