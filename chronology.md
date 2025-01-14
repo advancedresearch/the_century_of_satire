@@ -59,6 +59,7 @@ Some images are included to give people a historical experience.
 - c. 150 CE: [Gospel of Marcion is published](#gospel-of-marcion)
 - c. 155 to 157 CE: [Justin Martyr](#justin-martyr) publishes [First Apology](#first-apology)
 - 31 August 161 to 31 December 192 CE: [Commodus](#commodus)
+- c. 180 CE: [Irenaeus](#irenaeus) writes [Against Heresies](#against-heresies)
 - 192 CE: [Commodus](#commodus) is killed by [Marcia](#marcia) with help from [Narcissus](#narcissus-the-wrestler)
 - 193 CE: [Marcia](#marcia) is killed, and [Narcissus](#narcissus-the-wrestler) is killed around this time in civil wars
 - 27 February c. 272 to 22 May 337 CE: [Constantine the Great](#constantine-the-great)
@@ -449,7 +450,13 @@ These are online sources for people to learn more about specific events or histo
 
 - Birth place Smyrna (OpenStreetMap): https://www.openstreetmap.org/search?query=38%C2%B025%E2%80%B27%E2%80%B3N%2027%C2%B08%E2%80%B221%E2%80%B3E#map=12/38.4186/27.1392
 - Aged c. 72
+- Wrote [Against Heresies](#against-heresies)
 - Wikipedia: https://en.wikipedia.org/wiki/Irenaeus
+
+### Against Heresies
+
+- Written by [Irenaeus](#irenaeus)
+- Wikipedia: https://en.wikipedia.org/wiki/Against_Heresies_(Irenaeus)
 
 ### Commodus
 
