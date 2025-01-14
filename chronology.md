@@ -50,6 +50,7 @@ Some images are included to give people a historical experience.
 - 72 to 73 CE: [Siege of Masada](#siege-of-masada)
 - 85 to 160 CE: [Marcion of Sinope](#marcion-of-sinope)
 - 100 to 120 CE: [Saturninus of Antioch teaches about Jesus](#saturninus-of-antioch)
+- c. 100 to c. 165 CE: [Justin Martyr](#justin-martyr)
 - c. 110 CE: [Pliny the Younger writes a letter to Trajan about Christians](#pliny-the-younger-on-christians)
 - c. 150 CE: [Gospel of Marcion is published](#gospel-of-marcion)
 - 31 August 161 to 31 December 192 CE: [Commodus](#commodus)
@@ -373,6 +374,16 @@ These are online sources for people to learn more about specific events or histo
 - Birth place unknown
 - Aged unknown (neither birth or death year is known)
 - Wikipedia: https://en.wikipedia.org/wiki/Saturninus_of_Antioch
+
+### Justin Martyr
+
+![Icon of Justin Martyr](https://upload.wikimedia.org/wikipedia/commons/a/a7/Saint_Justin_Martyr_by_Theophanes_the_Cretan.jpg)
+
+*15th-century icon of Justin Martyr by Theophanes the Cretan*
+
+- Birth place Flavia Neapolis (OpenStreetMap): https://www.openstreetmap.org/search?query=nablus#map=14/32.22766/35.25037
+- Aged c. 65
+- Wikipedia: https://en.wikipedia.org/wiki/Justin_Martyr
 
 ### Commodus
 
