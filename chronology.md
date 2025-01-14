@@ -55,6 +55,7 @@ Some images are included to give people a historical experience.
 - c. 110 CE: [Pliny the Younger writes a letter to Trajan about Christians](#pliny-the-younger-on-christians)
 - c. 110 to c. 180 CE: [Hegesippus](#hegesippus)
 - c. 150 CE: [Gospel of Marcion is published](#gospel-of-marcion)
+- c. 155 to 157 CE: [Justin Martyr](#justin-martyr) publishes [First Apology](#first-apology)
 - 31 August 161 to 31 December 192 CE: [Commodus](#commodus)
 - 192 CE: [Commodus](#commodus) is killed by [Marcia](#marcia) with help from [Narcissus](#narcissus-the-wrestler)
 - 193 CE: [Marcia](#marcia) is killed, and [Narcissus](#narcissus-the-wrestler) is killed around this time in civil wars
@@ -390,6 +391,10 @@ These are online sources for people to learn more about specific events or histo
 - Birth place Flavia Neapolis (OpenStreetMap): https://www.openstreetmap.org/search?query=nablus#map=14/32.22766/35.25037
 - Aged c. 65
 - Wikipedia: https://en.wikipedia.org/wiki/Justin_Martyr
+
+### First Apology
+
+- Wikipedia: https://en.wikipedia.org/wiki/First_Apology_of_Justin_Martyr
 
 ### Hegesippus
 
