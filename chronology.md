@@ -368,6 +368,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Screenshot of ancient Alexandria (reconstruction) from Assassins Creed: Origins by Ubisoft Studios*
 
+- Established by the institutions [Mouseion](#mouseion)
 - Wikipedia: https://en.wikipedia.org/wiki/Library_of_Alexandria
 
 ### Septuagint
