@@ -248,6 +248,7 @@ These are online sources for people to learn more about specific events or histo
 
 - Goddess of epic poetry
 - One of the [Muses](#muses)
+- Portrayed holding a copy of the [Odyssey](#odyssey)
 - Wikipedia: https://en.wikipedia.org/wiki/Calliope
 
 ### Mouseion
