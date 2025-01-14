@@ -46,6 +46,7 @@ Some images are included to give people a historical experience.
 - 38 to 24 August 79 CE (might have died in eruption of Mount Vesuvius): [Drusilla of Judea](#drusilla-of-judea)
 - 18 September 53 to c. 9 August 117 CE: [Trajan](#trajan)
 - 61 to 113 CE: [Pliny the Younger](#pliny-the-younger)
+- c. 69 to after c. 122: [Suetonius](#suetonius)
 - 72 to 73 CE: [Siege of Masada](#siege-of-masada)
 - 85 to 160 CE: [Marcion of Sinope](#marcion-of-sinope)
 - 100 to 120 CE: [Saturninus of Antioch teaches about Jesus](#saturninus-of-antioch)
@@ -324,6 +325,16 @@ These are online sources for people to learn more about specific events or histo
 *Fragment of an inscription bearing the name Pliny, Basilica of Sant'Ambrogio, Milan*
 
 - Wikipedia: https://en.wikipedia.org/wiki/Pliny_the_Younger_on_Christians
+
+### Suetonius
+
+![Suetonius](https://upload.wikimedia.org/wikipedia/commons/0/0f/Suetonius_etching_%28cropped%29.jpg)
+
+*19th-century etching of Suetonius*
+
+- Birth place Hippo Regius (OpenStreetMap): https://www.openstreetmap.org/search?query=36%C2%B052%E2%80%B257%E2%80%B3N%2007%C2%B045%E2%80%B200%E2%80%B3E#map=13/36.88250/7.75000
+- Aged 53-54
+- Wikipedia: https://en.wikipedia.org/wiki/Suetonius
 
 ### Siege of Masada
 
