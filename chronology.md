@@ -455,6 +455,10 @@ These are online sources for people to learn more about specific events or histo
 
 ### Against Heresies
 
+![Fragment of Against Heresies](https://upload.wikimedia.org/wikipedia/commons/e/e6/POxy405.jpg)
+
+*P. Oxyrhynchus 405 – fragment of Against Heresies from c. 200 AD*
+
 - Written by [Irenaeus](#irenaeus)
 - Wikipedia: https://en.wikipedia.org/wiki/Against_Heresies_(Irenaeus)
 
