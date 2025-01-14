@@ -403,6 +403,18 @@ These are online sources for people to learn more about specific events or histo
 - Myth from the book of Genesis in the [Septuagint](#septuagint)
 - Wikipedia: https://en.wikipedia.org/wiki/Garden_of_Eden
 
+### Gymnasium
+
+![Pompeii gymnasium](https://upload.wikimedia.org/wikipedia/commons/b/b1/Palestra%2C_Pompeii.jpg)
+
+*Pompeii gymnasium, from the top of the stadium wall*
+
+- Functioned as a training facility for competitors in public games
+- Also a place for socializing and engaging in intellectual pursuits
+- Taught physical skills and social discourse as well as reading, writing, arithmetic, poetry, and music
+- [Eratosthenes](#eratosthenes) likely went to a local gymnasium where he was born
+- Wikipedia: https://en.wikipedia.org/wiki/Gymnasium_(ancient_Greece)
+
 ### Eratosthenes
 
 ![Erastosthenes](https://upload.wikimedia.org/wikipedia/commons/f/fa/Eratosthenes_profile.png)
@@ -411,6 +423,7 @@ These are online sources for people to learn more about specific events or histo
 
 - Birth place Cyrene (OpenStreetMap): https://www.openstreetmap.org/search?query=cyrene#map=16/32.82080/21.85641
 - Aged around 82
+- Likely studied at the local [gymnasium](#gymnasium)
 - Famous for developing an efficient algorithm for finding all primes (a prime sieve)
 - Believed the Earth was a sphere
 - Calculated the circumference of the sphere with 2% error
