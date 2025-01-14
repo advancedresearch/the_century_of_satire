@@ -585,6 +585,7 @@ These are online sources for people to learn more about specific events or histo
 ### Edict of Thessalonica
 
 - The first known secular law which includes in its preamble a clear definition of what a Christian Roman ruler considers as religious orthodoxy, opening the way of repression against dissidents qualified as "heretics"
+- Result of violent dispute about [theology](#theology)
 - Wikipedia: https://en.wikipedia.org/wiki/Edict_of_Thessalonica
 
 ### Joker Calculus
