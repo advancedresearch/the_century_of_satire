@@ -175,6 +175,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Conrad Gessner (1516–1565). His Historiae animalium is considered the beginning of modern zoology.*
 
+- [Aristotle](#aristotle) is considered the world's first zoologist
 - Wikipedia: https://en.wikipedia.org/wiki/Zoology
 
 ### Aristotle
