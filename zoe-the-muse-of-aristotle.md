@@ -43,7 +43,7 @@ Midas wished that everything he touched would turn into gold.
 The king dances of joy in the garden of his daughter Zoe (Life) and touches the plants.
 However, when dinner time comes, Midas discovers that he has no food to eat,
 because he gets it from Zoe's garden.
-Sad and hungry, Midas becomes depressed and sit down on his throne.
+Sad and hungry, Midas becomes depressed and sits down on his throne.
 However, Zoe discovers that her plants have turned into gold and runs to her father Midas crying.
 She embraces him, but at the touch, Zoe turns into a golden statue.
 Midas is heartbroken and asks Dionysus for help.
