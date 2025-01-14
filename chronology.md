@@ -215,8 +215,19 @@ These are online sources for people to learn more about specific events or histo
 - Inspirational goddesses of literature, science, and the arts
 - Used as inspiration in establishment of the institution [Mouseion](#mouseion)
 - Number and names of the Muses differed by region
-- Standardized to nine in the [Classical period](#classical-greece)
+- Standardized to nine in the [Classical period](#classical-greece):
+[Calliope](#calliope), Clio, Polyhymnia, Euterpe, Terpsichore, Erato, Melpomene, Thalia and Urania
 - Wikipedia: https://en.wikipedia.org/wiki/Muses
+
+### Calliope
+
+![Calliope](https://upload.wikimedia.org/wikipedia/commons/d/d7/Calliope.jpg)
+
+*Detail of painting The Muses Urania and Calliope by Simon Vouet, in which she holds a copy of the Odyssey.*
+
+- Goddess of epic poetry
+- One of the [Muses](#muses)
+- Wikipedia: https://en.wikipedia.org/wiki/Calliope
 
 ### Mouseion
 
