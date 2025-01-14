@@ -190,7 +190,7 @@ to give it the particular meaning of a reincarnated goddess that is the consort 
 The fact that Helen of Tyre works a little differently in Simonianism,
 might be a hint of Zoe as some kind of invention that Early Christians make to compete for followers.
 In that sense, there might be no tradition being passed down in a continuous line of people from Aristotle's work,
-yet at the same time, the close gap in language and use words can result in this idea being reinvented multiple times.
+yet at the same time, the close gap in language and use of words can result in this idea being reinvented multiple times.
 
 Later, when people start to regard Ancient Hebrew as the "authentic" language in Western Europe,
 they dismiss Zoe as a divine concept and try to reverse engineer the Septuagint to see how it fits into a Hebrew tradition.
