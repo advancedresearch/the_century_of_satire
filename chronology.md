@@ -71,6 +71,14 @@ Some images are included to give people a historical experience.
 
 These are online sources for people to learn more about specific events or historical characters.
 
+### Comparative Religion
+
+![Ecclesia and Synagoga](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ecclesia_et_Synagoga.jpg/1024px-Ecclesia_et_Synagoga.jpg)
+
+*In Christian art, the sculpted figures Ecclesia and Synagoga compare the Church with Judaism.*
+
+- Wikipedia: https://en.wikipedia.org/wiki/Comparative_religion
+
 ### Ma'at
 
 ![Ma'at](https://upload.wikimedia.org/wikipedia/commons/c/c0/Maat.jpg)
@@ -94,6 +102,7 @@ These are online sources for people to learn more about specific events or histo
 - Daughter of [Thoth](#thoth) in some myths
 - Credited with inventing writing
 - Forgotten by [Plato](#plato) when he mentions [Thoth](#thoth) in his work [Phaedrus](#phaedrus)
+- In [comparative religion](#comparative-religion), Ancient Greeks would considered Seshat a [Muse](#muses) kind of goddess
 - Inspiration for Seshatism, one modern version of dual-Platonism that forms one of the basic duals in [Joker Calculus](#joker-calculus)
 - Wikipedia: https://en.wikipedia.org/wiki/Seshat
 
