@@ -138,7 +138,7 @@ These are online sources for people to learn more about specific events or histo
 - Resides at Chios (OpenStreetMap): https://www.openstreetmap.org/search?query=chios%20greece#map=10/38.3652/25.7259
 - Aged unknown (neither birth or death year is known)
 - Wrote [Odyssey](#odyssey)
-- Referred to by [Irenaeus](#irenaeus) in [Against Heresies](#against-heresies) to argue about theology
+- Referred to by [Irenaeus](#irenaeus) in [Against Heresies](#against-heresies) to argue about [theology](#theology)
 - Wikipedia: https://en.wikipedia.org/wiki/Homer
 
 ### Odyssey
@@ -501,6 +501,15 @@ These are online sources for people to learn more about specific events or histo
 - Aged c. 70
 - Wikipedia: https://en.wikipedia.org/wiki/Hegesippus_(chronicler)
 
+### Theology
+
+![Plato and Aristotle](https://en.wikipedia.org/wiki/Theology#/media/File:Sanzio_01_Plato_Aristotle.jpg)
+
+*Plato (left) and Aristotle in Raphael's 1509 fresco The School of Athens.*
+
+- The term "theology" derives from the Greek theologia (θεολογία), a combination of theos (Θεός, 'god') and logia (λογία, 'utterances, sayings, oracles')—the latter word relating to Greek logos (λόγος, 'word, discourse, account, reasoning')
+- Wikipedia: https://en.wikipedia.org/wiki/Theology
+
 ### Irenaeus
 
 ![Irenaeus](https://upload.wikimedia.org/wikipedia/commons/a/a3/Ireneaus3p.jpg)
@@ -519,7 +528,7 @@ These are online sources for people to learn more about specific events or histo
 *P. Oxyrhynchus 405 – fragment of Against Heresies from c. 200 CE.*
 
 - Written by [Irenaeus](#irenaeus)
-- Uses [Homer](#homer) in an argument about theology
+- Uses [Homer](#homer) in an argument about [theology](#theology)
 - Wikipedia: https://en.wikipedia.org/wiki/Against_Heresies_(Irenaeus)
 
 ### Commodus
