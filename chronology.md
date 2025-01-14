@@ -157,6 +157,7 @@ These are online sources for people to learn more about specific events or histo
 - Daughter of [Midas](#midas) in some versions of the [King Midas Myth](#king-midas-myth)
 - Turned to a golden statue by the touch of her father [King Midas](#king-midas-myth) in some version of the myth
 - Mentioned by [Irenaeus](#irenaeus) as a goddess in [Against Heresies](#against-heresies) in an argument about [theology](#theology)
+- Consort of [Jesus](#jesus) in [Against Heresies](#against-heresies) by [Irenaeus](#irenaeus)
 - Wikipedia (name): https://en.wikipedia.org/wiki/Zoe_(name)
 
 ### Homer
@@ -246,8 +247,10 @@ These are online sources for people to learn more about specific events or histo
 
 ### Logos
 
-- Greek "λόγος" meaning "knowledge", "stydy" or "reason"
+- Greek "λόγος" meaning "knowledge", "study" or "reason"
 - Second half of the term for [Zoology](#zoology)
+- Consort of [Zoe](#zoe) in [Against Heresies](#against-heresies) by [Irenaeus](#irenaeus)
+- Greek philosophical concept associated with [Jesus](#jesus)
 
 ### Zoology
 
@@ -594,6 +597,15 @@ These are online sources for people to learn more about specific events or histo
 - Aged c. 70
 - Wikipedia: https://en.wikipedia.org/wiki/Hegesippus_(chronicler)
 
+### Jesus
+
+![Paint on plaster of Jesus healing a paralytic](https://www.oldest.org/wp-content/uploads/2017/12/The-Healing-of-the-Paralytic.jpg)
+
+*Paint on plaster of Jesus healing a paralytic c. 235 CE from Dura-Europos, Syria*
+
+- Wikipedia: https://en.wikipedia.org/wiki/Jesus
+- Oldest.org "Oldest Paintings of Jesus in the world": https://www.oldest.org/artliterature/jesus-paintings/
+
 ### Theology
 
 ![Plato and Aristotle](https://upload.wikimedia.org/wikipedia/commons/9/98/Sanzio_01_Plato_Aristotle.jpg)
@@ -626,6 +638,7 @@ These are online sources for people to learn more about specific events or histo
 - Written by [Irenaeus](#irenaeus)
 - Uses [Homer](#homer) in an argument about [theology](#theology)
 - Mentions [Zoe](#zoe) as a goddess in an argument about [theology](#theology)
+- Mentions [Zoe](#zoe) as a consort of [Jesus](#jesus)
 - Wikipedia: https://en.wikipedia.org/wiki/Against_Heresies_(Irenaeus)
 
 ### Commodus
