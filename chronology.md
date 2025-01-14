@@ -174,7 +174,13 @@ These are online sources for people to learn more about specific events or histo
 
 - Birth place Athens (OpenStreetMap): https://www.openstreetmap.org/search?query=athens#map=11/37.9757/23.7348
 - The world's first [Zoologist](#zoology)
+- Wrote [Metaphysics](#metaphysics)
 - Wikipedia: https://en.wikipedia.org/wiki/Aristotle
+
+### Metaphysics
+
+- Written by [Aristotle](#aristotle)
+- Wikipedia: https://en.wikipedia.org/wiki/Metaphysics_(Aristotle)
 
 ### Hellenistic period
 
