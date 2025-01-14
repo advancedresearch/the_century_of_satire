@@ -204,7 +204,7 @@ An intellectual inspiration to find out the "secret history" of Christianity and
 
 It seems like all intellectuals at the highest level of education "discovers" Zoe, the intellectual Muse, or Seshatism, at some point in their career.
 For example, Pragmatism or Nominalism, which are different ways people seek to create a dual of Platonism.
-This is because it is simply dual-Platonism, or the other half of Logos, but instead of one, it is many.
+This is because it is simply dual-Platonism, or the other half of Logos, but instead of one, there are many.
 Yet, a further step in enlightenment is that this has been rediscovered by all these people, it did not happen once.
 One can also predict that it will be rediscovered in the future too.
 This works like a transcendent social bond across times and places that are disconnected by information networks.
