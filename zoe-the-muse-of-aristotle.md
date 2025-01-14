@@ -176,7 +176,7 @@ One hypothesis is that Christianity gets access to Aristotle when Constantine th
 However, the capital that Constantine establishes, is located exactly at the same spot as the center of the later Byzantine empire:
 The capital of the Byzantine empire is Constantinople, the city established by Constantine the Great.
 
-This leads to a conondrum that if people in Western Europe received texts of Aristotle from Constantinople,
+This leads to a conundrum that if people in Western Europe received texts of Aristotle from Constantinople,
 they would have access to the information network to supply them with more texts than they had right after the fall of the Byzantine empire.
 With other words, a more likely hypothesis is that works of Aristotle they know about is passed down by generations.
 
