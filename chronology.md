@@ -524,6 +524,7 @@ These are online sources for people to learn more about specific events or histo
 
 - The term "theology" derives from the Greek theologia (θεολογία), a combination of theos (Θεός, 'god') and logia (λογία, 'utterances, sayings, oracles')—the latter word relating to Greek logos (λόγος, 'word, discourse, account, reasoning')
 - Used by [Plato](#plato) in his work [The Republic](#the-republic)
+- Central theme in [Against Heresies](#against-heresies) by [Irenaeus](#irenaeus)
 - Wikipedia: https://en.wikipedia.org/wiki/Theology
 
 ### Irenaeus
