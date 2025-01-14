@@ -32,8 +32,9 @@ Some images are included to give people a historical experience.
 - 4th to 5th centiry BC: [The period of Classical Greece](#classical-greece)
 - 428/427 or 424/423 to 348 BC: [Plato](#plato)
 - 384 to 322 BC: [Aristotle](#aristotle)
-- c. 370 BC: [Plato's Phaedrus](#phaedrus) is composed
 - c. 375 BC: [Plato](#plato) authors [The Republic](#the-republic)
+- c. 370 BC: [Plato's Phaedrus](#phaedrus) is composed
+- Between mid 4th century to 322 BC: [Aristotle](#aristotle) writes [History of Animals](#history-of-animals)
 - 323 to 30 BC: [Hellenistic period](#hellenistic-period)
 - 323 to 283 or 283 to 246 BC: [Establishment of the Library of Alexandria](#library-of-alexandria)
 - 3rd to 2nd century BC: [Composition of Septuagint](#septuagint)
@@ -266,10 +267,20 @@ These are online sources for people to learn more about specific events or histo
 
 - Birth place Athens (OpenStreetMap): https://www.openstreetmap.org/search?query=athens#map=11/37.9757/23.7348
 - The world's first [Zoologist](#zoology)
+- Wrote [History of Animals](#history-of-animals)
 - Wrote [Metaphysics](#metaphysics)
 - Student of [Plato](#plato)
 - Saw men as as superior in nature to women, see [reference](#plato-and-aristotle-on-the-nature-of-women)
 - Wikipedia: https://en.wikipedia.org/wiki/Aristotle
+
+### History of Animals
+
+![History of Animals](https://en.wikipedia.org/wiki/History_of_Animals#/media/File:Costantinopoli,_aristotele,_historia_animalium_e_altri_scritti,_xii_sec.,_pluteo_87,4.JPG)
+
+*Historia animalium et al., Constantinople, 12th century (Biblioteca Medicea Laurenziana, pluteo 87.4).*
+
+- Written by [Aristotle](#aristotle)
+- Wikipedia: https://en.wikipedia.org/wiki/History_of_Animals
 
 ### Metaphysics
 
