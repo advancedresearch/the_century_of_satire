@@ -127,7 +127,17 @@ These are online sources for people to learn more about specific events or histo
 
 - Resides at Chios (OpenStreetMap): https://www.openstreetmap.org/search?query=chios%20greece#map=10/38.3652/25.7259
 - Aged unknown (neither birth or death year is known)
+- Wrote [Odyssey](#odyssey)
 - Wikipedia: https://en.wikipedia.org/wiki/Homer
+
+### Odyssey
+
+![Fragment of Odyssey](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Fragment_Odyssee_2245_2.jpg/1024px-Fragment_Odyssee_2245_2.jpg)
+
+*Papyrus, fragment of the Odyssey (books IX and X), found at Medinet Ghoram (P. Jouguet excavations), 3rd century BC. Oldest preserved manuscript of the Odyssey. Institute of Papyrology of the Sorbonne, inv.Sorb.2245.*
+
+- Written by [Homer](#homer)
+- Wikipedia: https://en.wikipedia.org/wiki/Odyssey
 
 ### Helen of Troy
 
