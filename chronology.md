@@ -75,6 +75,7 @@ These are online sources for people to learn more about specific events or histo
 *Maat wearing the feather of truth*
 
 - Represented the normal and basic values that formed the backdrop for the application of justice that had to be carried out in the spirit of truth and fairness
+- Mother of [Seshat](#seshat)
 - Wikipedia: https://en.wikipedia.org/wiki/Maat
 
 ### Seshat
@@ -83,6 +84,9 @@ These are online sources for people to learn more about specific events or histo
 
 *Seshat carved on the back of the throne of the seated statue of Ramesses II in the Amun temple at Luxor. It dates from around 1250 BC.*
 
+- Ancient Egyptian goddess of writing, wisdom, and knowledge
+- Daughter of [Ma'at](#ma-at)
+- Credited with inventing writing
 - Inspiration for Seshatism, one modern version of dual-Platonism that forms one basic duals in [Joker Calculus](#joker-calculus)
 - Wikipedia: https://en.wikipedia.org/wiki/Seshat
 
@@ -92,6 +96,10 @@ These are online sources for people to learn more about specific events or histo
 
 *Relief in the Temple of Seti I (Abydos) of Thoth giving the ankh to pharaoh Seti I.*
 
+- Ancient Egyptian god of the Moon, wisdom, knowledge, writing, hieroglyphs, science, magic, art and judgment
+- Consort of [Ma'at](#ma-at)
+- Consort of [Seshat](#seshat) in some myths
+- Father of [Seshat](#seshat) in some myths
 - Wikipedia: https://en.wikipedia.org/wiki/Thoth
 
 ### Ramesses II
