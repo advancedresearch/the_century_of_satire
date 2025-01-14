@@ -108,6 +108,8 @@ These are online sources for people to learn more about specific events or histo
 - Daughter of [Thoth](#thoth) in some myths
 - Credited with inventing writing
 - Forgotten by [Plato](#plato) when he mentions [Thoth](#thoth) in his work [Phaedrus](#phaedrus)
+- Does not have a dedicated cult in the historical record
+- Since Seshat has no cult, it might be possible she functioned as an intellectual [Muse](#muses)
 - In [comparative religion](#comparative-religion), Ancient Greeks would considered Seshat a [Muse](#muses) kind of goddess
 - Inspiration for Seshatism, one modern version of dual-Platonism that forms one of the basic duals in [Joker Calculus](#joker-calculus)
 - Wikipedia: https://en.wikipedia.org/wiki/Seshat
