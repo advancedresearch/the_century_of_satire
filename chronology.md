@@ -198,6 +198,10 @@ These are online sources for people to learn more about specific events or histo
 
 ### The Republic
 
+![Title page of The Republic](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Politeia_beginning._Codex_Parisinus_graecus_1807.jpg/1024px-Politeia_beginning._Codex_Parisinus_graecus_1807.jpg)
+
+*Title page of the oldest complete manuscript of The Republic by Plato: Paris, Bibliothèque Nationale, Gr. 1807 (late 9th century).*
+
 - Written by [Plato](#plato)
 - Uses the term "θεολογία" (Greek) for [theology](#theology) with meaning "discourse of God"
 - Wikipedia: https://en.wikipedia.org/wiki/Republic_(Plato)
