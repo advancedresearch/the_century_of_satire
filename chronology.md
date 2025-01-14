@@ -178,6 +178,8 @@ These are online sources for people to learn more about specific events or histo
 - Wrote [Phaedrus](#phaedrus)
 - Wrote [The Republic](#the-republic)
 - Wrote about [Thoth](#thoth) in [Phaedrus](#phaedrus)
+- Wrote about [theology](#theology) in [The Republic](#the-republic)
+- As far as we know, never wrote about [Seshat](#seshat)
 - Teacher of [Aristotle](#aristotle)
 - The founder of Platonism, a philosophy of forms and abstraction and one of the basic duals in [Joker Calculus](#joker-calculus)
 - Wikipedia: https://en.wikipedia.org/wiki/Plato
@@ -190,6 +192,7 @@ These are online sources for people to learn more about specific events or histo
 
 - Full title "Euthyphro Apology ; Crito ; Phaedo ; Phaedrus"
 - Written by [Plato](#plato)
+- Mentions [Thoth](#thoth)
 - Archive (Greek and English side by side): https://archive.org/details/euthyphroapology00plat_520/mode/2up
 - Wikipedia: https://en.wikipedia.org/wiki/Phaedrus_(dialogue)
 
