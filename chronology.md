@@ -76,6 +76,7 @@ These are online sources for people to learn more about specific events or histo
 
 - Represented the normal and basic values that formed the backdrop for the application of justice that had to be carried out in the spirit of truth and fairness
 - Mother of [Seshat](#seshat)
+- Consort of [Thoth](#thoth) in some myths
 - Wikipedia: https://en.wikipedia.org/wiki/Maat
 
 ### Seshat
