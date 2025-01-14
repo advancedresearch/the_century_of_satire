@@ -225,7 +225,9 @@ These are online sources for people to learn more about specific events or histo
 - The world's first [Zoologist](#zoology)
 - Wrote [Metaphysics](#metaphysics)
 - Student of [Plato](#plato)
+- Saw men as as superior in nature to women
 - Wikipedia: https://en.wikipedia.org/wiki/Aristotle
+- Grunge.com "The truth about Aristotle's love life": https://www.grunge.com/600496/the-truth-about-aristotles-love-life/
 
 ### Metaphysics
 
