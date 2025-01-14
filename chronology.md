@@ -48,6 +48,7 @@ Some images are included to give people a historical experience.
 - 61 to 113 CE: [Pliny the Younger](#pliny-the-younger)
 - c. 69 to after c. 122: [Suetonius](#suetonius)
 - 72 to 73 CE: [Siege of Masada](#siege-of-masada)
+- 79 CE: [Eruption of Mount Vesuvius](#eruption-of-mount-vesuvius)
 - 85 to 160 CE: [Marcion of Sinope](#marcion-of-sinope)
 - 100 to 120 CE: [Saturninus of Antioch teaches about Jesus](#saturninus-of-antioch)
 - c. 100 to c. 165 CE: [Justin Martyr](#justin-martyr)
@@ -350,6 +351,10 @@ These are online sources for people to learn more about specific events or histo
 
 - Historia Militum (English): https://www.youtube.com/watch?v=lFFDqhR-T7c
 - History & World (Italian): https://www.youtube.com/watch?v=akBIiu8EmCU
+
+### Eruption of Mount Vesuvius
+
+- Wikipedia: https://en.wikipedia.org/wiki/Eruption_of_Mount_Vesuvius_in_79_AD
 
 ### Marcion of Sinope
 
