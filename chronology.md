@@ -517,6 +517,7 @@ These are online sources for people to learn more about specific events or histo
 *P. Oxyrhynchus 405 – fragment of Against Heresies from c. 200 CE.*
 
 - Written by [Irenaeus](#irenaeus)
+- Uses [Homer](#homer) in an argument about theology
 - Wikipedia: https://en.wikipedia.org/wiki/Against_Heresies_(Irenaeus)
 
 ### Commodus
