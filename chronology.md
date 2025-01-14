@@ -482,15 +482,23 @@ These are online sources for people to learn more about specific events or histo
 
 - Birth place Samaria (OpenStreetMap): https://www.openstreetmap.org/search?query=32.275%C2%B0N%2035.190%C2%B0E#map=17/32.275000/35.190000
 - Aged unknow (neither birth or death is known)
+- God in [Simonianism](#simonianism)
 - Married to [Helen of Tyre](#helen-of-tyre)
 - Wikipedia: https://en.wikipedia.org/wiki/Simon_Magus
 
 ### Helen of Tyre
 
-- Goddess in Simonianism
+- Goddess in [Simonianism](#simonianism)
+- Married to [Simon Magus](#simon-magus)
 - Reincarnated since the beginning of creation
 - Reincarnated as [Helen of Troy](#helen-of-troy)
 - Married to [Simon Magus](#simon-magus)
+
+### Simonianism
+
+- Highest god: [Simon Magus](#simon-magus)
+- Highest goddess: [Helen of Tyre](#helen-of-tyre)
+- Wikipedia: https://en.wikipedia.org/wiki/Simonians
 
 ### Trajan
 
