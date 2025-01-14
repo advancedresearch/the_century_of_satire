@@ -339,7 +339,7 @@ These are online sources for people to learn more about specific events or histo
 - Number and names of the Muses differed by region
 - Standardized to nine in the [Classical period](#classical-greece):
 [Calliope](#calliope), Clio, Polyhymnia, Euterpe, Terpsichore, Erato, Melpomene, Thalia and Urania
-- In [comparative religion](#comparative-religion), Ancient Greeks might have considered [Seshat] a kind of Muse goddess
+- In [comparative religion](#comparative-religion), Ancient Greeks might have considered [Seshat](#seshat) a kind of Muse goddess
 - Wikipedia: https://en.wikipedia.org/wiki/Muses
 
 ### Calliope
