@@ -152,6 +152,7 @@ These are online sources for people to learn more about specific events or histo
 ### Zoe
 
 - Greek "ζωή" meaning "Life"
+- Uses the Greek root word ["ζω"](#to-live) ("to live")
 - Daughter of [Midas](#midas) in some versions of the [King Midas Myth](#king-midas-myth)
 - Turned to a golden statue by the touch of her father [King Midas](#king-midas-myth) in some version of the myth
 - Mentioned by [Irenaeus](#irenaeus) as a goddess in [Against Heresies](#against-heresies) in an argument about [theology](#theology)
@@ -240,6 +241,7 @@ These are online sources for people to learn more about specific events or histo
 - Greek root word "ζῶ"
 - Root word for first half of the term for [Zoology](#zoology)
 - Root word for the feminine name [Zoe](#zoe)
+- Wiktionary: https://en.wiktionary.org/wiki/%CE%B6%E1%BF%B6#Ancient_Greek
 
 ### Logos
 
