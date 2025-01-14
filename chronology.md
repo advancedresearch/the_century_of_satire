@@ -157,6 +157,7 @@ These are online sources for people to learn more about specific events or histo
 - Daughter of [Midas](#midas) in some versions of the [King Midas Myth](#king-midas-myth)
 - Turned to a golden statue by the touch of her father [King Midas](#king-midas-myth) in some version of the myth
 - Mentioned by [Irenaeus](#irenaeus) as a goddess in [Against Heresies](#against-heresies) in an argument about [theology](#theology)
+- Consort of [Logos](#logos) in [Against Heresies](#against-heresies) by [Irenaeus](#irenaeus)
 - Consort of [Jesus](#jesus) in [Against Heresies](#against-heresies) by [Irenaeus](#irenaeus)
 - Wikipedia (name): https://en.wikipedia.org/wiki/Zoe_(name)
 
