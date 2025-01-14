@@ -52,6 +52,7 @@ Some images are included to give people a historical experience.
 - 100 to 120 CE: [Saturninus of Antioch teaches about Jesus](#saturninus-of-antioch)
 - c. 100 to c. 165 CE: [Justin Martyr](#justin-martyr)
 - c. 110 CE: [Pliny the Younger writes a letter to Trajan about Christians](#pliny-the-younger-on-christians)
+- c. 110 to c. 180 CE: [Hegesippus](#hegesippus)
 - c. 150 CE: [Gospel of Marcion is published](#gospel-of-marcion)
 - 31 August 161 to 31 December 192 CE: [Commodus](#commodus)
 - 192 CE: [Commodus](#commodus) is killed by [Marcia](#marcia) with help from [Narcissus](#narcissus-the-wrestler)
@@ -384,6 +385,16 @@ These are online sources for people to learn more about specific events or histo
 - Birth place Flavia Neapolis (OpenStreetMap): https://www.openstreetmap.org/search?query=nablus#map=14/32.22766/35.25037
 - Aged c. 65
 - Wikipedia: https://en.wikipedia.org/wiki/Justin_Martyr
+
+### Hegesippus
+
+![Hegesippus](https://upload.wikimedia.org/wikipedia/commons/5/58/Hegesippus_Egesippus_Nuremberg_Chronicle_cropped.png)
+
+*A picture of Hegesippus, pressed med woodcut technique in Nurnberg chronicles from year 1493.*
+
+- Birth place Jerusalem (OpenStreetMap): https://www.openstreetmap.org/search?query=jerusalem#map=12/31.7962/35.1751
+- Aged c. 70
+- Wikipedia: https://en.wikipedia.org/wiki/Hegesippus_(chronicler)
 
 ### Commodus
 
