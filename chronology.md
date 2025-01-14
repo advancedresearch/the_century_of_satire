@@ -54,6 +54,7 @@ Some images are included to give people a historical experience.
 - c. 100 to c. 165 CE: [Justin Martyr](#justin-martyr)
 - c. 110 CE: [Pliny the Younger writes a letter to Trajan about Christians](#pliny-the-younger-on-christians)
 - c. 110 to c. 180 CE: [Hegesippus](#hegesippus)
+- c. 130 to c. 202 CE: [Irenaeus](#irenaeus)
 - c. 150 CE: [Gospel of Marcion is published](#gospel-of-marcion)
 - c. 155 to 157 CE: [Justin Martyr](#justin-martyr) publishes [First Apology](#first-apology)
 - 31 August 161 to 31 December 192 CE: [Commodus](#commodus)
@@ -405,6 +406,16 @@ These are online sources for people to learn more about specific events or histo
 - Birth place Jerusalem (OpenStreetMap): https://www.openstreetmap.org/search?query=jerusalem#map=12/31.7962/35.1751
 - Aged c. 70
 - Wikipedia: https://en.wikipedia.org/wiki/Hegesippus_(chronicler)
+
+### Irenaeus
+
+![Irenaeus](https://upload.wikimedia.org/wikipedia/commons/a/a3/Ireneaus3p.jpg)
+
+*Icon of St. Irenaeus painted by Χρήστος Ν. Λιόνδας*
+
+- Birth place Smyrna (OpenStreetMap): https://www.openstreetmap.org/search?query=38%C2%B025%E2%80%B27%E2%80%B3N%2027%C2%B08%E2%80%B221%E2%80%B3E#map=12/38.4186/27.1392
+- Aged c. 72
+- Wikipedia: https://en.wikipedia.org/wiki/Irenaeus
 
 ### Commodus
 
