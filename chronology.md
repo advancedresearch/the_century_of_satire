@@ -195,6 +195,7 @@ These are online sources for people to learn more about specific events or histo
 ### The Republic
 
 - Written by [Plato](#plato)
+- Uses the term "θεολογία" (Greek) for [theology](theology) with meaning "discourse of God"
 - Wikipedia: https://en.wikipedia.org/wiki/Republic_(Plato)
 
 ### Zoology
