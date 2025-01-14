@@ -175,6 +175,7 @@ These are online sources for people to learn more about specific events or histo
 
 - Birth place Athens (OpenStreetMap): https://www.openstreetmap.org/search?query=athens#map=11/37.9757/23.7348
 - Wrote [Phaedrus](#phaedrus)
+- Wrote [The Republic](#the-republic)
 - Wrote about [Thoth](#thoth) in [Phaedrus](#phaedrus)
 - Teacher of [Aristotle](#aristotle)
 - The founder of Platonism, a philosophy of forms and abstraction and one of the basic duals in [Joker Calculus](#joker-calculus)
@@ -190,6 +191,11 @@ These are online sources for people to learn more about specific events or histo
 - Written by [Plato](#plato)
 - Archive (Greek and English side by side): https://archive.org/details/euthyphroapology00plat_520/mode/2up
 - Wikipedia: https://en.wikipedia.org/wiki/Phaedrus_(dialogue)
+
+### The Republic
+
+- Written by [Plato](#plato)
+- Wikipedia: https://en.wikipedia.org/wiki/Republic_(Plato)
 
 ### Zoology
 
@@ -508,6 +514,7 @@ These are online sources for people to learn more about specific events or histo
 *Plato (left) and Aristotle in Raphael's 1509 fresco The School of Athens.*
 
 - The term "theology" derives from the Greek theologia (θεολογία), a combination of theos (Θεός, 'god') and logia (λογία, 'utterances, sayings, oracles')—the latter word relating to Greek logos (λόγος, 'word, discourse, account, reasoning')
+- Used by [Plato](#plato) in his work [The Republic](#the-republic)
 - Wikipedia: https://en.wikipedia.org/wiki/Theology
 
 ### Irenaeus
