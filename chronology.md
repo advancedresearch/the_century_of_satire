@@ -316,6 +316,7 @@ These are online sources for people to learn more about specific events or histo
 
 - Aged 32
 - Student of [Aristotle](#aristotle)
+- Leader of [Ptolemy I Soter](#ptolemy-i-soter), one of his generals, that founded [Mouseion](#mouseion)
 - His death marks the beginning of the [Hellenistic period](#hellenistic-period)
 - Wikipedia: https://en.wikipedia.org/wiki/Alexander_the_Great
 
@@ -353,12 +354,23 @@ These are online sources for people to learn more about specific events or histo
 - Portrayed holding a copy of the [Odyssey](#odyssey)
 - Wikipedia: https://en.wikipedia.org/wiki/Calliope
 
+### Ptolemy I Soter
+
+![Ptolemy I Soter](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Ptolemy_I_Soter_Louvre_Ma849.jpg/1024px-Ptolemy_I_Soter_Louvre_Ma849.jpg)
+
+*Bust of Ptolemy I, located at the Louvre.*
+
+- General of [Alexander the Great](#alexander-the-great)
+- Founder of [Mouseion](#mouseion)
+- Wikipedia: https://en.wikipedia.org/wiki/Ptolemy_I_Soter
+
 ### Mouseion
 
 ![Muse](https://upload.wikimedia.org/wikipedia/commons/5/5e/Greek_-_Leaning_Muse%2C_Probably_Polyhymnia_-_Walters_2390.jpg)
 
 *Muse statue, a common scholarly motif in the Hellenistic age.*
 
+- Founded by [Ptolemy I Soter](#ptolemy-i-soter)
 - Institution that included [Library of Alexandria](#library-of-alexandria)
 - The name comes from [Muses](#muses), inspirational goddesses of literature, science and the arts
 - Wikipedia: https://en.wikipedia.org/wiki/Mouseion
