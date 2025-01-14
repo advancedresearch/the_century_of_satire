@@ -102,7 +102,7 @@ So, Aristotle wants society to be controlled by men and not women.
 
 While one might interpret this idea as misogyny on behalf of Aristotle,
 he might actually just feel more pity towards women,
-which would be even more cruel because he does not even see himself as a women-hater.
+which would be more cruel because he does not even see himself as a women-hater.
 That women would have less potential and therefore had to stay in their place, below men but above slaves.
 
 The last part about slaves, kind of undermines the entire idea,
