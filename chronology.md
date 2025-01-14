@@ -649,6 +649,7 @@ These are online sources for people to learn more about specific events or histo
 - A calculus for language bias based on [Platonism](#plato) and [Seshatism](#seshat)
 - Created by Daniel Fischer, William Alexander Morris and Sven Nilsen (2021)
 - Used to analyze language bias in mathematical language design, art and history
+- When there is a dynamical relationship between the two basic duals of Joker Calculus, it is described as a [Seshatic-Platonic language bias cycle](#seshatic-platonic-cycle)
 - AdvancedResearch: https://github.com/advancedresearch/joker_calculus
 
 ### Seshatic-Platonic Cycles
