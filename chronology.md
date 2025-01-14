@@ -132,6 +132,31 @@ These are online sources for people to learn more about specific events or histo
 - Reign 1279 to 1213 BC
 - Wikipedia: https://en.wikipedia.org/wiki/Ramesses_II
 
+### Midas
+
+- Three different kings of Phrygia, one living in the 2nd millenium BC, two in 8th century BC, three in 6th century BC
+- Associated with the myth of [King Midas](#king-midas-myth)
+- Not mentioned by [Homer](#homer)
+- Wikipedia: https://en.wikipedia.org/wiki/Midas
+
+### King Midas Myth
+
+![King Midas turning his daughter Zoe into gold](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Midas_gold2.jpg/1024px-Midas_gold2.jpg)
+
+*In the Nathaniel Hawthorne version of the Midas myth, Midas' daughter (Zoe) turns to a golden statue when he touches her (illustration by Walter Crane for the 1893 edition).*
+
+- Not mentioned by [Homer](#homer)
+- Father of [Zoe](#zoe) in some myths
+- Historica Fandom: https://historica.fandom.com/wiki/Midas
+
+### Zoe
+
+- Greek "ζωή" meaning "Life"
+- Daughter of [Midas](#midas) in some versions of the [King Midas Myth](#king-midas-myth)
+- Turned to a golden statue by the touch of her father [King Midas](#king-midas-myth) in some version of the myth
+- Mentioned by [Irenaeus](#irenaeus) as a goddess in [Against Heresies](#against-heresies) in an argument about [theology](#theology)
+- Wikipedia (name): https://en.wikipedia.org/wiki/Zoe_(name)
+
 ### Homer
 
 ![Homer](https://upload.wikimedia.org/wikipedia/commons/1/1c/Homer_British_Museum.jpg)
@@ -142,6 +167,7 @@ These are online sources for people to learn more about specific events or histo
 - Aged unknown (neither birth or death year is known)
 - Wrote [Odyssey](#odyssey)
 - Referred to by [Irenaeus](#irenaeus) in [Against Heresies](#against-heresies) to argue about [theology](#theology)
+- Does not mention [Midas](#midas)
 - Wikipedia: https://en.wikipedia.org/wiki/Homer
 
 ### Odyssey
@@ -558,6 +584,7 @@ These are online sources for people to learn more about specific events or histo
 
 - Written by [Irenaeus](#irenaeus)
 - Uses [Homer](#homer) in an argument about [theology](#theology)
+- Mentions [Zoe](#zoe) as a goddess in an argument about [theology](#theology)
 - Wikipedia: https://en.wikipedia.org/wiki/Against_Heresies_(Irenaeus)
 
 ### Commodus
