@@ -240,6 +240,8 @@ These are online sources for people to learn more about specific events or histo
 
 ### Plato and Aristotle on the Nature of women
 
+- [Plato](#plato) and [Aristotle](#aristotle) disagreed on the nature of women
+- Central topic of [theology](#theology)
 - Grunge.com "The Truth about Aristotle's love life": https://www.grunge.com/600496/the-truth-about-aristotles-love-life/
 - Journal of the History of Philosophy "Plato and Aristotle on the Nature of Women" by Nicholas D. Smith: https://muse.jhu.edu/article/226997
 
@@ -532,6 +534,7 @@ These are online sources for people to learn more about specific events or histo
 - The term "theology" derives from the Greek theologia (θεολογία), a combination of theos (Θεός, 'god') and logia (λογία, 'utterances, sayings, oracles')—the latter word relating to Greek logos (λόγος, 'word, discourse, account, reasoning')
 - Used by [Plato](#plato) in his work [The Republic](#the-republic)
 - Central theme in [Against Heresies](#against-heresies) by [Irenaeus](#irenaeus)
+- Central issue is the nature of women, which [Plato and Aristotle disagreed on](#plato-and-aristotle-on-the-nature-of-women)
 - Wikipedia: https://en.wikipedia.org/wiki/Theology
 
 ### Irenaeus
