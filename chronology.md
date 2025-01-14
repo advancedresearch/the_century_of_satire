@@ -66,6 +66,8 @@ Some images are included to give people a historical experience.
 - 193 CE: [Marcia](#marcia) is killed, and [Narcissus](#narcissus-the-wrestler) is killed around this time in civil wars
 - 27 February c. 272 to 22 May 337 CE: [Constantine the Great](#constantine-the-great)
 - 380 CE: [Edict of Thessalonica](#edict-of-thessalonica)
+- 1958 CE: [Hannah Arendt](#hannah-arendt) publishes [The Human Condition](arent-the-human-condition)
+- 2018 CE: [Stephen Bagwell](#stephen-bagwell) publishes his thesis [Aristotle on Life](#aristotle-on-life)
 - 2021 CE: [Joker Calculus is created](#joker-calculus)
 
 ## Sources
@@ -602,6 +604,41 @@ These are online sources for people to learn more about specific events or histo
 - The first known secular law which includes in its preamble a clear definition of what a Christian Roman ruler considers as religious orthodoxy, opening the way of repression against dissidents qualified as "heretics"
 - Result of violent dispute about [theology](#theology)
 - Wikipedia: https://en.wikipedia.org/wiki/Edict_of_Thessalonica
+
+### Hannah Arendt
+
+![Hannah Arendt](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hannah_Arendt_auf_dem_1._Kulturkritikerkongress%2C_Barbara_Niggl_Radloff%2C_FM-2019-1-5-9-16_%28cropped%29.jpg/1280px-Hannah_Arendt_auf_dem_1._Kulturkritikerkongress%2C_Barbara_Niggl_Radloff%2C_FM-2019-1-5-9-16_%28cropped%29.jpg)
+
+*Arendt in 1958.*
+
+- Wrote [The Human Condition](#arent-the-human-condition)
+- Wikipedia: https://en.wikipedia.org/wiki/Hannah_Arendt
+
+### Arendt: The Human Condition
+
+![First Edition Cover of The Human Condition by Hannah Arendt](https://upload.wikimedia.org/wikipedia/en/9/9e/TheHumanCondition.jpg)
+
+*First Edition Cover of The Human Condition by Hannah Arendt, 1958.*
+
+- Written by [Hannah Arendt](#hannah-arendt)
+- Responded to by [Stephen Bagwell](#stephen-bagwell) in his thesis [Aristotle on Life](#aristotle-on-life)
+- Wikipedia: https://en.wikipedia.org/wiki/The_Human_Condition_(Arendt_book)
+
+### Stephen Bagwell
+
+![Stephen Bagwell](https://smbagwell.com/wp-content/uploads/2019/08/dsc-0086-e1567275136656.jpg)
+
+*Stephen Bagwell while working as Assistant Professor, University of Missouri- St Louis.*
+
+- Wrote the thesis [Aristotle on Life](#aristotle-on-life)
+
+### Aristotle on Life
+
+- Written by [Stephen Bagwell](#stephen-bagwell)
+- Thesis about [Aristotle](#aristotle) on Life
+- Full title "Thesis Stephen Bagwell, 2018, An Examination of 'Life' in Aristotle Concerning the Distinction Between βίος (Bios) and ζωή (Zoe)
+- Responds to [Hannah Arendt](#hannah-arendt]'s book [The Human Condition](#arent-the-human-condition)
+- Pdf: https://core.ac.uk/download/pdf/226161443.pdf
 
 ### Joker Calculus
 
