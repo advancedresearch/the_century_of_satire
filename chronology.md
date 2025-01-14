@@ -605,6 +605,7 @@ These are online sources for people to learn more about specific events or histo
 *Paint on plaster of Jesus healing a paralytic c. 235 CE from Dura-Europos, Syria*
 
 - Associated with the Greek philosophical concept [Logos](#logos)
+- Consort of [Zoe](#zoe) in [Against Heresies](#against-heresies) by [Irenaeus](#irenaeus)
 - Wikipedia: https://en.wikipedia.org/wiki/Jesus
 - Oldest.org "Oldest Paintings of Jesus in the world": https://www.oldest.org/artliterature/jesus-paintings/
 
