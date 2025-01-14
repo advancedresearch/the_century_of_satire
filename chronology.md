@@ -182,6 +182,7 @@ These are online sources for people to learn more about specific events or histo
 
 - Written by [Homer](#homer)
 - Copy is held in a portrait of [Calliope](#calliope), one of the [Muses](#muses)
+- Features [Helen of Troy](#helen-of-troy), who is kidnapped and this starts the war on Troy
 - Wikipedia: https://en.wikipedia.org/wiki/Odyssey
 
 ### Helen of Troy
@@ -192,7 +193,8 @@ These are online sources for people to learn more about specific events or histo
 
 - Birth place Sparta (OpenStreetMap): https://www.openstreetmap.org/search?query=sparta%20greece#map=16/37.08149/22.42854
 - Aged uknown (neither birth or death is known)
-- Important character in Homer's epic about the war on Troy
+- Important character in Homer's epic [Odyssey](#odyssey) about the war on Troy
+- [Simonians](#simonianism) believed [Helen of Tyre](#helen-of-tyre) had reincarnated as [Helen of Troy](#helen-of-troy)
 - Wikipedia: https://en.wikipedia.org/wiki/Helen_of_Troy
 
 ### Classical Greece
