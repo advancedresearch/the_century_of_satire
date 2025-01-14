@@ -486,6 +486,8 @@ These are online sources for people to learn more about specific events or histo
 - Aged unknow (neither birth or death is known)
 - God in [Simonianism](#simonianism)
 - Married to [Helen of Tyre](#helen-of-tyre)
+- Said by [Justin Martyr](#justin-martyr) in [First Apology](#first-apology) to have claimed the title "Standing One"
+- Said by [Justin Martyr](#justin-martyr) in [First Apology](#first-apology) to have claimed the title "The Great Power of God"
 - Wikipedia: https://en.wikipedia.org/wiki/Simon_Magus
 
 ### Helen of Tyre
@@ -593,10 +595,14 @@ These are online sources for people to learn more about specific events or histo
 
 - Birth place Flavia Neapolis (OpenStreetMap): https://www.openstreetmap.org/search?query=nablus#map=14/32.22766/35.25037
 - Aged c. 65
+- Wrote [First Apology](#first-apology)
+- Mentioned [Simon Magus](#simon-magus) in his work [First Apology](#first-apology) four times
 - Wikipedia: https://en.wikipedia.org/wiki/Justin_Martyr
 
 ### First Apology
 
+- Written by [Justin Martyr](#justin-martyr)
+- Mentions [Simon Magus](#simon-magus) four times
 - Wikipedia: https://en.wikipedia.org/wiki/First_Apology_of_Justin_Martyr
 
 ### Hegesippus
