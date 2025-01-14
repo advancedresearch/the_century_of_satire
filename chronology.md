@@ -314,7 +314,9 @@ These are online sources for people to learn more about specific events or histo
 
 *Alexander Mosaic (detail), House of the Faun, Pompeii.*
 
+- Aged 32
 - Student of [Aristotle](#aristotle)
+- His death marks the beginning of the [Hellenistic period](#hellenistic-period)
 - Wikipedia: https://en.wikipedia.org/wiki/Alexander_the_Great
 
 ### Hellenistic period
@@ -323,6 +325,7 @@ These are online sources for people to learn more about specific events or histo
 
 *The Winged Victory of Samothrace (The Winged Nike) is considered one of the greatest masterpieces of Hellenistic art.*
 
+- Begins with the death of [Alexander the Great](#alexander-the-great)
 - Wikipedia: https://en.wikipedia.org/wiki/Hellenistic_period
 
 ### Muses
