@@ -503,7 +503,7 @@ These are online sources for people to learn more about specific events or histo
 
 ### Theology
 
-![Plato and Aristotle](https://en.wikipedia.org/wiki/Theology#/media/File:Sanzio_01_Plato_Aristotle.jpg)
+![Plato and Aristotle](https://upload.wikimedia.org/wikipedia/commons/9/98/Sanzio_01_Plato_Aristotle.jpg)
 
 *Plato (left) and Aristotle in Raphael's 1509 fresco The School of Athens.*
 
