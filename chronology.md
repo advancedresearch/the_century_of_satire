@@ -639,6 +639,7 @@ These are online sources for people to learn more about specific events or histo
 - Written by [Irenaeus](#irenaeus)
 - Uses [Homer](#homer) in an argument about [theology](#theology)
 - Mentions [Zoe](#zoe) as a goddess in an argument about [theology](#theology)
+- Mentions [Zoe](#zoe) as a consort of [Logos](#logos)
 - Mentions [Zoe](#zoe) as a consort of [Jesus](#jesus)
 - Wikipedia: https://en.wikipedia.org/wiki/Against_Heresies_(Irenaeus)
 
