@@ -195,6 +195,16 @@ These are online sources for people to learn more about specific events or histo
 
 - Wikipedia: https://en.wikipedia.org/wiki/Hellenistic_period
 
+### Muses
+
+![Muse reading a scroll](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Muse_reading_Louvre_CA2220.jpg/1024px-Muse_reading_Louvre_CA2220.jpg)
+
+*Muse, perhaps Clio, reading a scroll (Attic red-figure lekythos, Boeotia, c. 430 BC).*
+
+- Inspirational goddesses of literature, science, and the arts
+- Used as inspiration in establishment of the institution [Mouseion](#mouseion)
+- Wikipedia: https://en.wikipedia.org/wiki/Muses
+
 ### Mouseion
 
 ![Muse](https://upload.wikimedia.org/wikipedia/commons/5/5e/Greek_-_Leaning_Muse%2C_Probably_Polyhymnia_-_Walters_2390.jpg)
@@ -202,6 +212,7 @@ These are online sources for people to learn more about specific events or histo
 *Muse statue, a common scholarly motif in the Hellenistic age.*
 
 - Institution that included [Library of Alexandria](#library-of-alexandria)
+- The name comes from [Muses](#muses), inspirational goddesses of literature, science and the arts
 - Wikipedia: https://en.wikipedia.org/wiki/Mouseion
 
 ### Library of Alexandria
