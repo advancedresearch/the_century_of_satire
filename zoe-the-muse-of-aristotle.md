@@ -214,7 +214,7 @@ The feeling of discovering something, of it being an original idea, is an import
 Similarly to how all intellectuals desire Zoe, it is universally hated by authoritarians,
 but this makes it all more appealing: The forbidden fruit of knowledge.
 
-"Ssssshhh... you will not die, but you will open your eyes and know the different between good and evil."
+"Ssssshhh... you will not die, but you will open your eyes and know the difference between good and evil."
 
 This appeal of the snake's message, is leaving behind the promised bride groom since birth (Adam) who came from dirt (it is not very flattering, is it?),
 and make linguistic love to that Ancient Greek language, where a word can also mean a deity.
