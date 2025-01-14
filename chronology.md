@@ -181,6 +181,7 @@ These are online sources for people to learn more about specific events or histo
 - Wrote about [theology](#theology) in [The Republic](#the-republic)
 - As far as we know, never wrote about [Seshat](#seshat)
 - Teacher of [Aristotle](#aristotle)
+- Saw men as physically stronger than women, but otherwise equal, see [reference](#plato-and-aristotle-on-the-nature-of-women)
 - The founder of Platonism, a philosophy of forms and abstraction and one of the basic duals in [Joker Calculus](#joker-calculus)
 - Wikipedia: https://en.wikipedia.org/wiki/Plato
 
@@ -225,9 +226,8 @@ These are online sources for people to learn more about specific events or histo
 - The world's first [Zoologist](#zoology)
 - Wrote [Metaphysics](#metaphysics)
 - Student of [Plato](#plato)
-- Saw men as as superior in nature to women
+- Saw men as as superior in nature to women, see [reference](#plato-and-aristotle-on-the-nature-of-women)
 - Wikipedia: https://en.wikipedia.org/wiki/Aristotle
-- Grunge.com "The truth about Aristotle's love life": https://www.grunge.com/600496/the-truth-about-aristotles-love-life/
 
 ### Metaphysics
 
@@ -237,6 +237,11 @@ These are online sources for people to learn more about specific events or histo
 
 - Written by [Aristotle](#aristotle)
 - Wikipedia: https://en.wikipedia.org/wiki/Metaphysics_(Aristotle)
+
+### Plato and Aristotle on the Nature of women
+
+- Grunge.com "The Truth about Aristotle's love life": https://www.grunge.com/600496/the-truth-about-aristotles-love-life/
+- Journal of the History of Philosophy "Plato and Aristotle on the Nature of Women" by Nicholas D. Smith: https://muse.jhu.edu/article/226997
 
 ### Hellenistic period
 
