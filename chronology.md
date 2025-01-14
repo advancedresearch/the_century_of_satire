@@ -27,7 +27,7 @@ Some images are included to give people a historical experience.
 
 ## Timeline
 
-- 1250 BC: [Seshat is carved on back of the throne of a statue of Ramesses II in the Amun temple at Luxor](#seshat)
+- 1250 BC: [Seshat](#seshat) is carved on back of the throne of a statue of [Ramesses II](#ramesses-ii) in the Amun temple at Luxor
 - c. 8th century BC: [Homer](#homer)
 - 428/427 or 424/423 to 348 BC: [Plato](#plato)
 - 384 to 322 BC: [Aristotle](#aristotle)
