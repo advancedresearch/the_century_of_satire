@@ -235,12 +235,24 @@ These are online sources for people to learn more about specific events or histo
 - Uses the term "θεολογία" (Greek) for [theology](#theology) with meaning "discourse of God"
 - Wikipedia: https://en.wikipedia.org/wiki/Republic_(Plato)
 
+### To Live
+
+- Greek root word "ζῶ"
+- Root word for first half of the term for [Zoology](#zoology)
+- Root word for the feminine name [Zoe](#zoe)
+
+### Logos
+
+- Greek "λόγος" meaning "knowledge", "stydy" or "reason"
+- Second half of the term for [Zoology](#zoology)
+
 ### Zoology
 
 ![Conrad Gessner](https://upload.wikimedia.org/wikipedia/commons/e/e0/Gessner_Conrad_1516-1565.jpg)
 
 *Conrad Gessner (1516–1565). His Historiae animalium is considered the beginning of modern zoology.*
 
+- The term is derived from Ancient Greek ζῷον, zōion ('animal') from the root word ["ζῶ"](#to-live) (to live), and [λόγος](#logos), logos ('knowledge', 'study')
 - [Aristotle](#aristotle) is considered the world's first zoologist
 - Wikipedia: https://en.wikipedia.org/wiki/Zoology
 
