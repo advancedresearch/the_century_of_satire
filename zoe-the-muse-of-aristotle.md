@@ -12,7 +12,7 @@ an epic poem by Homer about the war on Troy.
 The war on Troy plays a key role in Simonianism, because the highest goddess Helen of Tyre
 was though to have been reincarnated since the creation of the universe and lived among other lives as Helen of Troy.
 
-The parallel character of Helen of Tyre that is by some Early Christians believed to be the consort of Logos, is Zoe.
+The parallel character of Helen of Tyre, that is by some Early Christians believed to be the consort of Logos, is Zoe.
 However, where does this Zoe come from?
 While there is a connection to the war on Troy and Muses in Simonianism, Zoe is not part of that line of thought.
 Helen of Tyre was not always thought to be a historical person,
