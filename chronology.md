@@ -77,6 +77,7 @@ These are online sources for people to learn more about specific events or histo
 
 *In Christian art, the sculpted figures Ecclesia and Synagoga compare the Church with Judaism.*
 
+- Used to compare [Seshat](#seshat) with [Muses](#muses) in Ancient Greece
 - Wikipedia: https://en.wikipedia.org/wiki/Comparative_religion
 
 ### Ma'at
