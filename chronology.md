@@ -657,4 +657,5 @@ These are online sources for people to learn more about specific events or histo
 
 *The model of a Seshatic-Platonic Cycles, which functions as potential energy in physical systems for complex values.*
 
+- Describes dynamic relationship between the two basic duals in [Joker Calculus](#joker-calculus)
 - Paper (Path Semantics project): https://github.com/advancedresearch/path_semantics/blob/master/papers-wip2/seshatic-platonic-cycles.pdf
