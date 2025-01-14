@@ -360,9 +360,22 @@ These are online sources for people to learn more about specific events or histo
 
 *Bust of Ptolemy I, located at the Louvre.*
 
+- Aged 84-85
+- Father of [Ptolemy II Philadelphus](#ptolemy-ii-philadelphus)
 - General of [Alexander the Great](#alexander-the-great)
-- Founder of [Mouseion](#mouseion)
+- Founder of [Mouseion](#mouseion) with his son [Ptolemy II Philadelphus](#ptolemy-ii-philadelphus)
 - Wikipedia: https://en.wikipedia.org/wiki/Ptolemy_I_Soter
+
+### Ptolemy II Philadelphus
+
+![Ptolemy II Philadelphus](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ptolemy_II_MAN_Napoli_Inv5600.jpg/1280px-Ptolemy_II_MAN_Napoli_Inv5600.jpg)
+
+*Bust of Ptolemy II, National Archaeological Museum, Naples.*
+
+- Aged 62-63
+- Son of [Ptolemy I Soter](#ptolemy-i-soter)
+- Founder of [Mouseion](#mouseion) with his father [Ptolemy I Soter](#ptolemy-i-soter)
+- Wikipedia: https://en.wikipedia.org/wiki/Ptolemy_II_Philadelphus
 
 ### Mouseion
 
@@ -370,7 +383,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Muse statue, a common scholarly motif in the Hellenistic age.*
 
-- Founded by [Ptolemy I Soter](#ptolemy-i-soter)
+- Founded by [Ptolemy I Soter](#ptolemy-i-soter) and his son [Ptolemy II Philadelphus)(#ptolemy-ii-philadelphus)
 - Institution that included [Library of Alexandria](#library-of-alexandria)
 - The name comes from [Muses](#muses), inspirational goddesses of literature, science and the arts
 - Wikipedia: https://en.wikipedia.org/wiki/Mouseion
