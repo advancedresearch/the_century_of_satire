@@ -140,6 +140,7 @@ These are online sources for people to learn more about specific events or histo
 
 ### Classical Greece
 
+- Standardized the number of [Muses](#muses) to nine
 - Wikipedia: https://en.wikipedia.org/wiki/Classical_Greece
 
 ### Plato
@@ -208,6 +209,8 @@ These are online sources for people to learn more about specific events or histo
 
 - Inspirational goddesses of literature, science, and the arts
 - Used as inspiration in establishment of the institution [Mouseion](#mouseion)
+- Number and names of the Muses differed by region
+- Standardized to nine in the [Classical period](#classical-greece)
 - Wikipedia: https://en.wikipedia.org/wiki/Muses
 
 ### Mouseion
