@@ -272,6 +272,7 @@ These are online sources for people to learn more about specific events or histo
 - Student of [Plato](#plato)
 - Saw men as as superior in nature to women, see [reference](#plato-and-aristotle-on-the-nature-of-women)
 - Wikipedia: https://en.wikipedia.org/wiki/Aristotle
+- Works of Aristle (Wikipedia): https://en.wikipedia.org/wiki/Works_of_Aristotle
 
 ### History of Animals
 
