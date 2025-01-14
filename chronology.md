@@ -147,6 +147,7 @@ These are online sources for people to learn more about specific events or histo
 *Papyrus, fragment of the Odyssey (books IX and X), found at Medinet Ghoram (P. Jouguet excavations), 3rd century BC. Oldest preserved manuscript of the Odyssey. Institute of Papyrology of the Sorbonne, inv.Sorb.2245.*
 
 - Written by [Homer](#homer)
+- Copy is held in a portrait of [Calliope](#calliope), one of the [Muses](#muses)
 - Wikipedia: https://en.wikipedia.org/wiki/Odyssey
 
 ### Helen of Troy
