@@ -93,6 +93,7 @@ These are online sources for people to learn more about specific events or histo
 - Consort of [Thoth](#thoth) in some myths
 - Daughter of [Thoth](#thoth) in some myths
 - Credited with inventing writing
+- Forgotten by [Plato](#plato) when he mentions [Thoth](#thoth) in his work [Phaedrus](#phaedrus)
 - Inspiration for Seshatism, one modern version of dual-Platonism that forms one of the basic duals in [Joker Calculus](#joker-calculus)
 - Wikipedia: https://en.wikipedia.org/wiki/Seshat
 
@@ -106,6 +107,7 @@ These are online sources for people to learn more about specific events or histo
 - Consort of [Ma'at](#maat) in some myths
 - Consort of [Seshat](#seshat) in some myths
 - Father of [Seshat](#seshat) in some myths
+- Mentioned by [Plato](#plato) in [Phaedrus](#phaedrus)
 - Wikipedia: https://en.wikipedia.org/wiki/Thoth
 
 ### Ramesses II
@@ -151,6 +153,8 @@ These are online sources for people to learn more about specific events or histo
 
 - Birth place Athens (OpenStreetMap): https://www.openstreetmap.org/search?query=athens#map=11/37.9757/23.7348
 - Wrote [Phaedrus](#phaedrus)
+- Wrote about [Thoth](#thoth) in [Phaedrus](#phaedrus)
+- Teacher of [Aristotle](#aristotle)
 - The founder of Platonism, a philosophy of forms and abstraction and one of the basic duals in [Joker Calculus](#joker-calculus)
 - Wikipedia: https://en.wikipedia.org/wiki/Plato
 
@@ -182,6 +186,7 @@ These are online sources for people to learn more about specific events or histo
 - Birth place Athens (OpenStreetMap): https://www.openstreetmap.org/search?query=athens#map=11/37.9757/23.7348
 - The world's first [Zoologist](#zoology)
 - Wrote [Metaphysics](#metaphysics)
+- Student of [Plato](#plato)
 - Wikipedia: https://en.wikipedia.org/wiki/Aristotle
 
 ### Metaphysics
