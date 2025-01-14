@@ -16,7 +16,7 @@ In order to make amends for this mistake, The Century of Satire project is meant
 
 The timeline starts with Seshat being carved on the back of the throne of a statue of Ramesses II in around 1250 BC,
 and ends with the discovery of [Joker Calculus](#joker-calculus) in 2021 by by Daniel Fischer, William Alexander Morris and Sven Nilsen.
-This forms a [Seshatic-Platonic language bias cycle](#seshatic-platonic-cycle) of 3270 years (notice that 0 CE = 1 BC).
+This forms a [Seshatic-Platonic language bias cycle](#seshatic-platonic-cycles) of 3270 years (notice that 0 CE = 1 BC).
 The middle of this cycle gives year 386 CE, only 6 years later than [Edict of Thessalonica](#edict-of-thessalonica).
 In 380 CE, the Roman empire codifies Christianity as orthodoxy and opens up the way for persecuting believers of other religions.
 Therefore, the first half of the Seshatic-Platonic cycle there is a trend of reducing Seshatic language bias in philosophy and culture,
