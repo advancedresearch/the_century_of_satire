@@ -31,6 +31,7 @@ Some images are included to give people a historical experience.
 - c. 8th century BC: [Homer](#homer)
 - 428/427 or 424/423 to 348 BC: [Plato](#plato)
 - 384 to 322 BC: [Aristotle](#aristotle)
+- c. 370 BC: [Plato's Phaedrus](#phaedrus) is composed
 - 323 to 30 BC: [Hellenistic period](#hellenistic-period)
 - 323 to 283 or 283 to 246 BC: [Establishment of the Library of Alexandria](#library-of-alexandria)
 - 3rd to 2nd century BC: [Composition of Septuagint](#septuagint)
@@ -142,8 +143,20 @@ These are online sources for people to learn more about specific events or histo
 *Plato, copy of the portrait made by Silanion ca. 370 BC for the Academia in Athens*
 
 - Birth place Athens (OpenStreetMap): https://www.openstreetmap.org/search?query=athens#map=11/37.9757/23.7348
+- Wrote [Phaedrus](#phaedrus)
 - The founder of Platonism, a philosophy of forms and abstraction and one of the basic duals in [Joker Calculus](#joker-calculus)
 - Wikipedia: https://en.wikipedia.org/wiki/Plato
+
+### Phaedrus
+
+![Cover of Phaedrus by Plato](https://github.com/user-attachments/assets/6589af89-b93b-44f7-a666-7c3523301838)
+
+*Cover of Plato's Phaedrus from a translation published in 1914.*
+
+- Full title "Euthyphro Apology ; Crito ; Phaedo ; Phaedrus"
+- Written by [Plato](#plato)
+- Archive (Greek and English side by side): https://archive.org/details/euthyphroapology00plat_520/mode/2up
+- Wikipedia: https://en.wikipedia.org/wiki/Phaedrus_(dialogue)
 
 ### Zoology
 
