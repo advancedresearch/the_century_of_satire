@@ -34,6 +34,7 @@ Some images are included to give people a historical experience.
 - 384 to 322 BC: [Aristotle](#aristotle)
 - c. 375 BC: [Plato](#plato) authors [The Republic](#the-republic)
 - c. 370 BC: [Plato's Phaedrus](#phaedrus) is composed
+- 20 or 21 July 356 to 10 or 11 June 323 BC: [Alexander the Great](#alexander-the-great)
 - Between mid 4th century to 322 BC: [Aristotle](#aristotle) writes [History of Animals](#history-of-animals)
 - 323 to 30 BC: [Hellenistic period](#hellenistic-period)
 - 323 to 283 or 283 to 246 BC: [Establishment of the Library of Alexandria](#library-of-alexandria)
@@ -276,6 +277,7 @@ These are online sources for people to learn more about specific events or histo
 - Wrote [History of Animals](#history-of-animals)
 - Wrote [Metaphysics](#metaphysics)
 - Student of [Plato](#plato)
+- Teacher of [Alexander the Great](#alexander-the-great)
 - Saw men as as superior in nature to women, see [reference](#plato-and-aristotle-on-the-nature-of-women)
 - Wikipedia: https://en.wikipedia.org/wiki/Aristotle
 - Works of Aristle (Wikipedia): https://en.wikipedia.org/wiki/Works_of_Aristotle
@@ -305,6 +307,15 @@ These are online sources for people to learn more about specific events or histo
 - Central topic of [theology](#theology)
 - Grunge.com "The Truth about Aristotle's love life": https://www.grunge.com/600496/the-truth-about-aristotles-love-life/
 - Journal of the History of Philosophy "Plato and Aristotle on the Nature of Women" by Nicholas D. Smith: https://muse.jhu.edu/article/226997
+
+### Alexander the Great
+
+![Alexander the Great in the Alexander Mosaic](https://upload.wikimedia.org/wikipedia/commons/8/84/Alexander_the_Great_mosaic_%28cropped%29.jpg)
+
+*Alexander Mosaic (detail), House of the Faun, Pompeii.*
+
+- Student of [Aristotle](#aristotle)
+- Wikipedia: https://en.wikipedia.org/wiki/Alexander_the_Great
 
 ### Hellenistic period
 
