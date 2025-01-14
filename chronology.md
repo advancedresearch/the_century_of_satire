@@ -33,6 +33,7 @@ Some images are included to give people a historical experience.
 - 428/427 or 424/423 to 348 BC: [Plato](#plato)
 - 384 to 322 BC: [Aristotle](#aristotle)
 - c. 370 BC: [Plato's Phaedrus](#phaedrus) is composed
+- c. 375 BC: [Plato](#plato) authors [The Republic](#the-republic)
 - 323 to 30 BC: [Hellenistic period](#hellenistic-period)
 - 323 to 283 or 283 to 246 BC: [Establishment of the Library of Alexandria](#library-of-alexandria)
 - 3rd to 2nd century BC: [Composition of Septuagint](#septuagint)
