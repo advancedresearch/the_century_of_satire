@@ -863,7 +863,7 @@ These are online sources for people to learn more about specific events or histo
 
 ### The Temple Scroll
 
-![The Temple Scroll](http://tiles.imj.org.il/tiles/empty.png)
+![The Temple Scroll](https://github.com/user-attachments/assets/ff3273bd-00e7-493a-903f-cddda3463199)
 
 *The Temple Scroll.*
 
