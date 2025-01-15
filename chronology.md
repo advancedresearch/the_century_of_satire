@@ -59,6 +59,7 @@ Some images are included to give people a historical experience.
 - c. 100 to c. 165 CE: [Justin Martyr](#justin-martyr)
 - c. 110 CE: [Pliny the Younger writes a letter to Trajan about Christians](#pliny-the-younger-on-christians)
 - c. 110 to c. 180 CE: [Hegesippus](#hegesippus)
+- 129 to 216 CE: [Galen](#galen)
 - c. 130 to c. 202 CE: [Irenaeus](#irenaeus)
 - c. 150 CE: [Gospel of Marcion is published](#gospel-of-marcion)
 - c. 155 to 157 CE: [Justin Martyr](#justin-martyr) publishes [First Apology](#first-apology)
@@ -670,6 +671,15 @@ These are online sources for people to learn more about specific events or histo
 - Birth place Jerusalem (OpenStreetMap): https://www.openstreetmap.org/search?query=jerusalem#map=12/31.7962/35.1751
 - Aged c. 70
 - Wikipedia: https://en.wikipedia.org/wiki/Hegesippus_(chronicler)
+
+### Galen
+
+![Portrait of Galen](https://upload.wikimedia.org/wikipedia/commons/8/80/Galenus.jpg)
+
+*An 18th-century engraving by Georg P. Busch.*
+
+- Birth place Pergamon (OpenStreetMap): https://www.openstreetmap.org/search?query=39%C2%B007%E2%80%B257%E2%80%B3N%2027%C2%B011%E2%80%B203%E2%80%B3E#map=12/39.1325/27.1842
+- Wikipedia: https://en.wikipedia.org/wiki/Galen
 
 ### Jesus
 
