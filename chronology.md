@@ -292,7 +292,7 @@ These are online sources for people to learn more about specific events or histo
 *Bust of Aristotle. Marble, Roman copy after a Greek bronze original by Lysippos from 330 BC; the alabaster mantle is a modern addition.*
 
 - Birth place Athens (OpenStreetMap): https://www.openstreetmap.org/search?query=athens#map=11/37.9757/23.7348
-- Close friend and collegue of [Theophrastus](#theophrastus)
+- Close friend and colleague of [Theophrastus](#theophrastus)
 - The world's first [Zoologist](#zoology)
 - Wrote [History of Animals](#history-of-animals)
 - Wrote [Metaphysics](#metaphysics)
@@ -330,13 +330,23 @@ These are online sources for people to learn more about specific events or histo
 - Grunge.com "The Truth about Aristotle's love life": https://www.grunge.com/600496/the-truth-about-aristotles-love-life/
 - Journal of the History of Philosophy "Plato and Aristotle on the Nature of Women" by Nicholas D. Smith: https://muse.jhu.edu/article/226997
 
+### Botany
+
+![Myristica fragnans](https://upload.wikimedia.org/wikipedia/commons/6/6c/Myris_fragr_Fr_080112-3294_ltn.jpg)
+
+*The fruit of Myristica fragrans, a species native to Indonesia, is the source of two valuable spices, the red aril (mace) enclosing the dark brown nutmeg.*
+
+- The world's first botanist was [Theophrastus](#theophrastus)
+- Wikipedia: https://en.wikipedia.org/wiki/Botany
+
 ### Theophrastus
 
 ![Statue of Theophrastus](https://upload.wikimedia.org/wikipedia/commons/d/d3/Teofrasto_Orto_botanico_detail.jpg)
 
 *Statue of Theophrastus, Palermo Botanical Garden.*
 
-- Close friend and collegue of [Aristotle](#aristotle)
+- Close friend and colleague of [Aristotle](#aristotle)
+- The world's first [Botanist](#botany)
 - Wikipedia: https://en.wikipedia.org/wiki/Theophrastus
 
 ### Alexander the Great
