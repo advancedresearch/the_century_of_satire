@@ -126,4 +126,4 @@ So, you have Magi that make their living mostly by selling drugs, toward pretend
 
 ### Sources
 
-[1] See M. O. Wise, "A Critical Study Of The Temple Scroll From Qumran Cave 11" in the [Chronology](./chronology.md#the-temple-scroll)
+[1] See M. O. Wise, "A Critical Study Of The Temple Scroll From Qumran Cave 11" in the [Chronology](./chronology.md#the-temple-scroll) - "Introduction" page 18 of 310
