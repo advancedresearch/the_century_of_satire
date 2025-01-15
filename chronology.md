@@ -750,6 +750,8 @@ These are online sources for people to learn more about specific events or histo
 - Birth place Lanuvium (OpenStreetMap): https://www.openstreetmap.org/search?query=lanuvio#map=13/41.64137/12.69253
 - Aged 31
 - His physician was [Galen](#galen)
+- His mistress was [Marcia](#marcia)
+- Was killed by [Marcia](#marcia) with help from [Narcissus](#narcissus)
 - Wikipedia: https://en.wikipedia.org/wiki/Commodus
 
 ### Marcia
