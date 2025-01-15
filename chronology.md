@@ -758,6 +758,10 @@ These are online sources for people to learn more about specific events or histo
 
 ### Plague of Galen
 
+![Angel of death striking a door during Plague of Galen](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_angel_of_death_striking_a_door_during_the_plague_of_Rome_Wellcome_V0010664.jpg/1920px-The_angel_of_death_striking_a_door_during_the_plague_of_Rome_Wellcome_V0010664.jpg)
+
+*The angel of death striking a door during the plague of Rome. Engraving by Levasseur after J. Delaunay.*
+
 - Also called "Antonine Plague"
 - Associated with [Galen](#galen) the physician that described it
 - Around 5-10 million deaths estimated
