@@ -690,6 +690,7 @@ These are online sources for people to learn more about specific events or histo
 *An 18th-century engraving by Georg P. Busch.*
 
 - Birth place Pergamon (OpenStreetMap): https://www.openstreetmap.org/search?query=39%C2%B007%E2%80%B257%E2%80%B3N%2027%C2%B011%E2%80%B203%E2%80%B3E#map=12/39.1325/27.1842
+- Aged 87
 - Wikipedia: https://en.wikipedia.org/wiki/Galen
 
 ### Jesus
