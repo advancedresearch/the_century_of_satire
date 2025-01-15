@@ -300,6 +300,7 @@ These are online sources for people to learn more about specific events or histo
 - Inspired [Galen](#galen)'s research on [physiology](#physiology)
 - Wikipedia: https://en.wikipedia.org/wiki/Aristotle
 - Works of Aristle (Wikipedia): https://en.wikipedia.org/wiki/Works_of_Aristotle
+- BBC documentary "Aristotle's Lagoon": https://www.youtube.com/watch?v=JN8ortM4M3o
 
 ### History of Animals
 
