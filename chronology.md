@@ -751,7 +751,7 @@ These are online sources for people to learn more about specific events or histo
 - Aged 31
 - His physician was [Galen](#galen)
 - His mistress was [Marcia](#marcia)
-- Was killed by [Marcia](#marcia) with help from [Narcissus](#narcissus)
+- Was killed by [Marcia](#marcia) with help from [Narcissus](#narcissus-the-wrestler)
 - Wikipedia: https://en.wikipedia.org/wiki/Commodus
 
 ### Marcia
@@ -771,6 +771,7 @@ These are online sources for people to learn more about specific events or histo
 
 - Aged unknown (only c. death year is known)
 - Was executed during the series of civil wars after Commodus's death, c. 192-193 CE
+- Killed [Commodus](#commodus) by order of [Marcia](#marcia)
 - Wikipedia: https://en.wikipedia.org/wiki/Narcissus_(wrestler)
 
 ### Constantine the Great
