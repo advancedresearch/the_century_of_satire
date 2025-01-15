@@ -5,6 +5,8 @@ it is useful to form a hypothesis that the book of Exodus was written later than
 
 The first historical external reference to the name Moses, which appears in the book of Exodus,
 is given by Josephus around year 93 CE.
+This is counter-intuitive, because e.g. The Temple Scroll found in Cave 11 among the Dead Sea Scrolls
+frequently refers to Deuteronomy, but omits the name of Moses where it occurs in the text (See [source](#sources) [1]).
 
 This means, that the book of Exodus might have been written at a later time than the book of Genesis.
 
@@ -121,3 +123,7 @@ then this religious tradition looks a lot more like an ordinary mystery cult fro
 It also makes it easier to explain the spiritual language in the Ancient Greek texts as overlapping with terminology for drugs and medicine.
 
 So, you have Magi that make their living mostly by selling drugs, toward pretending to perform healing miracles during a devastating plague.
+
+### Sources
+
+[1] See M. O. Wise, "A Critical Study Of The Temple Scroll From Qumran Cave 11" in the [Chronology](./chronology.md#the-temple-scroll)
