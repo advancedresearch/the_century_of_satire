@@ -72,6 +72,7 @@ Some images are included to give people a historical experience.
 - 193 CE: [Marcia](#marcia) is killed, and [Narcissus](#narcissus-the-wrestler) is killed around this time in civil wars
 - 27 February c. 272 to 22 May 337 CE: [Constantine the Great](#constantine-the-great)
 - 380 CE: [Edict of Thessalonica](#edict-of-thessalonica)
+- 1956 CE: [The Temple Scroll](#the-temple-scroll) is found
 - 1958 CE: [Hannah Arendt](#hannah-arendt) publishes [The Human Condition](arent-the-human-condition)
 - 2018 CE: [Stephen Bagwell](#stephen-bagwell) publishes his thesis [Aristotle on Life](#aristotle-on-life)
 - 2021 CE: [Joker Calculus is created](#joker-calculus)
@@ -859,6 +860,15 @@ These are online sources for people to learn more about specific events or histo
 - The first known secular law which includes in its preamble a clear definition of what a Christian Roman ruler considers as religious orthodoxy, opening the way of repression against dissidents qualified as "heretics"
 - Result of violent dispute about [theology](#theology)
 - Wikipedia: https://en.wikipedia.org/wiki/Edict_of_Thessalonica
+
+### The Temple Scroll
+
+![The Temple Scroll](http://tiles.imj.org.il/tiles/empty.png)
+
+*The Temple Scroll.*
+
+- The Digital Dead Sea Scrolls: http://dss.collections.imj.org.il/temple
+- Archive.org, Maier, Johann "The temple scroll : an introduction, translation & commentary": https://archive.org/details/templescrollintr0000maie
 
 ### Hannah Arendt
 
