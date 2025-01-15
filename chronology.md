@@ -861,12 +861,20 @@ These are online sources for people to learn more about specific events or histo
 - Result of violent dispute about [theology](#theology)
 - Wikipedia: https://en.wikipedia.org/wiki/Edict_of_Thessalonica
 
+### Dead Sea Scrolls
+
+- Includes [The Temple Scroll](#the-temple-scroll)
+- Archive.org Geza Vermes "The Complete Dead Sea Scrolls in English": https://ia800309.us.archive.org/0/items/pdfy-Uy_BZ_QGsaLiJ4Zs/The%20Dead%20Sea%20Scrolls%20%5BComplete%20English%20Translation%5D.pdf
+- Wikipedia: https://en.wikipedia.org/wiki/Dead_Sea_Scrolls
+
 ### The Temple Scroll
 
 ![The Temple Scroll](https://github.com/user-attachments/assets/ff3273bd-00e7-493a-903f-cddda3463199)
 
 *The Temple Scroll.*
 
+- Among the [Dead Sea Scrolls](#dead-sea-scrolls)
+- Wikipedia: https://en.wikipedia.org/wiki/Temple_Scroll
 - The Digital Dead Sea Scrolls: http://dss.collections.imj.org.il/temple
 - Archive.org, Maier, Johann "The temple scroll : an introduction, translation & commentary": https://archive.org/details/templescrollintr0000maie
 
