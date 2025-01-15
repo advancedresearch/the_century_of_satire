@@ -222,6 +222,7 @@ These are online sources for people to learn more about specific events or histo
 - As far as we know, never wrote about [Seshat](#seshat)
 - Teacher of [Aristotle](#aristotle)
 - Saw men as physically stronger than women, but otherwise equal, see [reference](#plato-and-aristotle-on-the-nature-of-women)
+- Inspired [Galen](#galen)'s research on [physiology](#physiology)
 - The founder of Platonism, a philosophy of forms and abstraction and one of the basic duals in [Joker Calculus](#joker-calculus)
 - Wikipedia: https://en.wikipedia.org/wiki/Plato
 
@@ -284,6 +285,7 @@ These are online sources for people to learn more about specific events or histo
 - Student of [Plato](#plato)
 - Teacher of [Alexander the Great](#alexander-the-great)
 - Saw men as as superior in nature to women, see [reference](#plato-and-aristotle-on-the-nature-of-women)
+- Inspired [Galen](#galen)'s research on [physiology](#physiology)
 - Wikipedia: https://en.wikipedia.org/wiki/Aristotle
 - Works of Aristle (Wikipedia): https://en.wikipedia.org/wiki/Works_of_Aristotle
 
@@ -684,6 +686,15 @@ These are online sources for people to learn more about specific events or histo
 - Aged c. 70
 - Wikipedia: https://en.wikipedia.org/wiki/Hegesippus_(chronicler)
 
+### Physiology
+
+![Oil painting depicting Claude Bernard, the father of modern physiology, with his pupils](https://upload.wikimedia.org/wikipedia/commons/2/22/Claude_Bernard_and_his_pupils._Oil_painting_after_L%C3%A9on-Augus_Wellcome_V0017769.jpg)
+
+*Oil painting depicting Claude Bernard, the father of modern physiology, with his pupils.*
+
+- Researched by [Galen](#galen)
+- Wikipedia: https://en.wikipedia.org/wiki/Physiology
+
 ### Galen
 
 ![Portrait of Galen](https://upload.wikimedia.org/wikipedia/commons/8/80/Galenus.jpg)
@@ -694,6 +705,7 @@ These are online sources for people to learn more about specific events or histo
 - Aged 87
 - Physician of [Commodus](#commodus)
 - Described the [Plague of Galen](#plague-of-galen)
+- Research on [physiology](#physiology) was greatly inspired by [Plato](#plato) and [Aristotle](#aristotle)
 - Wikipedia: https://en.wikipedia.org/wiki/Galen
 
 ### Jesus
