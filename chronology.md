@@ -65,6 +65,7 @@ Some images are included to give people a historical experience.
 - c. 150 CE: [Gospel of Marcion is published](#gospel-of-marcion)
 - c. 155 to 157 CE: [Justin Martyr](#justin-martyr) publishes [First Apology](#first-apology)
 - 31 August 161 to 31 December 192 CE: [Commodus](#commodus)
+- 165 to 180 CE: [Plague of Galen](#plague-of-galen)
 - c. 180 CE: [Irenaeus](#irenaeus) writes [Against Heresies](#against-heresies)
 - 192 CE: [Commodus](#commodus) is killed by [Marcia](#marcia) with help from [Narcissus](#narcissus-the-wrestler)
 - 193 CE: [Marcia](#marcia) is killed, and [Narcissus](#narcissus-the-wrestler) is killed around this time in civil wars
@@ -692,6 +693,7 @@ These are online sources for people to learn more about specific events or histo
 - Birth place Pergamon (OpenStreetMap): https://www.openstreetmap.org/search?query=39%C2%B007%E2%80%B257%E2%80%B3N%2027%C2%B011%E2%80%B203%E2%80%B3E#map=12/39.1325/27.1842
 - Aged 87
 - Physician of [Commodus](#commodus)
+- Described the [Plague of Galen](#plague-of-galen)
 - Wikipedia: https://en.wikipedia.org/wiki/Galen
 
 ### Jesus
@@ -753,6 +755,13 @@ These are online sources for people to learn more about specific events or histo
 - His mistress was [Marcia](#marcia)
 - Was killed by [Marcia](#marcia) with help from [Narcissus](#narcissus-the-wrestler)
 - Wikipedia: https://en.wikipedia.org/wiki/Commodus
+
+### Plague of Galen
+
+- Also called "Antonine Plague"
+- Associated with [Galen](#galen) the physician that described it
+- Around 5-10 million deaths estimated
+- Wikipedia: https://en.wikipedia.org/wiki/Antonine_Plague
 
 ### Marcia
 
