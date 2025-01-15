@@ -874,6 +874,7 @@ These are online sources for people to learn more about specific events or histo
 *The Temple Scroll.*
 
 - Among the [Dead Sea Scrolls](#dead-sea-scrolls)
+- Frequently refers to Deuteronomy, but omits the name Moses where it occurs in the text
 - Wikipedia: https://en.wikipedia.org/wiki/Temple_Scroll
 - The Digital Dead Sea Scrolls: http://dss.collections.imj.org.il/temple
 - Archive.org, Maier Johann, "The temple scroll : an introduction, translation & commentary": https://archive.org/details/templescrollintr0000maie
