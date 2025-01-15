@@ -876,7 +876,8 @@ These are online sources for people to learn more about specific events or histo
 - Among the [Dead Sea Scrolls](#dead-sea-scrolls)
 - Wikipedia: https://en.wikipedia.org/wiki/Temple_Scroll
 - The Digital Dead Sea Scrolls: http://dss.collections.imj.org.il/temple
-- Archive.org, Maier, Johann "The temple scroll : an introduction, translation & commentary": https://archive.org/details/templescrollintr0000maie
+- Archive.org, Maier Johann, "The temple scroll : an introduction, translation & commentary": https://archive.org/details/templescrollintr0000maie
+- Archive.org, M. O. Wise, "A Critical Study Of The Temple Scroll From Qumran Cave 11": https://archive.org/details/saoc-49.-a-critical-study-of-the-temple-scroll-from-qumran-cave-11/mode/2up
 
 ### Hannah Arendt
 
