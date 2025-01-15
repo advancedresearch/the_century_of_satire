@@ -36,6 +36,7 @@ Some images are included to give people a historical experience.
 - c. 370 BC: [Plato's Phaedrus](#phaedrus) is composed
 - 20 or 21 July 356 to 10 or 11 June 323 BC: [Alexander the Great](#alexander-the-great)
 - Between mid 4th century to 322 BC: [Aristotle](#aristotle) writes [History of Animals](#history-of-animals)
+- February 341 to 270 BC: [Epicurus](#epicurus)
 - 323 to 30 BC: [Hellenistic period](#hellenistic-period)
 - 323 to 283 or 283 to 246 BC: [Establishment of the Library of Alexandria](#library-of-alexandria)
 - 3rd to 2nd century BC: [Composition of Septuagint](#septuagint)
@@ -322,6 +323,16 @@ These are online sources for people to learn more about specific events or histo
 - Leader of [Ptolemy I Soter](#ptolemy-i-soter), one of his generals, that founded [Mouseion](#mouseion)
 - His death marks the beginning of the [Hellenistic period](#hellenistic-period)
 - Wikipedia: https://en.wikipedia.org/wiki/Alexander_the_Great
+
+### Epicurus
+
+![Epicurus](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Epikouros_BM_1843.jpg/1024px-Epikouros_BM_1843.jpg)
+
+*Portrait of Epicurus, founder of the Epicurean school. Roman copy after a lost Hellenistic original.*
+
+- Birth place Samos (OpenStreetMap): https://www.openstreetmap.org/search?query=samos#map=11/37.7247/26.8180
+- Aged 72
+- Wikipedia: https://en.wikipedia.org/wiki/Epicurus
 
 ### Hellenistic period
 
