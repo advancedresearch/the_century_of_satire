@@ -223,6 +223,7 @@ These are online sources for people to learn more about specific events or histo
 - Teacher of [Aristotle](#aristotle)
 - Saw men as physically stronger than women, but otherwise equal, see [reference](#plato-and-aristotle-on-the-nature-of-women)
 - Inspired [Galen](#galen)'s research on [physiology](#physiology)
+- Developed [the tripartite soul](#the-tripartite-soul)
 - The founder of Platonism, a philosophy of forms and abstraction and one of the basic duals in [Joker Calculus](#joker-calculus)
 - Wikipedia: https://en.wikipedia.org/wiki/Plato
 
@@ -248,6 +249,15 @@ These are online sources for people to learn more about specific events or histo
 - Uses the term "θεολογία" (Greek) for [theology](#theology) with meaning "discourse of God"
 - Wikipedia: https://en.wikipedia.org/wiki/Republic_(Plato)
 
+### The Tripartite Soul
+
+- Developed by [Plato](#plato)
+- The [Logos](#logos) (λογιστικόν), or logistikon, located in the head, is related to reason and regulates the other parts
+- The thymos (θυμοειδές), or thumoeides, located near the chest region, is related to spirit
+- The eros (ἐπιθυμητικόν), or epithumetikon, located in the stomach, is related to one's desires
+- Localized in specific organs by [Galen](#galen) in his work [On the Doctrines of Hippocrates and Plato](#on-the-doctrines-of-hippocrates-and-plato)
+- Wikipedia: https://en.wikipedia.org/wiki/Plato%27s_theory_of_soul
+
 ### To Live
 
 - Greek root word "ζῶ"
@@ -260,6 +270,7 @@ These are online sources for people to learn more about specific events or histo
 - Greek "λόγος" meaning "knowledge", "study" or "reason"
 - Second half of the term for [Zoology](#zoology)
 - Consort of [Zoe](#zoe) in [Against Heresies](#against-heresies) by [Irenaeus](#irenaeus)
+- One part of [the tripartite soul](#the-tripartite-soul) developed by [Plato](#plato)
 - Greek philosophical concept associated with [Jesus](#jesus)
 
 ### Zoology
@@ -706,7 +717,18 @@ These are online sources for people to learn more about specific events or histo
 - Physician of [Commodus](#commodus)
 - Described the [Plague of Galen](#plague-of-galen)
 - Research on [physiology](#physiology) was greatly inspired by [Plato](#plato) and [Aristotle](#aristotle)
+- Wrote [On the doctrines of Hippocrates and Plato](#on-the-doctrines-of-hippocrates-and-plato)
+- Localized [the tripartite soul](#the-tripartite-soul) by [Plato](#plato) in his work [On the doctrines of Hippocrates and Plato](#on-the-doctrines-of-hippocrates-and-plato)
 - Wikipedia: https://en.wikipedia.org/wiki/Galen
+
+### On the doctrines of Hippocrates and Plato
+
+- Written by [Galen](#galen)
+- Uses [Plato](#plato)'s terms on [the tripartite soul](#the-tripartite-soul) to localize these parts in the human body
+- The [Logos](#logos) (λογιστικόν), or logistikon, located in the brain
+- The thymos (θυμοειδές), or thumoeides, located in the heart
+- The eros (ἐπιθυμητικόν), or epithumetikon, located in the liver
+- Archive.org: https://archive.org/details/ondoctrinesofhip0000gale/mode/2up
 
 ### Jesus
 
