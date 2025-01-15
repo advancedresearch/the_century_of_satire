@@ -33,6 +33,7 @@ Some images are included to give people a historical experience.
 - 428/427 or 424/423 to 348 BC: [Plato](#plato)
 - 384 to 322 BC: [Aristotle](#aristotle)
 - c. 375 BC: [Plato](#plato) authors [The Republic](#the-republic)
+- c. 371 to 287 BC: [Theophrastus](#theophrastus)
 - c. 370 BC: [Plato's Phaedrus](#phaedrus) is composed
 - 20 or 21 July 356 to 10 or 11 June 323 BC: [Alexander the Great](#alexander-the-great)
 - Between mid 4th century to 322 BC: [Aristotle](#aristotle) writes [History of Animals](#history-of-animals)
@@ -291,6 +292,7 @@ These are online sources for people to learn more about specific events or histo
 *Bust of Aristotle. Marble, Roman copy after a Greek bronze original by Lysippos from 330 BC; the alabaster mantle is a modern addition.*
 
 - Birth place Athens (OpenStreetMap): https://www.openstreetmap.org/search?query=athens#map=11/37.9757/23.7348
+- Close friend and collegue of [Theophrastus](#theophrastus)
 - The world's first [Zoologist](#zoology)
 - Wrote [History of Animals](#history-of-animals)
 - Wrote [Metaphysics](#metaphysics)
@@ -327,6 +329,15 @@ These are online sources for people to learn more about specific events or histo
 - Central topic of [theology](#theology)
 - Grunge.com "The Truth about Aristotle's love life": https://www.grunge.com/600496/the-truth-about-aristotles-love-life/
 - Journal of the History of Philosophy "Plato and Aristotle on the Nature of Women" by Nicholas D. Smith: https://muse.jhu.edu/article/226997
+
+### Theophrastus
+
+![Statue of Theophrastus](https://upload.wikimedia.org/wikipedia/commons/d/d3/Teofrasto_Orto_botanico_detail.jpg)
+
+*Statue of Theophrastus, Palermo Botanical Garden.*
+
+- Close friend and collegue of [Aristotle](#aristotle)
+- Wikipedia: https://en.wikipedia.org/wiki/Theophrastus
 
 ### Alexander the Great
 
