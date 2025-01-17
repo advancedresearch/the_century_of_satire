@@ -147,7 +147,7 @@ These are online sources for people to learn more about specific events or histo
 - Three different kings of Phrygia, one living in the 2nd millenium BC, two in 8th century BC, three in 6th century BC
 - Associated with the myth of [King Midas](#king-midas-myth)
 - Not mentioned by [Homer](#homer)
-- Mentioned by [Plato](#plato) in [Phaedrus](#phaedrus) 264d: https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0173:text=Phaedrus:section=264d&highlight=midas
+- Mentioned by [Plato](#plato) in [Phaedrus](#phaedrus) 264d
 - Wikipedia: https://en.wikipedia.org/wiki/Midas
 
 ### King Midas Myth
@@ -224,6 +224,7 @@ These are online sources for people to learn more about specific events or histo
 - Wrote about [Thoth](#thoth) in [Phaedrus](#phaedrus)
 - Wrote about [theology](#theology) in [The Republic](#the-republic)
 - As far as we know, never wrote about [Seshat](#seshat)
+- Mentions [Midas](#midas) in [Phaedrus](#phaedrus) 264d
 - Teacher of [Aristotle](#aristotle)
 - Had great philosophical influence on [Philo of Alexandria](#philo-of-alexandria)
 - Saw men as physically stronger than women, but otherwise equal, see [reference](#plato-and-aristotle-on-the-nature-of-women)
@@ -241,6 +242,7 @@ These are online sources for people to learn more about specific events or histo
 - Full title "Euthyphro Apology ; Crito ; Phaedo ; Phaedrus"
 - Written by [Plato](#plato)
 - Mentions [Thoth](#thoth)
+- Mentions [Midas](#midas) in paragraph 264d: https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0173:text=Phaedrus:section=264d&highlight=midas
 - Archive (Greek and English side by side): https://archive.org/details/euthyphroapology00plat_520/mode/2up
 - Wikipedia: https://en.wikipedia.org/wiki/Phaedrus_(dialogue)
 
