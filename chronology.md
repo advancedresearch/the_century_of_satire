@@ -48,6 +48,7 @@ Some images are included to give people a historical experience.
 - 12 July 100 to 15 March 44 BC: [Julius Caesar](#julius-caesar)
 - 46 to 72 or 78/79 BC: [Emesene dynasty](#emesene-dynasty)
 - 34 or 2 BC to 54 CE: [Gaius Julius Azizus](#gaius-julius-azizus)
+- c. 20 BC to 50 CE: [Philo of Alexandria](#philo-of-alexandria)
 - 5 to 10 CE (born, no date of death): [Antonius Felix](#antonius-felix)
 - 37 to 100 CE: [Josephus](#josephus)
 - 38 to 24 August 79 CE (might have died in eruption of Mount Vesuvius): [Drusilla of Judea](#drusilla-of-judea)
@@ -529,6 +530,16 @@ These are online sources for people to learn more about specific events or histo
 - Birth place Suburra (OpenStreetMap): https://www.openstreetmap.org/search?query=suburra#map=19/41.895099/12.490825
 - Aged 55
 - Wikipedia: https://en.wikipedia.org/wiki/Julius_Caesar
+
+### Philo of Alexandria
+
+![Philo of Alexandria](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/PhiloThevet.jpg/1280px-PhiloThevet.jpg)
+
+*Imaginative illustration of Philo made in 1584 by the French portrait artist André Thevet.*
+
+- Birth place Alexandria (OpenStreetMap): https://www.openstreetmap.org/search?query=alexandria#map=11/31.1993/29.8952
+- Aged c. 69
+- Wikipedia: https://en.wikipedia.org/wiki/Philo
 
 ### Antonius Felix
 
