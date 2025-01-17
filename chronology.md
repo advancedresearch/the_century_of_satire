@@ -180,6 +180,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Marble terminal bust of Homer. Roman copy of a lost Hellenistic original of the 2nd c. BCE.*
 
+- c. 8th century BC
 - Resides at Chios (OpenStreetMap): https://www.openstreetmap.org/search?query=chios%20greece#map=10/38.3652/25.7259
 - Aged unknown (neither birth or death year is known)
 - Wrote [Odyssey](#odyssey)
@@ -212,6 +213,7 @@ These are online sources for people to learn more about specific events or histo
 
 ### Classical Greece
 
+- 4th to 5th centiry BC
 - Standardized the number of [Muses](#muses) to nine
 - Wikipedia: https://en.wikipedia.org/wiki/Classical_Greece
 
@@ -221,6 +223,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Plato, copy of the portrait made by Silanion ca. 370 BC for the Academia in Athens*
 
+- 428/427 or 424/423 to 348 BC
 - Birth place Athens (OpenStreetMap): https://www.openstreetmap.org/search?query=athens#map=11/37.9757/23.7348
 - Wrote [Phaedrus](#phaedrus)
 - Wrote [The Republic](#the-republic)
@@ -242,6 +245,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Cover of Plato's Phaedrus from a translation published in 1914.*
 
+- c. 370 BC
 - Full title "Euthyphro Apology ; Crito ; Phaedo ; Phaedrus"
 - Written by [Plato](#plato)
 - Mentions [Thoth](#thoth)
@@ -255,6 +259,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Title page of the oldest complete manuscript of The Republic by Plato: Paris, Bibliothèque Nationale, Gr. 1807 (late 9th century).*
 
+- c. 375 BC
 - Written by [Plato](#plato)
 - Uses the term "θεολογία" (Greek) for [theology](#theology) with meaning "discourse of God"
 - Wikipedia: https://en.wikipedia.org/wiki/Republic_(Plato)
@@ -300,6 +305,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Bust of Aristotle. Marble, Roman copy after a Greek bronze original by Lysippos from 330 BC; the alabaster mantle is a modern addition.*
 
+- 384 to 322 BC
 - Birth place Athens (OpenStreetMap): https://www.openstreetmap.org/search?query=athens#map=11/37.9757/23.7348
 - Close friend and colleague of [Theophrastus](#theophrastus)
 - The world's first [Zoologist](#zoology)
@@ -319,6 +325,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Historia animalium et al., Constantinople, 12th century (Biblioteca Medicea Laurenziana, pluteo 87.4).*
 
+- Between mid 4th century to 322 BC
 - Written by [Aristotle](#aristotle)
 - One of the major texts on [zoology](#zoology)
 - Wikipedia: https://en.wikipedia.org/wiki/History_of_Animals
@@ -354,6 +361,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Statue of Theophrastus, Palermo Botanical Garden.*
 
+- c. 371 to 287 BC
 - Close friend and colleague of [Aristotle](#aristotle)
 - The world's first [Botanist](#botany)
 - Wikipedia: https://en.wikipedia.org/wiki/Theophrastus
@@ -364,6 +372,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Alexander Mosaic (detail), House of the Faun, Pompeii.*
 
+- 20 or 21 July 356 to 10 or 11 June 323 BC
 - Aged 32
 - Student of [Aristotle](#aristotle)
 - Leader of [Ptolemy I Soter](#ptolemy-i-soter), one of his generals, that founded [Mouseion](#mouseion)
@@ -376,6 +385,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Portrait of Epicurus, founder of the Epicurean school. Roman copy after a lost Hellenistic original.*
 
+- February 341 to 270 BC
 - Birth place Samos (OpenStreetMap): https://www.openstreetmap.org/search?query=samos#map=11/37.7247/26.8180
 - Aged 72
 - Wikipedia: https://en.wikipedia.org/wiki/Epicurus
@@ -386,6 +396,7 @@ These are online sources for people to learn more about specific events or histo
 
 *The Winged Victory of Samothrace (The Winged Nike) is considered one of the greatest masterpieces of Hellenistic art.*
 
+- 323 to 30 BC
 - Begins with the death of [Alexander the Great](#alexander-the-great)
 - Wikipedia: https://en.wikipedia.org/wiki/Hellenistic_period
 
@@ -454,6 +465,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Screenshot of ancient Alexandria (reconstruction) from Assassins Creed: Origins by Ubisoft Studios*
 
+- Established 323 to 283 or 283 to 246 BC
 - Established by the institution [Mouseion](#mouseion)
 - Wikipedia: https://en.wikipedia.org/wiki/Library_of_Alexandria
 
@@ -463,6 +475,7 @@ These are online sources for people to learn more about specific events or histo
 
 *A portion of the Greek Uncial MS. Codex Vaticanus, from the Vatican Library. This image shows a passage from the New Testament and includes 1 Esdras 1:55-2:5.*
 
+- 3rd to 2nd century BC
 - In the book of [Genesis](#genesis), tells the myth of [Garden of Eden](#garden-of-eden)
 - Language: Koine Greek, a dialect of Ancient Greek common in the Hellenistic period
 - Used by [Philo of Alexandria](#philo-of-alexandria)
@@ -501,6 +514,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Greek scholar Eratosthenes*
 
+- 276 to 194 BC
 - Birth place Cyrene (OpenStreetMap): https://www.openstreetmap.org/search?query=cyrene#map=16/32.82080/21.85641
 - Aged around 82
 - Likely studied at the local [gymnasium](#gymnasium)
@@ -510,12 +524,25 @@ These are online sources for people to learn more about specific events or histo
 - Founder of the discipline geography and coined the term
 - Wikipedia: https://en.wikipedia.org/wiki/Eratosthenes
 
+### Julius Caesar
+
+![Julius Caesar](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/1024px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg)
+
+*Bust of Julius Caesar*
+
+- 12 July 100 to 15 March 44 BC
+- Birth place Suburra (OpenStreetMap): https://www.openstreetmap.org/search?query=suburra#map=19/41.895099/12.490825
+- Aged 55
+- Wikipedia: https://en.wikipedia.org/wiki/Julius_Caesar
+
 ### Sibylline Books
 
 ![Erythraean Sibyl](https://upload.wikimedia.org/wikipedia/en/a/ad/Erythraeansibylbymichelangelo.jpg)
 
 *Michelangelo's rendering of the Erythraean Sibyl.*
 
+- Accidentally destroyed in a fire in 83 BC
+- Roman senate attempts to recollect texts in 76 BC which results in sayings by [Sibylline Oracles](#sibylline-oracles)
 - Wikipedia: https://en.wikipedia.org/wiki/Sibylline_Books
 
 ### Sibylline Oracles
@@ -524,6 +551,8 @@ These are online sources for people to learn more about specific events or histo
 
 *The Cumaean Sibyl by Elihu Vedder (1836 to 1923 CE).*
 
+- The original [Sibylline Books](#sibylline-books) were accidentally destroyed in a fire in 83 BC
+- Roman senate attempts to recollect texts in 76 BC
 - Wikipedia: https://en.wikipedia.org/wiki/Sibylline_Oracles
 
 ### Cleopatra VII Thea Philopator
@@ -532,18 +561,34 @@ These are online sources for people to learn more about specific events or histo
 
 *Bust of Cleopatra VII Thea Philopator, marble.*
 
+- Early 69 BC or late 70 to 10 August 30 BC
 - Birth place Alexandria (OpenStreetMap): https://www.openstreetmap.org/search?query=alexandria#map=11/31.1996/29.8952
+- Aged 39
 - Wikipedia: https://en.wikipedia.org/wiki/Cleopatra
 
-### Julius Caesar
+### Ovid
 
-![Julius Caesar](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/1024px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg)
+![Ovid](https://upload.wikimedia.org/wikipedia/commons/a/a0/Ovid_18th_century_engraving_%28cropped%29.jpg)
 
-*Bust of Julius Caesar*
+*Anonymous 18th-century engraving of Ovid.*
 
-- Birth place Suburra (OpenStreetMap): https://www.openstreetmap.org/search?query=suburra#map=19/41.895099/12.490825
-- Aged 55
-- Wikipedia: https://en.wikipedia.org/wiki/Julius_Caesar
+- 20 March 43 BC to 17 or 18 CE
+- Birth place Sulmo (OpenStreetMap): https://www.openstreetmap.org/search?query=42%C2%B002%E2%80%B2N%2013%C2%B056%E2%80%B2E#map=11/42.0333/13.9333
+- Aged 59-61
+- Wrote [Metamorphoses](#metamorphoses)
+- Wikipedia: https://en.wikipedia.org/wiki/Ovid
+
+### Metamorphoses
+
+![Metamorphoses](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ovidius_Naso_-_Metamorphoses%2C_del_MCCCCLXXXXVII_Adi_X_del_mese_di_aprile_-_1583162_Carta_a1r.jpeg/1024px-Ovidius_Naso_-_Metamorphoses%2C_del_MCCCCLXXXXVII_Adi_X_del_mese_di_aprile_-_1583162_Carta_a1r.jpeg)
+
+*Page from the edition of Ovid's Metamorphoses published by Lucantonio Giunti in Venice, 1497.*
+
+- 8 CE
+- Written by [Ovid](#ovid)
+- Wikipedia: https://en.wikipedia.org/wiki/Metamorphoses
+- Translation by Henry T. Riley: https://www.gutenberg.org/cache/epub/26073/pg26073-images.html
+- [Myth of King Midas](#king-midas-myth), translated by Henry T. Riley: https://www.gutenberg.org/cache/epub/26073/pg26073-images.html#bookXI_fableII
 
 ### Philo of Alexandria
 
@@ -551,6 +596,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Imaginative illustration of Philo made in 1584 by the French portrait artist André Thevet.*
 
+- c. 20 BC to 50 CE
 - Birth place Alexandria (OpenStreetMap): https://www.openstreetmap.org/search?query=alexandria#map=11/31.1993/29.8952
 - Aged c. 69
 - Greatest philosophical influence was [Plato](#plato)
@@ -567,20 +613,11 @@ These are online sources for people to learn more about specific events or histo
 
 *Antonius Felix medallion from Promptuarium Iconum Insigniorum.*
 
+- 5 to 10 CE (born, no date of death)
 - Also known as Felix of Ceasarea
 - Birth place Caesarea Maritima (OpenStreetMap): https://www.openstreetmap.org/search?query=Caesarea%20Maritima#map=19/32.501839/34.892447
 - Hired [Atomus](#atomus) to convince [Drusilla of Judea](#drusilla-of-judea) to divorce [Gaius Julius Azizus](#gaius-julius-azizus) to marry him instead
 - Wikipedia: https://en.wikipedia.org/wiki/Antonius_Felix
-
-### Josephus
-
-![Josephus](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Joseph%2C_son_of_Gorian%2C_called_Flavius_Josephus_%28NYPL_Hades-255854-430875%29_%28cropped%29.tiff/lossy-page1-1024px-Joseph%2C_son_of_Gorian%2C_called_Flavius_Josephus_%28NYPL_Hades-255854-430875%29_%28cropped%29.tiff.jpg)
-
-*Imaginary portrait for Josephus, illustrated by Thomas Addis Emmet, 1880.*
-
-- Birth place Jerusalem (OpenStreetMap): https://www.openstreetmap.org/search?query=jerusalem#map=12/31.7962/35.1751
-- Aged 62-63
-- Wikipedia: https://en.wikipedia.org/wiki/Josephus
 
 ### Emesene dynasty
 
@@ -588,36 +625,27 @@ These are online sources for people to learn more about specific events or histo
 
 *Geographic region of the Emesene dynasty.*
 
+- 46 to 72 or 78/79 BC
 - Wikipedia: https://en.wikipedia.org/wiki/Emesene_dynasty
-
-### Ovid
-
-![Ovid](https://upload.wikimedia.org/wikipedia/commons/a/a0/Ovid_18th_century_engraving_%28cropped%29.jpg)
-
-*Anonymous 18th-century engraving of Ovid.*
-
-- Birth place Sulmo (OpenStreetMap): https://www.openstreetmap.org/search?query=42%C2%B002%E2%80%B2N%2013%C2%B056%E2%80%B2E#map=11/42.0333/13.9333
-- Aged 59-61
-- Wrote [Metamorphoses](#metamorphoses)
-- Wikipedia: https://en.wikipedia.org/wiki/Ovid
-
-### Metamorphoses
-
-![Metamorphoses](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ovidius_Naso_-_Metamorphoses%2C_del_MCCCCLXXXXVII_Adi_X_del_mese_di_aprile_-_1583162_Carta_a1r.jpeg/1024px-Ovidius_Naso_-_Metamorphoses%2C_del_MCCCCLXXXXVII_Adi_X_del_mese_di_aprile_-_1583162_Carta_a1r.jpeg)
-
-*Page from the edition of Ovid's Metamorphoses published by Lucantonio Giunti in Venice, 1497.*
-
-- Written by [Ovid](#ovid)
-- Wikipedia: https://en.wikipedia.org/wiki/Metamorphoses
-- Translation by Henry T. Riley: https://www.gutenberg.org/cache/epub/26073/pg26073-images.html
-- [Myth of King Midas](#king-midas-myth), translated by Henry T. Riley: https://www.gutenberg.org/cache/epub/26073/pg26073-images.html#bookXI_fableII
 
 ### Gaius Julius Azizus
 
+- 34 or 2 BC to 54 CE
 - Birth place Emesa (OpenStreetMap): https://www.openstreetmap.org/search?query=emesa#map=8/34.726/36.712
 - Aged 65-97, highly depending on year of birth
 - Married to [Drusilla of Judea](#drusilla-of-judea)
 - Gini: https://www.geni.com/people/Azisus-Priest-King-of-Emesa/6000000000803852764
+
+### Josephus
+
+![Josephus](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Joseph%2C_son_of_Gorian%2C_called_Flavius_Josephus_%28NYPL_Hades-255854-430875%29_%28cropped%29.tiff/lossy-page1-1024px-Joseph%2C_son_of_Gorian%2C_called_Flavius_Josephus_%28NYPL_Hades-255854-430875%29_%28cropped%29.tiff.jpg)
+
+*Imaginary portrait for Josephus, illustrated by Thomas Addis Emmet, 1880.*
+
+- 37 to 100 CE
+- Birth place Jerusalem (OpenStreetMap): https://www.openstreetmap.org/search?query=jerusalem#map=12/31.7962/35.1751
+- Aged 62-63
+- Wikipedia: https://en.wikipedia.org/wiki/Josephus
 
 ### Drusilla of Judea
 
@@ -625,6 +653,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Drusilla medallion from Promptuarium Iconum Insigniorum (1553).*
 
+- 38 to 24 August 79 CE
 - Birth place is possibly Emesa (since she was married to Gaius Julius Azizus, king of Emesa) (OpenStreetMap): https://www.openstreetmap.org/search?query=emesa#map=12/34.7258/36.7118
 - Aged 41, if she died in eruption of Mount Vesuvius
 - Wikipedia: https://en.wikipedia.org/wiki/Drusilla_(daughter_of_Herod_Agrippa)
@@ -670,6 +699,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Head of Trajan (reign 98–117 CE), from an oversized statue (around 2.70 m height).*
 
+- 18 September 53 to c. 9 August 117 CE
 - Birth place Italica (OpenStreetMap): https://www.openstreetmap.org/search?query=37%C2%B026%E2%80%B238%E2%80%B3N%206%C2%B002%E2%80%B248%E2%80%B3W#map=14/37.44382/-6.04669
 - Aged 63
 - Reign 28 January 98 – 9 August 117 CE
@@ -681,6 +711,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Engraving of Pliny the Younger.*
 
+- 61 to 113 CE
 - Birth place Novum Comum (OpenStreetMap): https://www.openstreetmap.org/search?query=como%20italy#map=10/45.9403/9.1674
 - Aged 52
 - Wrote a letter to [Trajan](#trajan) [about Christians](#pliny-the-younger-on-christians)
