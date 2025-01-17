@@ -33,6 +33,13 @@ This ritual was common, regardless religion.
 
 ![Jesus with wand 5](https://github.com/user-attachments/assets/13dfa05b-ac14-4c53-9b92-ea695d4eb74f)
 
+![Jesus with wand 6](https://github.com/user-attachments/assets/e66e12cc-25e4-461b-93a7-5d92ead22f49)
+
+- Jesus raises Lazarus from the dead (top left)
+- Moses striking the rock to draw water near Mt. Horeb (top right)
+- Mid 4th century
+- Red Cubiculum of the Catacomb of Domitilla, Rome
+
 ### Jesus turning water into wine
 
 ![Jesus turning water into wine](https://github.com/user-attachments/assets/6b3d77db-741f-4eeb-9828-d2051294cd11)
