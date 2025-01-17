@@ -457,10 +457,16 @@ These are online sources for people to learn more about specific events or histo
 
 *A portion of the Greek Uncial MS. Codex Vaticanus, from the Vatican Library. This image shows a passage from the New Testament and includes 1 Esdras 1:55-2:5.*
 
-- In the book of Genesis, tells the myth of [Garden of Eden](#garden-of-eden)
+- In the book of [Genesis](#genesis), tells the myth of [Garden of Eden](#garden-of-eden)
 - Language: Koine Greek, a dialect of Ancient Greek common in the Hellenistic period
 - Used by [Philo of Alexandria](#philo-of-alexandria)
 - Wikipedia: https://en.wikipedia.org/wiki/Septuagint
+
+### Genesis
+
+- A book in the [Septuagint](#septuagint)
+- Contains the story about [Garden of Eden](#garden-of-eden)
+- Wikipedia: https://en.wikipedia.org/wiki/Book_of_Genesis
 
 ### Garden of Eden
 
@@ -468,7 +474,7 @@ These are online sources for people to learn more about specific events or histo
 
 *The Garden of Eden with the Fall of Man by Jan Brueghel the Elder and Pieter Paul Rubens, c. 1615, depicting both domestic and exotic wild animals such as tigers, parrots, and ostriches co-existing in the garden.*
 
-- Myth from the book of Genesis in the [Septuagint](#septuagint)
+- Myth from the book of [Genesis](#genesis) in the [Septuagint](#septuagint)
 - Wikipedia: https://en.wikipedia.org/wiki/Garden_of_Eden
 
 ### Gymnasium
