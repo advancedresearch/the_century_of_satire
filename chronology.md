@@ -147,6 +147,7 @@ These are online sources for people to learn more about specific events or histo
 - Three different kings of Phrygia, one living in the 2nd millenium BC, two in 8th century BC, three in 6th century BC
 - Associated with the myth of [King Midas](#king-midas-myth)
 - Not mentioned by [Homer](#homer)
+- Mentioned by [Plato](#plato) in [Phaedrus](#phaedrus) 264d: https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0173:text=Phaedrus:section=264d&highlight=midas
 - Wikipedia: https://en.wikipedia.org/wiki/Midas
 
 ### King Midas Myth
