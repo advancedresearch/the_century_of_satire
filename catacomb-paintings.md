@@ -40,6 +40,15 @@ This ritual was common, regardless religion.
 - Mid 4th century
 - Red Cubiculum of the Catacomb of Domitilla, Rome
 
+![Jesus with wand 7](https://github.com/user-attachments/assets/b0c8a9a2-c208-4964-ac5f-82379984cf03)
+
+- Top: Jesus raised Lazarus from the dead
+- Middle: Jesus multiplied the loaves and fishes
+- Bottom: Jesus turns water into wine at the wedding at Cana
+- Wooden door
+- 432 CE
+- Santa Sabine Church, Rome
+
 ### Jesus turning water into wine
 
 ![Jesus turning water into wine](https://github.com/user-attachments/assets/6b3d77db-741f-4eeb-9828-d2051294cd11)
@@ -64,3 +73,5 @@ John Dominic Crossan - Professor Emeritus of Religious Studies DePaul University
 [Rome underground](https://dl.ub.uni-freiburg.de/diglit/bosio1632?sid=b00cb469a1e8e41d7cf13d3993795d4f&ui_lang=eng/)  
 Bosio Antonio - The first systematic explorer of subterranean Rome
 
+[Jesus holding a magic wand](https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/jesus-holding-a-magic-wand/)
+BiblicalArcheology.org "Jesus Holding a Magic Wand?"
