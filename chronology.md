@@ -224,6 +224,7 @@ These are online sources for people to learn more about specific events or histo
 - Wrote about [theology](#theology) in [The Republic](#the-republic)
 - As far as we know, never wrote about [Seshat](#seshat)
 - Teacher of [Aristotle](#aristotle)
+- Had great philosophical influence on [Philo of Alexandria](#philo-of-alexandria)
 - Saw men as physically stronger than women, but otherwise equal, see [reference](#plato-and-aristotle-on-the-nature-of-women)
 - Inspired [Galen](#galen)'s research on [physiology](#physiology)
 - Developed [the tripartite soul](#the-tripartite-soul)
@@ -458,6 +459,7 @@ These are online sources for people to learn more about specific events or histo
 
 - In the book of Genesis, tells the myth of [Garden of Eden](#garden-of-eden)
 - Language: Koine Greek, a dialect of Ancient Greek common in the Hellenistic period
+- Used by [Philo of Alexandria](#philo-of-alexandria)
 - Wikipedia: https://en.wikipedia.org/wiki/Septuagint
 
 ### Garden of Eden
@@ -539,6 +541,8 @@ These are online sources for people to learn more about specific events or histo
 
 - Birth place Alexandria (OpenStreetMap): https://www.openstreetmap.org/search?query=alexandria#map=11/31.1993/29.8952
 - Aged c. 69
+- Greatest philosophical influence was [Plato](#plato)
+- Used the [Septuagint](#septuagint)
 - Wikipedia: https://en.wikipedia.org/wiki/Philo
 
 ### Antonius Felix
