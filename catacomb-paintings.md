@@ -41,6 +41,14 @@ This ritual was common, regardless religion.
 
 ![Jesus the good shepherd](https://github.com/user-attachments/assets/623b3abb-a9f2-4c2f-9849-7b4eb9a98d52)
 
+### Jesus - The Samaritan woman at the well
+
+![Jesus with the Samaritan woman at the well](https://github.com/user-attachments/assets/9331ddaf-414e-4ca6-b467-8c46625b475c)
+
+- 4th century
+- Fresco
+- Catacomb of Via Latina, Rome
+
 ### Sources
 
 [In The Catacombs](https://www.pbs.org/wgbh/pages/frontline/shows/religion/first/catacombs.html)  
