@@ -51,6 +51,7 @@ Some images are included to give people a historical experience.
 - 34 or 2 BC to 54 CE: [Gaius Julius Azizus](#gaius-julius-azizus)
 - c. 20 BC to 50 CE: [Philo of Alexandria](#philo-of-alexandria)
 - 5 to 10 CE (born, no date of death): [Antonius Felix](#antonius-felix)
+- 8 CE: [Ovid](#ovid) publishes [Metamorphoses](#metamorphoses)
 - 37 to 100 CE: [Josephus](#josephus)
 - 38 to 24 August 79 CE (might have died in eruption of Mount Vesuvius): [Drusilla of Judea](#drusilla-of-judea)
 - 18 September 53 to c. 9 August 117 CE: [Trajan](#trajan)
@@ -596,7 +597,18 @@ These are online sources for people to learn more about specific events or histo
 
 - Birth place Sulmo (OpenStreetMap): https://www.openstreetmap.org/search?query=42%C2%B002%E2%80%B2N%2013%C2%B056%E2%80%B2E#map=11/42.0333/13.9333
 - Aged 59-61
+- Wrote [Metamorphoses](#metamorphoses)
 - Wikipedia: https://en.wikipedia.org/wiki/Ovid
+
+### Metamorphoses
+
+![Metamorphoses](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ovidius_Naso_-_Metamorphoses%2C_del_MCCCCLXXXXVII_Adi_X_del_mese_di_aprile_-_1583162_Carta_a1r.jpeg/1024px-Ovidius_Naso_-_Metamorphoses%2C_del_MCCCCLXXXXVII_Adi_X_del_mese_di_aprile_-_1583162_Carta_a1r.jpeg)
+
+*Page from the edition of Ovid's Metamorphoses published by Lucantonio Giunti in Venice, 1497.*
+
+- Written by [Ovid](#ovid)
+- Translation by Henry T. Riley: https://www.gutenberg.org/cache/epub/26073/pg26073-images.html
+- Wikipedia: https://en.wikipedia.org/wiki/Metamorphoses
 
 ### Gaius Julius Azizus
 
