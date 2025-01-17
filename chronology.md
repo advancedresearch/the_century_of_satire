@@ -160,6 +160,7 @@ These are online sources for people to learn more about specific events or histo
 
 - Not mentioned by [Homer](#homer)
 - Father of [Zoe](#zoe) in some myths
+- [Ovid](#ovid) wrote a version of the King Midas myth in his work [Metamorphoses](#metamorphoses)
 - Historica Fandom: https://historica.fandom.com/wiki/Midas
 
 ### Zoe
@@ -607,8 +608,9 @@ These are online sources for people to learn more about specific events or histo
 *Page from the edition of Ovid's Metamorphoses published by Lucantonio Giunti in Venice, 1497.*
 
 - Written by [Ovid](#ovid)
-- Translation by Henry T. Riley: https://www.gutenberg.org/cache/epub/26073/pg26073-images.html
 - Wikipedia: https://en.wikipedia.org/wiki/Metamorphoses
+- Translation by Henry T. Riley: https://www.gutenberg.org/cache/epub/26073/pg26073-images.html
+- [Myth of King Midas](#king-midas-myth), translated by Henry T. Riley: https://www.gutenberg.org/cache/epub/26073/pg26073-images.html#bookXI_fableII
 
 ### Gaius Julius Azizus
 
