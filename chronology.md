@@ -550,6 +550,7 @@ These are online sources for people to learn more about specific events or histo
 - Greatest philosophical influence was [Plato](#plato)
 - Used the [Septuagint](#septuagint)
 - Wikipedia: https://en.wikipedia.org/wiki/Philo
+- Archive.org, The works of Philo Judaeus IV by C. D. Yonge: https://archive.org/details/worksofphilojuda04phil/page/n3/mode/2up
 
 ### Antonius Felix
 
