@@ -739,6 +739,8 @@ These are online sources for people to learn more about specific events or histo
 
 *Fragment of an inscription bearing the name Pliny, Basilica of Sant'Ambrogio, Milan*
 
+- c. 110 CE
+- Writes to [Trajan](#trajan)
 - Wikipedia: https://en.wikipedia.org/wiki/Pliny_the_Younger_on_Christians
 
 ### Suetonius
@@ -805,6 +807,7 @@ These are online sources for people to learn more about specific events or histo
 
 *15th-century icon of Justin Martyr by Theophanes the Cretan*
 
+- c. 100 to c. 165 CE
 - Birth place Flavia Neapolis (OpenStreetMap): https://www.openstreetmap.org/search?query=nablus#map=14/32.22766/35.25037
 - Aged c. 65
 - Wrote [First Apology](#first-apology)
@@ -823,6 +826,7 @@ These are online sources for people to learn more about specific events or histo
 
 *A picture of Hegesippus, pressed med woodcut technique in Nurnberg chronicles from year 1493.*
 
+- c. 110 to c. 180 CE
 - Birth place Jerusalem (OpenStreetMap): https://www.openstreetmap.org/search?query=jerusalem#map=12/31.7962/35.1751
 - Aged c. 70
 - Wikipedia: https://en.wikipedia.org/wiki/Hegesippus_(chronicler)
@@ -842,6 +846,7 @@ These are online sources for people to learn more about specific events or histo
 
 *An 18th-century engraving by Georg P. Busch.*
 
+- 129 to 216 CE
 - Birth place Pergamon (OpenStreetMap): https://www.openstreetmap.org/search?query=39%C2%B007%E2%80%B257%E2%80%B3N%2027%C2%B011%E2%80%B203%E2%80%B3E#map=12/39.1325/27.1842
 - Aged 87
 - Physician of [Commodus](#commodus)
@@ -878,6 +883,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Icon of St. Irenaeus painted by Χρήστος Ν. Λιόνδας*
 
+- c. 130 to c. 202 CE
 - Birth place Smyrna (OpenStreetMap): https://www.openstreetmap.org/search?query=38%C2%B025%E2%80%B27%E2%80%B3N%2027%C2%B08%E2%80%B221%E2%80%B3E#map=12/38.4186/27.1392
 - Aged c. 72
 - Wrote [Against Heresies](#against-heresies)
@@ -889,6 +895,7 @@ These are online sources for people to learn more about specific events or histo
 
 *P. Oxyrhynchus 405 – fragment of Against Heresies from c. 200 CE.*
 
+- c. 180 CE
 - Written by [Irenaeus](#irenaeus)
 - Uses [Homer](#homer) in an argument about [theology](#theology)
 - Mentions [Zoe](#zoe) as a goddess in an argument about [theology](#theology)
@@ -896,12 +903,25 @@ These are online sources for people to learn more about specific events or histo
 - Mentions [Zoe](#zoe) as a consort of [Jesus](#jesus)
 - Wikipedia: https://en.wikipedia.org/wiki/Against_Heresies_(Irenaeus)
 
+### Plague of Galen
+
+![Angel of death striking a door during Plague of Galen](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_angel_of_death_striking_a_door_during_the_plague_of_Rome_Wellcome_V0010664.jpg/1920px-The_angel_of_death_striking_a_door_during_the_plague_of_Rome_Wellcome_V0010664.jpg)
+
+*The angel of death striking a door during the plague of Rome. Engraving by Levasseur after J. Delaunay.*
+
+- 165 to 180 CE
+- Also called "Antonine Plague"
+- Associated with [Galen](#galen) the physician that described it
+- Around 5-10 million deaths estimated
+- Wikipedia: https://en.wikipedia.org/wiki/Antonine_Plague
+
 ### Commodus
 
 ![Commodus](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Commodo_vestito_da_Ercole_ai_Musei_Capitolini.jpg/1024px-Commodo_vestito_da_Ercole_ai_Musei_Capitolini.jpg)
 
 *Commodus as Hercules (AD 192), one of the most famous Roman sculptures.*
 
+- 192 CE
 - Birth place Lanuvium (OpenStreetMap): https://www.openstreetmap.org/search?query=lanuvio#map=13/41.64137/12.69253
 - Aged 31
 - His physician was [Galen](#galen)
@@ -909,23 +929,13 @@ These are online sources for people to learn more about specific events or histo
 - Was killed by [Marcia](#marcia) with help from [Narcissus](#narcissus-the-wrestler)
 - Wikipedia: https://en.wikipedia.org/wiki/Commodus
 
-### Plague of Galen
-
-![Angel of death striking a door during Plague of Galen](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_angel_of_death_striking_a_door_during_the_plague_of_Rome_Wellcome_V0010664.jpg/1920px-The_angel_of_death_striking_a_door_during_the_plague_of_Rome_Wellcome_V0010664.jpg)
-
-*The angel of death striking a door during the plague of Rome. Engraving by Levasseur after J. Delaunay.*
-
-- Also called "Antonine Plague"
-- Associated with [Galen](#galen) the physician that described it
-- Around 5-10 million deaths estimated
-- Wikipedia: https://en.wikipedia.org/wiki/Antonine_Plague
-
 ### Marcia
 
 ![Marcia](https://upload.wikimedia.org/wikipedia/commons/9/9b/Marcia_Aurelia_Ceionia_%28cropped%29.png)
 
 *Engraved amethyst (18 x 14 mm), sometimes identified as Marcia.*
 
+- Killed 193 CE
 - Aged unknown (only death year is known)
 - Mistress of [Commodus](#commodus)
 - Begged [Commodus](#commodus) release Christian prisoners
@@ -935,6 +945,7 @@ These are online sources for people to learn more about specific events or histo
 
 ### Narcissus the Wrestler
 
+- Killed c. 192-193 CE
 - Aged unknown (only c. death year is known)
 - Was executed during the series of civil wars after Commodus's death, c. 192-193 CE
 - Killed [Commodus](#commodus) by order of [Marcia](#marcia)
@@ -946,12 +957,14 @@ These are online sources for people to learn more about specific events or histo
 
 *Head of the Colossus of Constantine, Capitoline Museums.*
 
+- 27 February c. 272 to 22 May 337 CE
 - Birth place Naissus (OpenStreetMap): https://www.openstreetmap.org/search?query=nish#map=11/43.3459/21.9422
 - Aged 65
 - Wikipedia: https://en.wikipedia.org/wiki/Constantine_the_Great
 
 ### Edict of Thessalonica
 
+- 380 CE
 - The first known secular law which includes in its preamble a clear definition of what a Christian Roman ruler considers as religious orthodoxy, opening the way of repression against dissidents qualified as "heretics"
 - Result of violent dispute about [theology](#theology)
 - Wikipedia: https://en.wikipedia.org/wiki/Edict_of_Thessalonica
@@ -968,6 +981,7 @@ These are online sources for people to learn more about specific events or histo
 
 *The Temple Scroll.*
 
+- 1956 CE
 - Among the [Dead Sea Scrolls](#dead-sea-scrolls)
 - Frequently refers to Deuteronomy, but omits the name Moses where it occurs in the text
 - Wikipedia: https://en.wikipedia.org/wiki/Temple_Scroll
@@ -990,6 +1004,7 @@ These are online sources for people to learn more about specific events or histo
 
 *First Edition Cover of The Human Condition by Hannah Arendt, 1958.*
 
+- 1958 CE
 - Written by [Hannah Arendt](#hannah-arendt)
 - Responded to by [Stephen Bagwell](#stephen-bagwell) in his thesis [Aristotle on Life](#aristotle-on-life)
 - Wikipedia: https://en.wikipedia.org/wiki/The_Human_Condition_(Arendt_book)
@@ -1004,6 +1019,7 @@ These are online sources for people to learn more about specific events or histo
 
 ### Aristotle on Life
 
+- 2018 CE
 - Written by [Stephen Bagwell](#stephen-bagwell)
 - Thesis about [Aristotle](#aristotle) on Life
 - Full title "Thesis Stephen Bagwell, 2018, An Examination of 'Life' in Aristotle Concerning the Distinction Between βίος (Bios) and ζωή (Zoe)
@@ -1016,6 +1032,7 @@ These are online sources for people to learn more about specific events or histo
 
 *The reduction rules of Joker Calculus of two variants, where OJC is Open variant and CJC is Closed variant. CJC is stricter than OJC and is marked in bold. The "'" symbol marks an expression that has been pre-evaluated with current variant.*
 
+- 2021 CE
 - A calculus for language bias based on [Platonism](#plato) and [Seshatism](#seshat)
 - Created by Daniel Fischer, William Alexander Morris and Sven Nilsen (2021)
 - Used to analyze language bias in mathematical language design, art and history
