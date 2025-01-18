@@ -50,6 +50,7 @@ Some images are included to give people a historical experience.
 - 20 March 43 BC to 17 or 18 CE: [Ovid](#ovid)
 - 34 or 2 BC to 54 CE: [Gaius Julius Azizus](#gaius-julius-azizus)
 - c. 20 BC to 50 CE: [Philo of Alexandria](#philo-of-alexandria)
+- c. 6 to 4 BC to 30 or 33 CE: [Jesus](#jesus)
 - 5 to 10 CE (born, no date of death): [Antonius Felix](#antonius-felix)
 - 8 CE: [Ovid](#ovid) publishes [Metamorphoses](#metamorphoses)
 - 37 to 100 CE: [Josephus](#josephus)
@@ -60,7 +61,7 @@ Some images are included to give people a historical experience.
 - 72 to 73 CE: [Siege of Masada](#siege-of-masada)
 - 79 CE: [Eruption of Mount Vesuvius](#eruption-of-mount-vesuvius)
 - 85 to 160 CE: [Marcion of Sinope](#marcion-of-sinope)
-- 100 to 120 CE: [Saturninus of Antioch teaches about Jesus](#saturninus-of-antioch)
+- 100 to 120 CE: [Saturninus of Antioch](#saturninus-of-antioch) teaches about [Jesus](#jesus)
 - c. 100 to c. 165 CE: [Justin Martyr](#justin-martyr)
 - c. 110 CE: [Pliny the Younger writes a letter to Trajan about Christians](#pliny-the-younger-on-christians)
 - c. 110 to c. 180 CE: [Hegesippus](#hegesippus)
@@ -607,6 +608,21 @@ These are online sources for people to learn more about specific events or histo
 - Archive.org, The works of Philo Judaeus III by Charles Duke Yonge: https://archive.org/details/worksofphilojuda03phil/page/n5/mode/2up
 - Archive.org, The works of Philo Judaeus IV by Charles Duke Yonge: https://archive.org/details/worksofphilojuda04phil/page/n3/mode/2up
 
+### Jesus
+
+![Paint on plaster of Jesus healing a paralytic](https://www.oldest.org/wp-content/uploads/2017/12/The-Healing-of-the-Paralytic.jpg)
+
+*Paint on plaster of Jesus healing a paralytic c. 235 CE from Dura-Europos, Syria*
+
+- c. 6 to 4 BC to 30 or 33 CE
+- Possible birth place Nazareth (OpenStreetMap): https://www.openstreetmap.org/search?query=nazareth#map=13/32.70454/35.28979
+- Possible birth place Bethlehem (OpenStreetMap): https://www.openstreetmap.org/search?query=31%C2%B042%E2%80%B216%E2%80%B3N%2035%C2%B012%E2%80%B223%E2%80%B3E#map=14/31.70447/35.20638
+- Aged 33 or 38
+- Associated with the Greek philosophical concept [Logos](#logos)
+- Consort of [Zoe](#zoe) in [Against Heresies](#against-heresies) by [Irenaeus](#irenaeus)
+- Wikipedia: https://en.wikipedia.org/wiki/Jesus
+- Oldest.org "Oldest Paintings of Jesus in the world": https://www.oldest.org/artliterature/jesus-paintings/
+
 ### Antonius Felix
 
 ![Antonius Felix](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Antonius_Felix_medal.svg/1920px-Antonius_Felix_medal.svg.png)
@@ -731,6 +747,7 @@ These are online sources for people to learn more about specific events or histo
 
 *19th-century etching of Suetonius*
 
+- c. 69 to after c. 122
 - Birth place Hippo Regius (OpenStreetMap): https://www.openstreetmap.org/search?query=36%C2%B052%E2%80%B257%E2%80%B3N%2007%C2%B045%E2%80%B200%E2%80%B3E#map=13/36.88250/7.75000
 - Aged 53-54
 - Wikipedia: https://en.wikipedia.org/wiki/Suetonius
@@ -741,6 +758,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Aerial view of Masada (Hebrew מצדה), in the Judaean Desert (Hebrew: מִדְבַּר יְהוּדָה‎, Arabic: صحراء يهودا), with the Dead Sea in the distance.*
 
+- 72 to 73 CE
 - Wikipedia: https://en.wikipedia.org/wiki/Siege_of_Masada
 
 ### Legio X Fretensis
@@ -750,6 +768,7 @@ These are online sources for people to learn more about specific events or histo
 
 ### Eruption of Mount Vesuvius
 
+- 79 CE
 - Wikipedia: https://en.wikipedia.org/wiki/Eruption_of_Mount_Vesuvius_in_79_AD
 
 ### Marcion of Sinope
@@ -758,6 +777,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Apostle John (left) and (according to Eisler) Marcion of Sinope (right), from Morgan Library MS 748, 11th century.*
 
+- 85 to 160 CE
 - Birth place Sinope (OpenStreetMap): https://www.openstreetmap.org/search?query=sinope#map=9/41.756/34.905
 - Aged 75
 - Wikipedia: https://en.wikipedia.org/wiki/Marcion_of_Sinope
@@ -768,11 +788,13 @@ These are online sources for people to learn more about specific events or histo
 
 *Claire Clivaz has argued that Papyrus 69 is "a witness to a Marcionite edition of Luke's Gospel".*
 
+- c. 150 CE
 - Wikipedia: https://en.wikipedia.org/wiki/Gospel_of_Marcion
 - Papyrus 69, Wikipedia: https://en.wikipedia.org/wiki/Papyrus_69
 
 ### Saturninus of Antioch
 
+- Runs a school from 100 to 120 CE teaching about [Jesus](#jesus) 
 - Birth place unknown
 - Aged unknown (neither birth or death year is known)
 - Wikipedia: https://en.wikipedia.org/wiki/Saturninus_of_Antioch
@@ -837,17 +859,6 @@ These are online sources for people to learn more about specific events or histo
 - The thymos (θυμοειδές), or thumoeides, located in the heart
 - The eros (ἐπιθυμητικόν), or epithumetikon, located in the liver
 - Archive.org: https://archive.org/details/ondoctrinesofhip0000gale/mode/2up
-
-### Jesus
-
-![Paint on plaster of Jesus healing a paralytic](https://www.oldest.org/wp-content/uploads/2017/12/The-Healing-of-the-Paralytic.jpg)
-
-*Paint on plaster of Jesus healing a paralytic c. 235 CE from Dura-Europos, Syria*
-
-- Associated with the Greek philosophical concept [Logos](#logos)
-- Consort of [Zoe](#zoe) in [Against Heresies](#against-heresies) by [Irenaeus](#irenaeus)
-- Wikipedia: https://en.wikipedia.org/wiki/Jesus
-- Oldest.org "Oldest Paintings of Jesus in the world": https://www.oldest.org/artliterature/jesus-paintings/
 
 ### Theology
 
