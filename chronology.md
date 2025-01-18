@@ -160,7 +160,7 @@ These are online sources for people to learn more about specific events or histo
 *In the Nathaniel Hawthorne version of the Midas myth, Midas' daughter (Zoe) turns to a golden statue when he touches her (illustration by Walter Crane for the 1893 edition).*
 
 - Not mentioned by [Homer](#homer)
-- Father of [Zoe](#zoe) in some myths
+- Father of [Zoe](#zoe) in some myths, where she is turned into a golden statue and baptized in a holy river to come back to life
 - [Ovid](#ovid) wrote a version of the King Midas myth in his work [Metamorphoses](#metamorphoses)
 - Historica Fandom: https://historica.fandom.com/wiki/Midas
 
