@@ -285,6 +285,7 @@ These are online sources for people to learn more about specific events or histo
 
 - Greek "λόγος" meaning "knowledge", "study" or "reason"
 - Second half of the term for [Zoology](#zoology)
+- Second half of the term for [Theology](#theology)
 - Consort of [Zoe](#zoe) in [Against Heresies](#against-heresies) by [Irenaeus](#irenaeus)
 - One part of [the tripartite soul](#the-tripartite-soul) developed by [Plato](#plato)
 - Localized in the brain by [Galen](#galen) using [the tripartite soul](#the-tripartite-soul) developed by [Plato](#plato)
@@ -992,7 +993,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Plato (left) and Aristotle in Raphael's 1509 fresco The School of Athens.*
 
-- The term "theology" derives from the Greek theologia (θεολογία), a combination of theos (Θεός, 'god') and logia (λογία, 'utterances, sayings, oracles')—the latter word relating to Greek logos (λόγος, 'word, discourse, account, reasoning')
+- The term "theology" derives from the Greek theologia (θεολογία), a combination of theos (Θεός, 'god') and logia (λογία, 'utterances, sayings, oracles')—the latter word relating to Greek [logos](#logos) (λόγος, 'word, discourse, account, reasoning')
 - Used by [Plato](#plato) in his work [The Republic](#the-republic)
 - Central theme in [Against Heresies](#against-heresies) by [Irenaeus](#irenaeus)
 - Central issue is the nature of women, which [Plato and Aristotle disagreed on](#plato-and-aristotle-on-the-nature-of-women)
