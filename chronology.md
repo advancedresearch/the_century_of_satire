@@ -495,6 +495,7 @@ These are online sources for people to learn more about specific events or histo
 *The Garden of Eden with the Fall of Man by Jan Brueghel the Elder and Pieter Paul Rubens, c. 1615, depicting both domestic and exotic wild animals such as tigers, parrots, and ostriches co-existing in the garden.*
 
 - Myth from the book of [Genesis](#genesis) in the [Septuagint](#septuagint)
+- Mentions some fruit taken from a tree (kind of like the apple given by [Hesperides](#hesperides) in [Ovid](#ovid)'s [Metamorphoses](#metamorphoses), his version of the [Myth of King Midas](#king-midas-myth) (Book XI, Fable II))
 - Wikipedia: https://en.wikipedia.org/wiki/Garden_of_Eden
 
 ### Gymnasium
@@ -640,7 +641,7 @@ These are online sources for people to learn more about specific events or histo
 - Written by [Ovid](#ovid)
 - Mentions mysterious orgies of [Bacchus](#dionysus) in the [Myth of King Midas](#king-midas-myth) (Book XI, Fable II)
 - Mentions [Lucifer](#lucifer) in the [Myth of King Midas](#king-midas-myth) (Book XI, Fable II)
-- Mentions and apple taken from a tree, given by [Hesperides](#hesperides) in the [Myth of King Midas](#king-midas-myth) (Book XI, Fable II)
+- Mentions an apple taken from a tree, given by [Hesperides](#hesperides) in the [Myth of King Midas](#king-midas-myth) (Book XI, Fable II), (kind of like [Garden of Eden](#garden-of-eden))
 - Mentions putting fingers on door-posts in the [Myth of King Midas](#king-midas-myth) (Book XI, Fable II)
 - Mentions [Danaë](#danaë) in the [Myth of King Midas](#king-midas-myth) (Book XI, Fable II)
 - Mentions [Ceres](#ceres) in the [Myth of King Midas](#king-midas-myth) (Book XI, Fable II)
