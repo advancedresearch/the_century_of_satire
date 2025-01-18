@@ -6,3 +6,7 @@ it is useful to listen to music made from the ancient world, or compositions ins
 ### Lyre - solo
 
 Michael Levy "The Lyre of Classical Antiquity": https://www.youtube.com/watch?v=elERNFoEf3Y
+
+### About Reconstructing Ancient Music
+
+Armand D'Angour "Rediscovering Ancient Greek Music (2017)": https://www.youtube.com/watch?v=4hOK7bU0S1Y
