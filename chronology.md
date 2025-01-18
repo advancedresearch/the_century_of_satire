@@ -908,7 +908,13 @@ These are online sources for people to learn more about specific events or histo
 
 ### Eruption of Mount Vesuvius
 
+![Eruption of Mount Vesuvius](https://upload.wikimedia.org/wikipedia/commons/d/d1/Destruction_of_Pompeii_and_Herculaneum.jpg)
+
+*The Destruction of Pompeii and Herculaneum (c. 1821) by John Martin.*
+
 - 79 CE
+- Possibly killed [Drusilla of Judea](#drusilla-of-judea)
+- Killed [Pliny the Elder](#pliny-the-elder) in Stabiae when attempting to rescue a friend and her family
 - Wikipedia: https://en.wikipedia.org/wiki/Eruption_of_Mount_Vesuvius_in_79_AD
 
 ### Marcion of Sinope
