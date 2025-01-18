@@ -739,6 +739,19 @@ These are online sources for people to learn more about specific events or histo
 - Written by [Apion](#apion)
 - Mentions [Androcles](#androcles)
 
+### Pliny the Elder
+
+![Pliny the Elder](https://upload.wikimedia.org/wikipedia/commons/c/c3/Caius_Plinius_Secundus._Stipple_engraving_by_F._W._Bollinger_Wellcome_V0004719_%28cropped%29.jpg)
+
+*Stipple engraving by Friedrich Wilhelm Bollinger, 1777–1825.*
+
+- 23-24 to 79 CE
+- Birth place Novum Comum (OpenStreetMap): https://www.openstreetmap.org/search?query=como%20italy#map=10/45.9403/9.1674
+- Aged 55
+- Father of [Pliny the Younger](#pliny-the-younger)
+- Died in Stabiae while attempting the rescue of a friend and her family from the [eruption of Mount Vesuvius](#eruption-of-mount-vesuvius)
+- Wikipedia: https://en.wikipedia.org/wiki/Pliny_the_Elder
+
 ### Josephus
 
 ![Josephus](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Joseph%2C_son_of_Gorian%2C_called_Flavius_Josephus_%28NYPL_Hades-255854-430875%29_%28cropped%29.tiff/lossy-page1-1024px-Joseph%2C_son_of_Gorian%2C_called_Flavius_Josephus_%28NYPL_Hades-255854-430875%29_%28cropped%29.tiff.jpg)
@@ -845,18 +858,6 @@ These are online sources for people to learn more about specific events or histo
 - Reign 28 January 98 – 9 August 117 CE
 - Wikipedia: https://en.wikipedia.org/wiki/Trajan
 
-### Pliny the Elder
-
-![Pliny the Elder](https://upload.wikimedia.org/wikipedia/commons/c/c3/Caius_Plinius_Secundus._Stipple_engraving_by_F._W._Bollinger_Wellcome_V0004719_%28cropped%29.jpg)
-
-*Stipple engraving by Friedrich Wilhelm Bollinger, 1777–1825.*
-
-- 23-24 to 79 CE
-- Birth place Novum Comum (OpenStreetMap): https://www.openstreetmap.org/search?query=como%20italy#map=10/45.9403/9.1674
-- Aged 55
-- Died in Stabiae while attempting the rescue of a friend and her family from the [eruption of Mount Vesuvius](#eruption-of-mount-vesuvius)
-- Wikipedia: https://en.wikipedia.org/wiki/Pliny_the_Elder
-
 ### Pliny the Younger
 
 ![Pliny the Younger](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pline_le_Jeune%2C_Caius_Plinius_Caecilius_Secundus_%2861-114%29_CIPB1135_%28cropped%29.jpg/1280px-Pline_le_Jeune%2C_Caius_Plinius_Caecilius_Secundus_%2861-114%29_CIPB1135_%28cropped%29.jpg)
@@ -866,6 +867,7 @@ These are online sources for people to learn more about specific events or histo
 - 61 to 113 CE
 - Birth place Novum Comum (OpenStreetMap): https://www.openstreetmap.org/search?query=como%20italy#map=10/45.9403/9.1674
 - Aged 52
+- Son of [Pliny the Elder](#pliny-the-elder)
 - Wrote a letter to [Trajan](#trajan) [about Christians](#pliny-the-younger-on-christians)
 - Wikipedia: https://en.wikipedia.org/wiki/Pliny_the_Younger
 
