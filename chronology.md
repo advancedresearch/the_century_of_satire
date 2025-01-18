@@ -711,6 +711,31 @@ These are online sources for people to learn more about specific events or histo
 - Married to [Drusilla of Judea](#drusilla-of-judea)
 - Gini: https://www.geni.com/people/Azisus-Priest-King-of-Emesa/6000000000803852764
 
+### Androcles
+
+![Androcles](https://upload.wikimedia.org/wikipedia/commons/b/bb/Illustration_at_page_107_in_Europa%27s_Fairy_Book.png)
+
+*The slave Androcles plucks the thorn from the lion's paw. Illustration by John Batten for Europa's Fairy Book (1916).*
+
+- Written about by [Apion](#apion) in his work [Aegyptiaca](#aegyptiaca)
+- Wikipedia: https://en.wikipedia.org/wiki/Androcles
+
+### Apion
+
+- c. 30–20 BC to c. 45–48 CE
+- Birth place Siwa Oasis (OpenStreetMap): https://www.openstreetmap.org/search?query=29%C2%B012%E2%80%B219%E2%80%B3N%2025%C2%B031%E2%80%B210%E2%80%B3E#map=14/29.20533/25.51944
+- Wrote [Aegyptiaca](#aegyptiaca)
+- None of his works survived
+- The surviving fragments of his work are printed in the Etymologicum Gudianum, ed. Sturz, 1818
+- Was responded to by [Josephus](#josephus)
+- Wikipedia: https://en.wikipedia.org/wiki/Apion
+
+### Aegyptiaca
+
+- Greek: "Αἰγυπτιακά", English: "Wonders of Egypt"
+- Written by [Apion](#apion)
+- Mentions [Androcles](#androcles)
+
 ### Josephus
 
 ![Josephus](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Joseph%2C_son_of_Gorian%2C_called_Flavius_Josephus_%28NYPL_Hades-255854-430875%29_%28cropped%29.tiff/lossy-page1-1024px-Joseph%2C_son_of_Gorian%2C_called_Flavius_Josephus_%28NYPL_Hades-255854-430875%29_%28cropped%29.tiff.jpg)
@@ -720,7 +745,44 @@ These are online sources for people to learn more about specific events or histo
 - 37 to 100 CE
 - Birth place Jerusalem (OpenStreetMap): https://www.openstreetmap.org/search?query=jerusalem#map=12/31.7962/35.1751
 - Aged 62-63
+- Wrote [The Jewish War](#the-jewish-war)
+- Wrote [Antiquities of the Jews](#antiquities-of-the-jews)
+- Wrote [Against Apion](#against-apion)
+- Wrote [The Life of Flavius Josephus](#the-life-of-flavius-josephus)
 - Wikipedia: https://en.wikipedia.org/wiki/Josephus
+
+### The Jewish War
+
+![The Jewish War](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Jewish_war%2C_josephus_flavius_1559.jpg/1024px-Jewish_war%2C_josephus_flavius_1559.jpg)
+
+*Hebrew-Latin edition of the Jewish War by Josephus Flavius, Basle 1559.*
+
+- c. 75 CE
+- Written by [Josephus](#josephus)
+- Wikipedia: https://en.wikipedia.org/wiki/The_Jewish_War
+
+### Antiquities of the Jews
+
+![Antiquities of the Jews](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flavius_Josephus%2C_Antiquitates_Iudaicae%2C_Florence%2C_Plut._66.5.jpg/1024px-Flavius_Josephus%2C_Antiquitates_Iudaicae%2C_Florence%2C_Plut._66.5.jpg)
+
+*Josephus, Antiquitates Iudaicae in Latin translation. Florence, Biblioteca Medicea Laurenziana, Plut. 66.5, fol. 2v.*
+
+- 93-94 CE
+- Written by [Josephus](#josephus)
+- Wikipedia: https://en.wikipedia.org/wiki/Antiquities_of_the_Jews
+
+### Against Apion
+
+- After 93-94 CE (since it cites [Antiquities of the Jew](#antiquities-of-the-jews)
+- Written by [Josephus](#josephus)
+- Polemical work written as a defense of Judaism as a classical religion and philosophy against criticism by [Apion](#apion), stressing its antiquity against what he perceived as more recent traditions of the Greeks
+- Wikipedia: https://en.wikipedia.org/wiki/Against_Apion
+
+### The Life of Flavius Josephus
+
+- c. 94-99 CE
+- Written by [Josephus](#josephus)
+- Wikipedia: https://en.wikipedia.org/wiki/The_Life_of_Flavius_Josephus
 
 ### Drusilla of Judea
 
