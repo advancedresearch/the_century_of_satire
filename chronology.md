@@ -290,6 +290,7 @@ These are online sources for people to learn more about specific events or histo
 - One part of [the tripartite soul](#the-tripartite-soul) developed by [Plato](#plato)
 - Localized in the brain by [Galen](#galen) using [the tripartite soul](#the-tripartite-soul) developed by [Plato](#plato)
 - Greek philosophical concept associated with [Jesus](#jesus)
+- Wikipedia: https://en.wikipedia.org/wiki/Logos
 
 ### Zoology
 
