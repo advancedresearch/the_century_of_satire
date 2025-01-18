@@ -53,6 +53,7 @@ Some images are included to give people a historical experience.
 - c. 6 to 4 BC to 30 or 33 CE: [Jesus](#jesus)
 - 5 to 10 CE (born, no date of death): [Antonius Felix](#antonius-felix)
 - 8 CE: [Ovid](#ovid) publishes [Metamorphoses](#metamorphoses)
+- 23-24 to 79 CE: [Pliny the Elder](#pliny-the-elder)
 - 37 to 100 CE: [Josephus](#josephus)
 - 38 to 24 August 79 CE (might have died in eruption of Mount Vesuvius): [Drusilla of Judea](#drusilla-of-judea)
 - 18 September 53 to c. 9 August 117 CE: [Trajan](#trajan)
@@ -843,6 +844,18 @@ These are online sources for people to learn more about specific events or histo
 - Aged 63
 - Reign 28 January 98 – 9 August 117 CE
 - Wikipedia: https://en.wikipedia.org/wiki/Trajan
+
+### Pliny the Elder
+
+![Pliny the Elder](https://upload.wikimedia.org/wikipedia/commons/c/c3/Caius_Plinius_Secundus._Stipple_engraving_by_F._W._Bollinger_Wellcome_V0004719_%28cropped%29.jpg)
+
+*Stipple engraving by Friedrich Wilhelm Bollinger, 1777–1825.*
+
+- 23-24 to 79 CE
+- Birth place Novum Comum (OpenStreetMap): https://www.openstreetmap.org/search?query=como%20italy#map=10/45.9403/9.1674
+- Aged 55
+- Died in Stabiae while attempting the rescue of a friend and her family from the [eruption of Mount Vesuvius](#eruption-of-mount-vesuvius)
+- Wikipedia: https://en.wikipedia.org/wiki/Pliny_the_Elder
 
 ### Pliny the Younger
 
