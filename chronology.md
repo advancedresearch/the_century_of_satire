@@ -750,7 +750,7 @@ These are online sources for people to learn more about specific events or histo
 - 23-24 to 79 CE
 - Birth place Novum Comum (OpenStreetMap): https://www.openstreetmap.org/search?query=como%20italy#map=10/45.9403/9.1674
 - Aged 55
-- Father of [Pliny the Younger](#pliny-the-younger)
+- Uncle of [Pliny the Younger](#pliny-the-younger)
 - Died in Stabiae while attempting the rescue of a friend and her family from the [eruption of Mount Vesuvius](#eruption-of-mount-vesuvius)
 - Wikipedia: https://en.wikipedia.org/wiki/Pliny_the_Elder
 
@@ -869,7 +869,7 @@ These are online sources for people to learn more about specific events or histo
 - 61 to 113 CE
 - Birth place Novum Comum (OpenStreetMap): https://www.openstreetmap.org/search?query=como%20italy#map=10/45.9403/9.1674
 - Aged 52
-- Son of [Pliny the Elder](#pliny-the-elder)
+- Nephew of [Pliny the Elder](#pliny-the-elder)
 - Wrote a letter to [Trajan](#trajan) [about Christians](#pliny-the-younger-on-christians)
 - Wikipedia: https://en.wikipedia.org/wiki/Pliny_the_Younger
 
