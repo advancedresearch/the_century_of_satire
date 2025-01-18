@@ -567,6 +567,57 @@ These are online sources for people to learn more about specific events or histo
 - Aged 39
 - Wikipedia: https://en.wikipedia.org/wiki/Cleopatra
 
+### Lucifer
+
+![The Fallen Angel](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Alexandre_Cabanel_-_Fallen_Angel.jpg/2560px-Alexandre_Cabanel_-_Fallen_Angel.jpg)
+
+*The Fallen Angel (1847) by Alexandre Cabanel.*
+
+- Also called "The Morning Star", a title shared with [Jesus](#jesus)
+- Mentioned in [Metamorphoses](#metamorphoses) by [Ovid](#ovid) in the part about [King Midas myth](#king-midas-myth) (Book XI, Fable II)
+- Wikipedia: https://en.wikipedia.org/wiki/Lucifer
+
+### Hesperides
+
+![Hesperides](https://upload.wikimedia.org/wikipedia/commons/0/09/GardenHesperides_BurneJones.jpg)
+
+*Garden Hesperides by Edward Burne-Jones.*
+
+- The nymphs of evening and golden light of sunsets
+- Also called "Atlantides" (Greek: "Ἀτλαντίδες")
+- Mentioned in [Metamorphoses](#metamorphoses) by [Ovid](#ovid) in the part about [King Midas myth](#king-midas-myth) (Book XI, Fable II)
+- Wikipedia: https://en.wikipedia.org/wiki/Hesperides
+
+### Danaë
+
+![The Golden Shower](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Danae_gold_shower_Louvre_CA925.jpg/1920px-Danae_gold_shower_Louvre_CA925.jpg)
+
+*Ancient Boeotian bell-krater showing Zeus impregnating Danaë in the form of a shower of gold, circa 450–425 BC.*
+
+- Mentioned in [Metamorphoses](#metamorphoses) by [Ovid](#ovid) in the part about [King Midas myth](#king-midas-myth) (Book XI, Fable II)
+- Wikipedia: https://en.wikipedia.org/wiki/Dana%C3%AB
+
+### Ceres
+
+![Ceres](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Ceres_of_M%C3%A9rida_%28cropped%29.jpg/1024px-Ceres_of_M%C3%A9rida_%28cropped%29.jpg)
+
+*The goddess Ceres, seated. Marble sculpture from the latter part of the 1st century CE. National Museum of Roman Art of Mérida (ancient Emerita Augusta), where there is a copy in front of the magnificent ruins of the Roman theatre.*
+
+- Goddess of agriculture, grain crops, fertility and motherly relationships
+- Mentioned in [Metamorphoses](#metamorphoses) by [Ovid](#ovid) in the part about [King Midas myth](#king-midas-myth) (Book XI, Fable II)
+- Wikipedia: https://en.wikipedia.org/wiki/Ceres_(mythology)
+
+### Dionysus
+
+![Dionysus](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Dionysos_Louvre_Ma87_n2.jpg/800px-Dionysos_Louvre_Ma87_n2.jpg)
+
+*Second-century Roman statue of Dionysus, after a Hellenistic model (ex-coll. Cardinal Richelieu, Louvre).*
+
+- The god of wine-making, orchards and fruit, vegetation, fertility, festivity, insanity, ritual madness, religious ecstasy, and theatre
+- Also known as "Bacchus"
+- Mentioned in [Metamorphoses](#metamorphoses) by [Ovid](#ovid) in the part about [King Midas myth](#king-midas-myth) (Book XI, Fable II)
+- Wikipedia: https://en.wikipedia.org/wiki/Dionysus
+
 ### Ovid
 
 ![Ovid](https://upload.wikimedia.org/wikipedia/commons/a/a0/Ovid_18th_century_engraving_%28cropped%29.jpg)
@@ -587,6 +638,12 @@ These are online sources for people to learn more about specific events or histo
 
 - 8 CE
 - Written by [Ovid](#ovid)
+- Mentions mysterious orgies of [Bacchus](#dionysus) in the [Myth of King Midas](#king-midas-myth) (Book XI, Fable II)
+- Mentions [Lucifer](#lucifer) in the [Myth of King Midas](#king-midas-myth) (Book XI, Fable II)
+- Mentions and apple taken from a tree, given by [Hesperides](#hesperides) in the [Myth of King Midas](#king-midas-myth) (Book XI, Fable II)
+- Mentions putting fingers on door-posts in the [Myth of King Midas](#king-midas-myth) (Book XI, Fable II)
+- Mentions [Danaë](#danaë) in the [Myth of King Midas](#king-midas-myth) (Book XI, Fable II)
+- Mentions [Ceres](#ceres) in the [Myth of King Midas](#king-midas-myth) (Book XI, Fable II)
 - Wikipedia: https://en.wikipedia.org/wiki/Metamorphoses
 - Translation by Henry T. Riley: https://www.gutenberg.org/cache/epub/26073/pg26073-images.html
 - [Myth of King Midas](#king-midas-myth), translated by Henry T. Riley: https://www.gutenberg.org/cache/epub/26073/pg26073-images.html#bookXI_fableII
@@ -618,6 +675,7 @@ These are online sources for people to learn more about specific events or histo
 - Possible birth place Nazareth (OpenStreetMap): https://www.openstreetmap.org/search?query=nazareth#map=13/32.70454/35.28979
 - Possible birth place Bethlehem (OpenStreetMap): https://www.openstreetmap.org/search?query=31%C2%B042%E2%80%B216%E2%80%B3N%2035%C2%B012%E2%80%B223%E2%80%B3E#map=14/31.70447/35.20638
 - Aged 33 or 38
+- Also called "The Morning Star", a title shared with [Lucifer](#lucifer)
 - Associated with the Greek philosophical concept [Logos](#logos)
 - Consort of [Zoe](#zoe) in [Against Heresies](#against-heresies) by [Irenaeus](#irenaeus)
 - Wikipedia: https://en.wikipedia.org/wiki/Jesus
