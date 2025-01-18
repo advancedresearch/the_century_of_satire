@@ -704,6 +704,7 @@ These are online sources for people to learn more about specific events or histo
 *Geographic region of the Emesene dynasty.*
 
 - 46 to 72 or 78/79 BC
+- Ruled by [Gaius Julius Azizus](#gaius-julius-azizus)
 - Wikipedia: https://en.wikipedia.org/wiki/Emesene_dynasty
 
 ### Gaius Julius Azizus
@@ -712,6 +713,7 @@ These are online sources for people to learn more about specific events or histo
 - Birth place Emesa (OpenStreetMap): https://www.openstreetmap.org/search?query=emesa#map=8/34.726/36.712
 - Aged 65-97, highly depending on year of birth
 - Married to [Drusilla of Judea](#drusilla-of-judea)
+- Part of [Emesene dynasty](#emesene-dynasty)
 - Gini: https://www.geni.com/people/Azisus-Priest-King-of-Emesa/6000000000803852764
 
 ### Androcles
