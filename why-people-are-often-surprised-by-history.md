@@ -45,7 +45,7 @@ Because people are separated from this shared common background knowledge today,
 
 1. The eruption of Mount Vesuvius
 2. The Plague of Galen
-3. Galen's public experiments to demonstrate localizing of Plato's tripartite soul
+3. Galen's public experiments to demonstrate localization of Plato's tripartite soul
 4. The ethics of a good life in the context of fertility and prosperity in sense of Garden of Eden and the King Midas myth
 5. Optimism bias and child indoctrination - how people perceived history through their own mystery religion as prophetizing their savior figure
 6. Cross-cultural criticism, reputation and living hood - how intellectuals survived in the ancient world
@@ -177,7 +177,7 @@ Simply put:
 
 This explanation is much simpler than Justin Martyr presenting something new and extra-ordinary with help from super-natural events.
 
-### 3. Galen's public experiments to demonstrate localizing of Plato's tripartite soul
+### 3. Galen's public experiments to demonstrate localization of Plato's tripartite soul
 
 When people today think about about the 2nd century and read Early Christian texts,
 it might seem as if those people writing these texts are just debating about theological points,
