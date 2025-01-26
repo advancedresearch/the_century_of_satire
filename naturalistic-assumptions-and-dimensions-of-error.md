@@ -427,7 +427,7 @@ going back to the earliest recorded life form and trace the history of the perso
 To know how a text is written, you first need to study the history of writing.
 You need to see a text in a historical lens where it is put in context with the entire history of mankind since we put marks in clay.
 
-Try to put numbers on it. Do you know how many texts were estimate that were written across the branches?
+Try to put numbers on it. Do you know how many texts are estimated of what was written across the branches?
 How many texts survived until today?
 If you lack data, then try some math.
 Learn interval arithmetic so you can make estimates yourself knowing your calculations are sound.
