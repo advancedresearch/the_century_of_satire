@@ -358,7 +358,7 @@ but he also suffered psychological problems from his complex social relations wi
 Homer was merely Alexander's excuse to unleash his egomaniac high risk gambles,
 that just turned to be coinciding with a weak-minded Persian emperor with issues of political insecurity.
 
-When looking at Homer, sure, there might a nugget of historical truth that can be summarized as the following:
+When looking at Homer, sure, there might be a nugget of historical truth that can be summarized as the following:
 There was place called Troy.
 
 However, when attempting to use Homer to explain the psychology of Alexander the Great,
