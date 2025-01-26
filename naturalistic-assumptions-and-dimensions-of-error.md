@@ -339,7 +339,7 @@ yet at the moment lagging behind and lacking sorely what other scientific discip
 
 ### 4. Homer vs Reality: A case study
 
-It is not an exaggration to say that Homer is the most influential poet in the ancient world.
+It is not an exaggeration to say that Homer is the most influential poet in the ancient world.
 Just an example: Homer inspired Alexander the Great and in turn, Alexander the Great inspired many other people.
 
 Sometimes, history produces examples that might seem almost supernatural,
