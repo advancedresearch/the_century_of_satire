@@ -363,7 +363,7 @@ There was place called Troy.
 
 However, when attempting to use Homer to explain the psychology of Alexander the Great,
 one has to be much more careful, because there are other naturalistic explanations than just a single text.
-While far from being highly influential, the actual causal relationship through history are always
+While being highly influential text, the actual causal relationship through history are always
 more complex than what is communicated through language.
 
 The point is: You can not just take reality and put it side by side with poetry to justify this as a valid comparison.
