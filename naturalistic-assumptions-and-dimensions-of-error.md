@@ -538,7 +538,7 @@ As long as he did the science, his opinions did not matter and for the same reas
 was precisely because Ruck could be wrong and still his research would be valuable and he would be a brilliant scholar.
 
 Yet, people always have biases and we use them to guide our research.
-This is natural should not be pointed out as a flaw, although many have a bad habit of doing so.
+This is natural and should not be pointed out as a flaw, although many have a bad habit of doing so.
 
 From naturalistic assumptions, you can have even greater freedom in expression of thought,
 even contradictory beliefs. There is no requirement of having a coherent belief system.
