@@ -460,10 +460,10 @@ Also, you will be surprised by how much flexibility there is in a general progra
 Have you thought about publishing your findings as a Rust library on crates.io?
 
 One of the struggles in biblical scholarship today,
-is that therer are several brilliant lexicons which people spend millenium in work-hours producing,
+is that therer are several brilliant lexicons which people spend milleniums in work-hours producing them,
 but at the same time, applying this knowledge to texts in a methodic and integrated way is very difficult.
 Not everyone has the time to study e.g. Ancient Greek and learn it as a language,
-but at the same time, relying on a translation alone introduces additional classes of errors.
+but also, relying on a translation alone introduces additional classes of errors.
 
 Usually, the way people use Early Christian texts,
 is to read them once or twice and write some thoughts about it.
