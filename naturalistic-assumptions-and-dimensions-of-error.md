@@ -335,7 +335,7 @@ It is kind of an Olympic game where the arrangement is made by some of the athle
 This is reason to be critical or skeptical about naturalism, but it is far from such a flaw that is can be compared to
 how bad most people even perceive biblical scholarship, what they think is wrong with it,
 which is a thousand times better than what most people do in their reasoning,
-yet at the time lagging behind and lacking sorely what other scientific disciplines have achieved.
+yet at the moment lagging behind and lacking sorely what other scientific disciplines have achieved.
 
 ### 4. Homer vs Reality: A case study
 
