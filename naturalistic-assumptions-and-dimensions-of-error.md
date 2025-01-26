@@ -373,7 +373,7 @@ Your concerns about literature are very small and insignificant compared to maki
 
 When people do these kind of mistakes, they ignore entire dimensions of errors that they might make.
 For example, in reality, some people abuse children.
-If you construct a narrative of history as if child abuse never happen,
+If you construct a narrative of history as if child abuse never happens,
 then that narrative is not a good representation of what causal relationships there might be.
 The entire model is wrong, not because it lacks a path from A to B, Early Christianity to present time,
 but because it fails to account for all the errors that would likely happen along the way and influence the result.
