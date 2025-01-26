@@ -445,7 +445,7 @@ Rise up and reach for the potential that you have in you.
 When you have the numbers, you need to visualize them.
 This is hard. It is not something that everybody are good at.
 You need tools. You need to learn from other people.
-Appreciate the work that scientists puts into presenting their findings.
+Appreciate the work that scientists put into presenting their findings.
 They spent hours trying to improve it.
 Sometimes, they did the best they could.
 Do not expect a Hollywood movie.
