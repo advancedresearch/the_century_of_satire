@@ -47,7 +47,7 @@ Historically, when a person believes something that contradicts naturalism,
 the correct action has been to change the beliefs that contradict naturalism,
 instead of trying to correct naturalism.
 
-When studying language bias, e.g. Seshatism vs Platonism as bases for Joker Calculus,
+When studying language bias, e.g. Seshatism vs Platonism as bases for [Joker Calculus](https://github.com/advancedresearch/joker_calculus),
 there are some language biases where one can talk about propositions such as a deity that is infinitely powerful
 and exists outside any physical dimension regardless how many higher dimensions one can examine.
 Theoretically, a such proposition is perfectly fine and just one of many strange ideas that can be expressed.
