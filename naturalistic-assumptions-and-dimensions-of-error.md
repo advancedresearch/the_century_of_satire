@@ -22,7 +22,7 @@ There are some research areas that still have unexplained events, for example in
 where there is a lack of theories to bridge the language gaps between scientific terminology and self-reported conscious experiences.
 However, there is no reason to believe that naturalism weakens the ability of scientists to reason about these events.
 
-This can be explained, using how we use logic in theorem proving, as an example:
+This can be explained by how we use logic in theorem proving, as an example:
 
 If I believe A about the world and B is true, then I can reason more reliably about the world by assuming A & B,
 as long as B does not lead to contradictions with A, in which case I need to modify A to be consistent with B.
