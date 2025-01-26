@@ -485,7 +485,7 @@ To understand how a spiritual dimension works in language, you have to study lan
 The way this works is that how people think along these lines is according to rules,
 kind of like when people tell one-liner jokes, that meets some expectations,
 although the reader can not easily predict what is coming next.
-These rules, that might be informal, contains the information that makes your result potentially useful.
+These rules, that might be informal, contain the information that makes your result potentially useful.
 The information is not in the spiritual semantics, but kind of orthogonal to it.
 
 For example, when a person uses "Zoe", this can be put in a context of a possible world
@@ -520,7 +520,7 @@ Perhaps you can return at some later point in time when you are more experienced
 There is no need to stay loyal to one particular study in science,
 because science is not like a cult, where you might get excommunicated when leaving and entering another.
 
-A common fallacy that people use in childish discussions about biblical scholarship
+A common fallacy that people use, often in childish discussions about biblical scholarship,
 is that people need to read everything and understand it all before they have the ability to make contributions.
 You do not owe anyone trying to understand all details of their position,
 nor do you have defend some position against others in discussion.
@@ -533,7 +533,7 @@ not yourself. You can have conflicting opinions and describe them in different p
 
 For example, Carl A. P. Ruck is a brilliant scholar,
 not because he has a lot of controversial opinions and some turned out to be correct,
-but because he does actual science.
+but because he did actual science.
 As long as he did the science, his opinions did not matter and for the same reason his research is valuable today,
 was precisely because Ruck could be wrong and still his research would be valuable and he would be a brilliant scholar.
 
