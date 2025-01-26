@@ -398,7 +398,7 @@ run it through their own intelligence and outputs a new story,
 which is part myth and part containing nuggets of historical value.
 In turn, people read these stories and form their own imaginative landscape.
 From this imaginative landscape, people might think they have access to actual reality,
-but they are merely at the end of long and complex process full of errors.
+but they are merely at the end of a long and complex process full of errors.
 Often, people can not even imagine what kind of surprises they get when doing closer investigations.
 
 For example, from the tradition view of Hebrew biblical scholarship,
