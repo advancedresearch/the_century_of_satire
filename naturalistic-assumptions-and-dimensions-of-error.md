@@ -380,8 +380,8 @@ but because it fails to account for all the errors that would likely happen alon
 
 With other words, you can not just think about history as simple instructions of something causing another thing
 and all these things are sensible to our particular modern lens and society.
-It is not a computer program that is proving some theorem with a set of minimal steps to take to achieve this end.
-History is messy and you can only hope to catch a glimpse of how it was like, just to experience it by somebody who might have lived at the time.
+It is not a computer program that is proving some theorem with a set of minimal steps one takes to achieve this end.
+History is messy and you can only hope to catch a glimpse of how it was like, just to experience it anywhere close to somebody who might have lived at the time.
 You can just give up trying to figure out all the things that might have happened in reality.
 
 Humans like stories.
