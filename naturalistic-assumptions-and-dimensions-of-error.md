@@ -172,7 +172,7 @@ This is the process that is between you as a reader and the beginning of it.
 It is difficult to come up with any example of any process that is more vulnerable to selection bias than this one.
 Not even in fiction, people have the creativity to come up with something absurd as claiming historicity and even supernatural events
 at the start of this complex and higly biased selection process.
-To a scientist using natural assumptions, this should be both regarded as a form of superstition,
+To a scientist using naturalistic assumptions, this should be both regarded as a form of superstition,
 but also it is a process that is over time uncovered due to getting better information over time.
 Every year in the past, this was even worse.
 While biblical scholarship scrapes the bottom of scientific credibility today,
