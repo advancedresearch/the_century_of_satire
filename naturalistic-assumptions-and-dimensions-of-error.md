@@ -401,7 +401,7 @@ From this imaginative landscape, people might think they have access to actual r
 but they are merely at the end of a long and complex process full of errors.
 Often, people can not even imagine what kind of surprises they get when doing closer investigations.
 
-For example, from the tradition view of Hebrew biblical scholarship,
+For example, from the traditional view of Hebrew biblical scholarship,
 one would expect to find a separate culture in Judea than Hellenistic culture.
 However, archeology found coins depicting the high priest on one side and Zeus on the other.
 This was *centuries* before Jesus.
