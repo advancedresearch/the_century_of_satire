@@ -232,7 +232,7 @@ For a few years, just like with the bike, it might seem as if people are continu
 but this illusion breaks down, just like with the bike, when people tip out of balance and get themselves killed.
 It is because they do not get the stimuli required from the people around them to function properly.
 The human brain did not evolve to manage on its own, it seeks to specialize and narrow down local phenomena
-to relevance of individual control and autonomy.
+of relevance to individual control and autonomy.
 This ability to focus on the self, as set apart from the rest of the world,
 is highly inter-connected with the social information networks that organize collective behavior.
 These are two halves that work together, in evolution, not by any supernatural events.
