@@ -17,7 +17,7 @@ but instead trying to see natural causes and form a bigger picture that usually 
 
 In philosophy, naturalism is the idea that only natural laws and forces (as opposed to supernatural ones) operate in the universe.
 
-Despite countless claims of supernatural events, there have been no scientifically confirmed supernatural events over the entire course of known history.
+Despite countless claims of supernatural events, there have been none scientifically confirmed supernatural events over the entire course of known history.
 There are some research areas that still have unexplained events, for example in the neuroscience of consciousness,
 where there is a lack of theories to bridge the language gaps between scientific terminology and self-reported conscious experiences.
 However, there is no reason to believe that naturalism weakens the ability of scientists to reason about these events.
@@ -33,7 +33,7 @@ in which some supernatural event could happen, it did not happen and instead con
 For example, in physics, the equations that describe motion uses mathematics as its language,
 in the same way game engine programmers use mathematics to create physics engines for games.
 Just like a player can be constrained to gameplay that follows the rules of physics in a video game,
-there has been no observed exceptions to the reverse engineered mathematical code that underlies physics in reality.
+there has been none observed exceptions to the reverse engineered mathematical code that underlies physics in reality.
 
 With other words, humans have inferred mathematical descriptions that describe the world very accurately.
 Sometimes, it is very difficult due to lack of data and computational capacity,
