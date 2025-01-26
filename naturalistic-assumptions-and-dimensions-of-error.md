@@ -206,7 +206,7 @@ and in return getting desired outcomes, e.g. to get from A to B.
 The human brain is a very complex machine and in comparison, a bike is much simpler.
 Yet, they both have in common that you can apply stimuli and get responses.
 A bike requires different kind of stimuli than a human brain,
-but the ideas and methods translates across one scientific discipline to another,
+but the ideas and methods translate across one scientific discipline to another,
 because there are many systems with similar basic characteristics.
 
 Using a bike as an example, when it rolls down a hill without anyone controlling it,
