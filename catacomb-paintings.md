@@ -65,6 +65,13 @@ This ritual was common, regardless religion.
 - Fresco
 - Catacomb of Via Latina, Rome
 
+### Jesus - The Lord's Meal
+
+![image](https://github.com/user-attachments/assets/0cb35f22-66e6-4721-824d-c43273b8eaca)
+
+- Christ and Apostles
+- Catacombs of Domitilla, Rome
+
 ### Sources
 
 [In The Catacombs](https://www.pbs.org/wgbh/pages/frontline/shows/religion/first/catacombs.html)  
