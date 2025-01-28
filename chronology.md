@@ -42,6 +42,7 @@ Some images are included to give people a historical experience.
 - 323 to 283 or 283 to 246 BC: [Establishment of the Library of Alexandria](#library-of-alexandria)
 - 3rd to 2nd century BC: [Composition of Septuagint](#septuagint)
 - 276 to 194 BC: [Eratosthenes](#eratosthenes)
+- 2nd century BC: [Nicander](#nicander)
 - 12 July 100 to 15 March 44 BC: [Julius Caesar](#julius-caesar)
 - 83 BC: [Sibylline books were accidentally destroyed in a fire](#sibylline-books)
 - 76 BC: [Roman senate attempts to recollect texts of Sibylline oracles](#sibylline-oracles)
@@ -529,11 +530,23 @@ These are online sources for people to learn more about specific events or histo
 - Founder of the discipline geography and coined the term
 - Wikipedia: https://en.wikipedia.org/wiki/Eratosthenes
 
+### Nicander
+
+![Nicander](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Theriaca_002.jpg/1024px-Theriaca_002.jpg)
+
+*Nikander, Theriaca, 10th century CE, Constantinople.*
+
+- 2nd century BC
+- Birth place Claros (OpenStreetMap): https://www.openstreetmap.org/search?query=38%C2%B000%E2%80%B218%E2%80%B3N%2027%C2%B011%E2%80%B234%E2%80%B3E#map=14/38.00500/27.19278
+- Wikipedia: https://en.wikipedia.org/wiki/Nicander
+- Archive.org, "Nicandrea ; Theriaca et Alexipharmaca" (Greek and Latin): https://archive.org/details/bub_gb_Lq1fAAAAMAAJ/mode/2up
+- Lost work Heteroeumena was used by [Ovid](#ovid) in his work [Metamorphoses](#metamorphoses)
+
 ### Julius Caesar
 
 ![Julius Caesar](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/1024px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg)
 
-*Bust of Julius Caesar*
+*Bust of Julius Caesar.*
 
 - 12 July 100 to 15 March 44 BC
 - Birth place Suburra (OpenStreetMap): https://www.openstreetmap.org/search?query=suburra#map=19/41.895099/12.490825
@@ -648,6 +661,7 @@ These are online sources for people to learn more about specific events or histo
 - Mentions putting fingers on door-posts in the [Myth of King Midas](#king-midas-myth) (Book XI, Fable II)
 - Mentions [Danaë](#danaë) in the [Myth of King Midas](#king-midas-myth) (Book XI, Fable II)
 - Mentions [Ceres](#ceres) in the [Myth of King Midas](#king-midas-myth) (Book XI, Fable II)
+- Uses the lost work Heteroeumena by [Nicander](#nicander)
 - Wikipedia: https://en.wikipedia.org/wiki/Metamorphoses
 - Translation by Henry T. Riley: https://www.gutenberg.org/cache/epub/26073/pg26073-images.html
 - [Myth of King Midas](#king-midas-myth), translated by Henry T. Riley: https://www.gutenberg.org/cache/epub/26073/pg26073-images.html#bookXI_fableII
