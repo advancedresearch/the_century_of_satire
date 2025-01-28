@@ -1,5 +1,8 @@
 # Online Resources
 
+To reconstruct 2nd century cultural literature context of Roman satire in Early Christian texts,
+it is useful to learn about online resources and tools that are available to the public.
+
 - [Early Christian writings](http://www.earlychristianwritings.com/)
 
 Here you can read translations of texts from Early Christianity.
