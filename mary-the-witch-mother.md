@@ -98,6 +98,7 @@ Here are some gods and goddesses associated with Venus, the planet:
 - Jesus (Jewish god)
 - Lucifer (Jewish angel/god)
 - Sophia (Greek goddess)
+- Aphrodite (Greek goddess)
 
 In Early Christianity, there might be also a role of having Mary, Jesus' mother,
 as a symbolic representation of established mystery religions that give birth to a new mystery religion.
