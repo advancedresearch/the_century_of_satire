@@ -825,6 +825,9 @@ These are online sources for people to learn more about specific events or histo
 - 38 to 24 August 79 CE
 - Birth place is possibly Emesa (since she was married to Gaius Julius Azizus, king of Emesa) (OpenStreetMap): https://www.openstreetmap.org/search?query=emesa#map=12/34.7258/36.7118
 - Aged 41, if she died in eruption of Mount Vesuvius
+- Daughter of Herod Agrippa
+- Mother of Marcus Antonius Agrippa
+- Married to [Gaius Julius Azizus](#gaius-julius-azizus)
 - Wikipedia: https://en.wikipedia.org/wiki/Drusilla_(daughter_of_Herod_Agrippa)
 
 ### Atomus
