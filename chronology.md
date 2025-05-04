@@ -708,6 +708,7 @@ These are online sources for people to learn more about specific events or histo
 - 5 to 10 CE (born, no date of death)
 - Also known as Felix of Ceasarea
 - Birth place Caesarea Maritima (OpenStreetMap): https://www.openstreetmap.org/search?query=Caesarea%20Maritima#map=19/32.501839/34.892447
+- Married to [Drusilla of Judea](#drusilla-of-judea)
 - Hired [Atomus](#atomus) to convince [Drusilla of Judea](#drusilla-of-judea) to divorce [Gaius Julius Azizus](#gaius-julius-azizus) to marry him instead
 - Wikipedia: https://en.wikipedia.org/wiki/Antonius_Felix
 
@@ -828,6 +829,7 @@ These are online sources for people to learn more about specific events or histo
 - Daughter of Herod Agrippa
 - Mother of Marcus Antonius Agrippa
 - Married to [Gaius Julius Azizus](#gaius-julius-azizus)
+- Married to [Antonius Felix](#antonius-felix)
 - Wikipedia: https://en.wikipedia.org/wiki/Drusilla_(daughter_of_Herod_Agrippa)
 
 ### Atomus
