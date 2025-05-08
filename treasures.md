@@ -5,6 +5,8 @@ it is useful to study buried treasures found by archeology.
 
 ### The Hoxne Hoard
 
+- 4th or 5th century
+
 Videos:
 
 - [Golden Treasure, Treasure from the Hoxne Hoard (Part-1) HD](https://www.youtube.com/watch?v=IoQzpqayv3I)
