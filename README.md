@@ -144,7 +144,7 @@ compared to general adult practice of religions, which were full of glorified vi
 The debate about circumcision is about lowering the entry requirements into guilds of medicine practitioners.
 These medicine practitioners were called "Magi", as is "Simon Magus", the savior figure in Simonianism.
 The title "Christ" might have been a play on the word "Magi", which dates back to the Bronze Age,
-when the same title was used for Medea, the daughter of Helios.
+when the same title was used for Medea, the granddaughter of Helios.
 Whether people used "Magi" or "Christ" for their savior figure, the terminology is coming from medicine practice anyway, along very similar traditions.
 For example, both Simon Magus and Jesus Christ were thought to have to have known John the Baptist.
 Baptism rituals were performed as a way of spiritual cleansing, which could be interpreted as closely related to healing by medicine.
