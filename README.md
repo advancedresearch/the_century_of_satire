@@ -150,7 +150,7 @@ For example, both Simon Magus and Jesus Christ were thought to have to have know
 Baptism rituals were performed as a way of spiritual cleansing, which could be interpreted as closely related to healing by medicine.
 People did not have the modern understanding of medicine, preventing illness by washing their hands, feet and bodies,
 so they thought about this in religious context accompanied by stories that explained why they performed these rituals,
-most likely because these stories were aimed at young children who did now see these rituals as part of everyday habitual behavior.
+most likely because these stories were aimed at young children who did not intuitively see these rituals as part of everyday habitual behavior.
 
 The Jesus Christ savior figure was intended as a more Socratic and Platonic version of Simon Magus,
 by using "Logos" (Reason as the ultimate highest form of being) compared to "Nous" (Intellect or mind as the highest form of being).
