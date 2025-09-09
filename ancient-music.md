@@ -7,7 +7,11 @@ it is useful to listen to music made from the ancient world, or compositions ins
 
 *Greek vase with muse playing the phorminx, a type of lyre.*
 
-### Lyre - solo
+### Surviving works
+
+"The Epitaph of Seikilos": https://youtu.be/9RjBePQV4xE?si=PJepmXpBNuvnknlC
+
+### Reconstructions: Lyre - solo
 
 Michael Levy "The Lyre of Classical Antiquity": https://www.youtube.com/watch?v=elERNFoEf3Y
 
