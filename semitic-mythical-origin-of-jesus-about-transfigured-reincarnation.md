@@ -198,7 +198,7 @@ but over time these stories developed into themes of temptation, persecution and
 ### Temple washing rituals' influence on Early Christianity
 
 In order to visit a temple, people used rituals of spiritual cleanliness.
-There were designed areas around the temple which people could not enter,
+There were designated areas around the temple which people could not enter,
 unless they had performed the right rituals.
 
 Moses takes off his sandals in front of the burning bush,
