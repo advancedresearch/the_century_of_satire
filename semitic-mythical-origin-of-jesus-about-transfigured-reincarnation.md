@@ -46,7 +46,7 @@ When did people start believing this, if Jesus was a historical person?
 
 The name "Jesus" means "Yahweh saves" in Hebrew.
 "Jesus" and "Yoshua" is the same name, as in the Yoshua that followed Moses.
-There might also have a Greek origin, as in "Jason" from the myth of the Golden Fleece.
+There might also have been a Greek origin, as in "Jason" from the myth of the Golden Fleece.
 
 The Jewish community in Alexandria began speaking Greek as early as 2nd or 1st century BCE.
 Most people in Judea spoke Aramaic during this period.
