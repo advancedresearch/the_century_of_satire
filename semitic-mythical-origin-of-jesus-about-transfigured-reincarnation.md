@@ -264,7 +264,7 @@ Jesus is a force that acts out Yahweh's command, that might be both good and evi
 Over time, Jesus' role gets separated into a "purely good" role (Christ) and a "purely evil" role (Satan).
 Originally, they were both sons of Yahweh, or angels, messengers from Ouranos (heaven).
 Yet, in older Semitic tradition, Jesus is a force of Yahweh, who brings life or destruction through natural elements, such as wind, water and fire.
-The meaning of "Yahweh saves" can be mean a necessary evil act, not just a good act.
+The meaning of "Yahweh saves" can mean a necessary evil act, not just a good act.
 This is why ancient people pray, to appeal to the good sides of deities.
 
 The resurrection of Jesus in Early Christianity is a Hellenistic translation fable,
