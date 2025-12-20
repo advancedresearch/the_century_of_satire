@@ -299,7 +299,7 @@ Despite that circumcision disappears during Early Christianity,
 the ritual of baptizement still remains, because of the transformative function
 it has in relation between circumcision and temple ritual washing.
 The very precise authorative meaning of this downstream metaphor of good and necessary evil,
-is what Early Christians believes is giving them permission to get rid of circumcision.
+is what Early Christians believe is giving them permission to get rid of circumcision.
 
 Early Christians do not take away the ritual that gives them divine permission to remove other rituals.
 Another ritual that disappears is animal sacrifice, again using Jesus' downstream authority,
