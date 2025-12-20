@@ -258,7 +258,7 @@ Here, Jesus acts as a mediator, but the point is that the mediation is happening
 where people are not allowed to question or disobey that kind of lowest state of authority.
 Lower states of authority were associated with more evil and less personal freedom.
 
-This way of changing the authority that Jesus have depending on context,
+This way of changing the authority that Jesus has, depending on context,
 implies that Jesus is a mediator between Yahweh and humans.
 Jesus is a force that acts out Yahweh's command, that might be both good and evil.
 Over time, Jesus' role gets separated into a "purely good" role (Christ) and a "purely evil" role (Satan).
