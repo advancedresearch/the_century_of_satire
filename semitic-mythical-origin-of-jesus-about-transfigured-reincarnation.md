@@ -64,10 +64,10 @@ which in Hebrew texts was demoted.
 Later, Early Christians use the Greek name "Zoe" to refer to Jesus' consort.
 
 Jesus' crucifixion seems to be appearing after Roman persecution of Jews,
-in a time period where many Jews were crucified to rebelling against the Roman empire.
-If the story of Jesus has a semitic origin, then it is less likely that Jesus was originally crucified in these stories.
+in a time period where many Jews were crucified for rebelling against the Roman empire.
+If the story of Jesus has a Semitic origin, then it is less likely that Jesus was originally crucified in these stories.
 
-This means that a semitic origin of the story of Jesus
+This means that a Semitic origin of the story of Jesus
 might have been without a crucifixion, a closer identity to Yahweh and where Asherah plays an important role.
 
 ### Asherah as a reincarnated goddess, through religious symbolism of the Menorah
@@ -130,7 +130,7 @@ The reason for this development might be that in the Hellenistic religious tradi
 Zoe is not reincarnated through transfiguration.
 Zoe is more or less the same as other Greek deities.
 This explains the polemic against Asherah:
-Asherah is seen as an Eastern, semitic influence.
+Asherah is seen as an Eastern, Semitic influence.
 Respected, but also feared.
 Her power to reincarnate, the strong symbolism with springs and wine production,
 the abilities to control lions, talk to snakes and spy through birds,
