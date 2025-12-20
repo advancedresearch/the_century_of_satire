@@ -243,7 +243,7 @@ Some Hebrew texts directly express in Yahweh's voice: "I create good and evil."
 
 Disobeying authority, whether it was perceived as good or evil,
 was thought of as a worse sin than merely doing evil.
-This is also reflected in the story of King Saul, where King Saul is commanted to commit a genocide.
+This is also reflected in the story of King Saul, where King Saul is commanded to commit a genocide.
 King Saul's punishment by the judge Samuel, is not for doing evil,
 but for failing to obey the command by Yahweh.
 This is part of the same religious language, where downstream water is associated with unquestioned authority,
