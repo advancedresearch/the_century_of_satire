@@ -313,7 +313,7 @@ The role Asherah plays in the proximity of Yahweh,
 is the goddess that alternates through transfiguration between inanimate states and life.
 In that role, Asherah communicates with snakes, the intermediate forms of life that ancestors go through,
 before they once again get reborn as humans.
-This becomes later the story of the garden of Eden, where Zoe's tree is split into two rules:
+This becomes later the story of the garden of Eden, where Zoe's tree is split into two trees:
 The Tree of Knowledge and the Tree of Life.
 Eve talks to the snake in the garden and eats from the Tree of Knowledge.
 This is a polemic against Asherah, where Eve follows the Hellenistic story of Pandora.
