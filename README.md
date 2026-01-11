@@ -139,6 +139,27 @@ these secrets from biblical scholarship became more accessible for people in gen
 As the secrets from biblical scholarship were revealed, Sven Nilsen, who grew up as a Christian in Norway,
 was inspired to start this project with the goal of reconstructing 2nd century cultural literature context of Roman satire in Early Christian texts.
 
+### Why the historical Jesus likely did not know John the Baptist
+
+John the Baptist was recored by Josephys as executed in the last year of Pontius Pilate.
+Therefore, there no time for Jesus Christ to preach during his 3 year ministry.
+
+The most likely explanation is that the historical Jesus recorded by Josephus
+was a rebellious leader and crucified like other people who were called the Messiah at the time.
+
+The literary link beween Jesus Christ and John the Baptist,
+is best explained through the influence of Simon Magus,
+which was believed by Simonians to be a disciple of John the Baptist.
+
+When some Simonians convert to Christianity in the middle of the 2nd century,
+they use John the Baptist to explain why Jesus Christ is their new savior figure,
+by explicitly having John the Baptist pointing out Jesus Christ as his own successor.
+This is unlikely to be a historical event, again because it does not fit the chronology in the 1st century,
+but also because it is specifically used to explain why Simon Magus is not the successor.
+
+Simon Magus was not crucified and was not seen as a rebel against the Roman empire.
+However, this changes in the after match of the Bar Kokhba war, due to many people in Rome confusing Simon Magus with Simon bar Kokhba.
+
 ### Simon bar Kokhba
 
 The Roman empire in late 1st and early 2nd century opened up more access to higher education to fill
