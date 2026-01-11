@@ -35,6 +35,110 @@ This violates the expectations of Late Christianity that people wrote these text
 Instead, one might view the texts as means to climb the social ladder, fit in with contemporary cultural movements
 and to mimic signs of prestige in elite literacy.
 
+### Brief historical development of Christianity up to the present
+
+There are two main external records of a historical Jesus as a rebellious leader against the Roman empire that was crucified:
+
+1. By Josephus
+2. By Tacitus
+
+This historical Jesus, who was a rebellious leader, probably did not know John the Baptist.
+
+It can be explained scientifically by distguishing between the historical Jesus (the rebel) and the literary Jesus (Christ):
+
+- The historical Jesus was likely a rebellious leader that was crucified, like other people who were called Messiah
+- The literary Jesus Christ was likely influenced by Simon Magus, the savior figure for Simonians
+
+Both Simon Magus and Jeus Christ originated as characters in Roman satire, written for children in Greek.
+The oldest text is most likely the Gospel of Mark, where Jesus Christ resurrects "back in time" to Galilee,
+known as "The Ouroborus Hypothesis" in biblical scholarship, which was first suggested in this project.
+
+With other words, Jesus Christ's resurrection is not a historical resurrection, but a literary one,
+where the author of Gospel of Mark plays on the cultural context of translation fables in the Roman empire.
+
+A translation fable is a way that people in the Roman empire celebrated important figures:
+
+- A missing body from the grave
+- A witness who meets the person while traveling
+- An ascension toward the heaven
+
+These 3 parts were not in the original ending of the Gospel of Mark, but added later.
+The Ouroborus Hypothesis is that the story of Jesus Christ originates as a tale for children,
+where Jesus Christ resurrects back to the beginning of the story,
+using a book format that was preferred by Early Christians.
+
+Unlike a scroll, a book can simply be turned over to start at the beginning.
+To people in the Hellenistic culture at the time, this was a funny comment on translation fables,
+which highlighted Jesus Christ as an important figure.
+However, due to this Roman satirical story telling, Jesus Christ became perceived as transcending other translation fables.
+This simple literary device was used to explain Jesus Christ as the snake that was lifted up by Moses in the desert.
+A snake that bites its own tale, the Ouroborus, which symbolizes the calendar.
+
+<img width="625" height="621" alt="The Ouroborus" src="https://github.com/user-attachments/assets/b966321b-2eb4-498f-b093-f48642609426" />
+
+Jesus' 12 desciples are the 12 months, based on a Sun calendar.
+The 13th month was dropped when people transitioned from a Moon calendar (the moon orbits Earth 13 times a year) in the official temple practice of Jerusalem,
+to a Sun calendar that was both advocated by the Qumran communities (the Dead Sea scrolls) and the Julian calendar.
+Hence the story of Judas, the 13th person at the table of the Last Supper,
+which death was retold by Papias of Hierapolis in the form of Roman satire.
+Some Early Christians believed that Judas was secretly the hero of the story.
+This explains the numerology in Revelation of the 144 000 virgins, because `144 = 12 * 12` and is the lowest number with 13 divisors:
+
+2 3 4 6 8 9 12 16 18 24 36 48 72
+
+This form of numerology comes from the astromical development of epicycles to explain the path of Venus in the sky.
+Epicycles required "magical numbers" which people struggled to explain, before this method replaced was by Kepler during the Scientific Revolution using elliptical orbits.
+Several savior figures, including Horus and Jesus Christ, were associated with Venus.
+Venus is the Roman goddess for love.
+In Greek, Venus is called "The Lightbringer" because is raises in the sky before dawn.
+Jewish mythology for Venus is Lucifer, which in Gnostic Early Christianity is believed to be Jesus Christ.
+In Revelation 22:16, Jesus Christ says he is the Morning Star, another term used for Venus.
+The word "philosophy" in Greek means "love of wisdom" (Philo-Sophia).
+Sophia, Jesus' sister in Early Christianity,
+symbolized the intellectual relationship between Christianity and the schools of medicine and mystery cults that used Jesus Christ as a savior figure.
+
+With other words, during the early 2nd century, the children tale about Jesus Christ became popularized as a savior figure
+used to advertise for Jewish schools of medicine, where the authors of the gospels learned to read and write Greek.
+People in these schools interacted with other schools in Rome, like the one of Cerdo, that used Simon Magus as their savior figure.
+This school was the one that Marcion of Sinope joined when he came to Rome, before he published the first Christian canonical texts.
+The most important political event that influenced these schools in this time period, is the Bar Kokhba war between Romans and Jews.
+Schools ("heresy" in Greek) that used Jesus Christ as their savior figure, were motivated to keep a peaceful relationship with the Roman elite.
+
+After the Bar Kokhba war, some Simonians converted to Christianity and turned the Gospel of Mark into a more traditional translation fable,
+when John the Baptist was added to convince other Simonians that Jesus Christ had replaced Simon Magus as their savior figure.
+
+Simonians were primarily people with an ethnic background from Samaria, which had been previously integrated into the Hellenistic culture.
+Therefore, Jesus Christ was portrayed as friendly toward people from Samaria, who might not be circumcised,
+followed by Paul who was portrayed as friendly toward people in general in the Roman empire.
+
+With the political instability of the 2nd century in the Roman empire, Christianity gained many followers,
+as people lost their faith in the Hellenistic religious tradition.
+The Hellenistic influence in Christianity, such as new gospels based on Homeric myths,
+made it easy for people from a Hellenistic background to convert to this new religion.
+
+Jesus Christ increased in popularity as a healing deity like Asclepius and a prosperity deity like Dionysus,
+because he performed miracles that resurrected Lasarus from the dead, turned water into wine and fed thousands of people with little bread.
+The advance in medicine, primarily in the field of surgery during the 2nd century,
+enabled Early Christians to use Galen's works to establish a monopoly on healthcare in the 3rd century,
+after Constantine made Christianity the offical religion of the Roman empire.
+
+This monopoly on healthcare initiated the phase of Late Christianity and was protected by the state as a Dogmatic school of medicine,
+until the Empiric school of medicine was revived by the Lunar Society in England during the Scientific Revolution,
+by people like James Watt and Erasmus Darwin, that influenced Immanuel Kant's philosophy at the continental Europe.
+After Erasmus Darwin's fall in popularity, due to failed attempts to cure tuberculosis and The Terror in the after match of the French revolution,
+his grandson, Charles Darwin, studied animals across the entire world, like Aristotle once did on the island of Lesbos.
+Charles Darwin's works in turn influenced philosophy of nature and the modern philosophical tradition, e.g. Existentialism, Communism and Psychoanalysis,
+who all were attacking Hegel's German Idealism with the motivation to create something as revolutionary as Charles Darwin's scientific theories.
+
+This philosophical attempt to respond to Charles Darwin, continued until World War II,
+when the Manhatten project changed how people perceived the Scientific Revolution around the world.
+In the meantime, Seminaries kept biblical scholarship secrets from the general population of Christians.
+With the Internet and Bart Ehrman's popular books about the historical Jesus,
+these secrets from biblical scholarship became more accessible for people in general.
+
+As the secrets from biblical scholarship were revealed, Sven Nilsen, who grew up as a Christian in Norway,
+was inspired to start this project with the goal of reconstructing 2nd century cultural literature context of Roman satire in Early Christian texts.
+
 ### Simon bar Kokhba
 
 The Roman empire in late 1st and early 2nd century opened up more access to higher education to fill
