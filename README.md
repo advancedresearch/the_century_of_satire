@@ -143,7 +143,7 @@ was inspired to start this project with the goal of reconstructing 2nd century c
 
 ### Why the historical Jesus likely did not know John the Baptist
 
-John the Baptist was recored by Josephys as executed in the last year of Pontius Pilate.
+John the Baptist was recorded by Josephus as executed in the last year of Pontius Pilate.
 Therefore, there no time for Jesus Christ to preach during his 3 year ministry.
 
 The most likely explanation is that the historical Jesus recorded by Josephus
