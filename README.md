@@ -144,7 +144,7 @@ was inspired to start this project with the goal of reconstructing 2nd century c
 ### Why the historical Jesus likely did not know John the Baptist
 
 John the Baptist was recorded by Josephus as executed in the last year of Pontius Pilate.
-Therefore, there no time for Jesus Christ to preach during his 3 year ministry.
+Therefore, there is no time for Jesus Christ to preach during his 3 year ministry.
 
 The most likely explanation is that the historical Jesus recorded by Josephus
 was a rebellious leader and crucified like other people who were called the Messiah at the time.
