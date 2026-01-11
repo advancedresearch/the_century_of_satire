@@ -49,7 +49,7 @@ It can be explained scientifically by distguishing between the historical Jesus 
 - The historical Jesus was likely a rebellious leader that was crucified, like other people who were called Messiah
 - The literary Jesus Christ was likely influenced by Simon Magus, the savior figure for Simonians
 
-Both Simon Magus and Jeus Christ originated as characters in Roman satire, written for children in Greek.
+Both Simon Magus and Jesus Christ originated as characters in Roman satire, written for children in Greek.
 The oldest text is most likely the Gospel of Mark, where Jesus Christ resurrects "back in time" to Galilee,
 known as "The Ouroboros Hypothesis" in biblical scholarship, which was first suggested in this project.
 
