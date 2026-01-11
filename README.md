@@ -272,7 +272,7 @@ when the actual evidence suggests that this way of practicing religion was more 
 
 Medicine was needed for survival on pair with getting food and water.
 Religion in the ancient world is centered on stories for children primarily,
-to teach them words and terminology needed preparing for a later education within medicine.
+to teach them words and terminology needed to prepare for a later education within medicine.
 These stories evolved into stories with more adult themes over time, that could include extreme religious rituals.
 
 The language is heavily influenced by medicine, but not vice versa, and the disciples' lives were fictional,
