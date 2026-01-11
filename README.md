@@ -183,12 +183,23 @@ The letters of Paul might not have been original or have been rewritten to refle
 Another sign is that Paul's letters refer to events that seem to be from Acts of Paul (fighting beasts in an arena) and Acts of Andrew (an incesteous mother).
 These texts are clearly written as Roman satire and this casts doubts on the historicity of these letters.
 
-In Acts of The Apostles, the author respond to Marcion of Sinope,
+In Acts of The Apostles, the author responds to Marcion of Sinope,
 includes Simon Magus, a deity in a competing sect,
 and uses events from Josephus extensively.
-This casts doubts on the historicity of Peter.
+Specifically, the Apollos who only knew the baptism of John,
+might be a character reflecting the name "Apelles", a student of Marcion of Sinope that started a school in Alexandria.
+The author of Acts attacks Apollos to discredit Apelles.
+In addition, the author of Acts is hinting at the eruption of Mount Vesuvius,
+by having Paul criticize the marriage of Felix of Ceasarea with Drusilla of Judea to their faces (which most likely never happened),
+who's son Agrippa dies due to this eruption event, according to Pliny the Elder.
+This casts doubts on the historicity of Peter, but also strengthens the argument that Apelles and Marcion of Sinope were converts from Simonianism.
 The original name of Peter as Simon could mean that this character was originally the same character, Simon Magus,
 but changed to Peter to disassociate from Simon bar Kokhba and to compete with Paul in Marcion of Sinope's canon.
+In Paul's letters, the name for Peter is Cephas, which could be another person, suggesting that the Pauline and Petrine sects are competing with each other.
+These two traditions dislike Simon Magus so much, that in some stories, Paul and Peter literally (as in "literature") kill Simon Magus,
+by praying that Simon Magus falls when he attempts to ascend toward the heaven.
+This might be to defend themselves from accusations that Peter and Paul are actually Simon Magus under other names,
+or seen as inferior to Simon Magus by Simonians.
 
 ### Using Cultural Identity to Explain Parallels to Other Mythological Characters
 
