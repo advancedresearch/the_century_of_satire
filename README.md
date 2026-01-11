@@ -87,7 +87,7 @@ This explains the numerology in Revelation of the 144 000 virgins, because `144 
 2 3 4 6 8 9 12 16 18 24 36 48 72
 
 This form of numerology comes from the astromical development of epicycles to explain the path of Venus in the sky.
-Epicycles required "magical numbers" which people struggled to explain, before this method replaced was by Kepler during the Scientific Revolution using elliptical orbits.
+Epicycles required "magical numbers" which people struggled to explain, before this method was replaced using elliptical orbits by Kepler during the Scientific Revolution.
 Several savior figures, including Horus and Jesus Christ, were associated with Venus.
 Venus is the Roman goddess for love.
 In Greek, Venus is called "The Lightbringer" because is raises in the sky before dawn.
