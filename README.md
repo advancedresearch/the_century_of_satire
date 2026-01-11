@@ -51,7 +51,7 @@ It can be explained scientifically by distguishing between the historical Jesus 
 
 Both Simon Magus and Jeus Christ originated as characters in Roman satire, written for children in Greek.
 The oldest text is most likely the Gospel of Mark, where Jesus Christ resurrects "back in time" to Galilee,
-known as "The Ouroborus Hypothesis" in biblical scholarship, which was first suggested in this project.
+known as "The Ouroboros Hypothesis" in biblical scholarship, which was first suggested in this project.
 
 With other words, Jesus Christ's resurrection is not a historical resurrection, but a literary one,
 where the author of Gospel of Mark plays on the cultural context of translation fables in the Roman empire.
@@ -63,7 +63,7 @@ A translation fable is a way that people in the Roman empire celebrated importan
 - An ascension toward the heaven
 
 These 3 parts were not in the original ending of the Gospel of Mark, but added later.
-The Ouroborus Hypothesis is that the story of Jesus Christ originates as a tale for children,
+The Ouroboros Hypothesis is that the story of Jesus Christ originates as a tale for children,
 where Jesus Christ resurrects back to the beginning of the story,
 using a book format that was preferred by Early Christians.
 
