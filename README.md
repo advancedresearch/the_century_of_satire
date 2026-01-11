@@ -117,10 +117,10 @@ The Hellenistic influence in Christianity, such as new gospels based on Homeric 
 made it easy for people from a Hellenistic background to convert to this new religion.
 
 Jesus Christ increased in popularity as a healing deity like Asclepius and a prosperity deity like Dionysus,
-because he performed miracles that resurrected Lasarus from the dead, turned water into wine and fed thousands of people with little bread.
+because he performed miracles that resurrected Lazarus from the dead, turned water into wine and fed thousands of people with little bread.
 The advance in medicine during the 2nd century, primarily in the field of surgery,
 enabled Early Christians to use Galen's works to establish a monopoly on healthcare in the 3rd century,
-after Constantine made Christianity the offical religion of the Roman empire.
+after Constantine made Christianity the official religion of the Roman empire.
 
 This monopoly on healthcare initiated the phase of Late Christianity and was protected by the state as a Dogmatic school of medicine,
 until the Empiric school of medicine was revived by the Lunar Society in England during the Scientific Revolution,
