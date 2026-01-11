@@ -188,7 +188,7 @@ includes Simon Magus, a deity in a competing sect,
 and uses events from Josephus extensively.
 This casts doubts on the historicity of Peter.
 The original name of Peter as Simon could mean that this character was originally the same character, Simon Magus,
-but changing to Peter to disassociate from Simon bar Kokhba and to compete with Paul in Marcion of Sinope's canon.
+but changed to Peter to disassociate from Simon bar Kokhba and to compete with Paul in Marcion of Sinope's canon.
 
 ### Using Cultural Identity to Explain Parallels to Other Mythological Characters
 
