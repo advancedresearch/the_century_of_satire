@@ -92,7 +92,7 @@ This form of numerology comes from the astromical development of epicycles to ex
 Epicycles required "magical numbers" which people struggled to explain, before this method was replaced using elliptical orbits by Kepler during the Scientific Revolution.
 Several savior figures, including Horus and Jesus Christ, were associated with Venus.
 Venus is the Roman goddess for love.
-In Greek, Venus is called "The Lightbringer" because is raises in the sky before dawn.
+In Greek, Venus is called "The Lightbringer" because it raises in the sky before dawn.
 Jewish mythology for Venus is Lucifer, which in Gnostic Early Christianity is believed to be Jesus Christ.
 In Revelation 22:16, Jesus Christ says he is the Morning Star, another term used for Venus.
 The word "philosophy" in Greek means "love of wisdom" (Philo-Sophia).
