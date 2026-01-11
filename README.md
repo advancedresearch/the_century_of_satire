@@ -71,10 +71,12 @@ Unlike a scroll, a book can simply be turned over to start at the beginning.
 To people in the Hellenistic culture at the time, this was a funny comment on translation fables,
 which highlighted Jesus Christ as an important figure.
 However, due to this Roman satirical story telling, Jesus Christ became perceived as transcending other translation fables.
-This simple literary device was used to explain Jesus Christ as the snake that was lifted up by Moses in the desert.
+This simple literary device was used to explain Jesus Christ as the snake that was lifted up by Moses in the desert (John 3:14-15).
 A snake that bites its own tale, the Ouroborus, which symbolizes the calendar.
 
 <img width="625" height="621" alt="The Ouroborus" src="https://github.com/user-attachments/assets/b966321b-2eb4-498f-b093-f48642609426" />
+
+*An ouroboros in a 1478 drawing in an alchemical tract*
 
 Jesus' 12 desciples are the 12 months, based on a Sun calendar.
 The 13th month was dropped when people transitioned from a Moon calendar (the moon orbits Earth 13 times a year) in the official temple practice of Jerusalem,
@@ -206,6 +208,18 @@ Similarly, Jesus could have been based on a very different character historicall
 
 When people write with cultural identity in mind, they might place a character in a different century.
 For example, origin stories about Santa Claus are usually put in a different century than Nicholas of Myra.
+
+In the case a historical Joshua recorded by Josephus as a rebellious leader (people calling him Messiah),
+the name Joshua is due to the Joshua character in the old Hebrew bible.
+Joshua is the successor of Moses and this explains why some Early Christians portrayed Jesus alongside Moses in Catacomb paintings:
+
+<img width="525" height="430" alt="Jesus and Moses in Catacomb painting" src="https://github.com/user-attachments/assets/4a7b9933-d655-412f-a260-162f53fd693c" />
+
+*Jesus raises Lazarus from the dead (top left). Moses striking the rock to draw water near Mt. Horeb (top right). Mid 4th century. Red Cubiculum of the Catacomb of Domitilla, Rome*
+
+Jesus to Early Christians is a successor of Moses.
+In this myth, Moses lifts up a snake in the desert to heal the snake wounds of the people of Israel (John 3:14-15).
+Early Christians believed this was a symbolic act, a prophecy about Jesus Christ.
 
 ### Cultural Identity of Jesus' Family Members
 
