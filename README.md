@@ -118,7 +118,7 @@ made it easy for people from a Hellenistic background to convert to this new rel
 
 Jesus Christ increased in popularity as a healing deity like Asclepius and a prosperity deity like Dionysus,
 because he performed miracles that resurrected Lasarus from the dead, turned water into wine and fed thousands of people with little bread.
-The advance in medicine, primarily in the field of surgery during the 2nd century,
+The advance in medicine during the 2nd century, primarily in the field of surgery,
 enabled Early Christians to use Galen's works to establish a monopoly on healthcare in the 3rd century,
 after Constantine made Christianity the offical religion of the Roman empire.
 
