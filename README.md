@@ -86,7 +86,7 @@ which death was retold by Papias of Hierapolis in the form of Roman satire.
 Some Early Christians believed that Judas was secretly the hero of the story.
 This explains the numerology in Revelation of the 144 000 virgins, because `144 = 12 * 12` and is the lowest number with 13 divisors:
 
-2 3 4 6 8 9 12 16 18 24 36 48 72
+`2 3 4 6 8 9 12 16 18 24 36 48 72`
 
 This form of numerology comes from the astromical development of epicycles to explain the path of Venus in the sky.
 Epicycles required "magical numbers" which people struggled to explain, before this method was replaced using elliptical orbits by Kepler during the Scientific Revolution.
