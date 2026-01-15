@@ -45,7 +45,7 @@ Here, it is very important to not fall into the trap of a particular modern mind
 The people who practised ancient religion did not ask critical questions about characters themselves.
 Instead, when some character is introduced into mythology, it is meant for people to use their imagination.
 People argued with each other what their own imagination had come up with and what they had heard from their own friends.
-Therefore, when people argue about characters, this is not about characters themselves, but about the people to imagine stuff about them.
+Therefore, when people argue about characters, this is not about characters themselves, but about the people who imagine stuff about them.
 Criticism and critical thinking about ancient religious characters was invariably seen as a personal attack,
 against some individual or a group of people.
 
