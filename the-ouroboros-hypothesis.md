@@ -63,7 +63,7 @@ An angel in mythology does not need much of a backstory.
 Simply being an angel alone, was enough for ancient people to be creative about how the angel looked like or what role it played.
 After all, if you imagine that angels were seen as invisible physical beings, not just something people believed in,
 from an individual perspective who grows up in some religious tradition,
-some angels might feel very real to them and belived to behave in particular ways, as if the person who believes is knowing and seeing these angels.
+some angels might feel very real to them and believed to behave in particular ways, as if the person who believes is knowing and seeing these angels.
 
 Therefore, a character like Melchizedek functions more like an imaginary friend,
 which a person can use their own creativity and imagination,
