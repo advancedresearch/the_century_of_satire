@@ -192,7 +192,7 @@ they are missing the entire reason why people produced these sorts of texts in t
 - Lying in Roman satire is not something that people hide
 - Lying in Roman satire is the point
 
-When somebody accuse an author of lying, when the author writes in the genre of Roman satire,
+When somebody accuses an author of lying, when the author writes in the genre of Roman satire,
 then how do people typically respond?
 
 They respond by pretending they are serious and accuse the attackers of lying, to ridicule them.
