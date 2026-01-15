@@ -115,7 +115,7 @@ or in cultures where scrolls or clay tablets are overwhelmingly dominant.
 
 The only known time period and place that The Ouroboros Hypothesis is applicable historically, is to late 1st to 2nd century Early Christianity.
 
-If The Ouroboros Hypothesis is false, then it almost certaintly never happens historically.
+If The Ouroboros Hypothesis is false, then it almost certainly never happens historically.
 However, if the hypothesis is true, then it shaped a whole era of literature and religion,
 even most people were unaware about this particular literary event in their own past.
 
