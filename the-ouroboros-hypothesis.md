@@ -80,7 +80,7 @@ Therefore, if you try to think of the Melchizedek character as historical, you a
 Why do you believe that inserting a new text into the story of Abraham was acceptable at the time?
 
 This happens because first, some person uses their creativity and imagination,
-until Melchizedek feels real to them, until somebody, who also like Melchizedek, has the authority to modify the text,
+until Melchizedek feels real to them, until somebody, who also likes Melchizedek, has the authority to modify the text,
 without anyone else being able to stop them.
 By inserting this new text into the story of Abraham, this shows the important status of the person who did it.
 Changing existing literature is a social risk, that invites criticism, but is mostly done to expand authority and influence.
