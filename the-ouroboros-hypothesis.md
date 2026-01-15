@@ -85,9 +85,9 @@ without anyone else being able to stop them.
 By inserting this new text into the story of Abraham, this shows the important status of the person who did it.
 Changing existing literature is a social risk, that invites criticism, but is mostly done to expand authority and influence.
 
-With other words, historical accurasy is irrelevant.
+With other words, historical accuracy is irrelevant.
 Furthermore, the genre of literature is also irrelevant.
-It does not matter whether some text is prophetic, a story or Roman satire.
+It does not matter whether some text is prophetic, a heroic story or Roman satire.
 Across all these genres, people argue about which version of their imaginative savior figure should be prioritized socially.
 
 Literature in the ancient world is seen as a way to influence the world.
