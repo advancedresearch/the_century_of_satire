@@ -69,7 +69,7 @@ Therefore, a character like Melchizedek functions more like an imaginary friend,
 which a person can use their own creativity and imagination,
 but in a social accepted way since this character has been introduced through the proper religious authority.
 Due to this imaginary relationship, when Jesus later comes along,
-the author of the book of Hebrew, which likes Melchizedek, equates Jesus to Melchizedek so that they can continue this imaginary relationship
+the author of the Book of Hebrew, which likes Melchizedek, equates Jesus to Melchizedek so that they can continue this imaginary relationship
 under social acceptable circumstances where the norms are changing from Melchizedek to Jesus.
 
 Most biblical scholars today believe that the Melchizedek character was made up based on a psalm,
