@@ -169,7 +169,7 @@ It happens gradually, over decades and centuries.
 There are still many features that trace back to its beginning, even today,
 of the satirical debates going on in the 2nd century among Early Christians.
 The cultural gap between modern religion, which is detached from the practice of medicine,
-and ancient religion which was primarily about integrating compatibles practice of medicine, politics and economics,
+and ancient religion which was primarily about integrating compatible practices of medicine, politics and economics,
 makes it difficult for modern people to understand how Early Christians both were joking around,
 but also took their debates deadly seriously.
 
