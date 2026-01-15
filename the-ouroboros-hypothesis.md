@@ -10,7 +10,7 @@ When studying the origin of Early Christianity scientifically, it is common to d
 - As a literary character
 
 For example in modern times, when studying the origin of Santa Claus,
-it is very bad scholarship to mix the historial person Nicholas of Myra
+it is very bad scholarship to mix the historical person Nicholas of Myra
 with the character Santa Claus based on this person.
 
 Why? Because Santa Claus in a cultural literature context has very little in common with Nicholas of Myra.
