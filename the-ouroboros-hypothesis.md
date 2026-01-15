@@ -229,7 +229,7 @@ one that invites people to use their own creativity and imagination,
 to fuel heated debates over which imaginary version is the correct one,
 as a way to assert authority and dominance over others.
 
-However, the literary side is just on aspect.
+However, the literary side is just one aspect.
 The very next morning, after a drunken evening with a bar fight,
 people might sing together hymns to the planet Venus,
 before they gathered around a meal.
