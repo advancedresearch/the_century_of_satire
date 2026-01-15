@@ -1,5 +1,5 @@
 # The Century of Satire
-Reconstructing 2nd century cultural literature context of Roman satire in Early Christianity texts
+Reconstructing 2nd century cultural literature context of Roman satire in Early Christian texts
 
 See reading sequence [Language Bias Hypotheses](https://github.com/advancedresearch/path_semantics/blob/master/sequences.md#language-bias-hypotheses) under the Path Semantics project.
 
@@ -282,7 +282,7 @@ advocated and published by various brands of schools that taught medicine (e.g. 
 Early Christianity largely evolves alongside Simonianism in the 2nd century.
 They worship different savior figures,
 but with people who know each other across religious boundaries, something most likely due to shared medicine practices.
-Lying about each other's savior figures in texts was socially acceptable (e.g. by putting Simon Magus is Acts of The Apostles),
+Lying about each other's savior figures in texts was socially acceptable (e.g. by putting Simon Magus in Acts of The Apostles),
 since these texts were aimed at children with less developed critical thinking skills.
 This is less likely to have happened in stories that were meant to be taken seriously by adults.
 
@@ -292,7 +292,7 @@ these texts were relatively innocent at the time,
 compared to general adult practice of religions, which were full of glorified violence and sex.
 
 The debate about circumcision is about lowering the entry requirements into guilds of medicine practitioners.
-These medicine practitioners were called "Magi", as is "Simon Magus", the savior figure in Simonianism.
+These medicine practitioners were called "Magi", as in "Simon Magus", the savior figure in Simonianism.
 The title "Christ" might have been a play on the word "Magi", which dates back to the Bronze Age,
 when the same title was used for Medea, the granddaughter of Helios.
 Whether people used "Magi" or "Christ" for their savior figure, the terminology is coming from medicine practice anyway, along very similar traditions.
