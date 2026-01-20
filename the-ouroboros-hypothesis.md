@@ -39,7 +39,7 @@ but exists beyond a normal lifespan that is expected for any historical person.
 
 Now, seen through the lens of ancient people, what makes the Melchizedek character so great?
 There is not much substantial content produced by writers about the properties this character has otherwise.
-Melchizedek does not do very much, similar to commonly mythology around individual angels.
+Melchizedek does not do very much, similar to common mythology around individual angels.
 
 Here, it is very important to not fall into the trap of a particular modern mindset when interpreting ancient religions.
 The people who practised ancient religion did not ask critical questions about characters themselves.
