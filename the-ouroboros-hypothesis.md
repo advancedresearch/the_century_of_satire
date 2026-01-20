@@ -144,6 +144,26 @@ Technically, this literary event can only happen around the time when people tra
 
 There is scientific evidence that when people transition from 13 months to 12 months in this time period and place,
 it coincides with the commonly held belief of the origin of Christianity.
+The Dead Sea scrolls suggests that the Qumran communities advocated a Sun calendar with 12 months,
+calling themselves "children of the light" and criticizing the official temple practice in Jerusalemn for being "children of the dark",
+because they followed a Moon calendar with 13 months.
+The same sects that were responsible for the official temple practice in Jersualem,
+were also criticized by the authors of the gospels, using similar rhetoric.
+
+For example, in John 8:42-47:
+
+Jesus said to them, “If God were your Father, you would love me, for I have come here from God. I have not come on my own; God sent me. Why is my language not clear to you? Because you are unable to hear what I say. You belong to your father, the devil, and you want to carry out your father’s desires. He was a murderer from the beginning, not holding to the truth, for there is no truth in him. When he lies, he speaks his native language, for he is a liar and the father of lies. Yet because I tell the truth, you do not believe me! Can any of you prove me guilty of sin? If I am telling the truth, why don’t you believe me? Whoever belongs to God hears what God says. The reason you do not hear is that you do not belong to God.”
+
+This is probably not a quote from some historical Jesus, but the expression of frustration of the author of other people not listening.
+
+In the ancient world, people took calendars seriously because it helped them to predict when to sow and harvest.
+When transitioning from one calendar to another, this must be have been frustrating for those who felt that their opinion was not taken into account.
+As the new calendar with 12 months gains influence, there would be lot of people that felt that it justified their own religious beliefs.
+These people who are using the new calendar, try to convince the people who use the old calendar with 13 months, to switch.
+This cultural war over opinion, is in the mindset of ancient people a kind of spiritual battle.
+
+Keep in mind that what calendar people used, might function as a conversation starter,
+where people use arguments starting from this topic to try to win over people with different religious views than their own.
 
 Therefore, viewing the origin of Christianity as some important historical event that caused people to change their calendar,
 is an entirely wrong perspective.
