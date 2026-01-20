@@ -44,7 +44,7 @@ There are two main external records of a historical Jesus as a rebellious leader
 
 This historical Jesus, who was a rebellious leader, probably did not know John the Baptist.
 
-It can be explained scientifically by distguishing between the historical Jesus (the rebel) and the literary Jesus (Christ):
+It can be explained scientifically by distinguishing between the historical Jesus (the rebel) and the literary Jesus (Christ):
 
 - The historical Jesus was likely a rebellious leader that was crucified, like other people who were called Messiah
 - The literary Jesus Christ was likely influenced by Simon Magus, the savior figure for Simonians
@@ -62,7 +62,7 @@ A translation fable is a way that people in the Roman empire celebrated importan
 - A witness who meets the person while traveling
 - An ascension toward the heaven
 
-These 3 parts were not in the original ending of the Gospel of Mark, but added later.
+The 2 last parts were not in the original ending of the Gospel of Mark, but added later.
 The Ouroboros Hypothesis is that the story of Jesus Christ originates as a tale for children,
 where Jesus Christ resurrects back to the beginning of the story,
 using a book format that was preferred by Early Christians.
@@ -72,7 +72,7 @@ To people in the Hellenistic culture at the time, this was a funny comment on tr
 which highlighted Jesus Christ as an important figure.
 However, due to this Roman satirical story telling, Jesus Christ became perceived as transcending other translation fables.
 This simple literary device was used to explain Jesus Christ as the snake that was lifted up by Moses in the desert (John 3:14-15).
-A snake that bites its own tale, the Ouroborus, which symbolizes the calendar.
+A snake that bites its own tail, the Ouroborus, which symbolizes the calendar.
 
 <img width="625" height="621" alt="The Ouroborus" src="https://github.com/user-attachments/assets/b966321b-2eb4-498f-b093-f48642609426" />
 
@@ -296,7 +296,7 @@ These medicine practitioners were called "Magi", as in "Simon Magus", the savior
 The title "Christ" might have been a play on the word "Magi", which dates back to the Bronze Age,
 when the same title was used for Medea, the granddaughter of Helios.
 Whether people used "Magi" or "Christ" for their savior figure, the terminology is coming from medicine practice anyway, along very similar traditions.
-For example, both Simon Magus and Jesus Christ were thought to have to have known John the Baptist.
+For example, both Simon Magus and Jesus Christ were thought to have known John the Baptist.
 Baptism rituals were performed as a way of spiritual cleansing, which could be interpreted as closely related to healing by medicine.
 People did not have the modern understanding of medicine, preventing illness by washing their hands, feet and bodies,
 so they thought about this in religious context accompanied by stories that explained why they performed these rituals,
