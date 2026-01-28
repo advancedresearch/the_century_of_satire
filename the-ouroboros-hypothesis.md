@@ -251,7 +251,7 @@ as a way to assert authority and dominance over others.
 
 However, the literary side is just one aspect.
 The very next morning, after a drunken evening with a bar fight,
-people might sing together hymns to the planet Venus,
+people might sing together a hymn, possibly while facing the planet Venus,
 before they gathered around a meal.
 
 
