@@ -28,6 +28,58 @@ Early Christianity in the 2nd century provides a good test case for developing t
 New research in academic biblical scholarship suggests that the historical context of Early Christianity is important
 for interpreting the texts (there are thousands of Early Christian writings) through the lens of the people who write them.
 
+### Why exploring language biases in 2nd century Early Christianity?
+
+In Path Semantics, the path semantical quality operator e.g. `a ~~ b` is a way to construct Infinite-Valued Logic.
+Currently, it is believed that human biases are naturally oriented toward this kind of logic.
+
+Theology and religion often try to explain things about the universe and life in a way that seems to appeal to natural human biases,
+yet at the same time, these ideas are inexpressible in normal Logic.
+Infinite-Valued Logic might explain how some of the ideas people developed over time in ancient religions.
+
+In the beginning of Late Christianity, the theology seems to be a more refined version that closely matched Infinite-Valued Logic.
+Yet, scientific evidence and scholarly work suggests that the historical origin of Early Christianity had a different language bias.
+
+Specifically, The Holy Trinity, was fully developed in the beginning of Late Christianity and can be explained using following terms:
+
+- `a ~~ a` (The Father)
+- `a ~~ b` (The Son)
+- `!(a ~~ a)` (The Holy Spirit)
+- `!(a ~~ b)` (The Bride of Christ)
+
+In Joker Calculus, The Father and The Son are Platonic biased.
+These two ideas are seen as co-eternal and creating the world together.
+In the time interpretation of the core axiom of Path Semantics,
+path semantical quality carries and propagates propositions in moments of time,
+where each moment is a path semantical layer, which internally has the structure of normal Logic.
+
+Thus, there is a concept of pre-eternity in Late Christianity, before the first moment,
+which one can think of as holding the potency for the world's existence.
+However, each moment in time is also a kind of dual eternity, from the perspective of frozen time.
+This might be how Early Christians thought about the communion with Christ,
+a ritual they performed with music, sex and entheogens, to achieve Aionic Life.
+Aionic Life is a new perspective of existence that is accessible for those who achieved higher states of consciousness.
+
+One can think about Aionic Life, which includes the concepts of The Holy Spirit and The Bride of Christ, as Seshatic biased in Joker Calculus.
+In Early Christianity, it was common to accept spritual revelation as religious authority.
+However, as this new religion evolved, people started putting more weight on institutional power and titles, such as priest or bishop.
+
+Aionic Life was replaced in Late Christianity with the promise of an eternal life after death.
+Therefore, the theology in Late Christianity concentrates on pre-eternity and post-eternity more than the dual eternity per moment of time.
+Values of an Aionic Life changed, such as love, belief and knowledge.
+Most Early Christians believed in sacred or secret knowledge as a way to salvation.
+When this emphasis on sacred or secret knowledge vanished, since the entire Roman empire used the same religion,
+people were simply asked to trust the leaders without asking questions and obey without hesitance.
+
+This dynamics in theology over time allows Early Christianity to originate with a Seshatic language bias,
+where making errors, playing games and having fun is more common.
+It means, Early Christians might have been much less serious than their later followers.
+
+Sehatic bias is common in playful songs and stories for children, or in satire and criticism of society.
+The most prominent genre of contemporary literature at the time with such language bias, is Roman satire.
+A text that might have been written in the genre of Roman satire, might later be interpreted more seriously,
+as the theological language bias changed from Seshatic to Platonism.
+
 ### Roman Satire
 
 One of the things recently discovered is that some Early Christians write in the contemporary cultural genre of Roman satire.
@@ -49,7 +101,7 @@ It can be explained scientifically by distinguishing between the historical Jesu
 - The historical Jesus was likely a rebellious leader that was crucified, like other people who were called Messiah
 - The literary Jesus Christ was likely influenced by Simon Magus, the savior figure for Simonians
 
-Both Simon Magus and Jesus Christ originated as characters in Roman satire, written for children in Greek.
+Both Simon Magus and Jesus Christ might have originated as characters in Roman satire, written for children in Greek.
 The oldest text is most likely the Gospel of Mark, where Jesus Christ resurrects "back in time" to Galilee,
 known as "The Ouroboros Hypothesis" in biblical scholarship, which was first suggested in this project.
 
