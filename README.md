@@ -97,7 +97,7 @@ Both operations can be defined in terms of each other using Standard Path Semant
 
 When you do it in the way of path semantical qubit, it looks a lot like Buddhism.
 The expression `~a` can be thought of as direct Englightenment,
-with `!~a` as a satirical negation used some expressions, e.g. "If you meet the Buddhy on the road, kill him".
+with `!~a` as a satirical negation used in some expressions, e.g. "If you meet the Buddhy on the road, kill him".
 
 The main hypothesis predicts that any human culture, not just religion in general, has language biases of Infinite-Valued Logic.
 This means, when cultures and religions change over time, this is a dynamics in language biases,
