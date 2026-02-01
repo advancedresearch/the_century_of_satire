@@ -80,6 +80,33 @@ The most prominent genre of contemporary literature at the time with such langua
 A text that might have been written in the genre of Roman satire, might later be interpreted more seriously,
 as the theological language bias changed from Seshatic to Platonism.
 
+### Is the development from Early Christianity to Late Christianity unique with respect to the main hypothesis?
+
+The main hypothesis of The Century of Satire project is that human biases in general are linked structurally to Infinite-Valued Logic.
+
+With other words, the main hypothesis being tested is not unique to this project.
+The main hypothesis makes predictions about all human religions and cultures,
+not for the history of Christianity in particular.
+
+In Path Semantics, one can construct Infinite-Valued Logic in two ways:
+
+- Using path semantical quality e.g. `a ~~ b`
+- Using path semantical qubit e.g. `~a`
+
+Both operations can be defined in terms of each other using Standard Path Semantics.
+
+When you do it in the way of path semantical qubit, it looks a lot like Buddhism.
+The expression `~a` can be thought of as direct Englightenment,
+with `!~a` as a satirical negation used some expressions, e.g. "If you meet the Buddhy on the road, kill him".
+
+The main hypothesis predicts that any human culture, not just religion in general, has language biases of Infinite-Valued Logic.
+This means, when cultures and religions change over time, this is a dynamics in language biases,
+which is itself a fundamental language bias in Joker Calculus: Seshatism.
+
+However, there is a specific hypothesis that was formed in The Century of Satire project: The Ouroboros Hypothesis.
+This hypothesis attempts to explain the literary origin of Early Christianity, that caused thousands of people to write the texts we have from Early Christians.
+The Ouroboros Hypothesis is unique to the development from Early Christianity to Late Christianity.
+
 ### Roman Satire
 
 One of the things recently discovered is that some Early Christians write in the contemporary cultural genre of Roman satire.
