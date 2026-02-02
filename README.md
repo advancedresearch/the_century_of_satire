@@ -77,8 +77,8 @@ It means, Early Christians might have been much less serious than their later fo
 
 Sehatic bias is common in playful songs and stories for children, or in satire and criticism of society.
 The most prominent genre of contemporary literature at the time with such language bias, is Roman satire.
-A text that might have been written in the genre of Roman satire, might later be interpreted more seriously,
-as the theological language bias changed from Seshatic to Platonism.
+A text written in the genre of Roman satire, might later be interpreted more seriously,
+as the theological language bias changed from Seshatism to Platonism.
 
 ### Is the development from Early Christianity to Late Christianity unique with respect to the main hypothesis?
 
