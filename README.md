@@ -75,7 +75,7 @@ This dynamics in theology over time allows Early Christianity to originate with 
 where making errors, playing games and having fun is more common.
 It means, Early Christians might have been much less serious than their later followers.
 
-Sehatic bias is common in playful songs and stories for children, or in satire and criticism of society.
+Seshatic bias is common in playful songs and stories for children, or in satire and criticism of society.
 The most prominent genre of contemporary literature at the time with such language bias, is Roman satire.
 A text written in the genre of Roman satire, might later be interpreted more seriously,
 as the theological language bias changed from Seshatism to Platonism.
