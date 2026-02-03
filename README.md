@@ -96,7 +96,7 @@ In Path Semantics, one can construct Infinite-Valued Logic in two ways:
 Both operations can be defined in terms of each other using Standard Path Semantics.
 
 When you do it in the way of path semantical qubit, it looks a lot like Buddhism.
-The expression `~a` can be thought of as direct Englightenment,
+The expression `~a` can be thought of as direct Enlightenment,
 with `!~a` as a satirical negation used in some expressions, e.g. "If you meet the Buddhy on the road, kill him".
 
 The main hypothesis predicts that any human culture, not just religion in general, has language biases of Infinite-Valued Logic.
