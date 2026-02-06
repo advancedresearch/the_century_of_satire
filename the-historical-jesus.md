@@ -64,7 +64,7 @@ Overview:
 - [Was the historical Jesus a human trafficker who used slaves to produce antidotes for snake venoms?](#was-the-historical-jesus-a-human-trafficker-who-used-slaves-to-produce-antidotes-for-snake-venoms)
 - [Was the historical Jesus a humble carpenter?](#was-the-historical-jesus-a-humble-carpenter)
 - [Was the historical Jesus a magician?](#was-the-historical-jesus-a-magician)
-- Was the historical Jesus a philosopher?
+- [Was the historical Jesus a philosopher?](#was-the-historical-jesus-a-philosopher)
 - Was the historical Jesus an eremit?
 - Was the historical Jesus an esoteric figure like Honi HaMe'agel?
 - Was the historical Jesus a cult leader?
