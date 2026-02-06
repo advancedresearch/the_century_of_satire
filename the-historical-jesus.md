@@ -60,7 +60,7 @@ Overview:
 - [Removing the layers of medicine: Jesus Christ vs Simon Magus](#removing-the-layers-of-medicine-jesus-christ-vs-simon-magus)
 - [Was the historical Jesus a doctor?](#was-the-historical-jesus-a-doctor)
 - [Was the historical Jesus the Joshua that succeeded Moses?](#was-the-historical-jesus-the-joshua-that-succeeded-moses)
-- Was the historical Jesus a rabbi?
+- [Was the historical Jesus a rabbi?](#was-the-historical-jesus-a-rabbi)
 - Was the historical Jesus a human trafficker who used slaves to produce antidotes for snake venoms?
 - Was the historical Jesus a humble carpenter?
 - Was the historical Jesus a magician?
