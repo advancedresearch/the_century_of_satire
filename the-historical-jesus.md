@@ -61,7 +61,7 @@ Overview:
 - [Was the historical Jesus a doctor?](#was-the-historical-jesus-a-doctor)
 - [Was the historical Jesus the Joshua that succeeded Moses?](#was-the-historical-jesus-the-joshua-that-succeeded-moses)
 - [Was the historical Jesus a rabbi?](#was-the-historical-jesus-a-rabbi)
-- Was the historical Jesus a human trafficker who used slaves to produce antidotes for snake venoms?
+- [Was the historical Jesus a human trafficker who used slaves to produce antidotes for snake venoms?](#was-the-historical-jesus-a-human-trafficker-who-used-slaves-to-produce-antidotes-for-snake-venoms)
 - Was the historical Jesus a humble carpenter?
 - Was the historical Jesus a magician?
 - Was the historical Jesus a philosopher?
