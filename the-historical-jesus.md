@@ -65,7 +65,7 @@ Overview:
 - [Was the historical Jesus a humble carpenter?](#was-the-historical-jesus-a-humble-carpenter)
 - [Was the historical Jesus a magician?](#was-the-historical-jesus-a-magician)
 - [Was the historical Jesus a philosopher?](#was-the-historical-jesus-a-philosopher)
-- Was the historical Jesus an eremit?
+- Was the historical Jesus an eremite?
 - Was the historical Jesus an esoteric figure like Honi HaMe'agel?
 - Was the historical Jesus a cult leader?
 - Was the historical Jesus an apocalyptic preacher?
@@ -532,7 +532,70 @@ Yet, readers of the story might know who the character is based on.
 Perhaps Jesus Christ was Roman satire about some Roman emperor and that emperor was a philosopher.
 Or, it could simply been some text with sayings that nobody knows where they came from.
 
-### Was the historical Jesus an eremit?
+### Was the historical Jesus an eremite?
+
+Most scholars focus on versions of historical Jesus that might be more controversial or engaging for people to read about.
+
+An eremite is one of the most boring things to write about in the ancient world.
+
+The possibility that the historical Jesus was an eremite, is definitely boring, but it is something that should be considered seriously.
+
+Ancient people were frequently visiting oracles and eremites located in isolated places to seek advice from the deities.
+
+Now, you might think that it would be more efficient to seek advice from somebody who know them and have the social connections to provide help.
+
+Modern people tend to forget one thing: Just like modern people, ancient people wanted to figure out their own problems, when they could.
+
+Seeking help from others is not easy, because people feel that they owe them something in return later.
+This can produce a feeling of being lesser worth for society or under the control of somebody who are stronger.
+
+The solution to this dilemma in the ancient world, is that when people believe they can figure it out themselves,
+or they have no others to talk to about their problems, they use an oracle or an eremite as a surrogate for the time they need to think about it.
+With other words, the main mechanism is to use the tough journey to process things and when an oracle or eremite give them some mysterious answer,
+people interpret the answer as something they have been wanted to hear all the time, but were afraid to admit it to themselves.
+
+There is evidence that Early Christians kept records of oracle sayings.
+Just because some oracle said something to some person, does not mean that people thought of it as irrelevant in other context.
+So, by collecting oracle sayings, people could contemplate and meditate on their own problems.
+This serves as a basis for spending time on processing information in general,
+that give people the opportunity to handle their issues with less pressure or stress.
+
+An eremite can also function like a cynic philosopher.
+However, in such cases, it is always difficult to trace back ideas,
+because people frequently made up stories that they attributed to some philosopher or character.
+
+Some eremites might also take religious wovs, for example to not speak or to live on top of a pillar.
+This does not mean that the eremite was not visited less.
+On the contrary, the more impractical it was to ask eremites for advice, they more people would talk about them.
+
+There is a possibility that the historical Jesus did not travel much or said anything of significance.
+People might use such characters to create their own stories.
+The medium people use to retell such stories could have influenced how people perceive a such character.
+
+Despite that Paul claims met Jesus,
+the only letters we have from somebody who might witness something about the historical Jesus,
+that might date back partially to the 1st century,
+he did not actually meet any Jesus who was alive.
+
+The Jesus that Paul claims he met, is in his view a resurrected Jesus.
+
+This means, Paul could have been influenced through other people,
+or he could participate in a translation fable as a fake witness,
+a way to honor the dead Jesus.
+
+In any case, Paul does not give us much details about the life of Jesus.
+This means, Jesus might have been an eremite who was arrested and crucified,
+perhaps as a way to punish people who frequently visited this eremite,
+for rebelling, or not paying taxes, or similar.
+
+The loss of an oracle or an eremite that served an important social role for a group of people,
+might have resulted in these people continuing their relationship to this person after the moment of death.
+To express support for this eremite, they might declare themselves as disciples or apostles of that person.
+
+Now, this might sound stupid, but it make sense when you think about it from this perspective:
+People in general like to solve their own problems and frequently attributed sayings and made up stories about some character.
+By making an eremite spiritual, they also were guaranteed to not lose that relationship later on.
+With other words, making an eremite spiritual can be the result of learning from an authoratative oppression tactic.
 
 ### Was the historical Jesus an esoteric figure like Honi HaMe'agel?
 
