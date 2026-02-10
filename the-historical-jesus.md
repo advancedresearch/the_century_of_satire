@@ -310,7 +310,7 @@ but he might have combined this with other roles, such as being a doctor.
 
 ### Was the historical Jesus a human trafficker who used slaves to produce antidotes for snake venoms?
 
-As scandalous this position sounds and easy to debunk, there are several sources that links Jesus to human trafficking and snakes.
+As scandalous this position sounds and easy to debunk, there are several sources that link Jesus to human trafficking and snakes.
 We just do not know whether these sources are about some historical Jesus or the literary Jesus.
 
 The Roman empire was based on slavery.
