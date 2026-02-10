@@ -310,64 +310,100 @@ but he might have combined this with other roles, such as being a doctor.
 
 ### Was the historical Jesus a human trafficker who used slaves to produce antidotes for snake venoms?
 
+As scandalous this position sounds and easy to debunk, there are several sources that links Jesus to human trafficking and snakes.
+We just do not know whether these sources are about some historical Jesus or the literary Jesus.
+
 The Roman empire was based on slavery.
 
 This approach to the topic of a historical Jesus, should be of no surprise to anyone that reads some history.
+However, here, there are lots of problems and controversies.
+
+The idea that the historical Jesus could not have been involved with human trafficking,
+is based on a Christian bias, that Jesus can not be imperfect in any way.
+There is also the idea that Jesus lived in poverty, which makes it difficult to imagine how Jesus could have slaves.
+
+However, there is some ambiguity about this among the texts we have from Early Christians.
+
+In Acts of Thomas, Jesus sells his twin brother Thomas as a slave to a rich man in India.
+This is the only record we have of Jesus creating a written document: A slave contract.
 
 Most Early Christians were not opposed to slavery in general.
-Paul, at least, was not.
+Paul, at least, was not, who according the Epistle to Philemon, sent back a runaway slave to the owner.
+This letter is regarded among most biblical scholars as authentic.
+It might not have been written by Paul, but it is believed to be the same person who wrote the seven oldest letters from Paul in the New Testament.
 
-Snake bites were feared everywhere there were deadly snakes in the ancient world, because without an antidote, you could risk death.
-For most people, who lived much closer on nature than most people do today, having antidotes ready was very important.
+If Paul sent a slave back to the owner, then by definition, Paul was involved in human trafficking.
+Can the same the said about Jesus?
+Yes, if Jesus sold Thomas as a slave to India, then regardless of the interpretation of a such possible historical event,
+Jesus was involved in human trafficking.
+
+There is also a controversy around the Greek word "leistes" in Mark 14:48, that can mean a pirate that is involved in human trafficking.
 
 Human trafficking in the Roman empire happens in two ways:
 
 1. Through official channels
 2. Through piracy
 
-There is some evidence that slaves were used to produce antidotes for snake venoms.
+If somebody did human trafficking through piracy, then they would get crucified by Roman law.
 
-The natural conclusion is that if somebody needs an antidote for snake venoms,
-then they might see a doctor, who would keep slaves to produce the antidotes.
+Most Early Christians, with some few exceptions (Second Treatise of the Great Seth), believed that Jesus was crucified.
 
-With other words, if the historical Jesus was a doctor,
-then he might do human trafficking through official channels or through piracy,
-to get slaves who could produce the antidotes.
+If Jesus was crucified and with no further context, then it is not unreasonable to consider that Jesus was crucified for piracy.
 
-Now, if somebody did human trafficking through piracy, then they would get crucified by Roman law.
+Human trafficking was very profitable, so naturally the Romans wanted a monopoly on this trade.
+This is one of the reasons they give a such harsh penalty for piracy.
+One aspect of this is that they believe it is immoral when somebody else do it to them,
+like when Julius Caesar was kidnapped by pirates,
+but not immoral when they themselves do it to others.
 
-The reason is not because the Romans think it is morally wrong.
-They do it for the same reason Christians killed everybody who competed with their monopoly on healthcare: Money.
+A part of the plot in Mark is that Jesus is falsely accused of a crime.
+This means, if Jesus was a human trafficker operating through official channels,
+then he might get betrayed by being accused of being a pirate ("leistes").
+Alternatively, Jesus might not have been a human trafficker, but still accused of being a pirate.
 
-Human trafficking was very profitable, so most people hated pirates,
-because when slavery happened through official channels, it was more predictable for most people who lived under the Roman empire.
-They were simply worried about themselves, not about the people who became slaves.
+Therefore, there is no there concrete evidence that the historial Jesus would not be involved with human trafficking,
+or being falsely accused of doing it.
+However, if the historical Jesus was legally trading slaves, then he would likely not be crucified for it,
+unless somebody betrayed him in return of making false accusations.
 
-In the original Gospel of Mark, it might have been an argument that the historical Jesus was innocent,
-because he did human trafficking through official channels and was falsely accused of doing it by piracy by priests in Jerusalem.
+Now, the remaining part is whether the historical Jesus used slaves to produce antidotes for snake venom.
 
-The fact that Jesus might have used boys to produce the antidote, is most likely less of a concern.
-People were more worried about incest, which carried a death penalty, than pedophilia at the time.
-It was mostly women that were punished for adultery by death, while men frequently got away with it.
+Snake bites were feared everywhere there were deadly snakes in the ancient world, because without an antidote, you could risk death.
+For most people, who lived much closer on nature than most people do today, having antidotes ready was very important.
 
-The possible use of Roman satire here, when Jesus gets arrested, could be to criticize Roman law indirectly,
-for giving such harsh penalty for piracy that allows the elite to persecute anyone by corruption.
-A reason Jewish laws were used, might be because poets could risk exile, by criticizing Roman law directly.
-That is why they use another culture, to provide indirect criticism by Roman satire.
-We do not know whether this is based on some historical Jesus,
-but it might have been the origin of the thousands of Early Christian texts that were produced during the 2nd century.
-The popularity of such texts could have been a kind of moral licensing to do human trafficking by piracy,
-in a time when pandemics, hunger and assassination on emperors caused political instability.
+From our modern understanding of medicine, it is dangerous, but possible, to build up immunity against snake venom.
+This immunity happens by the immune system producing antibodies that disables snake venom when it enters the blood.
 
-That is horrible, yes. Compared to other stories in the bible? No.
+The most efficient way of extracting antibodies to be used in some antidote, would be by using blood.
+Antibodies are primarily produced in response to infections or toxins and are found in higher concentrations in blood serum and plasma.
 
-Maybe you get shocked by this possibility, but here is an advice if you feel sensitive about this topic:
-It would be more rational to be shocked by e.g. the climate crisis,
-which will wipe out most people on the planet if no action is taken in time.
-People who are dead, are dead, but there are still many lives to be saved,
-instead of worrying about the lives of people who lived in the 1st and 2nd century.
+To produce an effective antidote against snake venoms, it would more like be by using blood, instead of other body fluids like semen or vaginal blood:
 
-OK? You will get over this.
+- Semen is primarily composed of sperm and seminal fluid, which does not contain significant levels of antibodies.
+This would make it an ineffective medium for the purpose.
+- Vaginal blood primarily comes from the menstrual cycle or childbirth,
+and it consists mostly of uterine lining material, red blood cells, and other biological fluids.
+
+Semen or vaginal blood might be used as ingredients in some antidote in attempt to make it more effective, based on religious beliefs.
+It could also be something ancient people had more experience with than we have in modern science,
+but this is speculation, as it might be difficult to distinguish symbolic significance from biological properties.
+
+There is no solid evidence that slaves were used to produce antidotes for snake venoms.
+It is possible, because we do not know how all the ingredients for antidotes, that people write about, were produced.
+However, if slaves were used to provide body fluids for antidotes against snake venoms,
+and this involves semen of vaginal fluids, then it would likely be a compound of blood and other body fluids.
+
+There is no source that claims Jesus was using blood from any other person.
+On the contrary, all the sources say that when Jesus asks somebody to drink something, he says "this is my blood".
+However, this can also be interpreted as "my blood" as in "my property", if Jesus took the blood from slaves he owned.
+Still, this collides, if the disciples were Jesus' slaves and he gives them a drink containing their own blood,
+unless it is meant in the sense "my family", or the belief that exchanging blood makes one family by oath.
+Maybe there was blood both from Jesus and his disciples in a drink? Who knows?
+
+There is also another aspect, that using slaves for antidotes could have been done outside the context of religious symbolism and rituals,
+but the religous symbolism and rituals might have been partially based on this practice,
+without necessarily doing all the steps involved in the process.
+This is another layer of complexity that is difficult to interpret for us today, since we are not part of ancient culture.
 
 ### Was the historical Jesus a humble carpenter?
 
