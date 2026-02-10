@@ -377,7 +377,7 @@ This immunity happens by the immune system producing antibodies that disables sn
 The most efficient way of extracting antibodies to be used in some antidote, would be by using blood.
 Antibodies are primarily produced in response to infections or toxins and are found in higher concentrations in blood serum and plasma.
 
-To produce an effective antidote against snake venoms, it would more like be by using blood, instead of other body fluids like semen or vaginal blood:
+To produce an effective antidote against snake venoms, it would be, more likely, by using blood, instead of other body fluids like semen or vaginal blood:
 
 - Semen is primarily composed of sperm and seminal fluid, which does not contain significant levels of antibodies.
 This would make it an ineffective medium for the purpose.
