@@ -352,7 +352,7 @@ If Jesus was crucified and with no further context, then it is not unreasonable 
 
 Human trafficking was very profitable, so naturally the Romans wanted a monopoly on this trade.
 This is one of the reasons they give a such harsh penalty for piracy.
-One aspect of this is that they believe it is immoral when somebody else do it to them,
+One aspect of this is that they believe it is immoral when somebody else does it to them,
 like when Julius Caesar was kidnapped by pirates,
 but not immoral when they themselves do it to others.
 
