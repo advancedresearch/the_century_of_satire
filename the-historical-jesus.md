@@ -366,9 +366,9 @@ or being falsely accused of doing it.
 However, if the historical Jesus was legally trading slaves, then he would likely not be crucified for it,
 unless somebody betrayed him in return of making false accusations.
 
-Now, the remaining part is whether the historical Jesus used slaves to produce antidotes for snake venom.
+Now, the remaining part is whether the historical Jesus used slaves to produce antidotes for snake venoms.
 
-Snake bites were feared everywhere there were deadly snakes in the ancient world, because without an antidote, you could risk death.
+Snake bites were feared everywhere in the ancient world, because without an antidote, you could risk death.
 For most people, who lived much closer on nature than most people do today, having antidotes ready was very important.
 
 From our modern understanding of medicine, it is dangerous, but possible, to build up immunity against snake venom.
