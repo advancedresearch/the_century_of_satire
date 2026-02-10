@@ -65,7 +65,7 @@ Overview:
 - [Was the historical Jesus a humble carpenter?](#was-the-historical-jesus-a-humble-carpenter)
 - [Was the historical Jesus a magician?](#was-the-historical-jesus-a-magician)
 - [Was the historical Jesus a philosopher?](#was-the-historical-jesus-a-philosopher)
-- Was the historical Jesus an eremite?
+- [Was the historical Jesus an eremite?](#was-the-historical-jesus-an-eremite)
 - Was the historical Jesus an esoteric figure like Honi HaMe'agel?
 - Was the historical Jesus a cult leader?
 - Was the historical Jesus an apocalyptic preacher?
