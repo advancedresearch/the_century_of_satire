@@ -35,7 +35,7 @@ Currently, it is believed that human biases are naturally oriented toward this k
 
 Theology and religion often try to explain things about the universe and life in a way that seems to appeal to natural human biases,
 yet at the same time, these ideas are inexpressible in normal Logic.
-Infinite-Valued Logic might explain how some of the ideas people developed over time in ancient religions.
+Infinite-Valued Logic might explain some of the ideas people developed over time in ancient religions.
 
 In the beginning of Late Christianity, the theology seems to be a more refined version that closely matched Infinite-Valued Logic.
 Yet, scientific evidence and scholarly work suggests that the historical origin of Early Christianity had a different language bias.
@@ -69,7 +69,7 @@ Therefore, the theology in Late Christianity concentrates on pre-eternity and po
 Values of an Aionic Life changed, such as love, belief and knowledge.
 Most Early Christians believed in sacred or secret knowledge as a way to salvation.
 When this emphasis on sacred or secret knowledge vanished, since the entire Roman empire used the same religion,
-people were simply asked to trust the leaders without asking questions and obey without hesitance.
+people were simply told to trust the leaders without asking questions and obey without hesitance.
 
 This dynamics in theology over time allows Early Christianity to originate with a Seshatic language bias,
 where making errors, playing games and having fun is more common.
