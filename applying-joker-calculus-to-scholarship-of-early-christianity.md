@@ -178,7 +178,7 @@ Expressions in Joker Calculus signify language biases that kind of behave like a
 When a scholar focus their work on contextualizing Early Christianity, this can make it difficult
 to analyze their work using Joker Calculus.
 The reason is that their work is kind of like of the stage itself,
-upon which other scholars find views and position that function as actors.
+upon which other scholars find views and positions that function as actors.
 
 Example: [Richard C. Miller](https://independent.academia.edu/RichardMiller140)
 
