@@ -21,16 +21,16 @@ Each expression in Joker Calculus can be written as a code, e.g. Historical Myth
 
 ### Overview
 
-1. `1` = History (e.g. Christian Apologetics)
-2. `0` = Myth (e.g. Robert M. Price)
-3. `0 1` = Mythical History (e.g. Markus Vinzent)
-4. `1 0` = Historical Myth (e.g. Carl A. P. Ruck)
-5. `?1` = Joker History (e.g. miracles surrounding martyrs)
-6. `?0` = Joker Myth (e.g. forgeries of Pauline epistles)
-7. `1 ?1` = Historical Joker History (e.g. Bart D. Ehrman)
-8. `0 ?0` = Mythical Joker Myth (e.g. Richard Carrier)
-9. `0 ?1` = Mythical Joker History (e.g. Jennifer G. Bird)
-10. `1 ?0` = Historical Joker Myth (e.g. Elaine Pagels)
+1. [`1` = History (e.g. Christian Apologetics)](#1-history)
+2. [`0` = Myth (e.g. Robert M. Price)](#2-myth)
+3. [`0 1` = Mythical History (e.g. Markus Vinzent)](#3-mythical-history)
+4. [`1 0` = Historical Myth (e.g. Carl A. P. Ruck)](#4-historical-myth)
+5. [`?1` = Joker History (e.g. miracles surrounding martyrs)](#5-joker-history)
+6. [`?0` = Joker Myth (e.g. forgeries of Pauline epistles)](#6-joker-myth)
+7. [`1 ?1` = Historical Joker History (e.g. Bart D. Ehrman)](#7-historical-joker-history)
+8. [`0 ?0` = Mythical Joker Myth (e.g. Richard Carrier)](#8-mythical-joker-myth)
+9. [`0 ?1` = Mythical Joker History (e.g. Jennifer G. Bird)](#9-mythical-joker-history)
+10. [`1 ?0` = Historical Joker Myth (e.g. Elaine Pagels)](#10-historical-joker-myth)
 
 ### 1. History
 
