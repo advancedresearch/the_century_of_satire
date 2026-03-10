@@ -31,6 +31,7 @@ Each expression in Joker Calculus can be written as a code, e.g. Historical Myth
 8. [`0 ?0` = Mythical Joker Myth (e.g. Richard Carrier)](#8-mythical-joker-myth)
 9. [`0 ?1` = Mythical Joker History (e.g. Jennifer G. Bird)](#9-mythical-joker-history)
 10. [`1 ?0` = Historical Joker Myth (e.g. Elaine Pagels)](#10-historical-joker-myth)
+11. [Scholars that are hard to classify with Joker Calculus](#11-scholars-that-are-hard-to-classify-with-joker-calculus)
 
 ### 1. History
 
@@ -170,3 +171,37 @@ Elaine Pagels argues that Gnosticism is a made-up category that was indistinguis
 Her view is that Early Christianity is mostly myth, some aspects of it was history or presented as history,
 but that the correct way of interpreting this bias is from the perspective of history.
 The argument is that myths believed by many people were oppressed and viewed as herecy due to historical development.
+
+### 11. Scholars that are hard to classify with Joker Calculus
+
+Expressions in Joker Calculus signify language biases that kind of behave like actors on a stage.
+When a scholar focus their work on contextualizing Early Christianity, this can make it difficult
+to analyze their work using Joker Calculus.
+The reason is that their work is kind of like of the stage itself,
+upon which other scholars find views and position that function as actors.
+
+Example: [Richard C. Miller](https://independent.academia.edu/RichardMiller140)
+
+Richard C. Miller argues that Roman translation fables,
+which are stories people tell to honour an important person,
+contain elements familiar to Early Christians of death,
+a missing body in a grave,
+a witness meeting the person while traveling,
+followed by ascension toward the heavens.
+
+Example: [David Charles Ammon Hillman](https://en.wikipedia.org/wiki/Ammon_Hillman)
+
+Ammon Hillman argues that Early Christians borrowed terminology known among ancient practitioners of medicine,
+so called "Magi" that base their world view on sayings of oracles and mystery cults, like the one of Medea.
+His position is that prophets are like shamans, who use drugs in initiation rituals.
+The title "Christ" is a drug term and there are thousands of references to this use in classical literature.
+Hillman explores the topics of gender in such drug rituals, eunuchs and castration, human trafficking and slavery,
+the use of young boys and virgins and links it to the development and oppression of key philosophical ideas, such as democracy.
+Hillman's style of presenting this evidence is artistic, provocative theatric and motivates many people to learn Ancient Greek.
+Hillman expresses desire to focus his work on classical philology, as he argues that the language of these texts is the most important evidence we have.
+
+Example: Mandy Moorehol (satirist)
+
+Mandy Moorehol is not a scholar in traditional sense,
+but puts forward arguments about the use of satire in mystery cults.
+Moorehol emphasizes the shame culture, entertainment for kids and breaking up systems of attempting to over-analyze the mystery.
