@@ -8,7 +8,7 @@ One of the observations made is that Early Christianity would not likely have sp
 New research suggests that Early Christianity is largely developed during the 2nd century CE,
 which puts Proto-Christianity in the 1st century CE and maybe even in 1st century BCE.
 
-There are several reasons why some scholar today believe that women played an important role in Proto-Christianity.
+There are several reasons why some scholars today believe that women played an important role in Proto-Christianity.
 The most obvious one is that the majority of Early Christians were women.
 However, due the historical bias of the traditional dating,
 this has often been overlooked, as many scholars earlier thought the most important events happened before women could influence the development.
