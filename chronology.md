@@ -962,6 +962,7 @@ These are online sources for people to learn more about specific events or histo
 - 85 to 160 CE
 - Birth place Sinope (OpenStreetMap): https://www.openstreetmap.org/search?query=sinope#map=9/41.756/34.905
 - Aged 75
+- Wrote [Gospel of Marcion](#gospel-of-marcion)
 - Wikipedia: https://en.wikipedia.org/wiki/Marcion_of_Sinope
 
 ### Gospel of Marcion
@@ -971,6 +972,7 @@ These are online sources for people to learn more about specific events or histo
 *Claire Clivaz has argued that Papyrus 69 is "a witness to a Marcionite edition of Luke's Gospel".*
 
 - c. 150 CE
+- Written by [Marcion of Sinope](#marcion-of-sinope)
 - Wikipedia: https://en.wikipedia.org/wiki/Gospel_of_Marcion
 - Papyrus 69, Wikipedia: https://en.wikipedia.org/wiki/Papyrus_69
 
