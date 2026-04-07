@@ -180,6 +180,18 @@ to analyze their work using Joker Calculus.
 The reason is that their work is kind of like of the stage itself,
 upon which other scholars find views and positions that function as actors.
 
+Example: [Steve Mason](https://www.biblicalarchaeology.org/scholar/steve-mason/)
+
+Steven Mason argues that Luke-Acts uses Josephus "Antiquities of the Jews".
+He uses textual criticism and historical methods to support his ideas.
+The author of Luke-Acts is trained in rhetorical writing and changes the source material into something else,
+which was common for this scholarly tradition at the time.
+Mason goes into depth about politics and use of the word "sicarii" by Josephus.
+He argues that the author of Luke-Atcs misinterprets Josephus in some place,
+but uses Jospehus to show off knowledge about history.
+Mason also shows that Paul's meeting with Felix and Drusilla in Acts seems to be inspired by Josephus.
+The author of Luke-Acts is interested in Agrippa I and II.
+
 Example: [Richard C. Miller](https://independent.academia.edu/RichardMiller140)
 
 Richard C. Miller argues that Roman translation fables,
