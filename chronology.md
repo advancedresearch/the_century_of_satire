@@ -51,6 +51,7 @@ Some images are included to give people a historical experience.
 - 20 March 43 BC to 17 or 18 CE: [Ovid](#ovid)
 - 34 or 2 BC to 54 CE: [Gaius Julius Azizus](#gaius-julius-azizus)
 - c. 20 BC to 50 CE: [Philo of Alexandria](#philo-of-alexandria)
+- c. 11 BC to c. 44 CE: [Herod Agrippa](#herod-agrippa)
 - c. 6 to 4 BC to 30 or 33 CE: [Jesus](#jesus)
 - 5 to 10 CE (born, no date of death): [Antonius Felix](#antonius-felix)
 - 8 CE: [Ovid](#ovid) publishes [Metamorphoses](#metamorphoses)
@@ -687,6 +688,12 @@ These are online sources for people to learn more about specific events or histo
 - Archive.org, The works of Philo Judaeus III by Charles Duke Yonge: https://archive.org/details/worksofphilojuda03phil/page/n5/mode/2up
 - Archive.org, The works of Philo Judaeus IV by Charles Duke Yonge: https://archive.org/details/worksofphilojuda04phil/page/n3/mode/2up
 
+### Herod Agrippa
+
+- c. 11 BC to 44 CE
+- Father of [Drusilla of Judea](#drusilla-of-judea)
+- Wikipedia: https://en.wikipedia.org/wiki/Herod_Agrippa
+
 ### Jesus
 
 ![Paint on plaster of Jesus healing a paralytic](https://www.oldest.org/wp-content/uploads/2017/12/The-Healing-of-the-Paralytic.jpg)
@@ -843,7 +850,7 @@ These are online sources for people to learn more about specific events or histo
 - 38 to 24 August 79 CE
 - Birth place is possibly Emesa (since she was married to Gaius Julius Azizus, king of Emesa) (OpenStreetMap): https://www.openstreetmap.org/search?query=emesa#map=12/34.7258/36.7118
 - Aged 41, if she died in eruption of Mount Vesuvius
-- Daughter of Herod Agrippa
+- Daughter of [Herod Agrippa](#herod-agrippa)
 - Mother of Marcus Antonius Agrippa
 - Married to [Gaius Julius Azizus](#gaius-julius-azizus)
 - Married to [Antonius Felix](#antonius-felix)
