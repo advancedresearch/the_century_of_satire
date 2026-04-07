@@ -59,6 +59,7 @@ Some images are included to give people a historical experience.
 - 37 to 100 CE: [Josephus](#josephus)
 - 38 to 24 August 79 CE (might have died in eruption of Mount Vesuvius): [Drusilla of Judea](#drusilla-of-judea)
 - 18 September 53 to c. 9 August 117 CE: [Trajan](#trajan)
+- 56 to 120 CE: [Tacitus](#tacitus)
 - 61 to 113 CE: [Pliny the Younger](#pliny-the-younger)
 - c. 69 to after c. 122: [Suetonius](#suetonius)
 - 72 to 73 CE: [Siege of Masada](#siege-of-masada)
@@ -893,6 +894,16 @@ These are online sources for people to learn more about specific events or histo
 - Aged 63
 - Reign 28 January 98 – 9 August 117 CE
 - Wikipedia: https://en.wikipedia.org/wiki/Trajan
+
+### Tacitus
+
+![Tacitus](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Wien-_Parlament-Tacitus.jpg/1280px-Wien-_Parlament-Tacitus.jpg)
+
+*Statue of Tacitus outside the Austrian Parliament Building.*
+
+- c. 56 to c. 120 CE
+- Aged approximately 64
+- Wikipedia: https://en.wikipedia.org/wiki/Tacitus
 
 ### Pliny the Younger
 
