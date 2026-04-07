@@ -57,6 +57,7 @@ Some images are included to give people a historical experience.
 - 8 CE: [Ovid](#ovid) publishes [Metamorphoses](#metamorphoses)
 - 23-24 to 79 CE: [Pliny the Elder](#pliny-the-elder)
 - 26 to 36 CE: [Pontius Pilate is prefect of Judea](#pontius-pilate)
+- c. 27-28 to c. 92 or 100 CE: [Herod Agrippa II](#herod-agrippa-ii)
 - 37 to 100 CE: [Josephus](#josephus)
 - 38 to 24 August 79 CE (might have died in eruption of Mount Vesuvius): [Drusilla of Judea](#drusilla-of-judea)
 - 18 September 53 to c. 9 August 117 CE: [Trajan](#trajan)
@@ -691,6 +692,7 @@ These are online sources for people to learn more about specific events or histo
 ### Herod Agrippa
 
 - c. 11 BCE to 44 CE
+- Indirect successor was [Herod Agrippa II](#herod-agrippa-ii)
 - Father of [Drusilla of Judea](#drusilla-of-judea)
 - Wikipedia: https://en.wikipedia.org/wiki/Herod_Agrippa
 
@@ -792,6 +794,16 @@ These are online sources for people to learn more about specific events or histo
 - Ruled as prefect of Judea from 26 to 36 CE
 - Executed [Jesus](#jesus)
 - Wikipedia: https://en.wikipedia.org/wiki/Pontius_Pilate
+
+### Herod Agrippa II
+
+![Herod Agrippa II](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Herod_Agrippa_II_medal.svg/1920px-Herod_Agrippa_II_medal.svg.png)
+
+*Herod Agrippa II medallion from Promptuarium Iconum Insigniorum.*
+
+- c. 27-28 to c. 92 or 100 CE
+- Indirect predecessor was [Herod Agrippa](#herod-agrippa)
+- Wikipedia: https://en.wikipedia.org/wiki/Herod_Agrippa_II
 
 ### Josephus
 
