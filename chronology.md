@@ -66,6 +66,7 @@ Some images are included to give people a historical experience.
 - 79 CE: [Eruption of Mount Vesuvius](#eruption-of-mount-vesuvius)
 - 85 to 160 CE: [Marcion of Sinope](#marcion-of-sinope)
 - 93-94 CE: [Josephus](#josephus) publishes [Antiquities of the Jews](#antiquities-of-the-jews)
+- 2nd century CE: [Aelius Herodianus](#aelius-herodianus)
 - 100 to 120 CE: [Saturninus of Antioch](#saturninus-of-antioch) teaches about [Jesus](#jesus)
 - c. 100 to c. 165 CE: [Justin Martyr](#justin-martyr)
 - c. 110 CE: [Pliny the Younger writes a letter to Trajan about Christians](#pliny-the-younger-on-christians)
@@ -986,6 +987,12 @@ These are online sources for people to learn more about specific events or histo
 - Written by [Marcion of Sinope](#marcion-of-sinope)
 - Wikipedia: https://en.wikipedia.org/wiki/Gospel_of_Marcion
 - Papyrus 69, Wikipedia: https://en.wikipedia.org/wiki/Papyrus_69
+
+### Aelius Herodianus
+
+- Living in 2nd century CE
+- Birth place Alexandria (OpenStreetMap): https://www.openstreetmap.org/search?query=alexandria#map=11/31.1996/29.8952
+- Wikipedia: https://en.wikipedia.org/wiki/Aelius_Herodianus
 
 ### Saturninus of Antioch
 
