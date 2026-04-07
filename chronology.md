@@ -14,9 +14,9 @@ Seshat and Thoth are two halves belonging together tied in a balance, guarded by
 This event caused a cataclysm, releasing some form of "Pharaoh's curse", that possibly doomed humanity.
 In order to make amends for this mistake, The Century of Satire project is meant to help people understand and experience historically what happened.
 
-The timeline starts with Seshat being carved on the back of the throne of a statue of Ramesses II in around 1250 BC,
+The timeline starts with Seshat being carved on the back of the throne of a statue of Ramesses II in around 1250 BCE,
 and ends with the discovery of [Joker Calculus](#joker-calculus) in 2021 by by Daniel Fischer, William Alexander Morris and Sven Nilsen.
-This forms a [Seshatic-Platonic language bias cycle](#seshatic-platonic-cycles) of 3270 years (notice that 0 CE = 1 BC).
+This forms a [Seshatic-Platonic language bias cycle](#seshatic-platonic-cycles) of 3270 years (notice that 0 CE = 1 BCE).
 The middle of this cycle gives year 386 CE, only 6 years later than [Edict of Thessalonica](#edict-of-thessalonica).
 In 380 CE, the Roman empire codifies Christianity as orthodoxy and opens up the way for persecuting believers of other religions.
 Therefore, the first half of the Seshatic-Platonic cycle there is a trend of reducing Seshatic language bias in philosophy and culture,
@@ -27,32 +27,32 @@ Some images are included to give people a historical experience.
 
 ## Timeline
 
-- 1250 BC: [Seshat](#seshat) is carved on back of the throne of a statue of [Ramesses II](#ramesses-ii) in the Amun temple at Luxor
-- c. 8th century BC: [Homer](#homer)
-- 4th to 5th centiry BC: [The period of Classical Greece](#classical-greece)
-- 428/427 or 424/423 to 348 BC: [Plato](#plato)
-- 384 to 322 BC: [Aristotle](#aristotle)
-- c. 375 BC: [Plato](#plato) authors [The Republic](#the-republic)
-- c. 371 to 287 BC: [Theophrastus](#theophrastus)
-- c. 370 BC: [Plato's Phaedrus](#phaedrus) is composed
-- 20 or 21 July 356 to 10 or 11 June 323 BC: [Alexander the Great](#alexander-the-great)
-- Between mid 4th century to 322 BC: [Aristotle](#aristotle) writes [History of Animals](#history-of-animals)
-- February 341 to 270 BC: [Epicurus](#epicurus)
-- 323 to 30 BC: [Hellenistic period](#hellenistic-period)
-- 323 to 283 or 283 to 246 BC: [Establishment of the Library of Alexandria](#library-of-alexandria)
-- 3rd to 2nd century BC: [Composition of Septuagint](#septuagint)
-- 276 to 194 BC: [Eratosthenes](#eratosthenes)
-- 2nd century BC: [Nicander](#nicander)
-- 12 July 100 to 15 March 44 BC: [Julius Caesar](#julius-caesar)
-- 83 BC: [Sibylline books were accidentally destroyed in a fire](#sibylline-books)
-- 76 BC: [Roman senate attempts to recollect texts of Sibylline oracles](#sibylline-oracles)
-- Early 69 BC or late 70 to 10 August 30 BC: [Cleopatra VII Thea Philopator](#cleopatra-vii-thea-philopator)
-- 46 to 72 or 78/79 BC: [Emesene dynasty](#emesene-dynasty)
-- 20 March 43 BC to 17 or 18 CE: [Ovid](#ovid)
-- 34 or 2 BC to 54 CE: [Gaius Julius Azizus](#gaius-julius-azizus)
-- c. 20 BC to 50 CE: [Philo of Alexandria](#philo-of-alexandria)
-- c. 11 BC to c. 44 CE: [Herod Agrippa](#herod-agrippa)
-- c. 6 to 4 BC to 30 or 33 CE: [Jesus](#jesus)
+- 1250 BCE: [Seshat](#seshat) is carved on back of the throne of a statue of [Ramesses II](#ramesses-ii) in the Amun temple at Luxor
+- c. 8th century BCE: [Homer](#homer)
+- 4th to 5th centiry BCE: [The period of Classical Greece](#classical-greece)
+- 428/427 or 424/423 to 348 BCE: [Plato](#plato)
+- 384 to 322 BCE: [Aristotle](#aristotle)
+- c. 375 BCE: [Plato](#plato) authors [The Republic](#the-republic)
+- c. 371 to 287 BCE: [Theophrastus](#theophrastus)
+- c. 370 BCE: [Plato's Phaedrus](#phaedrus) is composed
+- 20 or 21 July 356 to 10 or 11 June 323 BCE: [Alexander the Great](#alexander-the-great)
+- Between mid 4th century to 322 BCE: [Aristotle](#aristotle) writes [History of Animals](#history-of-animals)
+- February 341 to 270 BCE: [Epicurus](#epicurus)
+- 323 to 30 BCE: [Hellenistic period](#hellenistic-period)
+- 323 to 283 or 283 to 246 BCE: [Establishment of the Library of Alexandria](#library-of-alexandria)
+- 3rd to 2nd century BCE: [Composition of Septuagint](#septuagint)
+- 276 to 194 BCE: [Eratosthenes](#eratosthenes)
+- 2nd century BCE: [Nicander](#nicander)
+- 12 July 100 to 15 March 44 BCE: [Julius Caesar](#julius-caesar)
+- 83 BCE: [Sibylline books were accidentally destroyed in a fire](#sibylline-books)
+- 76 BCE: [Roman senate attempts to recollect texts of Sibylline oracles](#sibylline-oracles)
+- Early 69 BCE or late 70 to 10 August 30 BCE: [Cleopatra VII Thea Philopator](#cleopatra-vii-thea-philopator)
+- 46 to 72 or 78/79 BCE: [Emesene dynasty](#emesene-dynasty)
+- 20 March 43 BCE to 17 or 18 CE: [Ovid](#ovid)
+- 34 or 2 BCE to 54 CE: [Gaius Julius Azizus](#gaius-julius-azizus)
+- c. 20 BCE to 50 CE: [Philo of Alexandria](#philo-of-alexandria)
+- c. 11 BCE to c. 44 CE: [Herod Agrippa](#herod-agrippa)
+- c. 6 to 4 BCE to 30 or 33 CE: [Jesus](#jesus)
 - 5 to 10 CE (born, no date of death): [Antonius Felix](#antonius-felix)
 - 8 CE: [Ovid](#ovid) publishes [Metamorphoses](#metamorphoses)
 - 23-24 to 79 CE: [Pliny the Elder](#pliny-the-elder)
@@ -116,7 +116,7 @@ These are online sources for people to learn more about specific events or histo
 
 ![Seshat](https://upload.wikimedia.org/wikipedia/commons/4/44/Luxor_temple_16.jpg)
 
-*Seshat carved on the back of the throne of the seated statue of Ramesses II in the Amun temple at Luxor. It dates from around 1250 BC.*
+*Seshat carved on the back of the throne of the seated statue of Ramesses II in the Amun temple at Luxor. It dates from around 1250 BCE.*
 
 - Ancient Egyptian goddess of writing, wisdom, and knowledge
 - Daughter of [Ma'at](#maat)
@@ -147,14 +147,14 @@ These are online sources for people to learn more about specific events or histo
 
 ![Ramesses II](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ramses_II_British_Museum.jpg/1024px-Ramses_II_British_Museum.jpg)
 
-*The Younger Memnon (c. 1250 BC), a statue depicting Ramesses II, from the Ramesseum in Thebes. Currently on display at the British Museum in London.*
+*The Younger Memnon (c. 1250 BCE), a statue depicting Ramesses II, from the Ramesseum in Thebes. Currently on display at the British Museum in London.*
 
-- Reign 1279 to 1213 BC
+- Reign 1279 to 1213 BCE
 - Wikipedia: https://en.wikipedia.org/wiki/Ramesses_II
 
 ### Midas
 
-- Three different kings of Phrygia, one living in the 2nd millenium BC, two in 8th century BC, three in 6th century BC
+- Three different kings of Phrygia, one living in the 2nd millenium BCE, two in 8th century BCE, three in 6th century BCE
 - Associated with the myth of [King Midas](#king-midas-myth)
 - Not mentioned by [Homer](#homer)
 - Mentioned by [Plato](#plato) in [Phaedrus](#phaedrus) 264d
@@ -188,7 +188,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Marble terminal bust of Homer. Roman copy of a lost Hellenistic original of the 2nd c. BCE.*
 
-- c. 8th century BC
+- c. 8th century BCE
 - Resides at Chios (OpenStreetMap): https://www.openstreetmap.org/search?query=chios%20greece#map=10/38.3652/25.7259
 - Aged unknown (neither birth or death year is known)
 - Wrote [Odyssey](#odyssey)
@@ -200,7 +200,7 @@ These are online sources for people to learn more about specific events or histo
 
 ![Fragment of Odyssey](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Fragment_Odyssee_2245_2.jpg/1024px-Fragment_Odyssee_2245_2.jpg)
 
-*Papyrus, fragment of the Odyssey (books IX and X), found at Medinet Ghoram (P. Jouguet excavations), 3rd century BC. Oldest preserved manuscript of the Odyssey. Institute of Papyrology of the Sorbonne, inv.Sorb.2245.*
+*Papyrus, fragment of the Odyssey (books IX and X), found at Medinet Ghoram (P. Jouguet excavations), 3rd century BCE. Oldest preserved manuscript of the Odyssey. Institute of Papyrology of the Sorbonne, inv.Sorb.2245.*
 
 - Written by [Homer](#homer)
 - Copy is held in a portrait of [Calliope](#calliope), one of the [Muses](#muses)
@@ -221,7 +221,7 @@ These are online sources for people to learn more about specific events or histo
 
 ### Classical Greece
 
-- 4th to 5th centiry BC
+- 4th to 5th centiry BCE
 - Standardized the number of [Muses](#muses) to nine
 - Wikipedia: https://en.wikipedia.org/wiki/Classical_Greece
 
@@ -229,9 +229,9 @@ These are online sources for people to learn more about specific events or histo
 
 ![Plato](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Plato_Silanion_Musei_Capitolini_MC1377.jpg/1024px-Plato_Silanion_Musei_Capitolini_MC1377.jpg)
 
-*Plato, copy of the portrait made by Silanion ca. 370 BC for the Academia in Athens*
+*Plato, copy of the portrait made by Silanion ca. 370 BCE for the Academia in Athens*
 
-- 428/427 or 424/423 to 348 BC
+- 428/427 or 424/423 to 348 BCE
 - Birth place Athens (OpenStreetMap): https://www.openstreetmap.org/search?query=athens#map=11/37.9757/23.7348
 - Wrote [Phaedrus](#phaedrus)
 - Wrote [The Republic](#the-republic)
@@ -253,7 +253,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Cover of Plato's Phaedrus from a translation published in 1914.*
 
-- c. 370 BC
+- c. 370 BCE
 - Full title "Euthyphro Apology ; Crito ; Phaedo ; Phaedrus"
 - Written by [Plato](#plato)
 - Mentions [Thoth](#thoth)
@@ -267,7 +267,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Title page of the oldest complete manuscript of The Republic by Plato: Paris, Bibliothèque Nationale, Gr. 1807 (late 9th century).*
 
-- c. 375 BC
+- c. 375 BCE
 - Written by [Plato](#plato)
 - Uses the term "θεολογία" (Greek) for [theology](#theology) with meaning "discourse of God"
 - Wikipedia: https://en.wikipedia.org/wiki/Republic_(Plato)
@@ -313,9 +313,9 @@ These are online sources for people to learn more about specific events or histo
 
 ![Aristotle](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/1280px-Aristotle_Altemps_Inv8575.jpg)
 
-*Bust of Aristotle. Marble, Roman copy after a Greek bronze original by Lysippos from 330 BC; the alabaster mantle is a modern addition.*
+*Bust of Aristotle. Marble, Roman copy after a Greek bronze original by Lysippos from 330 BCE; the alabaster mantle is a modern addition.*
 
-- 384 to 322 BC
+- 384 to 322 BCE
 - Birth place Athens (OpenStreetMap): https://www.openstreetmap.org/search?query=athens#map=11/37.9757/23.7348
 - Close friend and colleague of [Theophrastus](#theophrastus)
 - The world's first [Zoologist](#zoology)
@@ -335,7 +335,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Historia animalium et al., Constantinople, 12th century (Biblioteca Medicea Laurenziana, pluteo 87.4).*
 
-- Between mid 4th century to 322 BC
+- Between mid 4th century to 322 BCE
 - Written by [Aristotle](#aristotle)
 - One of the major texts on [zoology](#zoology)
 - Wikipedia: https://en.wikipedia.org/wiki/History_of_Animals
@@ -371,7 +371,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Statue of Theophrastus, Palermo Botanical Garden.*
 
-- c. 371 to 287 BC
+- c. 371 to 287 BCE
 - Close friend and colleague of [Aristotle](#aristotle)
 - The world's first [Botanist](#botany)
 - Wikipedia: https://en.wikipedia.org/wiki/Theophrastus
@@ -382,7 +382,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Alexander Mosaic (detail), House of the Faun, Pompeii.*
 
-- 20 or 21 July 356 to 10 or 11 June 323 BC
+- 20 or 21 July 356 to 10 or 11 June 323 BCE
 - Aged 32
 - Student of [Aristotle](#aristotle)
 - Leader of [Ptolemy I Soter](#ptolemy-i-soter), one of his generals, that founded [Mouseion](#mouseion)
@@ -395,7 +395,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Portrait of Epicurus, founder of the Epicurean school. Roman copy after a lost Hellenistic original.*
 
-- February 341 to 270 BC
+- February 341 to 270 BCE
 - Birth place Samos (OpenStreetMap): https://www.openstreetmap.org/search?query=samos#map=11/37.7247/26.8180
 - Aged 72
 - Wikipedia: https://en.wikipedia.org/wiki/Epicurus
@@ -406,7 +406,7 @@ These are online sources for people to learn more about specific events or histo
 
 *The Winged Victory of Samothrace (The Winged Nike) is considered one of the greatest masterpieces of Hellenistic art.*
 
-- 323 to 30 BC
+- 323 to 30 BCE
 - Begins with the death of [Alexander the Great](#alexander-the-great)
 - Wikipedia: https://en.wikipedia.org/wiki/Hellenistic_period
 
@@ -414,7 +414,7 @@ These are online sources for people to learn more about specific events or histo
 
 ![Muse reading a scroll](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Muse_reading_Louvre_CA2220.jpg/1024px-Muse_reading_Louvre_CA2220.jpg)
 
-*Muse, perhaps Clio, reading a scroll (Attic red-figure lekythos, Boeotia, c. 430 BC).*
+*Muse, perhaps Clio, reading a scroll (Attic red-figure lekythos, Boeotia, c. 430 BCE).*
 
 - Inspirational goddesses of literature, science, and the arts
 - Used as inspiration in establishment of the institution [Mouseion](#mouseion)
@@ -475,7 +475,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Screenshot of ancient Alexandria (reconstruction) from Assassins Creed: Origins by Ubisoft Studios*
 
-- Established 323 to 283 or 283 to 246 BC
+- Established 323 to 283 or 283 to 246 BCE
 - Established by the institution [Mouseion](#mouseion)
 - Wikipedia: https://en.wikipedia.org/wiki/Library_of_Alexandria
 
@@ -485,7 +485,7 @@ These are online sources for people to learn more about specific events or histo
 
 *A portion of the Greek Uncial MS. Codex Vaticanus, from the Vatican Library. This image shows a passage from the New Testament and includes 1 Esdras 1:55-2:5.*
 
-- 3rd to 2nd century BC
+- 3rd to 2nd century BCE
 - In the book of [Genesis](#genesis), tells the myth of [Garden of Eden](#garden-of-eden)
 - Language: Koine Greek, a dialect of Ancient Greek common in the Hellenistic period
 - Used by [Philo of Alexandria](#philo-of-alexandria)
@@ -525,7 +525,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Greek scholar Eratosthenes*
 
-- 276 to 194 BC
+- 276 to 194 BCE
 - Birth place Cyrene (OpenStreetMap): https://www.openstreetmap.org/search?query=cyrene#map=16/32.82080/21.85641
 - Aged around 82
 - Likely studied at the local [gymnasium](#gymnasium)
@@ -541,7 +541,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Nikander, Theriaca, 10th century CE, Constantinople.*
 
-- 2nd century BC
+- 2nd century BCE
 - Birth place Claros (OpenStreetMap): https://www.openstreetmap.org/search?query=38%C2%B000%E2%80%B218%E2%80%B3N%2027%C2%B011%E2%80%B234%E2%80%B3E#map=14/38.00500/27.19278
 - Wikipedia: https://en.wikipedia.org/wiki/Nicander
 - Archive.org, "Nicandrea ; Theriaca et Alexipharmaca" (Greek and Latin): https://archive.org/details/bub_gb_Lq1fAAAAMAAJ/mode/2up
@@ -553,7 +553,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Bust of Julius Caesar.*
 
-- 12 July 100 to 15 March 44 BC
+- 12 July 100 to 15 March 44 BCE
 - Birth place Suburra (OpenStreetMap): https://www.openstreetmap.org/search?query=suburra#map=19/41.895099/12.490825
 - Aged 55
 - Wikipedia: https://en.wikipedia.org/wiki/Julius_Caesar
@@ -564,8 +564,8 @@ These are online sources for people to learn more about specific events or histo
 
 *Michelangelo's rendering of the Erythraean Sibyl.*
 
-- Accidentally destroyed in a fire in 83 BC
-- Roman senate attempts to recollect texts in 76 BC which results in sayings by [Sibylline Oracles](#sibylline-oracles)
+- Accidentally destroyed in a fire in 83 BCE
+- Roman senate attempts to recollect texts in 76 BCE which results in sayings by [Sibylline Oracles](#sibylline-oracles)
 - Wikipedia: https://en.wikipedia.org/wiki/Sibylline_Books
 
 ### Sibylline Oracles
@@ -574,8 +574,8 @@ These are online sources for people to learn more about specific events or histo
 
 *The Cumaean Sibyl by Elihu Vedder (1836 to 1923 CE).*
 
-- The original [Sibylline Books](#sibylline-books) were accidentally destroyed in a fire in 83 BC
-- Roman senate attempts to recollect texts in 76 BC
+- The original [Sibylline Books](#sibylline-books) were accidentally destroyed in a fire in 83 BCE
+- Roman senate attempts to recollect texts in 76 BCE
 - Wikipedia: https://en.wikipedia.org/wiki/Sibylline_Oracles
 
 ### Cleopatra VII Thea Philopator
@@ -584,7 +584,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Bust of Cleopatra VII Thea Philopator, marble.*
 
-- Early 69 BC or late 70 to 10 August 30 BC
+- Early 69 BCE or late 70 to 10 August 30 BCE
 - Birth place Alexandria (OpenStreetMap): https://www.openstreetmap.org/search?query=alexandria#map=11/31.1996/29.8952
 - Aged 39
 - Wikipedia: https://en.wikipedia.org/wiki/Cleopatra
@@ -614,7 +614,7 @@ These are online sources for people to learn more about specific events or histo
 
 ![The Golden Shower](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Danae_gold_shower_Louvre_CA925.jpg/1920px-Danae_gold_shower_Louvre_CA925.jpg)
 
-*Ancient Boeotian bell-krater showing Zeus impregnating Danaë in the form of a shower of gold, circa 450–425 BC.*
+*Ancient Boeotian bell-krater showing Zeus impregnating Danaë in the form of a shower of gold, circa 450–425 BCE.*
 
 - Mentioned in [Metamorphoses](#metamorphoses) by [Ovid](#ovid) in the part about [King Midas myth](#king-midas-myth) (Book XI, Fable II)
 - Wikipedia: https://en.wikipedia.org/wiki/Dana%C3%AB
@@ -646,7 +646,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Anonymous 18th-century engraving of Ovid.*
 
-- 20 March 43 BC to 17 or 18 CE
+- 20 March 43 BCE to 17 or 18 CE
 - Birth place Sulmo (OpenStreetMap): https://www.openstreetmap.org/search?query=42%C2%B002%E2%80%B2N%2013%C2%B056%E2%80%B2E#map=11/42.0333/13.9333
 - Aged 59-61
 - Wrote [Metamorphoses](#metamorphoses)
@@ -677,7 +677,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Imaginative illustration of Philo made in 1584 by the French portrait artist André Thevet.*
 
-- c. 20 BC to 50 CE
+- c. 20 BCE to 50 CE
 - Birth place Alexandria (OpenStreetMap): https://www.openstreetmap.org/search?query=alexandria#map=11/31.1993/29.8952
 - Aged c. 69
 - Greatest philosophical influence was [Plato](#plato)
@@ -690,7 +690,7 @@ These are online sources for people to learn more about specific events or histo
 
 ### Herod Agrippa
 
-- c. 11 BC to 44 CE
+- c. 11 BCE to 44 CE
 - Father of [Drusilla of Judea](#drusilla-of-judea)
 - Wikipedia: https://en.wikipedia.org/wiki/Herod_Agrippa
 
@@ -700,7 +700,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Paint on plaster of Jesus healing a paralytic c. 235 CE from Dura-Europos, Syria*
 
-- c. 6 to 4 BC to 30 or 33 CE
+- c. 6 to 4 BCE to 30 or 33 CE
 - Possible birth place Nazareth (OpenStreetMap): https://www.openstreetmap.org/search?query=nazareth#map=13/32.70454/35.28979
 - Possible birth place Bethlehem (OpenStreetMap): https://www.openstreetmap.org/search?query=31%C2%B042%E2%80%B216%E2%80%B3N%2035%C2%B012%E2%80%B223%E2%80%B3E#map=14/31.70447/35.20638
 - Aged 33 or 38
@@ -729,13 +729,13 @@ These are online sources for people to learn more about specific events or histo
 
 *Geographic region of the Emesene dynasty.*
 
-- 46 to 72 or 78/79 BC
+- 46 to 72 or 78/79 BCE
 - Ruled by [Gaius Julius Azizus](#gaius-julius-azizus)
 - Wikipedia: https://en.wikipedia.org/wiki/Emesene_dynasty
 
 ### Gaius Julius Azizus
 
-- 34 or 2 BC to 54 CE
+- 34 or 2 BCE to 54 CE
 - Birth place Emesa (OpenStreetMap): https://www.openstreetmap.org/search?query=emesa#map=8/34.726/36.712
 - Aged 65-97, highly depending on year of birth
 - Married to [Drusilla of Judea](#drusilla-of-judea)
@@ -753,7 +753,7 @@ These are online sources for people to learn more about specific events or histo
 
 ### Apion
 
-- c. 30–20 BC to c. 45–48 CE
+- c. 30–20 BCE to c. 45–48 CE
 - Birth place Siwa Oasis (OpenStreetMap): https://www.openstreetmap.org/search?query=29%C2%B012%E2%80%B219%E2%80%B3N%2025%C2%B031%E2%80%B210%E2%80%B3E#map=14/29.20533/25.51944
 - Wrote [Aegyptiaca](#aegyptiaca)
 - None of his works survived
@@ -788,7 +788,7 @@ These are online sources for people to learn more about specific events or histo
 
 - 1st century BCE to after 39 CE
 - Possible birth place Samnium (OpenStreetMap): https://www.openstreetmap.org/search?query=41%C2%B010%E2%80%B210%E2%80%B3N+14%C2%B014%E2%80%B210%E2%80%B3E#map=19/41.169445/14.236111
-- The name Pontius suggests that an ancestor of his came from Samnium in central, southern Italy, and he may have belonged to the family of Gavius Pontius and Pontius Telesinus, two leaders of the Samnites in the third and first centuries BC, respectively, before their full incorporation to the Roman Republic.
+- The name Pontius suggests that an ancestor of his came from Samnium in central, southern Italy, and he may have belonged to the family of Gavius Pontius and Pontius Telesinus, two leaders of the Samnites in the third and first centuries BCE, respectively, before their full incorporation to the Roman Republic.
 - Ruled as prefect of Judea from 26 to 36 CE
 - Executed [Jesus](#jesus)
 - Wikipedia: https://en.wikipedia.org/wiki/Pontius_Pilate
