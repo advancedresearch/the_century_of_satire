@@ -55,6 +55,7 @@ Some images are included to give people a historical experience.
 - 5 to 10 CE (born, no date of death): [Antonius Felix](#antonius-felix)
 - 8 CE: [Ovid](#ovid) publishes [Metamorphoses](#metamorphoses)
 - 23-24 to 79 CE: [Pliny the Elder](#pliny-the-elder)
+- 26 to 36 CE: [Pontius Pilate is prefect of Judea](#pontius-pilate)
 - 37 to 100 CE: [Josephus](#josephus)
 - 38 to 24 August 79 CE (might have died in eruption of Mount Vesuvius): [Drusilla of Judea](#drusilla-of-judea)
 - 18 September 53 to c. 9 August 117 CE: [Trajan](#trajan)
@@ -769,6 +770,19 @@ These are online sources for people to learn more about specific events or histo
 - Uncle of [Pliny the Younger](#pliny-the-younger)
 - Died in Stabiae while attempting the rescue of a friend and her family from the [eruption of Mount Vesuvius](#eruption-of-mount-vesuvius)
 - Wikipedia: https://en.wikipedia.org/wiki/Pliny_the_Elder
+
+### Pontius Pilate
+
+![Map of the Judea under Pontius Pilate](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Judaea_Roman_Province.svg/1280px-Judaea_Roman_Province.svg.png)
+
+*Map of the province of Judea during Pilate's governorship in the first century.*
+
+- 1st century BCE to after 39 CE
+- Possible birth place Samnium (OpenStreetMap): https://www.openstreetmap.org/search?query=41%C2%B010%E2%80%B210%E2%80%B3N+14%C2%B014%E2%80%B210%E2%80%B3E#map=19/41.169445/14.236111
+- The name Pontius suggests that an ancestor of his came from Samnium in central, southern Italy, and he may have belonged to the family of Gavius Pontius and Pontius Telesinus, two leaders of the Samnites in the third and first centuries BC, respectively, before their full incorporation to the Roman Republic.
+- Ruled as prefect of Judea from 26 to 36 CE
+- Executed [Jesus](#jesus)
+- Wikipedia: https://en.wikipedia.org/wiki/Pontius_Pilate
 
 ### Josephus
 
