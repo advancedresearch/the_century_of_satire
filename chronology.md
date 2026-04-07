@@ -811,7 +811,7 @@ These are online sources for people to learn more about specific events or histo
 
 ### Antiquities of the Jews
 
-![Antiquities of the Jews](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flavius_Josephus%2C_Antiquitates_Iudaicae%2C_Florence%2C_Plut._66.5.jpg/1024px-Flavius_Josephus%2C_Antiquitates_Iudaicae%2C_Florence%2C_Plut._66.5.jpg)
+![Antiquities of the Jews](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flavius_Josephus%2C_Antiquitates_Iudaicae%2C_Florence%2C_Plut._66.5.jpg/960px-Flavius_Josephus%2C_Antiquitates_Iudaicae%2C_Florence%2C_Plut._66.5.jpg)
 
 *Josephus, Antiquitates Iudaicae in Latin translation. Florence, Biblioteca Medicea Laurenziana, Plut. 66.5, fol. 2v.*
 
