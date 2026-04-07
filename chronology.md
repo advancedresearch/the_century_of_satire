@@ -84,7 +84,7 @@ Some images are included to give people a historical experience.
 - 27 February c. 272 to 22 May 337 CE: [Constantine the Great](#constantine-the-great)
 - 380 CE: [Edict of Thessalonica](#edict-of-thessalonica)
 - 1956 CE: [The Temple Scroll](#the-temple-scroll) is found
-- 1958 CE: [Hannah Arendt](#hannah-arendt) publishes [The Human Condition](arent-the-human-condition)
+- 1958 CE: [Hannah Arendt](#hannah-arendt) publishes [The Human Condition](#arendt-the-human-condition)
 - 2018 CE: [Stephen Bagwell](#stephen-bagwell) publishes his thesis [Aristotle on Life](#aristotle-on-life)
 - 2021 CE: [Joker Calculus is created](#joker-calculus)
 
@@ -1202,7 +1202,7 @@ These are online sources for people to learn more about specific events or histo
 
 *Arendt in 1958.*
 
-- Wrote [The Human Condition](#arent-the-human-condition)
+- Wrote [The Human Condition](#arendt-the-human-condition)
 - Wikipedia: https://en.wikipedia.org/wiki/Hannah_Arendt
 
 ### Arendt: The Human Condition
@@ -1230,7 +1230,7 @@ These are online sources for people to learn more about specific events or histo
 - Written by [Stephen Bagwell](#stephen-bagwell)
 - Thesis about [Aristotle](#aristotle) on Life
 - Full title "Thesis Stephen Bagwell, 2018, An Examination of 'Life' in Aristotle Concerning the Distinction Between βίος (Bios) and ζωή (Zoe)
-- Responds to [Hannah Arendt](#hannah-arendt]'s book [The Human Condition](#arent-the-human-condition)
+- Responds to [Hannah Arendt](#hannah-arendt)'s book [The Human Condition](#arendt-the-human-condition)
 - Pdf: https://core.ac.uk/download/pdf/226161443.pdf
 
 ### Joker Calculus
