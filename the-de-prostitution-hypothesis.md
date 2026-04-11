@@ -1,7 +1,7 @@
 # The De-Prostitution Hypothesis
 
 To reconstruct 2nd century cultural literature context of Roman satire in Early Christian texts,
-it is useful to consider a hypothesis that Earth Christian sects start with schools for women who specialize in educating previous prostitutes.
+it is useful to consider a hypothesis that Early Christian sects start with schools for women who specialize in educating previous prostitutes.
 
 In the ancient Roman empire during the 1st and 2nd century, it was common for men, specially those of higher status,
 to have sexual encounters with lots of women during their life.
