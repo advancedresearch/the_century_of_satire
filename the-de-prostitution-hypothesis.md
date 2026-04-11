@@ -194,7 +194,7 @@ Once the women walked into this trap, it was harder to come back.
 It was easier to pray to their savior figure, to receive forgiveness, than to receive it from their families.
 The phrase "being crucified with Jesus" is a declaration of a social death, in relationship to friends and family.
 This is cult language, to prevent followers from seeking back to the safety of their own families.
-Temptation through desire become inverted, where the temptation of safety is seen as immoral,
+Temptations through desire become inverted, where the temptation of safety is seen as immoral,
 while temptation of sexually perverse actions is seen as assisted by evil super-natural beings,
 making it harder to resist exploitation and easier to blame the victim.
 
