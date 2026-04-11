@@ -107,7 +107,7 @@ the criminal leaders participate in social programs to educate their own followe
 
 The De-Prostitution Hypothesis can be summarized as following:
 
-1. The first Early Christian cults starts with human trafficking, which would include eunuchs and young girls.
+1. The first Early Christian cults start with human trafficking, which would include eunuchs and young girls.
 2. These cults are accused of illegal human trafficking, or piracy.
 3. To be accepted socially and gain higher social status, these cults start educating their own followers.
 
