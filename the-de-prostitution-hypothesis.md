@@ -18,12 +18,12 @@ and when the rival underwent circumcision in adult age in order to satisfy relig
 For example, the marriage between Felix and Drusilla in Acts of the Apostles was a great political scandal for Drusilla's earlier husband.
 Drusilla was also daughter of Herod Agrippa I, which added to the humiliation since her bloodline was royal.
 
-The way Paul acts in Acts, is as if Felix and Drusilla were behaving immorally.
+The way Paul behaves in Acts, is as if Felix and Drusilla were behaving immorally.
 However, this could be Roman satire.
 In general, people where laughing of the person who became humiliated,
 so a lesson of morality might be interpreted as a joke,
 adding to the humiliation, something that would never be done to the face of Felix and Drusilla,
-but aimed at the audience who this texts was written for, to their indulgence.
+but aimed at the audience who this text was written for, to their indulgence.
 The complexity of a such joke increases with the fact that Drusilla and her only child died under the eruption of Mount Vesuvius.
 One can think about it as a humiliation so strong, that it was punished by the gods.
 This appealed to the tragedy aspects of ancient comedy, where theatre plays full of jokes often ended badly for the main characters.
