@@ -105,7 +105,7 @@ Over time, the pirates accumulate wealth and seek to gain higher social status, 
 Since the value of sexual relationships goes down over time in relation to being acknowledged and accepted in society,
 the criminal leaders participate in social programs to educate their own followers, who were mostly women.
 
-This leads to The De-Prostitution Hypothesis, which can be summarized as following:
+The De-Prostitution Hypothesis can be summarized as following:
 
 1. The first Early Christian cults starts with human trafficking, which would include eunuchs and young girls.
 2. These cults are accused of illegal human trafficking, or piracy.
