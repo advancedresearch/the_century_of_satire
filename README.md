@@ -132,6 +132,25 @@ Both Simon Magus and Jesus Christ might have originated as characters in Roman s
 The oldest text is most likely the Gospel of Mark, where Jesus Christ resurrects "back in time" to Galilee,
 known as "The Ouroboros Hypothesis" in biblical scholarship, which was first suggested in this project.
 
+**Worth to keep in mind before diving into The Ouroboros Hypothesis:**
+*Human behavior around calendars, religious events and traditions is complex.
+If this hypothesis is true, then celebration of Jesus' birth is more likely to be on some particular date,
+varying by cultures, the time around winter solstice (in modern calendar December or January),
+just like celebration of Dionysus' birth.
+The dates of celebrating the death of Jesus and resurrection, on the other hand, would change with dates of the Easter holiday,
+not staying fixed to particular yearly dates (like the celebration of Jesus' birth).
+The inconsistency of not using fixed dates for both birth and death (unlike ancestor worship at the time),
+follows other contemporary mythology, tied to religious symbolic astronomical and agricultural interpretations of the calendar.
+There are other scientific explanations to why this inconsistency takes place in Early Christianity,
+e.g. worship of Dionysus on similar dates and influence of Dionysus worship on texts in Early Christianity,
+however, such explanations are not needed if The Ouroboros Hypothesis is true, using Occham's razor.*
+
+The first stories about Jesus were centered on interpretations of the calendar,
+but without including a birth narrative, that came later in the 2nd century.
+Later inclusion of a birth narrative is also consistent with other similar religious practices.
+The Ouroborus Hypothesis explains how this change happens, to align the story about Jesus with other translation fables,
+while maintaining calendar-focused storytelling as originally intended.
+
 With other words, Jesus Christ's resurrection is not a historical resurrection, but a literary one,
 where the author of Gospel of Mark plays on the cultural context of translation fables in the Roman empire.
 
