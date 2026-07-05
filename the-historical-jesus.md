@@ -224,7 +224,7 @@ These two meanings engage the reader, which might have been intentional, to conv
 We know that Revelation was written this way, to make Jews rebel against Romans and has been used through history to incite wars.
 
 To try understand this from a modern mindset, one can think about the stories of Santa Claus.
-Santa Claus is probably based on a historical character, Nicholar of Myra,
+Santa Claus is probably based on a historical character, Nicholas of Myra,
 but people put origin stories of Santa Claus in different centuries.
 Often a century in the past.
 
