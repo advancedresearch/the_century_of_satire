@@ -538,7 +538,7 @@ These two views of a historical Jesus are in conflict in one sense, but they als
 
 Do you see the problem?
 
-When it comes expressing pure ideas, it is no longer easy to credit these ideas to some historical person,
+When it comes to expressing pure ideas, it is no longer easy to credit these ideas to some historical person,
 because different people use different judgements of how to credit such ideas.
 
 For example, let us say there was a historical Jesus that said some ideas in public that were written down.
