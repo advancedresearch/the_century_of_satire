@@ -70,7 +70,7 @@ Overview:
 - [Was the historical Jesus a cult leader?](#was-the-historical-jesus-a-cult-leader)
 - [Was the historical Jesus an apocalyptic preacher?](#was-the-historical-jesus-an-apocalyptic-preacher)
 - [Was the historical Jesus member of a Qumran sect?](#was-the-historical-jesus-member-of-a-qumran-sect)
-- Was the historical Jesus buried in the Talpiot tomb?
+- [Was the historical Jesus buried in the Talpiot tomb?](#was-the-historical-jesus-buried-in-the-talpiot-tomb)
 - Was there no historical Jesus at all, but completely made up?
 - Was the historical Jesus a rebel?
 - Comparisons and why Jesus being called a Messiah suggests the historical Jesus was a rebel
@@ -707,6 +707,19 @@ While not a very strong position, it is useful to at least think about it, becau
 We do not know how much widespread these texts were, and hence we do not know whether using the same texts is evidence of some historical tradition.
 
 ### Was the historical Jesus buried in the Talpiot tomb?
+
+During the 80s there was a lot of controversy around the discovery of a family tomb who contained ossuaries with inscriptions of names that were recognized from Early Christian writings.
+This controversy motivated the beginning of the Jesus Seminars, held on yearly basis by Westar Institute.
+The family tomb was sealed up out of fear of children getting harmed when playing in the area.
+
+Over two decades later, James Cameron directed a pseudoarchaeological docudrama "The Lost Tomb of Jesus" in 2007.
+Here, the team making the documentary illegally opened the sealed tomb.
+In addition, they made a claim that one of the ossuaries on display in a museum with an inscription "James, brother of Jesus",
+was taken from the same family tomb in Talpiot.
+Some scientists believe that part of the inscription, "brother of Jesus", is a forgery.
+
+If this position is true, then the Talpiot tomb could be the only archeological evidence we have about some historical Jesus.
+One problem with this position, is that the science needed to examine all the evidence closely and throughoutly, has not been done yet.
 
 ### Was there no historical Jesus at all, but completely made up?
 
