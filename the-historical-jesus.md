@@ -58,21 +58,21 @@ The historical Jesus goes back to the 1st century, but we have very little scien
 Overview:
 
 - [Removing the layers of medicine: Jesus Christ vs Simon Magus](#removing-the-layers-of-medicine-jesus-christ-vs-simon-magus)
-- [Was the historical Jesus a doctor?](#was-the-historical-jesus-a-doctor)
-- [Was the historical Jesus the Joshua that succeeded Moses?](#was-the-historical-jesus-the-joshua-that-succeeded-moses)
-- [Was the historical Jesus a rabbi?](#was-the-historical-jesus-a-rabbi)
-- [Was the historical Jesus a human trafficker who used slaves to produce antidotes for snake venoms?](#was-the-historical-jesus-a-human-trafficker-who-used-slaves-to-produce-antidotes-for-snake-venoms)
-- [Was the historical Jesus a humble carpenter?](#was-the-historical-jesus-a-humble-carpenter)
-- [Was the historical Jesus a magician?](#was-the-historical-jesus-a-magician)
-- [Was the historical Jesus a philosopher?](#was-the-historical-jesus-a-philosopher)
-- [Was the historical Jesus an eremite?](#was-the-historical-jesus-an-eremite)
-- [Was the historical Jesus an esoteric figure like Honi HaMe'agel?](#was-the-historical-jesus-an-esoteric-figure-like-honi-hameagel)
-- [Was the historical Jesus a cult leader?](#was-the-historical-jesus-a-cult-leader)
-- [Was the historical Jesus an apocalyptic preacher?](#was-the-historical-jesus-an-apocalyptic-preacher)
-- [Was the historical Jesus member of a Qumran sect?](#was-the-historical-jesus-member-of-a-qumran-sect)
-- [Was the historical Jesus buried in the Talpiot tomb?](#was-the-historical-jesus-buried-in-the-talpiot-tomb)
-- [Was there no historical Jesus at all, but completely made up?](#was-there-no-historical-jesus-at-all-but-completely-made-up)
-- [Was the historical Jesus a rebel?](#was-the-historical-jesus-a-rebel)
+- 1. [Was the historical Jesus a doctor?](#1-was-the-historical-jesus-a-doctor)
+- 2. [Was the historical Jesus the Joshua that succeeded Moses?](#2-was-the-historical-jesus-the-joshua-that-succeeded-moses)
+- 3. [Was the historical Jesus a rabbi?](#3-was-the-historical-jesus-a-rabbi)
+- 4. [Was the historical Jesus a human trafficker who used slaves to produce antidotes for snake venoms?](#4-was-the-historical-jesus-a-human-trafficker-who-used-slaves-to-produce-antidotes-for-snake-venoms)
+- 5. [Was the historical Jesus a humble carpenter?](#5-was-the-historical-jesus-a-humble-carpenter)
+- 6. [Was the historical Jesus a magician?](#6-was-the-historical-jesus-a-magician)
+- 7. [Was the historical Jesus a philosopher?](#7-was-the-historical-jesus-a-philosopher)
+- 8. [Was the historical Jesus an eremite?](#8-was-the-historical-jesus-an-eremite)
+- 9. [Was the historical Jesus an esoteric figure like Honi HaMe'agel?](#9-was-the-historical-jesus-an-esoteric-figure-like-honi-hameagel)
+- 10. [Was the historical Jesus a cult leader?](#10-was-the-historical-jesus-a-cult-leader)
+- 11. [Was the historical Jesus an apocalyptic preacher?](#11-was-the-historical-jesus-an-apocalyptic-preacher)
+- 12. [Was the historical Jesus member of a Qumran sect?](#12-was-the-historical-jesus-member-of-a-qumran-sect)
+- 13. [Was the historical Jesus buried in the Talpiot tomb?](#13-was-the-historical-jesus-buried-in-the-talpiot-tomb)
+- 14. [Was there no historical Jesus at all, but completely made up?](#14-was-there-no-historical-jesus-at-all-but-completely-made-up)
+- 15. [Was the historical Jesus a rebel?](#15-was-the-historical-jesus-a-rebel)
 - Comparisons and why Jesus being called a Messiah suggests the historical Jesus was a rebel
 
 ### Removing the layers of medicine: Jesus Christ vs Simon Magus
@@ -147,7 +147,7 @@ preventing us from gaining insights into the 1st century.
 
 The best we can do today, is to make multiple hypotheses and explore all of them.
 
-### Was the historical Jesus a doctor?
+### 1. Was the historical Jesus a doctor?
 
 It is possible that the historical Jesus was a doctor who became famous for his charity,
 probably by treating poor patients for free or cheaply, while taking higher payment from rich patients.
@@ -177,7 +177,7 @@ without it needing to explain the whole development.
 The popular Jesus Christ character was mostly spreading in the late 2nd century by people,
 which probably had few connections or poor education, relative to official people from the school of medicine using that precise character.
 
-### Was the historical Jesus the Joshua that succeeded Moses?
+### 2. Was the historical Jesus the Joshua that succeeded Moses?
 
 In the myth about Moses (who probably never existed historically), Joshua takes over the leadership after Moses dies.
 
@@ -267,7 +267,7 @@ Canonization of a text is done for the purpose of protecting the content from be
 
 As a result, Jesus Christ might have been based on both a doctor and Joshua, but with the layer of Joshua added later using propaganda as inspiration.
 
-### Was the historical Jesus a rabbi?
+### 3. Was the historical Jesus a rabbi?
 
 This question is about what it means to be a rabbi in the 1st century or whether somebody might call Jesus with that title out of respect.
 
@@ -325,7 +325,7 @@ then the Mary of Magdala character could have been invented by some bored Early 
 It is possible that the historical Jesus was rabbi, by being in some sect and given authority to preach Jewish laws,
 but he might have combined this with other roles, such as being a doctor.
 
-### Was the historical Jesus a human trafficker who used slaves to produce antidotes for snake venoms?
+### 4. Was the historical Jesus a human trafficker who used slaves to produce antidotes for snake venoms?
 
 As scandalous this position sounds and easy to debunk, there are several sources that link Jesus to human trafficking and snakes.
 We just do not know whether these sources are about some historical Jesus or the literary Jesus.
@@ -422,7 +422,7 @@ but the religous symbolism and rituals might have been partially based on this p
 without necessarily doing all the steps involved in the process.
 This is another layer of complexity that is difficult to interpret for us today, since we are not part of ancient culture.
 
-### Was the historical Jesus a humble carpenter?
+### 5. Was the historical Jesus a humble carpenter?
 
 In Mark 6:3, Jesus is called a carpenter.
 
@@ -482,7 +482,7 @@ This kind of reasoning is typical for those who take higher education,
 so these sections do not count in favor of the historical Jesus being a carpenter.
 On the contrary, they point in the direction of a doctor or rabbi instead.
 
-### Was the historical Jesus a magician?
+### 6. Was the historical Jesus a magician?
 
 A magician is somebody who can perform tricks that give people the impression of something supernatural happening.
 
@@ -512,7 +512,7 @@ there could be use of these same titles for savior figures to make the schools a
 One could make a similar argument for the title "Messiah", but this might be risky and attract negative attention.
 A such title would probably be used by somebody who wants to incite war with propaganda.
 
-### Was the historical Jesus a philosopher?
+### 7. Was the historical Jesus a philosopher?
 
 Some scholars argue that the stories about Jesus might have come from one person, or combining multiple historical people,
 who, similar to Diogenes or Aesop, had interesting conversations with other people or using parables to make their point.
@@ -585,7 +585,7 @@ Yet, readers of the story might know who the character is based on.
 Perhaps Jesus Christ was Roman satire about some Roman emperor and that emperor was a philosopher.
 Or, it could simply been some text with sayings that nobody knows where they came from.
 
-### Was the historical Jesus an eremite?
+### 8. Was the historical Jesus an eremite?
 
 Most scholars focus on versions of historical Jesus that might be more controversial or engaging for people to read about.
 
@@ -650,7 +650,7 @@ People in general like to solve their own problems and frequently attributed say
 By making an eremite spiritual, they also were guaranteed to not lose that relationship later on.
 With other words, making an eremite spiritual can be the result of learning from an authoratative oppression tactic.
 
-### Was the historical Jesus an esoteric figure like Honi HaMe'agel?
+### 9. Was the historical Jesus an esoteric figure like Honi HaMe'agel?
 
 Honi HaMe'agel, also known as Honi the Circler, was an esoteric figure that performed miracles.
 What characterizes such figures is that their role or relationship to the divine is unclear and ambiguous.
@@ -667,7 +667,7 @@ since challenging accepted ideas is closely related to forming rebellions.
 Esoteric figures incites curiosity and enforces superstitious beliefs in the super-natural in general,
 which attracts outsiders and people with less power in society.
 
-### Was the historical Jesus a cult leader?
+### 10. Was the historical Jesus a cult leader?
 
 Cult leaders are often charismatic and tell people what they want to hear, so they can be manipulated socially.
 One common cult tactic is called "love-bombing" where potential recruits are overwhelmed with attention and love they seek.
@@ -683,7 +683,7 @@ but also at the same time warn of conflict with friends and family.
 
 All these cult attributes are present in the texts about Jesus that Early Christians wrote.
 
-### Was the historical Jesus an apocalyptic preacher?
+### 11. Was the historical Jesus an apocalyptic preacher?
 
 An apocalyptic preacher is somebody who warns about the end of an era and beginning of a new era.
 Apocalyptic preaching is often associated with cults, because certainty in doom is emotionally easier to process psychologically than the uncertainty of the future.
@@ -691,7 +691,7 @@ Apocalyptic preaching is often associated with cults, because certainty in doom 
 Here, it is very clear that a recurring theme in Early Christian writings about Jesus,
 is the prophecy of doom. This is one of the reasons that most scholars today believe that Jesus was an apocalyptic preacher.
 
-### Was the historical Jesus member of a Qumran sect?
+### 12. Was the historical Jesus member of a Qumran sect?
 
 The Constellation Model of Early Christian texts, shows significant overlap between the texts that Early Christians used in their own works,
 and the texts found among the Dead Sea Scrolls.
@@ -723,7 +723,7 @@ This can be explained by these writings being based on other sources and written
 While not a very strong position, it is useful to at least think about it, because the evidence points to some underlying gap of knowledge to explain overlap in use of texts.
 We do not know how much widespread these texts were, and hence we do not know whether using the same texts is evidence of some historical tradition.
 
-### Was the historical Jesus buried in the Talpiot tomb?
+### 13. Was the historical Jesus buried in the Talpiot tomb?
 
 During the 80s there was a lot of controversy around the discovery of a family tomb who contained ossuaries with inscriptions of names that were recognized from Early Christian writings.
 This controversy motivated the beginning of the Jesus Seminars, held on yearly basis by Westar Institute.
@@ -738,7 +738,7 @@ Some scientists believe that part of the inscription, "brother of Jesus", is a f
 If this position is true, then the Talpiot tomb could be the only archeological evidence we have about some historical Jesus.
 One problem with this position, is that the science needed to examine all the evidence closely and throughoutly, has not been done yet.
 
-### Was there no historical Jesus at all, but completely made up?
+### 14. Was there no historical Jesus at all, but completely made up?
 
 The idea that there was no historical Jesus is called the "Mythicist position" in biblical scholarship.
 
@@ -767,7 +767,7 @@ So, the only source we have, was tampered with.
 This builds a very strong argument in favor of the Mythicist position,
 because claims of some historical Jesus rests on the interpretation of the evidence in Josephus works.
 
-### Was the historical Jesus a rebel?
+### 15. Was the historical Jesus a rebel?
 
 As argued in the previous section, the only solid evidence of some historical Jesus is one paragraph in Josephus work ([link](https://www.gutenberg.org/files/2848/old/2024-01-30/2848-h/2848-h.htm#link202HCH0009)):
 
@@ -785,3 +785,44 @@ The death of Jesus can have several explanations, but when his brother James was
 A position that is not very strong since there is so little evidence, but from what this evidence says, it is not unreasonable to favor a such hypothesis.
 
 ### Comparisons and why Jesus being called a Messiah suggests the historical Jesus was a rebel
+
+Here is an overview of these positions, using a table read as "column implies row" with an approximate number in the unit interval (0 to 1) of inference strength:
+
+|       |P1 |P2 |P3 |P4 |P5 |P6 |P7 |P8 |P9 |P10|P11|P12|P13|P14|P15|Sum|
+|-------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**P1** |1.0|0.2|0.4|0.8|0.1|0.4|0.5|0.1|0.1|0.1|0.1|0.1|0.2|0.1|0.1|4.3|
+|**P2** |0.1|1.0|0.1|0.1|0.1|0.1|0.1|0.1|0.1|0.2|0.2|0.1|0.1|0.2|0.2|2.8|
+|**P3** |0.2|0.1|1.0|0.1|0.1|0.1|0.1|0.1|0.1|0.3|0.2|0.1|0.2|0.1|0.1|2.9|
+|**P4** |0.1|0.1|0.1|1.0|0.1|0.2|0.1|0.1|0.1|0.1|0.1|0.1|0.1|0.1|0.1|2.5|
+|**P5** |0.1|0.1|0.1|0.1|1.0|0.1|0.1|0.1|0.1|0.1|0.1|0.1|0.1|0.1|0.1|2.4|
+|**P6** |0.2|0.2|0.1|0.4|0.1|1.0|0.1|0.1|0.1|0.1|0.1|0.1|0.1|0.1|0.1|2.9|
+|**P7** |0.9|0.1|0.3|0.1|0.1|0.1|1.0|0.2|0.2|0.2|0.1|0.1|0.1|0.5|0.1|4.1|
+|**P8** |0.1|0.1|0.1|0.1|0.1|0.1|0.1|1.0|0.2|0.1|0.1|0.2|0.1|0.1|0.2|2.7|
+|**P9** |0.1|0.1|0.1|0.1|0.1|0.1|0.1|0.2|1.0|0.1|0.2|0.1|0.1|0.1|0.1|2.6|
+|**P10**|0.1|0.8|0.6|0.8|0.1|0.8|0.2|0.1|0.2|1.0|0.8|0.3|0.1|0.1|0.9|6.9|
+|**P11**|0.1|0.1|0.2|0.2|0.1|0.2|0.1|0.2|0.2|0.3|1.0|0.7|0.1|0.1|0.8|4.4|
+|**P12**|0.1|0.1|0.1|0.1|0.1|0.1|0.1|0.1|0.1|0.1|0.1|1.0|0.1|0.1|0.2|2.5|
+|**P13**|0.1|0.1|0.1|0.1|0.1|0.1|0.1|0.1|0.1|0.1|0.1|0.1|1.0|0.1|0.1|2.4|
+|**P14**|0.1|0.8|0.1|0.1|0.1|0.1|0.3|0.2|0.2|0.2|0.1|0.1|0.1|1.0|0.1|3.6|
+|**P15**|0.1|0.8|0.1|0.1|0.1|0.1|0.1|0.1|0.1|0.3|0.6|0.7|0.1|0.1|1.0|4.4|
+|**Sum**|3.4|4.7|3.5|4.2|2.4|3.6|3.1|2.8|2.9|3.3|3.9|3.9|2.6|2.9|4.2|   |
+
+Here, I use no lower weight than 0.1 to keep connections between hypotheses open,
+so the actual map to probabilities is likely to be lower.
+
+- 1. [Was the historical Jesus a doctor?](#1-was-the-historical-jesus-a-doctor)
+- 2. [Was the historical Jesus the Joshua that succeeded Moses?](#2-was-the-historical-jesus-the-joshua-that-succeeded-moses)
+- 3. [Was the historical Jesus a rabbi?](#3-was-the-historical-jesus-a-rabbi)
+- 4. [Was the historical Jesus a human trafficker who used slaves to produce antidotes for snake venoms?](#4-was-the-historical-jesus-a-human-trafficker-who-used-slaves-to-produce-antidotes-for-snake-venoms)
+- 5. [Was the historical Jesus a humble carpenter?](#5-was-the-historical-jesus-a-humble-carpenter)
+- 6. [Was the historical Jesus a magician?](#6-was-the-historical-jesus-a-magician)
+- 7. [Was the historical Jesus a philosopher?](#7-was-the-historical-jesus-a-philosopher)
+- 8. [Was the historical Jesus an eremite?](#8-was-the-historical-jesus-an-eremite)
+- 9. [Was the historical Jesus an esoteric figure like Honi HaMe'agel?](#9-was-the-historical-jesus-an-esoteric-figure-like-honi-hameagel)
+- 10. [Was the historical Jesus a cult leader?](#10-was-the-historical-jesus-a-cult-leader)
+- 11. [Was the historical Jesus an apocalyptic preacher?](#11-was-the-historical-jesus-an-apocalyptic-preacher)
+- 12. [Was the historical Jesus member of a Qumran sect?](#12-was-the-historical-jesus-member-of-a-qumran-sect)
+- 13. [Was the historical Jesus buried in the Talpiot tomb?](#13-was-the-historical-jesus-buried-in-the-talpiot-tomb)
+- 14. [Was there no historical Jesus at all, but completely made up?](#14-was-there-no-historical-jesus-at-all-but-completely-made-up)
+- 15. [Was the historical Jesus a rebel?](#15-was-the-historical-jesus-a-rebel)
+
