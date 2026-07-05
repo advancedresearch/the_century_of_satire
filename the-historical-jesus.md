@@ -68,7 +68,7 @@ Overview:
 - [Was the historical Jesus an eremite?](#was-the-historical-jesus-an-eremite)
 - [Was the historical Jesus an esoteric figure like Honi HaMe'agel?](#was-the-historical-jesus-an-esoteric-figure-like-honi-hameagel)
 - [Was the historical Jesus a cult leader?](#was-the-historical-jesus-a-cult-leader)
-- Was the historical Jesus an apocalyptic preacher?
+- [Was the historical Jesus an apocalyptic preacher?](#was-the-historical-jesus-an-apocalyptic-preacher)
 - Was the historical Jesus member of a Qumran sect?
 - Was the historical Jesus buried in the Talpiot tomb?
 - Was there no historical Jesus at all, but completely made up?
