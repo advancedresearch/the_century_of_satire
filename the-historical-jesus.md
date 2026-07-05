@@ -179,17 +179,17 @@ which probably had few connections or poor education, relative to official peopl
 
 ### Was the historical Jesus the Joshua that succeeded Moses?
 
-In the myth about Moses, who never existed historically, Joshua takes over the leadership after Moses dies.
+In the myth about Moses (who probably never existed historically), Joshua takes over the leadership after Moses dies.
 
 The name "Jesus" is actually the same name as "Joshua".
 We just use different spellings because it makes it easier to distinguish these characters in the bible from each other.
 
-Many people where named Joshua around Jesus' time, often based on that character and relatives named after him.
+Many people where named Joshua around Jesus' time, often based on that character and/or relatives named after this Joshua from the story.
 
 In some Catacomb paintings, which are the earliest surviving samples of Christian art,
-Jesus is depicted side by side with Moses, which signifies that Jesus is a successor of Moses.
+Jesus is depicted side by side with Moses, which signifies that Jesus might possibly be a successor of Moses.
 
-There is a possibility that Early Christians thought about Jesus as Yoshua reborn.
+There is a chance that Early Christians thought about Jesus as Yoshua reborn.
 This is also a point in a dialogue in all 3 synoptic gospels,
 where Jesus is asked whether he is Elijah or one of the prophets (Matthew 16:14, Mark 8:28, and Luke 9:19).
 
@@ -202,19 +202,28 @@ which is kind of obvious if he is thought of as a reborn Joshua,
 because it would alarm the authorities.
 The idea is that people should wait until the right moment, before they pick up their swords.
 
+Bart Ehrman made the argument that Jesus as Son of God was an idea that evolved over time,
+with the Markian priority featuring a more Jewish Messiah portrait of Jesus.
+If you think about a Jewish Messiah and the name Yoshua combined, this signifies heavily a spiritual successor of Moses.
+
 In the increasing tensions between Jews and Romans leading up to the Bar Kokhba revolt,
 the Joshua figure might have gotten divinized and hence later gospels like Matthew says Son of God in this context.
 
-In the debate of Historicity vs Mythicism of Jesus, there is a debate point around whether Jews were prophesizing about a suffering Messiah.
-Here, it is irrelevant, because the main point of Jesus being resurrected, is because he will soon come back and liberate Israel.
-Resurrection in itself is not uncommon at the time in contemporary stories, neither was painful deaths or death by execution.
-The argument is that suffering and resurrection is not that a big deal, but the emphasis is that Jesus will come back soon, as a Joshua figure.
+In the debate of Historicity vs Mythicism of Jesus, there is a point about whether Jews were prophesizing about a suffering Messiah.
+Here, it is irrelevant, because one major point of Jesus being resurrected in Early Christian writings, is because he will soon come back and liberate Israel.
+Resurrection in itself is not uncommon at the time in contemporary stories (translation fables), neither was texts containing painful deaths or death by execution.
+The argument here is that suffering and resurrection is not that a big deal, but the emphasis is that Jesus will come back soon, as a Joshua figure.
 
-Another thing that is important in this context, is that Moses and prophets were worshiped as savior figures by Early Christians.
+Another thing that is important in this context, is that Moses and some prophets were worshiped as savior figures by Early Christians.
 One obvious example, is Melchizedek in the Book of Hebrew.
 The author argues that Melchizedek is the same figure as Jesus Christ.
 
-If The Ouroboros Hypothesis is correct, then the resurrection of Jesus in the original Mark has two meanings for Joshua:
+To add depth to this position, one can dive into The Ouroboros Hypothesis.
+The Ouroborus Hypothesis states that the literary origin of Early Christianity can be explained by some text
+featuring some savior that resurrects "back in time", possibly as a metaphor of the yearly calendar.
+This is consistent with the use of gospels as liturgical texts, starting over every year.
+
+If The Ouroboros Hypothesis is correct and this position is correct, then the resurrection of Jesus in the original Mark has two meanings:
 
 - Resurrection "back in time" to Galilee, restarting the story and recruiting more disciples/soldiers
 - A literary play on translation fables, where the reader might become the witness, as it is not included in the story
@@ -230,12 +239,17 @@ Often a century in the past.
 
 To Jews, savior figures could return, e.g. Elijah, so Joshua appearing in the history of the 1st century,
 seen from the perspective of 2nd century Early Christians, is not that strange.
-Just because the 1st century historical Jesus might never existed,
-does not mean that Jesus Christ is not built on some historical Jesus.
-It can simply be Joshua, a Messianic warrior that people thought would come back and liberate Israel.
+It can simply be Joshua himself reborn, a Messianic warrior that people thought would come back and liberate Israel.
+
+A such position can also be interpreted as a Mythicist position,
+that the historical Jesus might never existed in the 1st century.
+However, it can be interpreted as some historical Jesus from an earlier century,
+that could have been seen as historical by Early Christian writers,
+but in fact be based on myth.
 
 This is not as straight forward as the historical Jesus as a doctor,
 but Jesus as Joshua is a possibility that is worth taking into consideration.
+One can take the perspective of teachers at medicine schools trying to attract new students.
 Joshua would be an interesting savior figure for young students joining a medicine school.
 
 You can think of it as an added layer on the story about Jesus Christ that goes around and heal people.
@@ -244,11 +258,14 @@ Now, there is no war in this story, but the specific interpretation of Jesus as 
 allows the expectation that a war will happen soon.
 So, this original Mark would serve both purposes, perhaps precisely because those who incite war,
 are using an already popular character as a basis for their propaganda.
+With other words, if there was existing propaganda using Jesus as savior figure,
+some teacher might have hijacked this propaganda for their own non-violent purposes.
 
 The spread of a such story, could have been the motivation of Marcion of Sinope's canon,
 because he wants to explicitly avoid the situation where somebody uses his text to incite war against the Roman empire.
+Canonization of a text is done for the purpose of protecting the content from being edited arbitrarily.
 
-As a result, Jesus Christ might have been based on both a doctor and Joshua, but with the layer of Joshua added later.
+As a result, Jesus Christ might have been based on both a doctor and Joshua, but with the layer of Joshua added later using propaganda as inspiration.
 
 ### Was the historical Jesus a rabbi?
 
