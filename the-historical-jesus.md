@@ -69,7 +69,7 @@ Overview:
 - [Was the historical Jesus an esoteric figure like Honi HaMe'agel?](#was-the-historical-jesus-an-esoteric-figure-like-honi-hameagel)
 - [Was the historical Jesus a cult leader?](#was-the-historical-jesus-a-cult-leader)
 - [Was the historical Jesus an apocalyptic preacher?](#was-the-historical-jesus-an-apocalyptic-preacher)
-- Was the historical Jesus member of a Qumran sect?
+- [Was the historical Jesus member of a Qumran sect?](#was-the-historical-jesus-member-of-a-qumran-sect)
 - Was the historical Jesus buried in the Talpiot tomb?
 - Was there no historical Jesus at all, but completely made up?
 - Was the historical Jesus a rebel?
@@ -675,6 +675,36 @@ Here, it is very clear that a recurring theme in Early Christian writings about 
 is the prophecy of doom. This is one of the reasons that most scholars today believe that Jesus was an apocalyptic preacher.
 
 ### Was the historical Jesus member of a Qumran sect?
+
+The Constellation Model of Early Christian texts, shows significant overlap between the texts that Early Christians used in their own works,
+and the texts found among the Dead Sea Scrolls.
+
+The Dead Sea Scrolls are often associated with communities evidenced by other archeological findings in the nearby area,
+that uncovered a lot of pools designed for temple washing rituals.
+These commmunities are called "Qumran sects" due to the geographical name of this area.
+
+Now, the problem is that there is no direct evidence that connects the Qumran sects to Early Christian sects.
+The only link we have today is overlap in the texts used by both communities,
+plus that Jesus was described as clothed in linen, the same as the description of clothing found in the Dead Sea Scrolls.
+
+The evidence about linen clothes could be to contrast Jesus with John the Baptist, who wore clothing of camel hair.
+Overall, this could have been a literary device to claim Jesus Christ was better than John the Baptist,
+because John the Baptist was the master of Simon Magus, a competing savior figure during the 2nd century.
+While it is hard to assess the use of clothing in isolation as evidence of competition,
+it fits in with muliple lines of evidence that point in the same direction.
+Therefore, linen clothes should not be weighted heavily as evidence in favor of Jesus being a member of a Qumran sect.
+
+In principle, we could have found texts among the Dead Sea Scrolls that explored the same themes as in Early Christianity, during the 2nd century.
+The fact that we have no such pieces of evidence, points to some other scientific explanation of the overlap using The Constellation Model of Early Christian texts.
+
+John the Baptist has been suggested as a historical link to the Qumran sects,
+as he was claimed to baptize people in the Jordan river near these sects,
+but a such argument is problematic, as there might be other motivations to include John the Baptist in Early Christian writings during the 2nd century.
+Early Christian writings during the 2nd century shows no awareness of the Qumran sects.
+This can be explained by these writings being based on other sources and written during the 2nd century in locations remote to Qumran.
+
+While not a very strong position, it is useful to at least think about it, because the evidence points to some underlying gap of knowledge to explain overlap in use of texts.
+We do not know how much widespread these texts were, and hence we do not know whether using the same texts is evidence of some historical tradition.
 
 ### Was the historical Jesus buried in the Talpiot tomb?
 
