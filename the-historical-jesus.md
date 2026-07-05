@@ -66,7 +66,7 @@ Overview:
 - [Was the historical Jesus a magician?](#was-the-historical-jesus-a-magician)
 - [Was the historical Jesus a philosopher?](#was-the-historical-jesus-a-philosopher)
 - [Was the historical Jesus an eremite?](#was-the-historical-jesus-an-eremite)
-- Was the historical Jesus an esoteric figure like Honi HaMe'agel?
+- [Was the historical Jesus an esoteric figure like Honi HaMe'agel?](#was-the-historical-jesus-an-esoteric-figure-like-honi-hameagel)
 - Was the historical Jesus a cult leader?
 - Was the historical Jesus an apocalyptic preacher?
 - Was the historical Jesus member of a Qumran sect?
@@ -634,6 +634,21 @@ By making an eremite spiritual, they also were guaranteed to not lose that relat
 With other words, making an eremite spiritual can be the result of learning from an authoratative oppression tactic.
 
 ### Was the historical Jesus an esoteric figure like Honi HaMe'agel?
+
+Honi HaMe'agel, also known as Honi the Circler, was an esoteric figure that performed miracles.
+What characterizes such figures is that their role or relationship to the divine is unclear and ambiguous.
+These stories consist of two parts, one where miracle is performed and second when people react to it.
+The main point of these stories is to build in the natural skepticism that listeners have,
+since a pure claim of the miracle itself is less believable.
+
+Culturally, the use of ambiguity can draw more attention toward figures that are lesser known.
+People like to figure out things, try new things, and they also like to put togoether the puzzle themselves.
+One of the reasons Jesus became popular as savior figure, is precisely because these stories do not give you a complete picture of who Jesus was.
+Later, when some figure becomes culturally dominant, it is often linked to established authority, who makes bold claims with confidence.
+Only authority has the "correct interpretation" of the myth and opposing views might result in persecution,
+since challenging accepted ideas is closely related to forming rebellions.
+Esoteric figures incites curiosity and enforces superstitious beliefs in the super-natural in general,
+which attracts outsiders and people with less power in society.
 
 ### Was the historical Jesus a cult leader?
 
