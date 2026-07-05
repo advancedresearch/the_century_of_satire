@@ -582,7 +582,7 @@ Now, you might think that it would be more efficient to seek advice from somebod
 
 Modern people tend to forget one thing: Just like modern people, ancient people wanted to figure out their own problems, when they could.
 
-Seeking help from others is not easy, because people feel that they owe them something in return later.
+Seeking help from others is not easy, because people feel that they owe them something in return later on.
 This can produce a feeling of being lesser worth for society or under the control of somebody who are stronger.
 
 The solution to this dilemma in the ancient world, is that when people believe they can figure it out themselves,
