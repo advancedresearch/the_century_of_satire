@@ -71,7 +71,7 @@ Overview:
 - [Was the historical Jesus an apocalyptic preacher?](#was-the-historical-jesus-an-apocalyptic-preacher)
 - [Was the historical Jesus member of a Qumran sect?](#was-the-historical-jesus-member-of-a-qumran-sect)
 - [Was the historical Jesus buried in the Talpiot tomb?](#was-the-historical-jesus-buried-in-the-talpiot-tomb)
-- Was there no historical Jesus at all, but completely made up?
+- [Was there no historical Jesus at all, but completely made up?](#was-there-no-historical-jesus-at-all-but-completely-made-up)
 - Was the historical Jesus a rebel?
 - Comparisons and why Jesus being called a Messiah suggests the historical Jesus was a rebel
 
@@ -722,6 +722,33 @@ If this position is true, then the Talpiot tomb could be the only archeological 
 One problem with this position, is that the science needed to examine all the evidence closely and throughoutly, has not been done yet.
 
 ### Was there no historical Jesus at all, but completely made up?
+
+The idea that there was no historical Jesus is called the "Mythicist position" in biblical scholarship.
+
+One controversy around the Mythicist position is that many researchers have signed declarations that they will not write against the historicity of Jesus.
+A such practice would be intolerable in any other scientific disicpline,
+which puts biblical scholarship as one of the least respectable disciplines of all sciences.
+
+To even have a proper debate about the Mythicist position, requires that researchers are arguing in good faith.
+When reasonable evidence of good faith can not be established on the grounds of controversial signed declarations,
+it is not possible to treat the historicity of Jesus as a serious scientific hypothesis in absense of all other evidence.
+
+Now, even if the Mythicist position is true, then this is an open ended position that includes a lot of nuance.
+For example, it is not very clear what we mean by the Mythicist position, because there are many aspects and degrees of making up stories.
+
+The Mythicist position is supported by some evidence, at least in the sense that Early Christians made up part of their writings.
+However, to claim that all parts about Jesus were made up, requires closer examination.
+
+At the end of the day, it is only Josephus that most likely recorded anything about some historical Jesus in the 1st century.
+All the other texts have problems based on arguments from literary context and evidence of redactions and editing.
+Another historian, Tacitus, writes in early 2nd century.
+Therefore, it is only Jospehus that goes back to the 1st century.
+
+The problem with Jospehus, is that one of the sections mentioning Jesus seems to have been added or edited later on by Christians.
+So, the only source we have, was tampered with.
+
+This builds a very strong argument in favor of the Mythicist position,
+because claims of some historical Jesus rests on the interpretation of the evidence in Josephus works.
 
 ### Was the historical Jesus a rebel?
 
