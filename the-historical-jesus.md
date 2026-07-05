@@ -668,6 +668,12 @@ All these cult attributes are present in the texts about Jesus that Early Christ
 
 ### Was the historical Jesus an apocalyptic preacher?
 
+An apocalyptic preacher is somebody who warns about the end of an era and beginning of a new era.
+Apocalyptic preaching is often associated with cults, because certainty in doom is emotionally easier to process psychologically than the uncertainty of the future.
+
+Here, it is very clear that a recurring theme in Early Christian writings about Jesus,
+is the prophecy of doom. This is one of the reasons that most scholars today believe that Jesus was an apocalyptic preacher.
+
 ### Was the historical Jesus member of a Qumran sect?
 
 ### Was the historical Jesus buried in the Talpiot tomb?
