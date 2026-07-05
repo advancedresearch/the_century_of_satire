@@ -121,7 +121,7 @@ There are two main external records of a historical Jesus as a rebellious leader
 1. By Josephus
 2. By Tacitus
 
-This historical Jesus, who was a rebellious leader, [probably did not know John the Baptist](why-jesus-probably-did-not-know-john-the-baptist.md).
+This historical Jesus, [who was a rebellious leader](the-historical-jesus.md), [probably did not know John the Baptist](why-jesus-probably-did-not-know-john-the-baptist.md).
 
 It can be explained scientifically by distinguishing between the historical Jesus (the rebel) and the literary Jesus (Christ):
 
