@@ -361,7 +361,7 @@ This means, if Jesus was a human trafficker operating through official channels,
 then he might get betrayed by being accused of being a pirate ("leistes").
 Alternatively, Jesus might not have been a human trafficker, but still accused of being a pirate.
 
-Therefore, there is no there concrete evidence that the historial Jesus would not be involved with human trafficking,
+Therefore, there is no concrete evidence that the historial Jesus would not be involved with human trafficking,
 or being falsely accused of doing it.
 However, if the historical Jesus was legally trading slaves, then he would likely not be crucified for it,
 unless somebody betrayed him in return of making false accusations.
