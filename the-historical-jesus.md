@@ -459,7 +459,7 @@ because the expression of honest emotion behind the words, that might sometimes 
 is how people write this stuff to rationalize their own actions.
 
 The author does not write to confirm an idealized ethics,
-but to confront a problem with no solution directly.
+but to confront a problem directly, even there is no solution.
 
 This kind of reasoning is typical for those who take higher education,
 so these sections do not count in favor of the historical Jesus being a carpenter.
