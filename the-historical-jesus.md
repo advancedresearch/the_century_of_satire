@@ -72,7 +72,7 @@ Overview:
 - [Was the historical Jesus member of a Qumran sect?](#was-the-historical-jesus-member-of-a-qumran-sect)
 - [Was the historical Jesus buried in the Talpiot tomb?](#was-the-historical-jesus-buried-in-the-talpiot-tomb)
 - [Was there no historical Jesus at all, but completely made up?](#was-there-no-historical-jesus-at-all-but-completely-made-up)
-- Was the historical Jesus a rebel?
+- [Was the historical Jesus a rebel?](#was-the-historical-jesus-a-rebel)
 - Comparisons and why Jesus being called a Messiah suggests the historical Jesus was a rebel
 
 ### Removing the layers of medicine: Jesus Christ vs Simon Magus
@@ -751,5 +751,20 @@ This builds a very strong argument in favor of the Mythicist position,
 because claims of some historical Jesus rests on the interpretation of the evidence in Josephus works.
 
 ### Was the historical Jesus a rebel?
+
+As argued in the previous section, the only solid evidence of some historical Jesus is one paragraph in Josephus work ([link](https://www.gutenberg.org/files/2848/old/2024-01-30/2848-h/2848-h.htm#link202HCH0009)):
+
+Chapter 9, §1. And now Cæsar, upon hearing the death of Festus, sent Albinus into Judea, as procurator. But the king deprived Joseph of the high priesthood, and bestowed the succession to that dignity on the son of Ananus, who was also himself called Ananus. Now the report goes that this eldest Ananus proved a most fortunate man; for he had five sons who had all performed the office of a high priest to God, and who had himself enjoyed that dignity a long time formerly, which had never happened to any other of our high priests. But this younger Ananus, who, as we have told you already, took the high priesthood, was a bold man in his temper, and very insolent; he was also of the sect of the Sadducees, 23 who are very rigid in judging offenders, above all the rest of the Jews, as we have already observed; when, therefore, Ananus was of this disposition, he thought he had now a proper opportunity [to exercise his authority]. Festus was now dead, and Albinus was but upon the road; so he assembled the sanhedrim of judges, and **brought before them the brother of Jesus, who was called Christ, whose name was James, and some others, [or, some of his companions]; and when he had formed an accusation against them as breakers of the law, he delivered them to be stoned**: but as for those who seemed the most equitable of the citizens, and such as were the most uneasy at the breach of the laws, they disliked what was done; they also sent to the king [Agrippa], desiring him to send to Ananus that he should act so no more, for that what he had already done was not to be justified; nay, some of them went also to meet Albinus, as he was upon his journey from Alexandria, and informed him that it was not lawful for Ananus to assemble a sanhedrim without his consent. 24 Whereupon Albinus complied with what they said, and wrote in anger to Ananus, and threatened that he would bring him to punishment for what he had done; on which king Agrippa took the high priesthood from him, when he had ruled but three months, and made Jesus, the son of Damneus, high priest.
+
+This section is all there is. Now, what does it say?
+
+It says that James, the brother of Jesus, who, according to some Early Christians, took over the leadership of the movement after the death of Jesus, was stoned.
+
+Why? Because he was accused of breaking the law.
+
+This is a common oppressive tactic against movements that were feared to rebel against authorities.
+The death of Jesus can have several explanations, but when his brother James was also executed, this means the evidence points toward the historical Jesus as a rebel.
+
+A position that is not very strong since there is so little evidence, but from what this evidence says, it is not unreasonable to favor a such hypothesis.
 
 ### Comparisons and why Jesus being called a Messiah suggests the historical Jesus was a rebel
