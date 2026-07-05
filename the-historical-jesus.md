@@ -73,7 +73,7 @@ Overview:
 13. [Was the historical Jesus buried in the Talpiot tomb?](#13-was-the-historical-jesus-buried-in-the-talpiot-tomb)
 14. [Was there no historical Jesus at all, but completely made up?](#14-was-there-no-historical-jesus-at-all-but-completely-made-up)
 15. [Was the historical Jesus a rebel?](#15-was-the-historical-jesus-a-rebel)
-- Comparisons and why Jesus being called a Messiah suggests the historical Jesus was a rebel
+- [Comparisons and why Jesus being called a Messiah suggests the historical Jesus was a rebel](#comparisons-and-why-jesus-being-called-a-messiah-suggests-the-historical-jesus-was-a-rebel)
 
 ### Removing the layers of medicine: Jesus Christ vs Simon Magus
 
@@ -826,3 +826,25 @@ so the actual map to probabilities is likely to be lower.
 14. [Was there no historical Jesus at all, but completely made up?](#14-was-there-no-historical-jesus-at-all-but-completely-made-up)
 15. [Was the historical Jesus a rebel?](#15-was-the-historical-jesus-a-rebel)
 
+**P10, P11, P15** have the most outgoing inference strength (top 3).
+This means that they explain the overall evidence better than other positions.
+
+**P2, P4, P15** have the most incoming inference strength (top 3).
+This means that they are more likely to be true overall assuming any position is uncertain.
+
+The intersection between the two sets of top 3,
+one set for outgoing inference strength and one set for incoming inference strength,
+produces a set containing only **P15**, that the historical Jesus was a rebel.
+
+With other words, the historical Jesus as a rebel is the most likely hypothesis,
+given that it needs to explain the overall evidence and also be likely true when any of these hypotheses are equally uncertain.
+It is a hypothesis with both good explanatory power and good robustness to survive new evidence in the future.
+
+The conclusion is based on a simple estimate, the historical Jesus as a rebel gets priority as hypothesis,
+over the others, without examining specific evidence.
+In addition the only specific evidence there is, as argued in section 15, points toward the very same hypothesis.
+
+This suggests the same conclusion, that the historical Jesus was a rebel, can be drawn from multiple lines of evidence.
+
+However, there is one final piece of evidence that supports the same position: Jesus was called the Messiah.
+Other people living in this period who were called the Messiah, have in common that they were rebels.
