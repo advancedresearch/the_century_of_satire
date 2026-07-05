@@ -67,7 +67,7 @@ Overview:
 - [Was the historical Jesus a philosopher?](#was-the-historical-jesus-a-philosopher)
 - [Was the historical Jesus an eremite?](#was-the-historical-jesus-an-eremite)
 - [Was the historical Jesus an esoteric figure like Honi HaMe'agel?](#was-the-historical-jesus-an-esoteric-figure-like-honi-hameagel)
-- Was the historical Jesus a cult leader?
+- [Was the historical Jesus a cult leader?](#was-the-historical-jesus-a-cult-leader)
 - Was the historical Jesus an apocalyptic preacher?
 - Was the historical Jesus member of a Qumran sect?
 - Was the historical Jesus buried in the Talpiot tomb?
@@ -651,6 +651,20 @@ Esoteric figures incites curiosity and enforces superstitious beliefs in the sup
 which attracts outsiders and people with less power in society.
 
 ### Was the historical Jesus a cult leader?
+
+Cult leaders are often charismatic and tell people what they want to hear, so they can be manipulated socially.
+One common cult tactic is called "love-bombing" where potential recruits are overwhelmed with attention and love they seek.
+At the same time as the cult gives recruits what they want, they also isolate them from the rest of society.
+This makes the recruit emotionally and psychologically dependent on the cult, which decreases the chance they will leave.
+
+In Early Christian writings, there is often a demand that people being recruited need to give up their own property.
+As idyllic this might sound to somebody in favor of a collective ownership of property today,
+it is a bait-and-switch tactic done by cults to make the recruit economically dependent on staying loyal to their leader.
+
+A cult leader would say that they come to give rewards to the people who they try to recruit,
+but also at the same time warn of conflict with friends and family.
+
+All these cult attributes are present in the texts about Jesus that Early Christians wrote.
 
 ### Was the historical Jesus an apocalyptic preacher?
 
