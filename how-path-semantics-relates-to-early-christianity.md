@@ -228,7 +228,7 @@ Practice of medicine is depending on social relationships you bond and maintain.
 You can not sit and meditate in a room and learn practice of medicine.
 It takes experience. However, once you get that experience, you might come up with some new potion by meditation.
 
-You wnat to become The Father. The highest and most respected in your clan, right?
+You want to become The Father. The highest and most respected in your clan, right?
 
 Where does the path go to The Father? It goes through your teacher.
 
