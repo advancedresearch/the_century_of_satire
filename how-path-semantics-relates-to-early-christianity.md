@@ -77,7 +77,7 @@ Here is the list of things to learn:
 2. [The path semantical quality operator is a partial equivalence, which reflects social relationships among humans](#2-the-path-semantical-quality-operator-is-a-partial-equivalence-which-reflects-social-relationships-among-humans)
 3. [The path semantical quality operator allows an internal difference, making some distinctions only understandable to the speakers of the same logical language](#3-the-path-semantical-quality-operator-allows-an-internal-difference-making-some-distinctions-only-understandable-to-the-speakers-of-the-same-logical-language)
 
-At the end, after learning these 3 things about the path semantical qubit operator `~~`, you will be able to understand the conclusion:
+At the end, after learning these 3 things about the path semantical quality operator `~~`, you will be able to understand the conclusion:
 
 Early Christians see the spiritual world as a higher form of existence that is real while they live,
 which they take as evidence that there is an afterlife where their reincarnated immortal souls will be bound to new eternal immortal material bodies, granted by salvation.
