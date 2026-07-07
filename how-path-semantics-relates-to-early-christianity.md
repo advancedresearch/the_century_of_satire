@@ -3,6 +3,9 @@
 To reconstruct 2nd century cultural literature context of Roman satire in Early Christian texts,
 it is useful to think about Path Semantics in relation to Early Christianity.
 
+*Disclaimer: This is satire and should not be interpreted seriously.
+Satire is used because Path Semantics is so hard to understand, that humor helps to get the point across.*
+
 Everybody uses signs, every day.
 
 We use signs every time when we communicate.
@@ -435,4 +438,4 @@ Because, there are no such things as pure symbols, only mere mortal propositions
 However, if you get the joke, then you can become a deity.
 Something left over from creation that gets passed on in animals and to a greater extent in humans.
 Might make it possible to escape the reincarnation cycle of our eternal soul, by resurrecting and getting new eternal immortal bodies.
-It is the blood, right? Must be. /s
+It is in the blood, right? Must be. /s
