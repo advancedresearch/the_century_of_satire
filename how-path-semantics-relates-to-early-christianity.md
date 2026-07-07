@@ -276,7 +276,7 @@ The teacher is the beginning and he is the end. Alpha and Omega. The first and l
 Greek, the language used by people who practice medicine.
 
 Greek, the language used by philosophers, who cut up animals to study their organs,
-so when they do it for real on a human being, they know what do from what they see.
+so when they do it for real on a human being, they know what to do from what they see.
 
 Failure to cut up the animal, is failure to save a person's life.
 
