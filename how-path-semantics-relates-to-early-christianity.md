@@ -4,7 +4,7 @@ To reconstruct 2nd century cultural literature context of Roman satire in Early 
 it is useful to think about Path Semantics in relation to Early Christianity.
 
 *Disclaimer: This is satire and should not be interpreted seriously.
-Satire is used because Path Semantics is so hard to understand, that humor helps to get the point across.*
+Satire is used here because Path Semantics is so hard to understand, that humor helps to get the point across.*
 
 Everybody uses signs, every day.
 
