@@ -326,7 +326,7 @@ Perhaps you move from Rome to Alexandria after your education, start a new schoo
 earning enough to hire teachers and opening up another school,
 doing some human trafficking, legal or not, and level up in the social ladder,
 exploiting young orphans and making them eunuchs, to sell them for a higher price to the elite.
-Young, educated, enuchs. Yeah. You get a high price for that.
+Young, educated, eunuchs. Yeah. You get a high price for that.
 You might even be so successful, that some leaders in competing sects get jealous and write some long texts, cursing you to eternal damnation.
 
 In the long term, perhaps your school becomes the dominant practice of medicine in the entire Roman empire.
