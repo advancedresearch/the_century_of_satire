@@ -358,7 +358,7 @@ The new truth table is also random and it looks the same, you know, because it i
 
 So, `!(a ~~ a)` is basically the same as `a ~~ a`, for everybody, except to those who know the secret.
 
-If God and the Devil the same? Is Jesus torturing non-believes in Hell?
+Is God and the Devil the same? Is Jesus torturing non-believes in Hell?
 Yes, but only for the initiated.
 The Creator is secretly evil and not the true highest deity, etc.
 
