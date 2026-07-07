@@ -73,9 +73,9 @@ Therefore, it is necessary to learn a few things about this quality operator `~~
 
 Here is the list of things to learn:
 
-1. [The path semantical qubit operator "opens up" the gate to a higher plane of existence, aka. something what Early Christians would call a "spiritual world" of meaning](#1-the-path-semantical-qubit-operator-opens-up-the-gate-to-a-higher-plane-of-existence-aka-something-what-early-christians-would-call-a-spiritual-world-of-meaning)
-2. [The path semantical qubit operator is a partial equivalence, which reflects social relationships among humans](#2-the-path-semantical-qubit-operator-is-a-partial-equivalence-which-reflects-social-relationships-among-humans)
-3. [The path semantical qubit operator allows an internal difference, making some distinctions only understandable to the speakers of the same logical language](#3-the-path-semantical-qubit-operator-allows-an-internal-difference-making-some-distinctions-only-understandable-to-the-speakers-of-the-same-logical-language)
+1. [The path semantical quality operator "opens up" the gate to a higher plane of existence, aka. something what Early Christians would call a "spiritual world" of meaning](#1-the-path-semantical-quality-operator-opens-up-the-gate-to-a-higher-plane-of-existence-aka-something-what-early-christians-would-call-a-spiritual-world-of-meaning)
+2. [The path semantical quality operator is a partial equivalence, which reflects social relationships among humans](#2-the-path-semantical-quality-operator-is-a-partial-equivalence-which-reflects-social-relationships-among-humans)
+3. [The path semantical quality operator allows an internal difference, making some distinctions only understandable to the speakers of the same logical language](#3-the-path-semantical-qubit-operator-allows-an-internal-difference-making-some-distinctions-only-understandable-to-the-speakers-of-the-same-logical-language)
 
 At the end, after learning these 3 things about the path semantical qubit operator `~~`, you will be able to understand the conclusion:
 
@@ -94,7 +94,7 @@ This is how religion has always worked: It is a business, where the products are
 
 Anyway, let us go on with the things you need to learn about the path semantical quality operator:
 
-### 1. The path semantical qubit operator "opens up" the gate to a higher plane of existence, aka. something what Early Christians would call a "spiritual world" of meaning
+### 1. The path semantical quality operator "opens up" the gate to a higher plane of existence, aka. something what Early Christians would call a "spiritual world" of meaning
 
 Remember, that a pure symbol is like a pure idea: It can mean absolutely anything.
 
@@ -217,7 +217,7 @@ Welcome to the real world of the spiritual belief systems of Early Christians.
 Yes, it is all nonsense and based on Roman satire.
 This is the only way to conceive the higher truths of existence.
 
-### 2. The path semantical qubit operator is a partial equivalence, which reflects social relationships among humans
+### 2. The path semantical quality operator is a partial equivalence, which reflects social relationships among humans
 
 The rule number one of practioners of medicine, is that you can not survive on your own.
 
@@ -290,7 +290,7 @@ The rule number one of practioners of medicine, is that you can not survive on y
 
 Read it again. And again. And again.
 
-### 3. The path semantical qubit operator allows an internal difference, making some distinctions only understandable to the speakers of the same logical language
+### 3. The path semantical quality operator allows an internal difference, making some distinctions only understandable to the speakers of the same logical language
 
 When people believe, they can survive illness that might otherwise kill them.
 
