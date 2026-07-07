@@ -75,7 +75,7 @@ Here is the list of things to learn:
 
 1. [The path semantical quality operator "opens up" the gate to a higher plane of existence, aka. something what Early Christians would call a "spiritual world" of meaning](#1-the-path-semantical-quality-operator-opens-up-the-gate-to-a-higher-plane-of-existence-aka-something-what-early-christians-would-call-a-spiritual-world-of-meaning)
 2. [The path semantical quality operator is a partial equivalence, which reflects social relationships among humans](#2-the-path-semantical-quality-operator-is-a-partial-equivalence-which-reflects-social-relationships-among-humans)
-3. [The path semantical quality operator allows an internal difference, making some distinctions only understandable to the speakers of the same logical language](#3-the-path-semantical-qubit-operator-allows-an-internal-difference-making-some-distinctions-only-understandable-to-the-speakers-of-the-same-logical-language)
+3. [The path semantical quality operator allows an internal difference, making some distinctions only understandable to the speakers of the same logical language](#3-the-path-semantical-quality-operator-allows-an-internal-difference-making-some-distinctions-only-understandable-to-the-speakers-of-the-same-logical-language)
 
 At the end, after learning these 3 things about the path semantical qubit operator `~~`, you will be able to understand the conclusion:
 
