@@ -221,7 +221,7 @@ This is the only way to conceive the higher truths of existence.
 
 The rule number one of practioners of medicine, is that you can not survive on your own.
 
-If you do not learn from other people's experience, then you die. Your family dies. You clan dies.
+If you do not learn from other people's experience, then you die. Your family dies. Your clan dies.
 
 Practice of medicine is depending on social relationships you bond and maintain. For life.
 
