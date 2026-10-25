@@ -159,7 +159,7 @@ The same term that described a mental state in a promised future kingdom here on
 was simply re-interpreted as Eternal Life in Heaven,
 because after many decades of waiting for the returning Jesus,
 people needed a new interpretation of their holy scriptures for mental comfort.
-In the original Greek texts of the New Testament, the term Aionic Life is used where later translations use eternal life.
+In the original Greek texts of the New Testament, the term Aionic Life is used where later translations use Eternal Life.
 Therefore, the theology in Late Christianity concentrates on pre-eternity and post-eternity more than the dual eternity per moment of time.
 
 With the change of interpretation, values of an Aionic Life changed, such as love, belief and knowledge.
