@@ -5,6 +5,87 @@ See reading sequence [Language Bias Hypotheses](https://github.com/advancedresea
 
 The central essay is [In Saeculum Satyrarum - The Century of Satire](https://github.com/advancedresearch/path_semantics/blob/master/papers-wip2/the-century-of-satire.pdf).
 
+### Main Conclusion: Introduction to Medicine for Children
+
+In the ancient world, medicine was needed for survival on pair with getting food and water.
+The high complexity of medicine practice was in conflict with high illiteracy and superstitious beliefs.
+Therefore, religion in the ancient world is aimed at illiterate people, to make practice of medicine possible.
+With other words, one can think of religious texts and religious debates as serving important social functions,
+but disagreements over doctrine is only a language surface level of the deeper problem of education needed for medicine.
+
+This leads to the phenomena that religious texts in the ancient world can seem surprisingly non-serious and often ridiculous.
+It is because the primary audience is younger than you would expect in a modern society,
+and the literary devices in these texts using humor is needed to grab the attention of an age group that easily get distracted.
+
+Religion in the ancient world is centered on stories for children primarily,
+to teach them words and terminology needed to prepare them for a later education within medicine.
+These stories evolved into stories with more adult themes over time, that could include extreme religious rituals.
+
+Early Christianity is a historical development around stories designed for young children, kind of like Santa Claus in modern times.
+Another analogy is "medicine for babies" or "medicine without the cord attached to the console"
+(when young kids pretend to play with a gaming console control alongside their parents playing).
+
+This might seem offensive to religion today, but all religions in the ancient world functioned more or less the same way.
+Syncretism in ancient religion is primarily motivated by sharing knowledge of medicine, besides political and economic motivations.
+Religious stories are generally not the end goal, but designed to help people accept different cultures from their own (keep distance, but respectfully),
+plus recognize strangers who share their own background, as a pre-medicine foundation needed for long-term survival.
+Compatibility of religion is primarily concerned about compatibility of medicine practices in groups of people.
+
+The bias due to the lens of a modern mind, that sees religion as an end goal,
+causes people living in modern times to put more emphasis on texts
+which originally were written for young children, interpreted through a modern lens, as if they were aimed at an adult audience.
+
+It is kind of like archeologists finding evidence of baby-food in the ancient world.
+Finding some evidence of people eating baby-food, is not evidence that baby-food was all that people in the ancient world ate.
+Since modern religions are built upon the analogue of baby-food in ancient religions,
+it is easy for modern people to think that people in the ancient world believed and practiced religion in a more similar way to themselves,
+when the actual evidence suggests that this way of practicing religion was more common for young children, but to a lesser extent for adults.
+
+The language is heavily influenced by medicine, but not vice versa, and the disciples' lives were fictional,
+plus satirical elements of the stories, mimicking elite literacy philosophical genres.
+The overall picture informed by this evidence suggests that these texts were intended primarily as pre-school teachings,
+advocated and published by various brands of schools that taught medicine (e.g. Cerdo in Rome, Marcion of Sinope and others).
+Early Christianity largely evolves alongside Simonianism in the 2nd century.
+They worship different savior figures,
+but with people who know each other across religious boundaries, something most likely due to shared medicine practices.
+Lying about each other's savior figures in texts was socially acceptable (e.g. by putting Simon Magus in Acts of The Apostles),
+since these texts were aimed at children with less developed critical thinking skills.
+This is less likely to have happened in stories that were meant to be taken seriously by adults.
+
+Parents used these texts to teach their own children, to prepare them for a potential education within medicine.
+Despite the violent and sexual references in these texts,
+compared to modern stories for children,
+these texts were relatively innocent at the time,
+compared to general adult practice of religions, which were full of glorified violence and sex.
+
+The debate about circumcision is about lowering the entry requirements into guilds of medicine practitioners.
+These medicine practitioners were called "Magi", as in "Simon Magus", the savior figure in Simonianism.
+The title "Christ" might have been a play on the word "Magi", which dates back to the Bronze Age,
+when the same title was used for Medea, the mythical granddaughter of Helios.
+Whether people used "Magi" or "Christ" for their savior figure,
+the terminology is coming from medicine practice anyway, along very similar traditions.
+For example, both Simon Magus and Jesus Christ were thought to have known John the Baptist.
+Baptism rituals were performed as a way of spiritual cleansing, which could be interpreted as closely related to healing by medicine.
+People did not have the modern understanding of medicine, preventing illness by washing their hands, feet and bodies,
+so they thought about this in religious context accompanied by stories that explained why they performed these rituals,
+most likely because these stories were aimed at young children who did not intuitively see these rituals as part of everyday habitual behavior.
+
+The Jesus Christ savior figure was intended as a more Socratic and Platonic version of Simon Magus,
+by using "Logos" (Reason as the ultimate highest form of being) compared to "Nous" (Intellect or mind as the highest form of being).
+It is currently unknown how the death of Jesus Christ was originally portrayed, which might have been cynical or satirical,
+or to explain the fall of Jerusalem, which later was tied to a more Socratic perspective.
+The combination of innocence, medicine and sacrificial aspects of Jesus Christ's death,
+all important elements of the theology of animal sacrifice in ancient religions,
+contributed to Jesus Christ's popularity as a savior figure.
+
+Savior figures were used in stories designed for initiation into Mystery cults (Again: Primarily for young people and children),
+which purpose was sharing secret medicine practices among themselves, that ensured their own survival and wealth.
+This is why these stories contain healing miracles, to advocate for that particular cult, compared to alternative competitors.
+In the unstable political environment of the 2nd century, people more and more relied on faith in their savior figures,
+instead of trusting their government.
+This distrust of government is reflected in the belief in the end of the world,
+with a promise of a returning king that will punish people for unjust actions and make the world safe again.
+
 ### Main Hypothesis
 
 In Path Semantics, the language bias hypothesis of [Seshatism vs Platonism](https://advancedresearch.github.io/avatar-extensions/summary.html#seshatism-vs-platonism) plays a significant important role
@@ -176,17 +257,29 @@ A snake that bites its own tail, the Ouroborus, which symbolizes the calendar.
 
 *An ouroboros in a 1478 drawing in an alchemical tract*
 
+The Moon orbits around Earth between 12 and 13 times a year.
+
+- A calendar with 12 months per year might be thought of as a "Sun calendar"
+- A calendar with 13 months per year might be thought of as a "Moon calendar"
+
+Calendars could vary from year to year, sometimes 12 months and sometimes 13 months.
+
 Jesus' 12 desciples are the 12 months, based on a Sun calendar.
-The 13th month was dropped when people transitioned from a Moon calendar (the moon orbits Earth 13 times a year) in the official temple practice of Jerusalem,
-to a Sun calendar that was both advocated by the Qumran communities (the Dead Sea scrolls) and the Julian calendar.
+The 13th month was dropped when people transitioned from using Moon calendars in the official temple practice of Jerusalem,
+to a Sun calendar, that was both advocated by the Qumran communities (the Dead Sea scrolls) and the Julian calendar.
 Hence the story of Judas, the 13th person at the table of the Last Supper,
 which death was retold by Papias of Hierapolis in the form of Roman satire.
+
 Some Early Christians believed that Judas was secretly the hero of the story.
 This explains the numerology in Revelation of the 144 000 virgins, because `144 = 12 * 12` and is the lowest number with 13 divisors:
 
 `2 3 4 6 8 9 12 16 18 24 36 48 72`
 
-This form of numerology comes from the astromical development of epicycles to explain the path of Venus in the sky.
+Divisors is a mathematical concept that was popular in the ancient world before the development of prime numbers.
+Today, people are much more inclined to think about prime numbers than divisors,
+which creates a blind spot for which numbers ancient people living in the 2nd century might have attributed spiritual significance.
+
+This form of numerology comes from the astronomical development of epicycles to explain the path of Venus in the sky.
 Epicycles required "magical numbers" which people struggled to explain, before this method was replaced using elliptical orbits by Kepler during the Scientific Revolution.
 Several savior figures, including Horus and Jesus Christ, were associated with Venus.
 Venus is the Roman goddess for love.
@@ -223,12 +316,29 @@ enabled Early Christians to use Galen's works to establish a monopoly on healthc
 after Constantine made Christianity the official religion of the Roman empire.
 
 This monopoly on healthcare initiated the phase of Late Christianity and was protected by the state as a Dogmatic school of medicine,
-until the Empiric school of medicine was revived by the Lunar Society in England during the Scientific Revolution,
-by people like James Watt and Erasmus Darwin, that influenced Immanuel Kant's philosophy at the continental Europe.
+until the Empiric school of medicine was revived partially by the early Medical Revolution and later by Enlightenment philosophers.
+For example, the Lunar Society in England during the Scientific Revolution,
+started by people like James Watt and Erasmus Darwin,
+tried to cure tuberculosis using trapped gases from scientific experiments.
+
+New technology made scientists more optimistic that illnesses could be cured systematically.
+They were right: An average hospital today cures more people in a single year,
+than all claimed miracles of all holy scriptures during the entire period of ancient medicine.
+With modern medicine, the function of superstitious beliefs in practice of medicine was reduced.
+
+Empiricism was primarily a practice of medicine, before new fields like ecology and biology were developed.
+The Empiric school of medicine challenged the practices of the Dogmatic school of medicine.
+However, due to the close ties between Dogmatic medicine, religion, and state power,
+academics tried to rephrase Empiricism as being in opposition to Rationalism, a direction of philosophical thought.
+This idea influenced Immanuel Kant's philosophy at the continental Europe.
+
 After Erasmus Darwin's fall in popularity, due to failed attempts to cure tuberculosis and The Terror in the after match of the French revolution,
-his grandson, Charles Darwin, studied animals across the entire world, like Aristotle once did on the island of Lesbos.
+his grandson, Charles Darwin, went on a journey around the world as a naturalist.
+Charles Darwin became highly respected for his work in the field of Geology.
+However, Charles Darwin also studied animals he encountered on his journey, like Aristotle once did on the island of Lesbos.
 Charles Darwin's works in turn influenced philosophy of nature and the modern philosophical tradition, e.g. Existentialism, Communism and Psychoanalysis,
 who all were attacking Hegel's German Idealism with the motivation to create something as revolutionary as Charles Darwin's scientific theories.
+Charles Darwin was one of the most influential figures in philosophy, despite that most philosophers did not think of him as a philosopher in his own right.
 
 This philosophical attempt to respond to Charles Darwin, continued until World War II,
 when the Manhatten project changed how people perceived the Scientific Revolution around the world.
@@ -324,76 +434,6 @@ This practice of giving Greek philosophical names to characters reflects a tradi
 - "Ennoia" for Helen of Tyre, which means "thought"
 
 Jesus also gets a such Greek philosophical name, which is "Logos" that means "reason".
-
-### Main Conclusion: Introduction to Medicine for Children
-
-Early Christianity is a historical development around stories designed for young children, kind of like Santa Claus in modern times.
-Another analogy is "medicine for babies" or "medicine without the cord attached to the console"
-(when young kids pretend to play with a gaming console control alongside their parents playing).
-
-This might seem offensive to religion today, but all religions in the ancient world functioned more or less the same way.
-Syncretism in ancient religion is primarily motivated by sharing knowledge of medicine, besides political and economic motivations.
-Religious stories are generally not the end goal, but designed to help people accept different cultures from their own (keep distance, but respectfully),
-plus recognize strangers sharing their own background, as a pre-medicine foundation needed for long-term survival.
-Compatibility of religion is primarily concerned about compatibility of medicine practices in groups of people.
-
-The bias due to the lens of a modern mind, that sees religion as an end goal,
-causes people living in modern times to put more emphasis on texts
-which originally were written for young children, interpreted through a modern lens, as if they were aimed at an adult audience.
-
-It is kind of like archeologists finding evidence of baby-food in the ancient world.
-Finding some evidence of people eating baby-food, is not evidence that baby-food was all that people in the ancient world ate.
-Since modern religions are built upon the analogue of baby-food in ancient religions,
-it is easy for modern people to think that people in the ancient world believed and practiced religion in a more similar way to themselves,
-when the actual evidence suggests that this way of practicing religion was more common for young children, but to a lesser extent for adults.
-
-Medicine was needed for survival on pair with getting food and water.
-Religion in the ancient world is centered on stories for children primarily,
-to teach them words and terminology needed to prepare for a later education within medicine.
-These stories evolved into stories with more adult themes over time, that could include extreme religious rituals.
-
-The language is heavily influenced by medicine, but not vice versa, and the disciples' lives were fictional,
-plus satirical elements of the stories, mimicking elite literacy philosophical genres.
-The overall picture informed by this evidence suggests that these texts were intended primarily as pre-school teachings,
-advocated and published by various brands of schools that taught medicine (e.g. Cerdo in Rome, Marcion of Sinope and others).
-Early Christianity largely evolves alongside Simonianism in the 2nd century.
-They worship different savior figures,
-but with people who know each other across religious boundaries, something most likely due to shared medicine practices.
-Lying about each other's savior figures in texts was socially acceptable (e.g. by putting Simon Magus in Acts of The Apostles),
-since these texts were aimed at children with less developed critical thinking skills.
-This is less likely to have happened in stories that were meant to be taken seriously by adults.
-
-Parents used these texts to teach their own children, to prepare them for a potential education within medicine.
-Despite the violence and sexual references in these texts compared to modern stories for children,
-these texts were relatively innocent at the time,
-compared to general adult practice of religions, which were full of glorified violence and sex.
-
-The debate about circumcision is about lowering the entry requirements into guilds of medicine practitioners.
-These medicine practitioners were called "Magi", as in "Simon Magus", the savior figure in Simonianism.
-The title "Christ" might have been a play on the word "Magi", which dates back to the Bronze Age,
-when the same title was used for Medea, the granddaughter of Helios.
-Whether people used "Magi" or "Christ" for their savior figure, the terminology is coming from medicine practice anyway, along very similar traditions.
-For example, both Simon Magus and Jesus Christ were thought to have known John the Baptist.
-Baptism rituals were performed as a way of spiritual cleansing, which could be interpreted as closely related to healing by medicine.
-People did not have the modern understanding of medicine, preventing illness by washing their hands, feet and bodies,
-so they thought about this in religious context accompanied by stories that explained why they performed these rituals,
-most likely because these stories were aimed at young children who did not intuitively see these rituals as part of everyday habitual behavior.
-
-The Jesus Christ savior figure was intended as a more Socratic and Platonic version of Simon Magus,
-by using "Logos" (Reason as the ultimate highest form of being) compared to "Nous" (Intellect or mind as the highest form of being).
-It is currently unknown how the death of Jesus Christ was originally portrayed, which might have been cynical or satirical,
-or to explain the fall of Jerusalem, which later was tied to a more Socratic perspective.
-The combination of innocence, medicine and sacrificial aspects of Jesus Christ's death,
-all important elements of the theology of animal sacrifice in ancient religions,
-contributed to Jesus Christ's popularity as a savior figure.
-
-Savior figures were used in stories designed for initiation into Mystery cults (Again: Primarily for young people and children),
-which purpose was sharing secret medicine practices among themselves, that ensured their own survival and wealth.
-This is why these stories contain healing miracles, to advocate for that particular cult, compared to alternative competitors.
-In the unstable political environment of the 2nd century, people more and more relied on faith in their savior figures,
-instead of trusting their government.
-This distrust of government is reflected in the belief in the end of the world,
-with a promise of a returning king that will punish people for unjust actions and make the world safe again.
 
 ### List of Relevant Texts
 
