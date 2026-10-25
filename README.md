@@ -345,7 +345,42 @@ Empiricism was primarily a practice of medicine, before new fields like ecology 
 The Empiric school of medicine challenged the practices of the Dogmatic school of medicine.
 However, due to the close ties between Dogmatic medicine, religion, and state power,
 academics tried to rephrase Empiricism as being in opposition to Rationalism, a direction of philosophical thought.
-This idea influenced Immanuel Kant's philosophy at the continental Europe.
+
+One key figure are Amo, a philosopher that argued that sensations,
+such as the experience of a color, happened in the body and not in the mind.
+According to Amo, only pure thoughts were part of the mind, as he saw them as immutable.
+In Path Semantics, this language bias comes from using the notion of truth of a generic monotonic solver.
+There are other notions of truth, such as the minimum state of facts that determine some closed cycle in a generic linear solver.
+
+Philosophers before Amo believed that colors were universals in metaphysics.
+After Amo, philosophers at Continental Europe started thinking that sensations belonged to the body and not the mind.
+To these later philosophers, what remained of the mind, or the soul, was pure thought, or Rationalism.
+This idea influenced Immanuel Kant's philosophy, which in turn would influence many later philosophers.
+Rationalism became seen as opposed to, or the dual, of Empiricism, after Amo.
+This also served as a distraction from Empiricism as a challenger of Dogmatism.
+Using Rationalism, doctors would change their medical practice away from earlier Dogmatic practices of medicine.
+However, because Amo was black and was supported by advocates of education for everyone,
+later philosophers discredited Amo's contributions.
+
+Another second key figure is Châtelet, which contributed to the naturalistic philosophy of fire,
+translated Newton's Principia into French and inspired Euler to work on analytical mechanics.
+Châtelet thought that forming hypotheses was an important part of the scientific process.
+This is a key idea today in the modern formulation of the Scientific Method.
+
+Kant was also interested in the nature fire and wrote his Master thesis on the topic,
+but when Châtelet was at her height as philosopher, Kant was not old enough to understand her ideas and probably did not read her work.
+Later, Kant would become criticized by Eberhard for claiming he revolutionized philosophy, quoting Châtelet.
+Châtelet built on the work of Wolff, but since she was a woman, her work was seen as a kind of summary of contemporary philosophical ideas.
+Kant responded that these ideas were not to be found in earlier works, but did not recognize Châtelet's own contributions as a philosopher.
+
+The reason Rationalism vs Empiricism became seen as dual perspectives in philosophy over time,
+in particular relation between theoretic and experimental science,
+was due to contributions from forgotten 18th century philosophers like Amo and Châtelet.
+They had a major influence on philosophical thought, but at the same time,
+this influence also buried the earlier views of Empiricism vs Dogmatism in medicine.
+While philosophy moved further away from medicine, it also created a space for a new perspective on religion.
+This new perspective on religion would form the basis for modern religion.
+That is how people today struggle seeing ancient religion in the context of medicine.
 
 After Erasmus Darwin's fall in popularity, due to failed attempts to cure tuberculosis and The Terror in the after match of the French revolution,
 his grandson, Charles Darwin, went on a journey around the world as a naturalist.
