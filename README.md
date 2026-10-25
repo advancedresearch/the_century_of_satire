@@ -145,11 +145,26 @@ One can think about Aionic Life, which includes the concepts of The Holy Spirit 
 In Early Christianity, it was common to accept spritual revelation as religious authority.
 However, as this new religion evolved, people started putting more weight on institutional power and titles, such as priest or bishop.
 
-Aionic Life was replaced in Late Christianity with the promise of an eternal life after death.
+Aionic Life is terminology used by mystery cults before Early Christianity,
+which describes a mental state of people who have been initiated and return to normal everyday life.
+This mental state is seen as holy and the emphasis is on a changed perspective of the world.
+Early Christians believed that Jesus would return from Heaven and establish a Kingdom of God on Earth.
+Thus, Aionic Life was used to describe the mental state people would have in this new kingdom.
+A key point here is that Aionic Life was not about Eternal Life in Heaven, but a material eternity in a future kingdom.
+Hence, life after death was not the main belief that Early Christians held.
+Their main belief was in the end of the world and a future kingdom that would come with a returning Jesus.
+
+Aionic Life was replaced in Late Christianity with the promise of an Eternal Life after death.
+The same term that described a mental state in a promised future kingdom here on Earth,
+was simply re-interpreted as Eternal Life in Heaven,
+because after many decades of waiting for the returning Jesus,
+people needed a new interpretation of their holy scriptures for mental comfort.
+In the original Greek texts of the New Testament, the term Aionic Life is used where later translations use eternal life.
 Therefore, the theology in Late Christianity concentrates on pre-eternity and post-eternity more than the dual eternity per moment of time.
-Values of an Aionic Life changed, such as love, belief and knowledge.
+
+With the change of interpretation, values of an Aionic Life changed, such as love, belief and knowledge.
 Most Early Christians believed in sacred or secret knowledge as a way to salvation.
-When this emphasis on sacred or secret knowledge vanished, since the entire Roman empire used the same religion,
+When this emphasis on sacred or secret knowledge vanished (since the entire Roman empire used the same religion),
 people were simply told to trust the leaders without asking questions and obey without hesitance.
 
 This dynamics in theology over time allows Early Christianity to originate with a Seshatic language bias,
