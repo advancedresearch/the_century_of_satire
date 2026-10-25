@@ -346,7 +346,7 @@ The Empiric school of medicine challenged the practices of the Dogmatic school o
 However, due to the close ties between Dogmatic medicine, religion, and state power,
 academics tried to rephrase Empiricism as being in opposition to Rationalism, a direction of philosophical thought.
 
-One key figure are Amo, a philosopher that argued that sensations,
+One key figure are Anton Wilhelm Amo Afer, a philosopher that argued that sensations,
 such as the experience of a color, happened in the body and not in the mind.
 According to Amo, only pure thoughts were part of the mind, as he saw them as immutable.
 In Path Semantics, this language bias comes from using the notion of truth of a generic monotonic solver.
@@ -362,12 +362,12 @@ Using Rationalism, doctors would change their medical practice away from earlier
 However, because Amo was black and was supported by advocates of education for everyone,
 later philosophers discredited Amo's contributions.
 
-Another second key figure is Châtelet, which contributed to the naturalistic philosophy of fire,
+Another second key figure is Émilie du Châtelet, which contributed to the naturalistic philosophy of fire,
 translated Newton's Principia into French and inspired Euler to work on analytical mechanics.
 Châtelet thought that forming hypotheses was an important part of the scientific process.
 This is a key idea today in the modern formulation of the Scientific Method.
 
-Kant was also interested in the nature fire and wrote his Master thesis on the topic,
+Kant was also interested in the nature of fire and wrote his Master thesis on the topic,
 but when Châtelet was at her height as philosopher, Kant was not old enough to understand her ideas and probably did not read her work.
 Later, Kant would become criticized by Eberhard for claiming he revolutionized philosophy, quoting Châtelet.
 Châtelet built on the work of Wolff, but since she was a woman, her work was seen as a kind of summary of contemporary philosophical ideas.
